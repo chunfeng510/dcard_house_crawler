@@ -1,0 +1,64 @@
+# Python 相關暫存檔
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日誌檔案
+logs/
+*.log
+
+# 資料庫檔案 (視情況可能需要保留)
+*.sqlite
+*.db
+
+# 虛擬環境
+venv/
+ENV/
+env/
+.env/
+
+# IDE 相關文件
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OpenAI API 金鑰相關
+.env
+.env.local
+.openai
+
+# 備份文件
+*.bak
+database/backup/
+
+# 其他臨時檔案
+*.tmp
+.coverage
+htmlcov/
+.pytest_cache/
