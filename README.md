@@ -37,6 +37,7 @@ dcard_house_crawler/
 ├── logs/                  # 日誌目錄
 ├── utils/                 # 工具模組
 │   └── helpers.py         # 輔助函數
+│   └── gpt_tester.py      # GPT API 測試工具
 ├── main.py                # 主程式入口
 ├── README.md              # 專案說明
 └── requirements.txt       # 依賴套件清單
@@ -45,7 +46,7 @@ dcard_house_crawler/
 ### 功能模組說明
 
 1. **配置模組** (`config/settings.py`)：
-   - 包含爬蟲所需的所有設定，如API URLs、瀏覽器設定、資料庫設定等
+   - 包含爬蟲所需的所有設定，如API URLs、HTTP請求頭、資料庫設定等
 
 2. **資料庫模組** (`database/db_manager.py`)：
    - 負責處理SQLite數據庫操作
@@ -61,8 +62,9 @@ dcard_house_crawler/
    - 評估文章與「房貸」主題的相關程度 (0-100分)
    - 從文章中提取結構化資訊 (房貸金額、利率、年限等)
 
-5. **工具模組** (`utils/helpers.py`)：
-   - 提供輔助函數，包括檔案操作、日期格式化、目錄管理等
+5. **工具模組**：
+   - `utils/helpers.py`：提供輔助函數，包括檔案操作、日期格式化、目錄管理等
+   - `utils/gpt_tester.py`：測試 GPT API 連接工具，支援 OpenAI 和 Azure OpenAI 服務
 
 6. **主程式** (`main.py`)：
    - 命令行入口點，包含參數解析
@@ -117,6 +119,7 @@ dcard_house_crawler/
    附加選項：
    - `--api-key <金鑰>`：OpenAI API 金鑰（也可以通過環境變數 OPENAI_API_KEY 設定）
    - `--gpt-model <模型>`：使用的 GPT 模型（預設為 gpt-3.5-turbo）
+   - `--endpoint-url <端點URL>`：使用 Azure OpenAI 服務時的端點 URL
 
 ### 注意事項
 
@@ -134,6 +137,7 @@ dcard_house_crawler/
 
 4. **GPT 分析**：
    - 需要 OpenAI API 金鑰
+   - 支持標準 OpenAI API 和 Azure OpenAI 服務
    - API 呼叫會產生費用，建議設置 TOTAL_POSTS 參數控制分析數量
    - 每次分析會間隔 1 秒以避免 API 速率限制
 
