@@ -22,7 +22,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'analysis.log'),
-    encoding='utf-8'
+    encoding='utf-8'  # 確保 UTF-8 編碼配置正確
 )
 logger = logging.getLogger(__name__)
 

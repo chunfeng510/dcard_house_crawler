@@ -15,7 +15,8 @@ from config.settings import DB_NAME, TABLE_NAME
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'database.log')
+    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'database.log'),
+    encoding='utf-8'
 )
 logger = logging.getLogger(__name__)
 

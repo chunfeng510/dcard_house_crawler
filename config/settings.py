@@ -3,7 +3,7 @@ Dcard House Crawler 配置文件
 """
 
 # API 設定
-BASE_URL = "https://www.dcard.tw/service/api/v2/posts"
+BASE_URL = "https://www.dcard.tw/service/api/v2"
 FORUM_NAME = "house_purchase"  # 可以更改為其他想爬取的版面
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -21,3 +21,10 @@ TABLE_NAME = "house_posts"
 POSTS_LIMIT = 100  # 每次請求的文章數量
 TOTAL_POSTS = 1000  # 總共要爬取的文章數量，可以調整
 DELAY_BETWEEN_REQUESTS = 3  # 每次請求之間的延遲（秒）
+
+# 代理伺服器設定
+USE_PROXY = True  # 是否使用代理
+PROXY_LIST = [
+    "http://auohqwsg.corpnet.auo.com:8080"
+]
+ROTATE_PROXY = True  # 是否輪換使用不同代理

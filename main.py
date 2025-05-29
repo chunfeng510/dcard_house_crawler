@@ -47,10 +47,11 @@ def parse_arguments():
 def verify_environment():
     """驗證運行環境"""
     try:
-        import selenium
         import requests
-        logger.info(f"Selenium版本: {selenium.__version__}")
+        import openai
+        
         logger.info(f"Requests版本: {requests.__version__}")
+        logger.info(f"OpenAI版本: {openai.__version__}")
         
         # 檢查資料庫目錄
         db_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'database')

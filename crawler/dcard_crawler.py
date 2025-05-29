@@ -7,6 +7,7 @@ import time
 import json
 import logging
 import requests
+import random
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -19,14 +20,18 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 # 將專案根目錄加入系統路徑
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from config.settings import BASE_URL, FORUM_NAME, HEADERS, SELENIUM_TIMEOUT, SELENIUM_IMPLICIT_WAIT, POSTS_LIMIT, TOTAL_POSTS, DELAY_BETWEEN_REQUESTS
+from config.settings import (
+    BASE_URL, FORUM_NAME, HEADERS, POSTS_LIMIT, TOTAL_POSTS, 
+    DELAY_BETWEEN_REQUESTS, USE_PROXY, PROXY_LIST, ROTATE_PROXY
+)
 from database.db_manager import DatabaseManager
 
 # 設定日誌
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'crawler.log')
+    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'crawler.log'),
+    encoding='utf-8'
 )
 logger = logging.getLogger(__name__)
 
@@ -36,7 +41,7 @@ class DcardCrawler:
     def __init__(self):
         """初始化爬蟲"""
         self.base_url = BASE_URL
-        self.forum_url = f"{BASE_URL}/forum/{FORUM_NAME}/posts"
+        self.forum_url = f"{BASE_URL}/forums/{FORUM_NAME}/posts"
         self.headers = HEADERS
         self.db = DatabaseManager()
         self.db.connect()
