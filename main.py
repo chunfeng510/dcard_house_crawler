@@ -36,7 +36,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description='Dcard房屋版爬蟲')
     parser.add_argument('--backup', action='store_true', help='在執行前備份資料庫')
     parser.add_argument('--only-verify', action='store_true', help='只驗證環境不執行爬蟲')
-    parser.add_argument('--forum', type=str, default='house', help='指定要爬取的Dcard版面')
+    parser.add_argument('--forum', type=str, default='house_purchase', help='指定要爬取的Dcard版面')
     parser.add_argument('--limit', type=int, default=100, help='爬取的文章數量限制')
     parser.add_argument('--analyze', action='store_true', help='執行 GPT 分析')
     parser.add_argument('--only-analyze', action='store_true', help='只執行 GPT 分析，不爬取新文章')

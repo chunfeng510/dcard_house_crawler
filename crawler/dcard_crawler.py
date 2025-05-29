@@ -36,7 +36,7 @@ class DcardCrawler:
     def __init__(self):
         """初始化爬蟲"""
         self.base_url = BASE_URL
-        self.forum_url = f"{BASE_URL}?forum={FORUM_NAME}"
+        self.forum_url = f"{BASE_URL}/forum/{FORUM_NAME}/posts"
         self.headers = HEADERS
         self.db = DatabaseManager()
         self.db.connect()
@@ -66,7 +66,7 @@ class DcardCrawler:
         """繞過Cloudflare保護"""
         try:
             logger.info("嘗試繞過Cloudflare保護...")
-            self.driver.get("https://www.dcard.tw/f/house")  # 先訪問普通頁面
+            self.driver.get("https://www.dcard.tw/f/house_purchase")  # 先訪問普通頁面
             
             # 等待頁面加載完成
             WebDriverWait(self.driver, SELENIUM_TIMEOUT).until(
