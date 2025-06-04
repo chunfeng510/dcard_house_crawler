@@ -1,0 +1,3498 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258911484",
+  "fetch_time": "2025-06-04T23:35:45.289380",
+  "posts": [
+    {
+      "id": 258911264,
+      "title": "#建議 房屋選擇",
+      "excerpt": "大家會選擇40-50年在板橋的老公寓嗎，還是寧願去還沒那麼發達但屋齡30年的電梯華廈",
+      "anonymousSchool": false,
+      "anonymousDepartment": true,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T04:56:43.010Z",
+      "updatedAt": "2025-05-26T04:56:43.010Z",
+      "commentCount": 3,
+      "likeCount": 1,
+      "collectionCount": 1,
+      "shareCount": 0,
+      "withNickname": false,
+      "tags": [],
+      "topics": [
+        "房屋",
+        "裝潢",
+        "請益"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "佛光大學",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_SCHOOL",
+      "personaNickname": null,
+      "personaUid": null,
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "建議"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 3,
+      "mediaMeta": [],
+      "elapsedTime": 815942,
+      "edited": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": 258911262,
+      "title": "#問題 近日簽了紅單，該反悔嗎..?(沙鹿新站重劃區）",
+      "excerpt": "各位前輩好：本身非海線人，因工作在梧棲，故選擇租屋在沙鹿車站前站，通勤約15分鐘；老婆則是在台中西區工作，通勤約1小時（搭台灣大道公車）。目前有買房想法，有去看沙鹿新站重劃區（勝麗交響曲、勝興新站、大",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T04:56:36.754Z",
+      "updatedAt": "2025-06-01T11:21:09.940Z",
+      "commentCount": 7,
+      "likeCount": 5,
+      "collectionCount": 6,
+      "shareCount": 2,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": true,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "森林牧場",
+      "department": "forest_fazenda",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "森林牧場",
+      "personaUid": "forest_fazenda",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 4
+        },
+        {
+          "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 13,
+      "mediaMeta": [],
+      "elapsedTime": 815948,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258910888,
+      "title": "#問 準備要簽約才發現屋主有債務",
+      "excerpt": "不好意思打擾，我是這篇的原po，時隔一個月，房仲有再次聯絡我們，說當時開價屋主願意談，約好時間至小房間談的時候，我們要求看「不動產說明書」房仲就有說明屋主目前還跟兩家銀行有貸款未償還，再加上*屋主有私",
+      "anonymousSchool": false,
+      "anonymousDepartment": true,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T04:11:30.159Z",
+      "updatedAt": "2025-05-26T15:56:42.298Z",
+      "commentCount": 6,
+      "likeCount": 3,
+      "collectionCount": 11,
+      "shareCount": 4,
+      "withNickname": false,
+      "tags": [],
+      "topics": [
+        "問",
+        "準備",
+        "簽約",
+        "買房"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "東吳大學",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_SCHOOL",
+      "personaNickname": null,
+      "personaUid": null,
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 3
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 15,
+      "mediaMeta": [],
+      "elapsedTime": 818655,
+      "edited": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "links": [
+        "https://www.dcard.tw/f/house_purchase/p/258552095?cid=5A81F88C-F478-402C-8B69-85003006D24E"
+      ],
+      "enableListLinkPreview": true,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": 258910820,
+      "title": "#問題 這算巷沖嗎？",
+      "excerpt": "最近看屋，這間剛好正對公寓的巷子，這算巷沖？以風水學，需注意什麼？",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T04:00:52.722Z",
+      "updatedAt": "2025-05-26T04:00:52.722Z",
+      "commentCount": 1,
+      "likeCount": 0,
+      "collectionCount": 0,
+      "shareCount": 0,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "Alston",
+      "department": "alston0225",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "Alston",
+      "personaUid": "alston0225",
+      "personaDeletedAt": null,
+      "reactions": [],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 1,
+      "mediaMeta": [
+        {
+          "id": "2be82ea6-e203-441e-9fc6-16a589efb044",
+          "url": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T04:00:52.722Z",
+          "updatedAt": "2025-05-26T04:00:52.722Z",
+          "width": 160,
+          "height": 90,
+          "blurhash": "MDG[$b0L9D?bRp%It7o~WBae9Fs:oNNGt5"
+        },
+        {
+          "id": "2be82ea6-e203-441e-9fc6-16a589efb044",
+          "url": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T04:00:52.722Z",
+          "updatedAt": "2025-05-26T04:00:52.722Z",
+          "width": 2500,
+          "height": 1406,
+          "blurhash": "MDG[$b0L9D?bRp%It7o~WBae9Fs:oNNGt5"
+        }
+      ],
+      "elapsedTime": 819292,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/c5a8e70a-b4c0-43ba-8b9f-9fb1b2069cd3/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258910631,
+      "title": "基隆房價閒聊",
+      "excerpt": "如題，基隆幾個新建案實價登錄幾乎突破三十，但認真起來三十左右還真的算便宜，畢竟城上城都漲到45...，但目前發現一個趨勢，似乎很多安樂七堵逐漸興起取代傳統市區，不知道是不是因為市區沒什麼地或是真的都是",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T03:34:58.289Z",
+      "updatedAt": "2025-05-26T06:15:26.285Z",
+      "commentCount": 3,
+      "likeCount": 2,
+      "collectionCount": 3,
+      "shareCount": 1,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "基隆",
+        "基隆長庚"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "柳橙汁",
+      "department": "a29577733",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "柳橙汁",
+      "personaUid": "a29577733",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 2
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 3,
+      "mediaMeta": [
+        {
+          "id": "864276fd-18e0-4901-8dcb-776cb984de60",
+          "url": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T03:34:58.289Z",
+          "updatedAt": "2025-05-26T03:34:58.289Z",
+          "width": 160,
+          "height": 80,
+          "blurhash": "NLRV^9M{M}M{WFInT5a}obj[j=j[IRaykCayofbH"
+        },
+        {
+          "id": "864276fd-18e0-4901-8dcb-776cb984de60",
+          "url": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T03:34:58.289Z",
+          "updatedAt": "2025-05-26T03:34:58.289Z",
+          "width": 783,
+          "height": 390,
+          "blurhash": "NLRV^9M{M}M{WFInT5a}obj[j=j[IRaykCayofbH"
+        },
+        {
+          "id": "5fba0fae-a724-4f8e-85cf-afc4495c3ae4",
+          "url": "https://megapx-assets.dcard.tw/images/7b01242c-921d-483c-8750-110c8147f2c1/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/7b01242c-921d-483c-8750-110c8147f2c1",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/7b01242c-921d-483c-8750-110c8147f2c1/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T03:34:58.289Z",
+          "updatedAt": "2025-05-26T03:34:58.289Z",
+          "width": 777,
+          "height": 369,
+          "blurhash": "NJRp2hM{M}M{WYIU%Lofj[oej[ofT5j]jrj]f5j["
+        }
+      ],
+      "elapsedTime": 820846,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/2e9611de-20d7-4dd6-8233-ef25a5d9f0a2/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/7b01242c-921d-483c-8750-110c8147f2c1/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258909683,
+      "title": "#分享 《新家，新生活，新希望》",
+      "excerpt": "經過一段時間的努力與等待，我們終於迎來了夢想中的新家——一間舒適明亮的三房公寓。這個屬於我們的小天地，不僅是生活的空間，更是夢想開始的地方，是我們三個人的溫暖港灣：我、我的老婆，還有媽媽。走進這個新家",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-26T00:26:14.564Z",
+      "updatedAt": "2025-05-26T00:26:14.564Z",
+      "commentCount": 0,
+      "likeCount": 4,
+      "collectionCount": 1,
+      "shareCount": 0,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "新家",
+        "閒聊",
+        "居家佈置",
+        "買房",
+        "預售屋"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "智翔",
+      "department": "fu_zhixiang",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "智翔",
+      "personaUid": "fu_zhixiang",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 4
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "分享"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 0,
+      "mediaMeta": [
+        {
+          "id": "7d5e0ac8-1669-42af-992d-e300ecd013e5",
+          "url": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/thumbnails/180.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/thumbnails/180.jpeg",
+          "thumbnail": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/thumbnails/180.jpeg",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T00:26:14.564Z",
+          "updatedAt": "2025-05-26T00:26:14.564Z",
+          "width": 180,
+          "height": 320,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 144,
+            "width": 720,
+            "height": 432
+          }
+        },
+        {
+          "id": "7d5e0ac8-1669-42af-992d-e300ecd013e5",
+          "url": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/orig?r=1.78",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07",
+          "thumbnail": "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/thumbnails/180.jpeg",
+          "type": "video/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-26T00:26:14.564Z",
+          "updatedAt": "2025-05-26T00:26:14.564Z",
+          "width": 720,
+          "height": 1280,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 144,
+            "width": 720,
+            "height": 432
+          }
+        }
+      ],
+      "elapsedTime": 832170,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/videos/a17c48c6-1d9f-4e61-8c66-8b8e28063f07/orig?r=1.78"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/0bfa9893-f1b1-4730-9ea2-670e2271c806/full.jpeg",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258909190,
+      "title": "請益格局建議",
+      "excerpt": "目前有在參考的三房預售屋，但有發現主臥跟客廳都有大柱子，且主臥預設床擺的方向會是正對房子的大門（本身比較迷信），想請問這種情況下會建議買這個房子嗎？或是有格局的建議",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T19:03:44.487Z",
+      "updatedAt": "2025-05-25T19:03:44.487Z",
+      "commentCount": 6,
+      "likeCount": 3,
+      "collectionCount": 2,
+      "shareCount": 0,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "人生菜鳥",
+      "department": "l9988lch",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "人生菜鳥",
+      "personaUid": "l9988lch",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 2
+        },
+        {
+          "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 9,
+      "mediaMeta": [
+        {
+          "id": "af69a976-c37d-450c-8160-ad58b9e7b36f",
+          "url": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T19:03:44.487Z",
+          "updatedAt": "2025-05-25T19:03:44.487Z",
+          "width": 160,
+          "height": 146,
+          "blurhash": "KEMj,R-;?H00ogRj?boKbH"
+        },
+        {
+          "id": "af69a976-c37d-450c-8160-ad58b9e7b36f",
+          "url": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T19:03:44.487Z",
+          "updatedAt": "2025-05-25T19:03:44.487Z",
+          "width": 1295,
+          "height": 1181,
+          "blurhash": "KEMj,R-;?H00ogRj?boKbH"
+        }
+      ],
+      "elapsedTime": 851520,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/b495bd10-f41d-4c4c-a440-b50eab481508/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258908437,
+      "title": "#分享 買屋歷程",
+      "excerpt": "三月第一次看房不到兩小時就下斡權，四個小時內就簽約買房，一切如此的迅速！我是小白什麼都不懂只是想要有自己一個窩，連家人都瞞著不敢講，因為家人最終還是希望我回到故鄉…只能說這過程真的很辛酸與無助，常常懷",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T16:38:49.839Z",
+      "updatedAt": "2025-05-27T11:25:09.491Z",
+      "commentCount": 25,
+      "likeCount": 32,
+      "collectionCount": 8,
+      "shareCount": 7,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "心情抒發"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "Demy",
+      "department": "julia771025",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "Demy",
+      "personaUid": "julia771025",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 32
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "分享"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 33,
+      "mediaMeta": [],
+      "elapsedTime": 860215,
+      "edited": true,
+      "editedAt": "2025-05-25T16:51:29.898Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258906611,
+      "title": "預售屋格局請益",
+      "excerpt": "剛開始看房很多地方不懂，目前比較喜歡這間，想請教這樣的格局可以嗎？車位的話購買一樓比較好還是地下一樓呢？先感謝各位大大了！🙏",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T13:12:50.671Z",
+      "updatedAt": "2025-05-29T04:45:19.384Z",
+      "commentCount": 15,
+      "likeCount": 10,
+      "collectionCount": 16,
+      "shareCount": 2,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "預售屋",
+        "請益",
+        "買房",
+        "新手"
+      ],
+      "meta": {
+        "layout": "image",
+        "annotation": "剛開始看房很多地方不懂，目前比較喜歡這間，想請教這樣的格局可以嗎？ \n車位的話購買一樓比較好還是地下一樓呢？\n先感謝各位大大了！🙏"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "May",
+      "department": "may7831445",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "May",
+      "personaUid": "may7831445",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 8
+        },
+        {
+          "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+          "count": 1
+        },
+        {
+          "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "image",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 17,
+      "mediaMeta": [
+        {
+          "id": "48a531a8-b10b-4ac7-a6e5-ca2cfc9207e5",
+          "url": "https://megapx-assets.dcard.tw/images/9edcd5fd-9826-4e37-b5a9-497f6a9ecaa7/1280.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/9edcd5fd-9826-4e37-b5a9-497f6a9ecaa7",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/9edcd5fd-9826-4e37-b5a9-497f6a9ecaa7/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T13:12:50.671Z",
+          "updatedAt": "2025-05-25T13:12:50.671Z",
+          "width": 1874,
+          "height": 2500,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 374,
+            "width": 1874,
+            "height": 1124
+          },
+          "blurhash": "THI#u#4TIA?u-;RQ-pt7t7t7t7t7"
+        }
+      ],
+      "elapsedTime": 872574,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258906192,
+      "title": "#問題 輝達到北士科為什麼房價會漲?",
+      "excerpt": "其實很不能理解，輝達到北士科會造成北投士林房價暴漲~，我公司在內湖（年薪200~300），同事8~9成都住在新北市或是台北市其他區~，真的住在內湖的反而非常少~，為什麼輝達到北士科設一個點~造成周邊房",
+      "anonymousSchool": false,
+      "anonymousDepartment": true,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T12:17:42.206Z",
+      "updatedAt": "2025-05-30T13:01:07.131Z",
+      "commentCount": 51,
+      "likeCount": 54,
+      "collectionCount": 43,
+      "shareCount": 11,
+      "withNickname": false,
+      "tags": [],
+      "topics": [
+        "房價",
+        "投資",
+        "理財",
+        "閒聊",
+        "請問"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "淡江大學",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_SCHOOL",
+      "personaNickname": null,
+      "personaUid": null,
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 46
+        },
+        {
+          "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+          "count": 7
+        },
+        {
+          "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 105,
+      "mediaMeta": [],
+      "elapsedTime": 875883,
+      "edited": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": 258904780,
+      "title": "#問題 細清標準詢問",
+      "excerpt": "裝潢結束，滿心期待細清後家的樣子，卻遇到了一個令人困惑不已的問題，來這裡求助大神分享經驗～細清完驗收仍然覺得地板沙沙的，感覺就是木屑沒有完全清楚，細清公司當場回覆說除非是實木地板，不然細清完都還會踩起",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T08:52:48.363Z",
+      "updatedAt": "2025-06-04T07:26:11.619Z",
+      "commentCount": 13,
+      "likeCount": 3,
+      "collectionCount": 18,
+      "shareCount": 15,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "問題",
+        "裝潢",
+        "高雄"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "明日復明日",
+      "department": "mydream",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "明日復明日",
+      "personaUid": "mydream",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 3
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 35,
+      "mediaMeta": [],
+      "elapsedTime": 888176,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258904732,
+      "title": "#建議 請益預售屋會建議客變嗎？",
+      "excerpt": "第一次買房，最近收到建商客變申請書，請問大家會建議先客變，避免後續交屋後花更多錢裝潢嗎？-，目前有兩個地方想客變，1.廚房區想要新增一個中島（電器櫃兼餐桌），沒有再想要不要把客衛縮小，把空間讓給廚房！",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T08:47:08.822Z",
+      "updatedAt": "2025-05-25T12:55:54.135Z",
+      "commentCount": 8,
+      "likeCount": 3,
+      "collectionCount": 4,
+      "shareCount": 1,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "預售屋",
+        "建議",
+        "請問",
+        "裝潢"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "阿尼",
+      "department": "yapooh08",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "阿尼",
+      "personaUid": "yapooh08",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 3
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "建議"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 11,
+      "mediaMeta": [
+        {
+          "id": "74dfa692-4c98-457e-b6cc-30c37443735a",
+          "url": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T08:47:08.822Z",
+          "updatedAt": "2025-05-25T08:49:06.269Z",
+          "width": 160,
+          "height": 120,
+          "blurhash": "LDJ*-f-;_NMx?badofWXtRM{RPt7"
+        },
+        {
+          "id": "74dfa692-4c98-457e-b6cc-30c37443735a",
+          "url": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T08:47:08.822Z",
+          "updatedAt": "2025-05-25T08:49:06.269Z",
+          "width": 2500,
+          "height": 1876,
+          "blurhash": "LDJ*-f-;_NMx?badofWXtRM{RPt7"
+        }
+      ],
+      "elapsedTime": 888516,
+      "edited": true,
+      "editedAt": "2025-05-25T08:51:04.703Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/348dae4a-da92-41dc-bdbb-b55a8033acde/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258904300,
+      "title": "【早知道我該出門】錯過一場早午餐，換來整天在家崩潰的我開始認真看房了",
+      "excerpt": "原本今天要去參加The Weekend Club辦的陌生人早午餐，跟5個完全不認識的人吃飯、聊天、換空氣，想想都覺得很療癒。但最後我沒有報名，理由很「大人」：週末要顧小孩、整理家裡、不能丟下老婆一個人",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T07:47:46.890Z",
+      "updatedAt": "2025-05-25T07:47:46.890Z",
+      "commentCount": 5,
+      "likeCount": 0,
+      "collectionCount": 1,
+      "shareCount": 0,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "出門",
+        "早午餐"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "週末來吃早午餐",
+      "department": "eason2025",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "週末來吃早午餐",
+      "personaUid": "eason2025",
+      "personaDeletedAt": null,
+      "reactions": [],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 7,
+      "mediaMeta": [],
+      "elapsedTime": 892078,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258903543,
+      "title": "#問題 權狀40坪，3F、6F選擇",
+      "excerpt": "小弟是首購族，有看到一間喜歡的格局，有3F、6F的選擇，3F開31.5萬/坪，6F開34萬/坪。等等要跟代銷談價格，想問下3F跟6F為怎麼可以差到2.5萬/坪，這種是有小瑕疵嗎？還是3F真的很多隱憂？",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T05:58:49.979Z",
+      "updatedAt": "2025-06-01T11:21:22.713Z",
+      "commentCount": 25,
+      "likeCount": 13,
+      "collectionCount": 6,
+      "shareCount": 3,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": true,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "森林牧場",
+      "department": "forest_fazenda",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "森林牧場",
+      "personaUid": "forest_fazenda",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 13
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 37,
+      "mediaMeta": [],
+      "elapsedTime": 898615,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258903499,
+      "title": "#建議 #客變 #預售屋 救救客變新手😭",
+      "excerpt": "先上圖～最近剛簽約預售屋，原本以為還沒蓋到我們的樓層可以慢慢想客變，結果代銷說簽約一個月內就要客變QQ，但原本連客變是啥都不太懂😂所以想拜託大家幫忙看看🙏還有我們也不太確定哪些是客變的部分哪些是裝潢的",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T05:52:01.849Z",
+      "updatedAt": "2025-05-28T13:26:20.491Z",
+      "commentCount": 7,
+      "likeCount": 4,
+      "collectionCount": 3,
+      "shareCount": 2,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "北極企鵝",
+      "department": "sleepingpenguin",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "北極企鵝",
+      "personaUid": "sleepingpenguin",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 4
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "建議"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 11,
+      "mediaMeta": [
+        {
+          "id": "9040f65e-b091-4d0e-9381-2ab6815ca530",
+          "url": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T05:52:01.849Z",
+          "updatedAt": "2025-05-25T05:52:01.849Z",
+          "width": 160,
+          "height": 88,
+          "blurhash": "MFK^{N4T_4TKx]ITs:RkW;WXyDS4Ris,Ri"
+        },
+        {
+          "id": "9040f65e-b091-4d0e-9381-2ab6815ca530",
+          "url": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T05:52:01.849Z",
+          "updatedAt": "2025-05-25T05:52:01.849Z",
+          "width": 2500,
+          "height": 1378,
+          "blurhash": "MFK^{N4T_4TKx]ITs:RkW;WXyDS4Ris,Ri"
+        },
+        {
+          "id": "9767245b-7284-4758-aa81-f9db57d1dd05",
+          "url": "https://megapx-assets.dcard.tw/images/97a31e30-37bc-410a-b130-c608c057360d/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/97a31e30-37bc-410a-b130-c608c057360d",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/97a31e30-37bc-410a-b130-c608c057360d/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T05:52:01.849Z",
+          "updatedAt": "2025-05-25T05:52:01.849Z",
+          "width": 1198,
+          "height": 1188,
+          "blurhash": "KCSPa?x@Dz-:M{%dM]R*RV"
+        },
+        {
+          "id": "6f5696d7-b759-4ba5-8867-4000a4853bc3",
+          "url": "https://megapx-assets.dcard.tw/images/422218f2-80cf-4b60-b3a2-b2ac6efd5b15/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/422218f2-80cf-4b60-b3a2-b2ac6efd5b15",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/422218f2-80cf-4b60-b3a2-b2ac6efd5b15/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-25T05:52:01.849Z",
+          "updatedAt": "2025-05-25T05:52:01.849Z",
+          "width": 1674,
+          "height": 1494,
+          "blurhash": "K9R{riRO?w%3fQM{?wtRx^"
+        }
+      ],
+      "elapsedTime": 899023,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/ad5668e5-ded3-4443-9c7f-a6b925c73a0a/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/97a31e30-37bc-410a-b130-c608c057360d/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/422218f2-80cf-4b60-b3a2-b2ac6efd5b15/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258902214,
+      "title": "#問題 新屋不做天花板，管線清理問題",
+      "excerpt": "因為預算考量，到時候交屋後，只會有家電、家具、電器等等。天花板直接裝燈具，燈具佈置的位置也能接受壓條。但因為我們是高樓，消防管線外露，想詢問沒有做天花板的人，會固定時間去清潔上面的管線嗎？",
+      "anonymousSchool": false,
+      "anonymousDepartment": true,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-25T01:57:07.189Z",
+      "updatedAt": "2025-05-26T17:34:57.545Z",
+      "commentCount": 16,
+      "likeCount": 4,
+      "collectionCount": 11,
+      "shareCount": 3,
+      "withNickname": false,
+      "tags": [],
+      "topics": [
+        "天花板",
+        "新屋"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "國立成功大學",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_SCHOOL",
+      "personaNickname": null,
+      "personaUid": null,
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 4
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 28,
+      "mediaMeta": [],
+      "elapsedTime": 913118,
+      "edited": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": 258901429,
+      "title": "#建議 格局請益圖",
+      "excerpt": "最近在看預售屋室內19.9 這格局好嗎？謝謝",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T18:46:29.906Z",
+      "updatedAt": "2025-05-25T05:35:57.271Z",
+      "commentCount": 5,
+      "likeCount": 3,
+      "collectionCount": 1,
+      "shareCount": 0,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "image",
+        "annotation": "最近在看預售屋目前一個人住室內19.9 這格局好嗎？需要客變什麼嗎？\n請學長學姐給點建議"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "🫣",
+      "department": "nickwawa",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "🫣",
+      "personaUid": "nickwawa",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 3
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "image",
+      "spoilerAlert": false,
+      "categories": [
+        "建議"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 8,
+      "mediaMeta": [
+        {
+          "id": "87e1082b-e515-4aea-adca-b62f1208fef9",
+          "url": "https://megapx-assets.dcard.tw/images/7dada42b-db52-4553-8be7-f0a0bfc979f6/full.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/7dada42b-db52-4553-8be7-f0a0bfc979f6",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/7dada42b-db52-4553-8be7-f0a0bfc979f6/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T18:46:29.906Z",
+          "updatedAt": "2025-05-24T18:46:29.906Z",
+          "width": 750,
+          "height": 544,
+          "blurhash": "LIRfh1Mx_4tRn~j[ogWB%gtRIUM{"
+        }
+      ],
+      "elapsedTime": 938955,
+      "edited": true,
+      "editedAt": "2025-05-25T05:35:57.271Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258901082,
+      "title": "請益 關於抽拉式的化妝鏡",
+      "excerpt": "因為預算有限，想把大部分的錢分配給系統櫃，剩下的靠軟裝簡單佈置，因為主臥空間不大，只有要做一個簡單的衣櫃，在網路上找了類似的照片，希望希望化妝鏡平常是可以收納關起來的，有用到再拉出來，但是問了兩間，他",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T17:28:03.729Z",
+      "updatedAt": "2025-05-25T15:13:38.024Z",
+      "commentCount": 13,
+      "likeCount": 2,
+      "collectionCount": 4,
+      "shareCount": 1,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "請益",
+        "裝潢",
+        "室內設計"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "童話故事",
+      "department": "yun0318",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "童話故事",
+      "personaUid": "yun0318",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 2
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 14,
+      "mediaMeta": [
+        {
+          "id": "d9d613ea-d295-4e6a-a39c-b588e1700500",
+          "url": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T17:28:03.729Z",
+          "updatedAt": "2025-05-24T17:28:03.729Z",
+          "width": 107,
+          "height": 160,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 235,
+            "width": 1179,
+            "height": 707
+          },
+          "blurhash": "cCI}Il.Ssl%MxuIo0Mnh%g%M%MWqkXM{%M"
+        },
+        {
+          "id": "d9d613ea-d295-4e6a-a39c-b588e1700500",
+          "url": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T17:28:03.729Z",
+          "updatedAt": "2025-05-24T17:28:03.729Z",
+          "width": 1179,
+          "height": 1768,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 235,
+            "width": 1179,
+            "height": 707
+          },
+          "blurhash": "cCI}Il.Ssl%MxuIo0Mnh%g%M%MWqkXM{%M"
+        }
+      ],
+      "elapsedTime": 943661,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/11322bed-f7a8-4464-87ee-65448258b43b/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258899081,
+      "title": "#資訊 對保簽約完準備撥款前離職",
+      "excerpt": "想問各位大大，小弟本週收到彰銀房貸核准通知，隔天也馬上到彰銀對保簽約完成，但近期剛好也有轉職需求（薪資比現任公司高），預計一個月多月後離職。彰銀有提到因為現在開始排撥，預計排撥時間可能會到7月中旬過後",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T13:24:16.939Z",
+      "updatedAt": "2025-05-26T13:07:10.860Z",
+      "commentCount": 10,
+      "likeCount": 4,
+      "collectionCount": 4,
+      "shareCount": 3,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "簽約",
+        "貸款",
+        "房貸"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "jasonwang98",
+      "department": "jasonwang1992",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "jasonwang98",
+      "personaUid": "jasonwang1992",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 4
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "資訊"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 12,
+      "mediaMeta": [],
+      "elapsedTime": 958288,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258898721,
+      "title": "裝潢預算超支怎麼辦？這幾招有效控制",
+      "excerpt": "大家好，我是Kelly 。之前都和大家分享裝潢要注意的點。今天想講點不同的，預算方面上的部分該如何避免以及有效控制‼️分享這篇文章給你們參考，🏠1.預算拆分法，把預算提前分配好大概（例如：施工70萬、家",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T12:41:26.602Z",
+      "updatedAt": "2025-05-31T15:55:19.399Z",
+      "commentCount": 1,
+      "likeCount": 20,
+      "collectionCount": 72,
+      "shareCount": 14,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "裝潢",
+        "投資",
+        "居家佈置",
+        "買房",
+        "室內設計"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "坤宇專業統包公司",
+      "department": "noemin",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "坤宇專業統包公司",
+      "personaUid": "noemin",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 20
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 1,
+      "mediaMeta": [
+        {
+          "id": "6fcead29-d41e-4d3b-8c48-1e08864b8124",
+          "url": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T12:41:26.602Z",
+          "updatedAt": "2025-05-24T12:41:26.602Z",
+          "width": 160,
+          "height": 130,
+          "blurhash": "LAJH]y%gRO%g?bRjV@WB~qRjIUt7"
+        },
+        {
+          "id": "6fcead29-d41e-4d3b-8c48-1e08864b8124",
+          "url": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T12:41:26.602Z",
+          "updatedAt": "2025-05-24T12:41:26.602Z",
+          "width": 1179,
+          "height": 958,
+          "blurhash": "LAJH]y%gRO%g?bRjV@WB~qRjIUt7"
+        }
+      ],
+      "elapsedTime": 960858,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/092ea2c4-216f-4d73-9b2a-91416b3b8c42/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/a48bf797-3ded-4c6b-beb2-15247b9b7759/full.jpeg",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258897696,
+      "title": "#問題 一對多冷氣選購詢問  華菱國際格力",
+      "excerpt": "補充：因為室外機位置關係只能放兩台室外機，故規劃客廳一台一對一，兩間房間一對二，有爬文過一對多的劣勢但礙於空間關係只能如此規劃🥲，目前還有想到新的一對二的組合是，國際CU-2K52BHA2/CS-K2",
+      "anonymousSchool": false,
+      "anonymousDepartment": true,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T10:22:15.201Z",
+      "updatedAt": "2025-05-25T07:20:01.059Z",
+      "commentCount": 7,
+      "likeCount": 0,
+      "collectionCount": 2,
+      "shareCount": 0,
+      "withNickname": false,
+      "tags": [],
+      "topics": [
+        "冷氣",
+        "家電",
+        "冷氣安裝"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "國立高雄科技大學",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_SCHOOL",
+      "personaNickname": null,
+      "personaUid": null,
+      "personaDeletedAt": null,
+      "reactions": [],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 8,
+      "mediaMeta": [],
+      "elapsedTime": 969210,
+      "edited": true,
+      "editedAt": "2025-05-25T07:20:01.064Z",
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": 258895830,
+      "title": "#問題 #抱怨桃園建案  我們不是奧客，只是要一個「照圖施工」的家part1",
+      "excerpt": "當我們一條一條核對建商給的社區弱電完成圖，發現圖面上說好的設備，通通縮水、蒸發、或直接變形！來看看這場第一次來桃園「東x建商」有哪些精采橋段：1、對講機，圖面寫的是品質較高NOBEL NB760S，結",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T06:08:01.519Z",
+      "updatedAt": "2025-05-28T14:46:52.773Z",
+      "commentCount": 14,
+      "likeCount": 32,
+      "collectionCount": 22,
+      "shareCount": 45,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "抱怨",
+        "桃園",
+        "建案",
+        "買房",
+        "問題"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "別點開偷看",
+      "department": "qq3.0",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "別點開偷看",
+      "personaUid": "qq3.0",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 31
+        },
+        {
+          "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 36,
+      "mediaMeta": [
+        {
+          "id": "f89dcb5c-9e23-4483-b2af-b59354f29fd8",
+          "url": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 160,
+          "height": 72,
+          "blurhash": "ObONB[ofIU4n_3-;-;_3oft7%MM{RjRj~qRjt7%MIURjM{"
+        },
+        {
+          "id": "f89dcb5c-9e23-4483-b2af-b59354f29fd8",
+          "url": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 1677,
+          "height": 750,
+          "blurhash": "ObONB[ofIU4n_3-;-;_3oft7%MM{RjRj~qRjt7%MIURjM{"
+        },
+        {
+          "id": "c730e886-f757-4621-9acf-54e4187029ca",
+          "url": "https://megapx-assets.dcard.tw/images/7534aa23-3150-4592-83e2-0c8f4a04d611/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/7534aa23-3150-4592-83e2-0c8f4a04d611",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/7534aa23-3150-4592-83e2-0c8f4a04d611/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 1179,
+          "height": 1556,
+          "blurhash": "TkPGjX9F~qofj[fQ%Mt7M{xuofWB"
+        },
+        {
+          "id": "cff87981-8ca8-4451-92ac-eb158077a2e8",
+          "url": "https://megapx-assets.dcard.tw/images/5e2287f6-85c3-474e-9168-4e51179ee7ec/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/5e2287f6-85c3-474e-9168-4e51179ee7ec",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/5e2287f6-85c3-474e-9168-4e51179ee7ec/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:30:07.502Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 1477,
+          "height": 1108,
+          "blurhash": "LRFYV~$wz,-=XUoeV?bH}iXAx_RO"
+        },
+        {
+          "id": "59abcdd8-4eee-47c4-954c-7acf755782ce",
+          "url": "https://megapx-assets.dcard.tw/images/8516981c-4e9e-4107-aa15-11375cd76347/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/8516981c-4e9e-4107-aa15-11375cd76347",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/8516981c-4e9e-4107-aa15-11375cd76347/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 1234,
+          "height": 569,
+          "blurhash": "O6SF;L9F~q_3_3%Mt7~qWBIU%Mt7M{Rj00ayxuj[t7WBWB"
+        },
+        {
+          "id": "7b1d162b-1c62-4611-a89d-be184c63a62d",
+          "url": "https://megapx-assets.dcard.tw/images/942c64af-23af-4fd6-a274-2edd9df894c7/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/942c64af-23af-4fd6-a274-2edd9df894c7",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/942c64af-23af-4fd6-a274-2edd9df894c7/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 2124,
+          "height": 1179,
+          "blurhash": "M8R{#?ayD%ofof_3M{xuj[Rj~q%MWBayay"
+        },
+        {
+          "id": "e3ba1c6e-0e7c-4d62-97a6-e1358366cfd1",
+          "url": "https://megapx-assets.dcard.tw/images/41854849-4ddf-456c-bdff-921dacbad1b7/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/41854849-4ddf-456c-bdff-921dacbad1b7",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/41854849-4ddf-456c-bdff-921dacbad1b7/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:08:01.519Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 1477,
+          "height": 1108,
+          "blurhash": "L$F}+U~B?Gxaofayayjta}j[j[j["
+        },
+        {
+          "id": "e29a1bc1-f2a0-4821-8ee9-8523c6d2950c",
+          "url": "https://megapx-assets.dcard.tw/images/ea4636c0-f0f2-44df-94ae-993377a95bf2/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/ea4636c0-f0f2-44df-94ae-993377a95bf2",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/ea4636c0-f0f2-44df-94ae-993377a95bf2/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T06:13:28.298Z",
+          "updatedAt": "2025-05-25T18:08:43.788Z",
+          "width": 959,
+          "height": 1522,
+          "blurhash": "c7SF;LRj_3-pjux]~qofX8Mxxux]%2t7kC"
+        }
+      ],
+      "elapsedTime": 984463,
+      "edited": true,
+      "editedAt": "2025-05-25T18:08:43.794Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/63e9bcf8-538e-4e38-b1a2-9bf4ccd53f8b/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/7534aa23-3150-4592-83e2-0c8f4a04d611/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/5e2287f6-85c3-474e-9168-4e51179ee7ec/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/8516981c-4e9e-4107-aa15-11375cd76347/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/942c64af-23af-4fd6-a274-2edd9df894c7/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/41854849-4ddf-456c-bdff-921dacbad1b7/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/ea4636c0-f0f2-44df-94ae-993377a95bf2/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258895176,
+      "title": "#裝潢 #請益 進門哪裡放鏡子比較好？",
+      "excerpt": "如兩張附圖，想要在玄關處擺放鏡子，放大空間感跟出門可以檢查儀容，有兩個選擇不確定哪種好，一是在玄關進門左手邊的木板改鏡子，但怕是否太小片（鏡寬約 50-60 公分），且跟對面牆只有距離 100 公分，",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T04:43:27.283Z",
+      "updatedAt": "2025-05-25T03:51:35.953Z",
+      "commentCount": 2,
+      "likeCount": 2,
+      "collectionCount": 3,
+      "shareCount": 1,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "鏡子",
+        "居家佈置",
+        "裝潢",
+        "室內設計",
+        "裝修"
+      ],
+      "meta": {
+        "layout": "multimedia",
+        "annotation": "如兩張附圖\n想要在玄關處擺放鏡子，放大空間感跟出門可以檢查儀容，有兩個選擇不確定哪種好，\n\n一是在玄關進門左手邊的木板改鏡子，\n但怕是否太小片（鏡寬約 50-60 公分），且跟對面牆只有距離 100 公分，會不會放大效果不好？人跟鏡子距離會不會太近造成鏡子不好用？\n\n二是系統櫃2個門片改鏡子，但是怕人住進去後東西變多會反射出客廳沙發區會比較亂？\n\n不確定哪一種比較好？\n\n還有 一般鏡子、灰鏡、茶鏡哪種適合？\n\n想問問大家會怎麼選跟考量點？\n\n*留言有放圖可以放大看"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "匿名",
+      "department": "ching_lo",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "匿名",
+      "personaUid": "ching_lo",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 2
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "multimedia",
+      "spoilerAlert": false,
+      "categories": [
+        "裝潢"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 7,
+      "mediaMeta": [
+        {
+          "id": "96dba9e2-b485-4658-bd61-8a6a5dcad984",
+          "url": "https://megapx-assets.dcard.tw/images/2973784c-1b1b-4fe1-a52e-89c843034483/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/2973784c-1b1b-4fe1-a52e-89c843034483/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/2973784c-1b1b-4fe1-a52e-89c843034483/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T04:43:27.283Z",
+          "updatedAt": "2025-05-24T04:46:00.813Z",
+          "width": 160,
+          "height": 90,
+          "blurhash": "MNJayA?v%f~V^*WCWBWV-:D*t6od%MIVIV"
+        },
+        {
+          "id": "96dba9e2-b485-4658-bd61-8a6a5dcad984",
+          "url": "https://megapx.dcard.tw/v1/images/2973784c-1b1b-4fe1-a52e-89c843034483/encode/1280",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/2973784c-1b1b-4fe1-a52e-89c843034483",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/2973784c-1b1b-4fe1-a52e-89c843034483/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T04:43:27.283Z",
+          "updatedAt": "2025-05-24T04:46:00.813Z",
+          "width": 2500,
+          "height": 1406,
+          "blurhash": "MNJayA?v%f~V^*WCWBWV-:D*t6od%MIVIV"
+        },
+        {
+          "id": "06861488-3171-4883-ae90-6d47a9fe9947",
+          "url": "https://megapx.dcard.tw/v1/images/95a2ceb5-586d-4bf4-88a3-487b334cf09a/encode/1280",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/95a2ceb5-586d-4bf4-88a3-487b334cf09a",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/95a2ceb5-586d-4bf4-88a3-487b334cf09a/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T04:43:27.283Z",
+          "updatedAt": "2025-05-24T04:46:00.813Z",
+          "width": 2500,
+          "height": 1407,
+          "blurhash": "MLJ*S8_M.7~V?HWAWVWB?GD*t6t6xuIVD*"
+        }
+      ],
+      "elapsedTime": 989537,
+      "edited": true,
+      "editedAt": "2025-05-24T04:46:00.818Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258893992,
+      "title": "#資訊 裝潢小白價格請益🙏",
+      "excerpt": "最近預售屋快要交屋，複驗有請統包公司來丈量和裝潢評估，上網想查一些價格方面的資訊，但落差太大，因此想請問這間公司報價是否合理，再麻煩前輩們多多指教。這間統包設計其實蠻符合我理想中的樣子，但有些價格的部",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-24T00:57:01.997Z",
+      "updatedAt": "2025-06-03T14:48:13.075Z",
+      "commentCount": 9,
+      "likeCount": 13,
+      "collectionCount": 46,
+      "shareCount": 27,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "裝潢",
+        "價格",
+        "居家佈置",
+        "閒聊",
+        "買房"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "匿名",
+      "department": "esean",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "匿名",
+      "personaUid": "esean",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 13
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "資訊"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 14,
+      "mediaMeta": [
+        {
+          "id": "f86eae0b-d4b6-4d62-8d81-733d4953930b",
+          "url": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T00:57:01.997Z",
+          "updatedAt": "2025-05-24T00:57:01.997Z",
+          "width": 74,
+          "height": 160,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 230,
+            "width": 1153,
+            "height": 691
+          },
+          "blurhash": "lBB{+FM_bdNHoL%14.o#MxV@fkWD0fjExaocWBRk"
+        },
+        {
+          "id": "f86eae0b-d4b6-4d62-8d81-733d4953930b",
+          "url": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T00:57:01.997Z",
+          "updatedAt": "2025-05-24T00:57:01.997Z",
+          "width": 1153,
+          "height": 2500,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 230,
+            "width": 1153,
+            "height": 691
+          },
+          "blurhash": "lBB{+FM_bdNHoL%14.o#MxV@fkWD0fjExaocWBRk"
+        },
+        {
+          "id": "9f479911-feb5-49ec-a9e0-1f61d3b79935",
+          "url": "https://megapx-assets.dcard.tw/images/36fa2c9c-ea08-48b1-b987-698bdbb5eb1b/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/36fa2c9c-ea08-48b1-b987-698bdbb5eb1b",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/36fa2c9c-ea08-48b1-b987-698bdbb5eb1b/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T00:57:01.997Z",
+          "updatedAt": "2025-05-24T00:57:01.997Z",
+          "width": 1858,
+          "height": 831,
+          "blurhash": "OXIhHW~pIVn$NGt7fio#t7s:RjjsWBoLxZjsj[WBazWBay"
+        },
+        {
+          "id": "866f106a-a5cf-411d-8a0a-a6db9acef464",
+          "url": "https://megapx-assets.dcard.tw/images/e8bf600a-18e0-44cb-a879-5bb5967a4be4/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/e8bf600a-18e0-44cb-a879-5bb5967a4be4",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/e8bf600a-18e0-44cb-a879-5bb5967a4be4/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T00:57:01.997Z",
+          "updatedAt": "2025-05-24T00:57:01.997Z",
+          "width": 1398,
+          "height": 1080,
+          "blurhash": "LJLq5{4.%h^*~qxaIUR%aK%Mt7D*"
+        },
+        {
+          "id": "b49aae68-23db-4927-8095-ee085c0e0140",
+          "url": "https://megapx-assets.dcard.tw/images/416c3943-9d5a-40ff-9d81-5b4b02b65064/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/416c3943-9d5a-40ff-9d81-5b4b02b65064",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/416c3943-9d5a-40ff-9d81-5b4b02b65064/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-24T00:57:01.997Z",
+          "updatedAt": "2025-05-24T00:57:01.997Z",
+          "width": 1920,
+          "height": 1080,
+          "blurhash": "M8KU7qV?E4Io~p^*Io-=IU%LIpaKxY-;9G"
+        }
+      ],
+      "elapsedTime": 1003123,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/a52a1045-a5f1-407b-bafc-a2226e9a77e1/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/36fa2c9c-ea08-48b1-b987-698bdbb5eb1b/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/e8bf600a-18e0-44cb-a879-5bb5967a4be4/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/416c3943-9d5a-40ff-9d81-5b4b02b65064/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258893392,
+      "title": "#問題 兩房格局請益",
+      "excerpt": "最近看到一個蠻喜歡的建案，想請問以下格局看法，謝謝🙏，格局：兩房一衛，需求：1-2人，室內實際坪數：約19坪",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T18:57:09.886Z",
+      "updatedAt": "2025-05-28T16:01:49.055Z",
+      "commentCount": 17,
+      "likeCount": 18,
+      "collectionCount": 18,
+      "shareCount": 7,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "Helen",
+      "department": "kt40636",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "Helen",
+      "personaUid": "kt40636",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 18
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": false,
+      "enableNestedComment": true,
+      "totalCommentCount": 21,
+      "mediaMeta": [
+        {
+          "id": "2f1bf901-882e-4d0e-bf70-82684a4cfa19",
+          "url": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T18:57:09.886Z",
+          "updatedAt": "2025-05-23T18:57:09.886Z",
+          "width": 160,
+          "height": 126,
+          "blurhash": "LLPj0[?w%h-pV?oekDt7?wRiMxbb"
+        },
+        {
+          "id": "2f1bf901-882e-4d0e-bf70-82684a4cfa19",
+          "url": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T18:57:09.886Z",
+          "updatedAt": "2025-05-23T18:57:09.886Z",
+          "width": 1257,
+          "height": 992,
+          "blurhash": "LLPj0[?w%h-pV?oekDt7?wRiMxbb"
+        }
+      ],
+      "elapsedTime": 1024715,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/b4d3e110-e72d-408c-9bf6-fddf673bdc40/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258892261,
+      "title": "爲什麼台北市的房價還是居高不下😭",
+      "excerpt": "最近看了很多台北市信義區50年的舊公寓，ㄧ坪開價從70-96幾都有，幾乎都要2000上下，1700左右的公寓很快就賣出了，爲什麼大家都這麼有錢😆？",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T15:40:47.068Z",
+      "updatedAt": "2025-05-29T01:15:39.067Z",
+      "commentCount": 41,
+      "likeCount": 34,
+      "collectionCount": 22,
+      "shareCount": 9,
+      "withNickname": true,
+      "tags": [],
+      "topics": [],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "kelly",
+      "department": "kelly0316bgw",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "kelly",
+      "personaUid": "kelly0316bgw",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 28
+        },
+        {
+          "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+          "count": 3
+        },
+        {
+          "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+          "count": 2
+        },
+        {
+          "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 132,
+      "mediaMeta": [],
+      "elapsedTime": 1036498,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258891295,
+      "title": "關於室內設計\"施工\"費用",
+      "excerpt": "設計師做完設計、出完圖說，最後給出標單。價格是三百三十萬。（一開始是三百六十萬，是我請設計師做一些材質規格的降低，最後才降到三百三十萬），新成屋不到半年，有配合設計師做客變了，格局什麼的都不用動到，水",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T13:54:03.240Z",
+      "updatedAt": "2025-05-27T03:05:38.914Z",
+      "commentCount": 13,
+      "likeCount": 3,
+      "collectionCount": 5,
+      "shareCount": 4,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "室內設計",
+        "費用",
+        "居家佈置",
+        "裝潢",
+        "買房"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "笨蛋",
+      "department": "callback",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "笨蛋",
+      "personaUid": "callback",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 3
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 20,
+      "mediaMeta": [
+        {
+          "id": "79e561c4-a9be-4b11-8980-d57b45e15365",
+          "url": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T13:54:03.240Z",
+          "updatedAt": "2025-05-23T13:55:05.798Z",
+          "width": 160,
+          "height": 69,
+          "blurhash": "O6S$ovRj00IURjIU?b?bayfQayWBWBRj_3t7%MxuofxuRj"
+        },
+        {
+          "id": "79e561c4-a9be-4b11-8980-d57b45e15365",
+          "url": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/orig.png",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T13:54:03.240Z",
+          "updatedAt": "2025-05-23T13:55:05.798Z",
+          "width": 1048,
+          "height": 452,
+          "blurhash": "O6S$ovRj00IURjIU?b?bayfQayWBWBRj_3t7%MxuofxuRj"
+        },
+        {
+          "id": "9c896bc9-8add-44bd-a204-ab1c5f7a84e9",
+          "url": "https://megapx-assets.dcard.tw/images/bef0a9a2-dab7-4237-9890-3b78567427fd/orig.png",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/bef0a9a2-dab7-4237-9890-3b78567427fd",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/bef0a9a2-dab7-4237-9890-3b78567427fd/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T13:54:03.240Z",
+          "updatedAt": "2025-05-23T13:55:05.798Z",
+          "width": 1042,
+          "height": 336,
+          "blurhash": "Q6S?DVj[9Fxut7%M?b%M?b~qfQ%MWBayWBM{ayRj~qt7ofofWBayRjWBM{"
+        }
+      ],
+      "elapsedTime": 1042901,
+      "edited": true,
+      "editedAt": "2025-05-23T13:55:05.802Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/38046d31-0f2d-4022-af78-f3d7441bb6f5/orig.png",
+        "https://megapx-assets.dcard.tw/images/bef0a9a2-dab7-4237-9890-3b78567427fd/orig.png"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258889937,
+      "title": "#裝潢 #空間裝修 15坪小宅也可以有中島 65萬完工！",
+      "excerpt": "現在的房子越來越小 寸土寸金，總價打下去，也因此兩房的物件在市場上也越來越多，認真的覺得，空間越精簡越需要請設計師協助規劃，才不會浪費任何一點點的空間，將每個空間都發揮到最大的效益，做收納之餘 不能讓",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T11:04:02.363Z",
+      "updatedAt": "2025-06-01T18:02:23.071Z",
+      "commentCount": 33,
+      "likeCount": 351,
+      "collectionCount": 848,
+      "shareCount": 343,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "裝潢",
+        "裝修",
+        "小宅",
+        "台中",
+        "室內設計"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "F",
+      "school": "Winnie",
+      "department": "winnieliao84",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "Winnie",
+      "personaUid": "winnieliao84",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+          "count": 350
+        },
+        {
+          "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "裝潢"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 55,
+      "mediaMeta": [
+        {
+          "id": "a4dac77d-e90e-49cb-aa52-38a880d8cf3d",
+          "url": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 160,
+          "height": 106,
+          "blurhash": "MLFP81-;E1M{E1?ba}kCjYof00RiofRjt7"
+        },
+        {
+          "id": "a4dac77d-e90e-49cb-aa52-38a880d8cf3d",
+          "url": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MLFP81-;E1M{E1?ba}kCjYof00RiofRjt7"
+        },
+        {
+          "id": "49ed5cbb-a1fc-457d-99e6-ea7bf4480635",
+          "url": "https://megapx-assets.dcard.tw/images/48300582-89ef-4606-949b-706b99644641/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/48300582-89ef-4606-949b-706b99644641",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/48300582-89ef-4606-949b-706b99644641/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 1972,
+          "height": 1135,
+          "blurhash": "MGSY{qWB~q%MIUt7j[ofWVayofWBWBt7of"
+        },
+        {
+          "id": "68384233-429d-4cee-be24-043660d8b142",
+          "url": "https://megapx-assets.dcard.tw/images/0fe9fd9e-1574-4595-9173-b2bc8c7e7990/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/0fe9fd9e-1574-4595-9173-b2bc8c7e7990",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/0fe9fd9e-1574-4595-9173-b2bc8c7e7990/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2364,
+          "height": 1774,
+          "blurhash": "LHF$9H_NE2M|?Zn#RiRiM|Rk%2oI"
+        },
+        {
+          "id": "36e69539-16ed-449c-947f-395f9491fced",
+          "url": "https://megapx-assets.dcard.tw/images/458a6c04-828a-42ae-b8b4-d1c90ef96fb4/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/458a6c04-828a-42ae-b8b4-d1c90ef96fb4",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/458a6c04-828a-42ae-b8b4-d1c90ef96fb4/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 965,
+          "height": 646,
+          "blurhash": "L8SY{qay~q%M%MofRjWB%Mt7ofRj"
+        },
+        {
+          "id": "7ecc873b-471b-4233-8d89-40bf693929f5",
+          "url": "https://megapx-assets.dcard.tw/images/a4299058-c096-40d6-8f62-3c84480b21fb/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/a4299058-c096-40d6-8f62-3c84480b21fb",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/a4299058-c096-40d6-8f62-3c84480b21fb/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MHGlCk~qbb-;WY%gR*MxayjZD%WBD%WBxu"
+        },
+        {
+          "id": "bbe4fb36-5d46-4d0a-a7ea-7655b1b3085b",
+          "url": "https://megapx-assets.dcard.tw/images/2ea817dc-9691-4dfc-8b2c-1691d344d9f2/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/2ea817dc-9691-4dfc-8b2c-1691d344d9f2",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/2ea817dc-9691-4dfc-8b2c-1691d344d9f2/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MGGS18~qoz?bt8-;azMxWBV@D$Rj9GRjxu"
+        },
+        {
+          "id": "68fa00ff-3102-4873-adca-3414af34843b",
+          "url": "https://megapx-assets.dcard.tw/images/00aa6bdb-a9dd-4e13-bc13-66239e1bc844/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/00aa6bdb-a9dd-4e13-bc13-66239e1bc844",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/00aa6bdb-a9dd-4e13-bc13-66239e1bc844/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 1774,
+          "height": 2364,
+          "blurhash": "TJI#MnIBx[_NRjRjM}-;MxofWVt6"
+        },
+        {
+          "id": "5e589f98-0be8-41b5-97e1-22f53c7dbcf6",
+          "url": "https://megapx-assets.dcard.tw/images/217c79a3-d79c-40c3-a6c4-24bdf441d4ac/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/217c79a3-d79c-40c3-a6c4-24bdf441d4ac",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/217c79a3-d79c-40c3-a6c4-24bdf441d4ac/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MGG+BqayEMx]4n~qt7M{xaM{-o%Mozxu%g"
+        },
+        {
+          "id": "c5fbd141-c41b-4e0f-81e9-d3eeee77aad0",
+          "url": "https://megapx-assets.dcard.tw/images/e44a4f77-34e7-4ad6-a907-db20aaa45349/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/e44a4f77-34e7-4ad6-a907-db20aaa45349",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/e44a4f77-34e7-4ad6-a907-db20aaa45349/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MMF~XA009Zj[Rj_3D%Rjt7a{9Ft6ofxuof"
+        },
+        {
+          "id": "bd7a79f3-114e-47b2-9396-f398a9bd9821",
+          "url": "https://megapx-assets.dcard.tw/images/940fdbbe-a022-47fd-84ec-c3a098d4e84f/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/940fdbbe-a022-47fd-84ec-c3a098d4e84f",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/940fdbbe-a022-47fd-84ec-c3a098d4e84f/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 1341,
+          "height": 2016,
+          "blurhash": "cFCsBU^+NH~WtRWV4oRjxa4oM{oLD*E1M|"
+        },
+        {
+          "id": "7a392fd8-d9f4-4ac2-803c-d983503a77ed",
+          "url": "https://megapx-assets.dcard.tw/images/84955c0b-41e1-49be-be68-97c372138f38/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/84955c0b-41e1-49be-be68-97c372138f38",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/84955c0b-41e1-49be-be68-97c372138f38/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 1341,
+          "height": 2016,
+          "blurhash": "c9BC[K-U%1?GjZj@0KogM|D%WVNHV@jZxa"
+        },
+        {
+          "id": "12f8e7ca-a78e-4c65-9166-e22163605f21",
+          "url": "https://megapx-assets.dcard.tw/images/f75e382f-a97e-4d09-9b5c-b9822cb52640/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/f75e382f-a97e-4d09-9b5c-b9822cb52640",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/f75e382f-a97e-4d09-9b5c-b9822cb52640/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MII5Pe?b00adIU?vt7%Mt7WB4.t6ofM{of"
+        },
+        {
+          "id": "1f36aa99-d1cc-41e5-b9ed-f265b1e7fd15",
+          "url": "https://megapx-assets.dcard.tw/images/83f33f83-e4bd-4858-a832-dfb9fa0d44ad/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/83f33f83-e4bd-4858-a832-dfb9fa0d44ad",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/83f33f83-e4bd-4858-a832-dfb9fa0d44ad/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MOIq}x~qxuR*M{%MWCM{t7of9FR*s:oftR"
+        },
+        {
+          "id": "d7a0b0e5-7cc2-4727-9a15-c0e95a069911",
+          "url": "https://megapx-assets.dcard.tw/images/21b203a4-e1db-49a3-85b6-05ca831c5e34/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/21b203a4-e1db-49a3-85b6-05ca831c5e34",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/21b203a4-e1db-49a3-85b6-05ca831c5e34/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MEJ*hvM_9ZRPt6_NIUIURjt7nh%Mozt7Rj"
+        },
+        {
+          "id": "81524b97-a664-4923-ad15-f5a0368f1b6f",
+          "url": "https://megapx-assets.dcard.tw/images/e51764cd-febd-404d-a9d8-a79d2e679303/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/e51764cd-febd-404d-a9d8-a79d2e679303",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/e51764cd-febd-404d-a9d8-a79d2e679303/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MFJ[6VM_9ZRO$%_NIUIURjt7jY%Ms:t7Rk"
+        },
+        {
+          "id": "ab37b17d-ff84-4997-b3bf-54b5bbf054f6",
+          "url": "https://megapx-assets.dcard.tw/images/4e7d6523-aee5-40b8-96c6-9bf767e4a979/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/4e7d6523-aee5-40b8-96c6-9bf767e4a979",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/4e7d6523-aee5-40b8-96c6-9bf767e4a979/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T11:04:02.363Z",
+          "updatedAt": "2025-05-23T11:04:02.363Z",
+          "width": 2016,
+          "height": 1341,
+          "blurhash": "MPKKsKDiax-;x]~qofM{%MxuDiWAxuWBRj"
+        }
+      ],
+      "elapsedTime": 1053102,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://megapx-assets.dcard.tw/images/c2ced068-b7ed-4360-839c-44a5eb78e370/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/48300582-89ef-4606-949b-706b99644641/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/0fe9fd9e-1574-4595-9173-b2bc8c7e7990/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/458a6c04-828a-42ae-b8b4-d1c90ef96fb4/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/a4299058-c096-40d6-8f62-3c84480b21fb/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/2ea817dc-9691-4dfc-8b2c-1691d344d9f2/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/00aa6bdb-a9dd-4e13-bc13-66239e1bc844/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/217c79a3-d79c-40c3-a6c4-24bdf441d4ac/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/e44a4f77-34e7-4ad6-a907-db20aaa45349/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/940fdbbe-a022-47fd-84ec-c3a098d4e84f/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/84955c0b-41e1-49be-be68-97c372138f38/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/f75e382f-a97e-4d09-9b5c-b9822cb52640/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/83f33f83-e4bd-4858-a832-dfb9fa0d44ad/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/21b203a4-e1db-49a3-85b6-05ca831c5e34/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/e51764cd-febd-404d-a9d8-a79d2e679303/orig.jpeg",
+        "https://megapx-assets.dcard.tw/images/4e7d6523-aee5-40b8-96c6-9bf767e4a979/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": true,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258889533,
+      "title": "#問題 冷氣安裝通膨也太嚴重？",
+      "excerpt": "繼上次預算考量，決定看看萬士益牌的冷氣，沒想到跟日立差沒多少⋯，不知道是不是是因為要打牆拉排水到廁所冷排的關係，才導致安裝費用才那麼高？求推薦價格划算 板橋、雙北的冷氣師傅🙏🏻",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T10:07:24.153Z",
+      "updatedAt": "2025-05-25T13:09:57.908Z",
+      "commentCount": 3,
+      "likeCount": 2,
+      "collectionCount": 5,
+      "shareCount": 3,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "冷氣",
+        "安裝",
+        "裝潢"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "真的假的55555",
+      "department": "fr789jau",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "真的假的55555",
+      "personaUid": "fr789jau",
+      "personaDeletedAt": null,
+      "reactions": [
+        {
+          "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+          "count": 1
+        },
+        {
+          "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+          "count": 1
+        }
+      ],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "categories": [
+        "問題"
+      ],
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 3,
+      "mediaMeta": [
+        {
+          "id": "ba50d8e7-81c1-442c-9edd-3e871eca556d",
+          "url": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T10:07:24.153Z",
+          "updatedAt": "2025-05-23T10:07:24.153Z",
+          "width": 160,
+          "height": 96,
+          "blurhash": "MDPjDW9FbdISWs4oe.Rjt7j?~obcxuWBoM"
+        },
+        {
+          "id": "ba50d8e7-81c1-442c-9edd-3e871eca556d",
+          "url": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-23T10:07:24.153Z",
+          "updatedAt": "2025-05-23T10:07:24.153Z",
+          "width": 1148,
+          "height": 691,
+          "blurhash": "MDPjDW9FbdISWs4oe.Rjt7j?~obcxuWBoM"
+        }
+      ],
+      "elapsedTime": 1056501,
+      "edited": true,
+      "editedAt": "2025-05-23T15:46:18.464Z",
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [
+        "https://www.dcard.tw/f/house_purchase/p/258767625?ref=ios",
+        "https://megapx-assets.dcard.tw/images/b9426d22-5a35-41b3-959a-63261968fa08/orig.jpeg"
+      ],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": 258889513,
+      "title": "繼承的房子有貸款、沒收入還款怎麼辦？教你合法降低房地合一稅！",
+      "excerpt": "繼承親人遺留的不動產，本是一種情感與資產的延續，但若該不動產仍背負貸款，對收入有限的繼承人來說，反而可能成為一種沉重負擔。尤其在短期內無力償還，只能選擇出售時，更要特別注意房地合一稅的課稅問題。財政部",
+      "anonymousSchool": false,
+      "anonymousDepartment": false,
+      "pinned": false,
+      "forumId": "861af50f-49b8-4c58-857b-092643416983",
+      "replyId": null,
+      "createdAt": "2025-05-23T10:05:05.156Z",
+      "updatedAt": "2025-05-25T22:46:48.190Z",
+      "commentCount": 0,
+      "likeCount": 0,
+      "collectionCount": 3,
+      "shareCount": 1,
+      "withNickname": true,
+      "tags": [],
+      "topics": [
+        "繼承",
+        "房子",
+        "貸款",
+        "投資",
+        "理財"
+      ],
+      "meta": {
+        "layout": "classic"
+      },
+      "pinnedInProfileWall": false,
+      "hiddenInProfileWall": false,
+      "nsfw": false,
+      "forumName": "購屋",
+      "forumAlias": "house_purchase",
+      "forumLogo": {
+        "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+        "type": "image/jpeg",
+        "width": 200,
+        "height": 200
+      },
+      "gender": "M",
+      "school": "郭彥廷代書地政士事務所",
+      "department": "andy0928521813",
+      "replyTitle": null,
+      "reportReason": "",
+      "identityType": "IDENTITY_NICKNAME",
+      "personaNickname": "郭彥廷代書地政士事務所",
+      "personaUid": "andy0928521813",
+      "personaDeletedAt": null,
+      "reactions": [],
+      "hidden": false,
+      "customStyle": null,
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "layout": "classic",
+      "spoilerAlert": false,
+      "withImages": false,
+      "withVideos": false,
+      "media": [],
+      "reportReasonText": "",
+      "supportedReactions": null,
+      "isSelectedPost": false,
+      "unsafe": false,
+      "enablePrivateMessage": true,
+      "enableNestedComment": true,
+      "totalCommentCount": 0,
+      "mediaMeta": [],
+      "elapsedTime": 1056640,
+      "edited": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "links": [],
+      "enableListLinkPreview": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    }
+  ]
+}
