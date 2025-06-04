@@ -12,13 +12,21 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from config.settings import DB_NAME, TABLE_NAME
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'database.log'),
-    encoding='utf-8'
-)
+# 設定模組專用的日誌處理器，避免覆蓋全局設定
 logger = logging.getLogger(__name__)
+
+# 只在日誌處理器列表為空時添加處理器，避免重複
+if not logger.handlers:
+    log_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs')
+    os.makedirs(log_dir, exist_ok=True)
+    
+    file_handler = logging.FileHandler(
+        os.path.join(log_dir, f'database_{datetime.now().strftime("%Y%m%d")}.log'),
+        encoding='utf-8'
+    )
+    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+    logger.addHandler(file_handler)
+    logger.setLevel(logging.INFO)
 
 class DatabaseManager:
     """管理 SQLite 資料庫的類別"""
