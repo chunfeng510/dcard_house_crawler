@@ -1,0 +1,5 @@
+2025-05-28 23:42:56,684 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-05-28 23:42:56,828 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-05-28 23:43:02,332 - openai._base_client - INFO - Retrying request to /chat/completions in 0.429108 seconds
+2025-05-28 23:43:07,767 - openai._base_client - INFO - Retrying request to /chat/completions in 0.912802 seconds
+2025-05-28 23:43:13,687 - __main__ - ERROR - API 連接測試失敗: Request timed out.
