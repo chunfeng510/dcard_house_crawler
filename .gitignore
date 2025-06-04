@@ -21,12 +21,12 @@ var/
 *.egg
 
 # 日誌檔案
-logs/
-*.log
+# logs/
+# *.log
 
 # 資料庫檔案 (視情況可能需要保留)
-*.sqlite
-*.db
+# *.sqlite
+# *.db
 
 # 虛擬環境
 venv/
