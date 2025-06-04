@@ -29,7 +29,9 @@ dcard_house_crawler/
 ├── config/                # 配置目錄
 │   └── settings.py        # 配置文件
 ├── crawler/               # 爬蟲模組
-│   └── dcard_crawler.py   # Dcard爬蟲實現
+│   ├── base_crawler.py    # 爬蟲基礎類別
+│   ├── selenium.py        # Selenium爬蟲實現
+│   └── scraperapi.py      # ScraperAPI爬蟲實現
 ├── database/              # 資料庫模組
 │   └── db_manager.py      # SQLite資料庫管理器
 ├── analysis/              # 分析模組
@@ -47,15 +49,16 @@ dcard_house_crawler/
 
 1. **配置模組** (`config/settings.py`)：
    - 包含爬蟲所需的所有設定，如API URLs、HTTP請求頭、資料庫設定等
+   - 包含代理伺服器的配置選項
 
 2. **資料庫模組** (`database/db_manager.py`)：
    - 負責處理SQLite數據庫操作
    - 提供資料表創建、文章插入和查詢功能
 
-3. **爬蟲模組** (`crawler/dcard_crawler.py`)：
-   - 使用Selenium繞過Cloudflare保護
-   - 實現爬取Dcard文章的核心邏輯
-   - 包含獲取文章清單和詳細內容的功能
+3. **爬蟲模組**：
+   - `crawler/base_crawler.py`：定義爬蟲基礎類別，提供共用的方法和介面
+   - `crawler/selenium.py`：使用Selenium繞過Cloudflare保護
+   - `crawler/scraperapi.py`：使用ScraperAPI服務爬取內容，可用於繞過防爬蟲保護
 
 4. **分析模組** (`analysis/gpt_analyzer.py`):
    - 使用 GPT 模型分析爬取的文章內容
@@ -69,6 +72,7 @@ dcard_house_crawler/
 6. **主程式** (`main.py`)：
    - 命令行入口點，包含參數解析
    - 環境驗證功能
+   - 支援選擇不同的爬蟲方式
    - 執行爬蟲並處理錯誤
    - 執行 GPT 分析
 
@@ -99,13 +103,23 @@ dcard_house_crawler/
 
 4. **執行爬蟲**：
    ```bash
+   # 使用 Selenium 爬蟲（默認)
    python main.py
+   
+   # 使用 ScraperAPI 爬蟲
+   python main.py --crawler scraperapi
+   
+   # 使用 ScraperAPI 爬蟲並指定自己的 API 金鑰
+   python main.py --crawler scraperapi --scraper-api-key YOUR_API_KEY
    ```
    
    附加選項：
    - `--backup`：執行前備份資料庫
-   - `--forum <版名>`：爬取指定的Dcard版面（默認為house）
+   - `--forum <版名>`：爬取指定的Dcard版面（默認為house_purchase）
    - `--limit <數量>`：限制爬取的文章數量
+   - `--crawler <爬蟲類型>`：選擇使用的爬蟲類型（selenium 或 scraperapi）
+   - `--scraper-api-key <API金鑰>`：ScraperAPI 的 API 金鑰
+   - `--no-render`：使用 ScraperAPI 時不渲染 JavaScript (更快但可能不完整)
    
 5. **執行 GPT 分析**：
    ```bash
@@ -123,19 +137,27 @@ dcard_house_crawler/
 
 ### 注意事項
 
-1. **Cloudflare 繞過方案**：
+1. **爬蟲方式選擇**：
+   - **Selenium 爬蟲**：模擬真實瀏覽器行為，適合繞過 Cloudflare 保護，但速度較慢
+   - **ScraperAPI 爬蟲**：使用付費 API 服務，速度較快，無需自行管理 IP 和瀏覽器，但有使用配額限制
+
+2. **代理伺服器功能**：
+   - 在`config/settings.py`中可配置代理伺服器，支援多個代理和輪換策略
+   - 適用於經常爬取大量數據的情境，可避免 IP 被封鎖
+
+3. **Cloudflare 繞過方案**：
    - 使用Selenium模擬真實瀏覽器行為來繞過Cloudflare保護
    - 第一次執行時，瀏覽器會彈出視窗，建議不要使用headless模式
 
-2. **爬蟲速度控制**：
+4. **爬蟲速度控制**：
    - 在`config/settings.py`中設定了請求間隔參數(`DELAY_BETWEEN_REQUESTS`)
    - 請根據實際情況調整，避免IP被封鎖
 
-3. **日誌系統**：
+5. **日誌系統**：
    - 所有操作都有詳細日誌記錄在`logs`目錄
    - 可以從日誌中查看爬蟲運行狀態和錯誤信息
 
-4. **GPT 分析**：
+6. **GPT 分析**：
    - 需要 OpenAI API 金鑰
    - 支持標準 OpenAI API 和 Azure OpenAI 服務
    - API 呼叫會產生費用，建議設置 TOTAL_POSTS 參數控制分析數量
@@ -159,8 +181,9 @@ GPT 分析功能會輸出兩個主要結果：
 
 ### 可能的後續優化
 
-1. **增加代理IP功能**：
-   - 集成代理IP池，避免單一IP頻繁請求被封鎖
+1. **增強代理IP功能**：
+   - 增加自動檢測代理可用性
+   - 支持更多類型的代理（如 SOCKS）
 
 2. **多線程或異步支持**：
    - 透過多線程或異步處理提高爬蟲效率
@@ -172,5 +195,9 @@ GPT 分析功能會輸出兩個主要結果：
 4. **Web界面**：
    - 開發簡單的Web界面來監控爬蟲運行狀態和查看數據
    - 提供分析結果的視覺化展示
+   
+5. **更多爬蟲方式**:
+   - 添加 CloudScraper 模式
+   - 實現輪換使用者代理的功能
 
 

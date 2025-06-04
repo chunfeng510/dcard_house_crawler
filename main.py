@@ -11,7 +11,8 @@ from datetime import datetime
 # 將專案根目錄加入系統路徑
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from crawler.dcard_crawler import DcardCrawler
+# from crawler.selenium import SeleniumCrawler
+from crawler.scraperapi import ScraperApiCrawler
 from database.db_manager import DatabaseManager
 from analysis.gpt_analyzer import GPTAnalyzer
 from utils.helpers import ensure_directory, create_backup
@@ -42,6 +43,12 @@ def parse_arguments():
     parser.add_argument('--only-analyze', action='store_true', help='只執行 GPT 分析，不爬取新文章')
     parser.add_argument('--api-key', type=str, help='OpenAI API 金鑰')
     parser.add_argument('--gpt-model', type=str, default='gpt-3.5-turbo', help='使用的 GPT 模型')
+    parser.add_argument('--crawler', type=str, default='selenium', 
+                      choices=['selenium', 'scraperapi'], 
+                      help='選擇爬蟲方式：selenium 或 scraperapi')
+    parser.add_argument('--scraper-api-key', type=str, help='ScraperAPI 的 API 金鑰')
+    parser.add_argument('--no-render', action='store_true', 
+                      help='使用 ScraperAPI 時不渲染 JavaScript (更快但可能不完整)')
     return parser.parse_args()
 
 def verify_environment():
@@ -89,6 +96,21 @@ def run_analysis(api_key=None, model='gpt-3.5-turbo'):
         logger.error(f"GPT 分析過程中發生錯誤: {e}")
         return False
 
+def get_crawler(args):
+    """根據命令列參數獲取適當的爬蟲實例"""
+    # if args.crawler == 'selenium':
+    #     logger.info("使用 Selenium 爬蟲模式")
+    #     return SeleniumCrawler()
+    # el
+    if args.crawler == 'scraperapi':
+        api_key = args.scraper_api_key or '874493b63edbe6b44362b48525886d6c'  # 預設或自定義的 API 金鑰
+        render = not args.no_render  # 默認啟用渲染
+        logger.info(f"使用 ScraperAPI 爬蟲模式 (render={render})")
+        return ScraperApiCrawler(api_key=api_key, render=render)
+    else:
+        logger.warning(f"未知的爬蟲類型: {args.crawler}，使用默認的 Selenium 爬蟲")
+        return ScraperApiCrawler()
+
 def main():
     """主程式入口"""
     logger.info("==== Dcard房屋版爬蟲程式啟動 ====")
@@ -125,7 +147,9 @@ def main():
     crawl_success = False
     try:
         logger.info("開始爬蟲任務")
-        crawler = DcardCrawler()
+        
+        # 根據命令列參數選擇爬蟲方式
+        crawler = get_crawler(args)
         crawl_success = crawler.crawl()
         
         if crawl_success:
