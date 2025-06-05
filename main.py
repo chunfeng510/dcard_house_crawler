@@ -163,11 +163,11 @@ def main():
     except Exception as e:
         logger.error(f"爬蟲過程中發生錯誤: {e}")
     
-    # 如果需要分析或爬蟲成功，執行 GPT 分析
-    if args.analyze and (crawl_success or args.only_analyze):
+    # 僅在有指定 --analyze 或 --only-analyze 時才進行分析，預設不分析
+    if args.analyze or args.only_analyze:
         analysis_success = run_analysis(api_key=args.api_key, model=args.gpt_model)
         logger.info("==== Dcard房屋版爬蟲程式結束 ====")
-        return analysis_success
+        return analysis_success if args.only_analyze else (crawl_success and analysis_success)
     else:
         logger.info("==== Dcard房屋版爬蟲程式結束 ====")
         return crawl_success
