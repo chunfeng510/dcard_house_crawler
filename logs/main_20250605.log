@@ -1,0 +1,1560 @@
+2025-06-05 20:39:30,372 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-05 20:39:30,374 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-05 20:39:30,374 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-05 20:39:30,375 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 20:39:30,375 - __main__ - INFO - 資料庫連接測試成功
+2025-06-05 20:39:30,375 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 20:39:30,375 - __main__ - INFO - 環境驗證通過
+2025-06-05 20:39:30,375 - __main__ - INFO - 開始爬蟲任務
+2025-06-05 20:39:30,375 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-05 20:39:30,376 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 20:39:30,376 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-05 20:39:39,725 - utils.helpers - INFO - 讀取最後爬取的文章 ID: 258345484 (版面: house_purchase, 更新時間: 2025-06-05 13:46:21)
+2025-06-05 20:39:39,726 - crawler.zenrowsapi - INFO - 繼續從上次爬取的位置開始，last_id: 258345484
+2025-06-05 20:39:45,647 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258345484&limit=100
+2025-06-05 20:40:45,638 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204045.json
+2025-06-05 20:40:45,643 - database.db_manager - INFO - 成功插入文章: #資訊 代友發:二親等”真買賣+免代書”流程望斟酌參考
+2025-06-05 20:40:45,643 - database.db_manager - INFO - 成功插入文章: #問題 預售屋客變請益
+2025-06-05 20:40:45,644 - database.db_manager - INFO - 成功插入文章: #問題 三房格局請益
+2025-06-05 20:40:45,644 - database.db_manager - INFO - 成功插入文章: #問題 請問各位都怎麼抓適合買多少的房
+2025-06-05 20:40:45,645 - database.db_manager - INFO - 成功插入文章: #建議 市內設計請益
+2025-06-05 20:40:45,645 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢後放置多久？
+2025-06-05 20:40:45,646 - database.db_manager - INFO - 成功插入文章: 預售屋客變
+2025-06-05 20:40:45,646 - database.db_manager - INFO - 成功插入文章: #分享 新北可開發素地稀缺、泰山難得大樓新案受關注！
+2025-06-05 20:40:45,647 - database.db_manager - INFO - 成功插入文章: #問題 此預售屋格局有何需要注意的地方和建議
+2025-06-05 20:40:45,647 - database.db_manager - INFO - 成功插入文章: #裝潢 台中系統櫃廠商設計到裝修推薦
+2025-06-05 20:40:45,647 - database.db_manager - INFO - 成功插入文章: 嘉義民雄寶格雙星
+2025-06-05 20:40:45,648 - database.db_manager - INFO - 成功插入文章: #分享 竹科主人10
+2025-06-05 20:40:45,648 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:40:45,649 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 客變冷氣擺放位置
+2025-06-05 20:40:45,649 - database.db_manager - INFO - 成功插入文章: #問題 請問會嗎？
+2025-06-05 20:40:45,649 - database.db_manager - INFO - 成功插入文章: 預售屋3房2衛格局請益
+2025-06-05 20:40:45,650 - database.db_manager - INFO - 成功插入文章: #問題 關於房屋買賣中的房貸多貸問題
+2025-06-05 20:40:45,650 - database.db_manager - INFO - 成功插入文章: #裝潢 Ab膠透過保護工程地板，如何除掉？
+2025-06-05 20:40:45,650 - database.db_manager - INFO - 成功插入文章: 親友買賣
+2025-06-05 20:40:45,651 - database.db_manager - INFO - 成功插入文章: 預算有限的裝潢要做什麼？
+2025-06-05 20:40:45,651 - database.db_manager - INFO - 成功插入文章: 三房預售屋格局請益
+2025-06-05 20:40:45,652 - database.db_manager - INFO - 成功插入文章: #問題 巨蛋附近的新建案是不是都很貴啊？
+2025-06-05 20:40:45,652 - database.db_manager - INFO - 成功插入文章: 請益 主臥露台有緩降機
+2025-06-05 20:40:45,652 - database.db_manager - INFO - 成功插入文章: 裝潢設計請益
+2025-06-05 20:40:45,653 - database.db_manager - INFO - 成功插入文章: #裝潢 【開箱】台南木作輕裝潢
+2025-06-05 20:40:45,653 - database.db_manager - INFO - 成功插入文章: #資訊 新青安違規案件
+2025-06-05 20:40:45,653 - database.db_manager - INFO - 成功插入文章: 三+1格局請教大家
+2025-06-05 20:40:45,654 - database.db_manager - INFO - 成功插入文章: 兩房格局
+2025-06-05 20:40:45,654 - database.db_manager - INFO - 成功插入文章: #問題 預售屋三房格局請益
+2025-06-05 20:40:45,654 - database.db_manager - INFO - 成功插入文章: 更換代銷
+2025-06-05 20:40:45,655 - database.db_manager - INFO - 成功插入文章: 兩房一廳一衛格局請益
+2025-06-05 20:40:45,655 - database.db_manager - INFO - 成功插入文章: 臺南 安平 市政大道 觀察現狀
+2025-06-05 20:40:45,655 - database.db_manager - INFO - 成功插入文章: #板橋 預售屋濱河帝景
+2025-06-05 20:40:45,656 - database.db_manager - INFO - 成功插入文章: #建議 房屋格局請益
+2025-06-05 20:40:45,656 - database.db_manager - INFO - 成功插入文章: #問題 3房格局請教
+2025-06-05 20:40:45,657 - database.db_manager - INFO - 成功插入文章: 採光罩
+2025-06-05 20:40:45,657 - database.db_manager - INFO - 成功插入文章: #抱怨 一生只活一次 YOLO
+2025-06-05 20:40:45,657 - database.db_manager - INFO - 成功插入文章: #問題 預售屋請益-房中有大樑
+2025-06-05 20:40:45,658 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修必懂重點，不看一定後悔 ✅ 6. 施工流程大解密！裝潢到底要做哪些工？
+2025-06-05 20:40:45,658 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 20:40:45,658 - database.db_manager - INFO - 成功插入文章: 預售屋主結構完成到可以申請使照大概需要多久呢
+2025-06-05 20:40:45,659 - database.db_manager - INFO - 成功插入文章: #問題 冷氣裝一對一or一對多？
+2025-06-05 20:40:45,659 - database.db_manager - INFO - 成功插入文章: 斡旋順序
+2025-06-05 20:40:45,660 - database.db_manager - INFO - 成功插入文章: #裝潢 #預售屋#2+1房格局請益
+2025-06-05 20:40:45,660 - database.db_manager - INFO - 成功插入文章: #分享 大家怎不來住南部鄉下
+2025-06-05 20:40:45,660 - database.db_manager - INFO - 成功插入文章: #問題 新竹小建商第一案預售屋
+2025-06-05 20:40:45,661 - database.db_manager - INFO - 成功插入文章: #建議 32年中古大樓 頂樓戶 可以買嗎
+2025-06-05 20:40:45,661 - database.db_manager - INFO - 成功插入文章: 大同區預售屋請益
+2025-06-05 20:40:45,662 - database.db_manager - INFO - 成功插入文章: 車位選擇
+2025-06-05 20:40:45,662 - database.db_manager - INFO - 成功插入文章: #分享 從歐洲車道磚工藝到極致美學設計，打造質感停車空間！
+2025-06-05 20:40:45,662 - database.db_manager - INFO - 成功插入文章: #問題 竹北  兩房格局圖請益
+2025-06-05 20:40:45,663 - database.db_manager - INFO - 成功插入文章: #問題 請問公設鋼筋外露，房仲未告知，有責任嗎
+2025-06-05 20:40:45,663 - database.db_manager - INFO - 成功插入文章: #裝潢 新家裝潢請益！
+2025-06-05 20:40:45,663 - database.db_manager - INFO - 成功插入文章: #建議 #建議 預售屋四房格局請益
+2025-06-05 20:40:45,664 - database.db_manager - INFO - 成功插入文章: #預售屋兩房格局請益
+2025-06-05 20:40:45,664 - database.db_manager - INFO - 成功插入文章: #問題 最近的收支比新聞
+2025-06-05 20:40:45,665 - database.db_manager - INFO - 成功插入文章: #分享 2025第一季決策會議，看似沒有動作，實則很有動作
+2025-06-05 20:40:45,665 - database.db_manager - INFO - 成功插入文章: 客變新增插座費用
+2025-06-05 20:40:45,665 - database.db_manager - INFO - 成功插入文章: #問題 購屋貸款請益
+2025-06-05 20:40:45,666 - database.db_manager - INFO - 成功插入文章: 年薪50-60萬高雄買房
+2025-06-05 20:40:45,666 - database.db_manager - INFO - 成功插入文章: 央行跟政府唱反調啦～
+2025-06-05 20:40:45,666 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢建材色號分享⚡️
+2025-06-05 20:40:45,667 - database.db_manager - INFO - 成功插入文章: 板橋新埔商圈-民生新埔
+2025-06-05 20:40:45,667 - database.db_manager - INFO - 成功插入文章: 2025央行會議
+2025-06-05 20:40:45,668 - database.db_manager - INFO - 成功插入文章: #請益 全屋裝燈行情
+2025-06-05 20:40:45,668 - database.db_manager - INFO - 成功插入文章: #問題 想請問中間戶的房間主臥睡覺的床頭是隔壁鄰居客廳電視後面會影響健康嗎？
+2025-06-05 20:40:45,668 - database.db_manager - INFO - 成功插入文章: 公共設施保留地贈與避稅爭議
+2025-06-05 20:40:45,669 - database.db_manager - INFO - 成功插入文章: #問題 宜蘭置產推薦嗎
+2025-06-05 20:40:45,669 - database.db_manager - INFO - 成功插入文章: #資訊 自售 免仲
+北屯市心昂峰惟美13樓C戶平轉
+2房2衛
+B4機上車位
+基地位置青島路熱河路口
+絕版平轉價1257
+六月對保 
+轉約建商那邊會處理
+2025-06-05 20:40:45,669 - database.db_manager - INFO - 成功插入文章: #問題 中古屋買家具但預算有限
+2025-06-05 20:40:45,670 - database.db_manager - INFO - 成功插入文章: #預售屋2房格局請益
+2025-06-05 20:40:45,670 - database.db_manager - INFO - 成功插入文章: #貸款詢問
+2025-06-05 20:40:45,670 - database.db_manager - INFO - 成功插入文章: #建議 預售屋三房格局請益
+2025-06-05 20:40:45,671 - database.db_manager - INFO - 成功插入文章: #資訊 一天 73.4萬觸及 2.1萬互動
+2025-06-05 20:40:45,671 - database.db_manager - INFO - 成功插入文章: #建議 年薪60萬買房
+2025-06-05 20:40:45,671 - database.db_manager - INFO - 成功插入文章: #分享 首購族看房記
+2025-06-05 20:40:45,672 - database.db_manager - INFO - 成功插入文章: #建議 2+1房 改格局建議
+2025-06-05 20:40:45,672 - database.db_manager - INFO - 成功插入文章: 房貸過了🥹
+2025-06-05 20:40:45,672 - database.db_manager - INFO - 成功插入文章: #裝潢 窩要成老屋翻新｜17坪2房1衛｜士林德行東
+2025-06-05 20:40:45,673 - database.db_manager - INFO - 成功插入文章: 江翠北側單元C-立信晴朗
+2025-06-05 20:40:45,673 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修 必懂重點 不看一定後悔 ✅ 5. 什麼能省、什麼不能省？選材避坑指南，新手必看！
+2025-06-05 20:40:45,673 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 20:40:45,674 - database.db_manager - INFO - 成功插入文章: #資訊 房貸年限怎麼選？會受哪些條件影響？
+2025-06-05 20:40:45,674 - database.db_manager - INFO - 成功插入文章: 在內湖瑞光路上班，買哪裡比較好？
+2025-06-05 20:40:45,674 - database.db_manager - INFO - 成功插入文章: #問題 楠梓台積電掛牌了
+2025-06-05 20:40:45,675 - database.db_manager - INFO - 成功插入文章: #抱怨 國內外豪宅定義
+2025-06-05 20:40:45,675 - database.db_manager - INFO - 成功插入文章: #問題 車位請益🙏🙏
+2025-06-05 20:40:45,675 - database.db_manager - INFO - 成功插入文章: #裝潢 玄關與餐桌動線擺放請益
+2025-06-05 20:40:45,676 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:40:45,676 - database.db_manager - INFO - 成功插入文章: #問題 房貸諮詢本身條件差
+2025-06-05 20:40:45,676 - database.db_manager - INFO - 成功插入文章: 請益39坪格局規劃
+2025-06-05 20:40:45,677 - database.db_manager - INFO - 成功插入文章: #裝潢 電視牆設計全攻略！
+2025-06-05 20:40:45,677 - database.db_manager - INFO - 成功插入文章: 首購族沒爸媽金援 在桃園還能買到房嗎 🤔
+2025-06-05 20:40:45,677 - database.db_manager - INFO - 成功插入文章: #分享 ｜台南｜磁磚換木地板，打造溫暖舒適的居家空間
+2025-06-05 20:40:45,678 - database.db_manager - INFO - 成功插入文章: 長輩年紀大，選透天還是社區大樓？
+2025-06-05 20:40:45,678 - database.db_manager - INFO - 成功插入文章: #裝潢 從兩房到透天厝：台中四代同堂家庭的裝修心路歷程
+2025-06-05 20:40:45,678 - database.db_manager - INFO - 成功插入文章: #請益 全戶淨水軟水
+2025-06-05 20:40:45,679 - database.db_manager - INFO - 成功插入文章: #資訊 林口 聿翔沐風已購戶交流社群
+2025-06-05 20:40:45,679 - database.db_manager - INFO - 成功插入文章: 韓國買房
+2025-06-05 20:40:45,679 - database.db_manager - INFO - 成功插入文章: #問題 格局請益
+2025-06-05 20:40:45,679 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:40:45,680 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258297740 (版面: house_purchase)
+2025-06-05 20:40:45,680 - crawler.zenrowsapi - INFO - 已處理 100/1000 篇文章，最後ID: 258297740
+2025-06-05 20:40:48,688 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258297740&limit=100
+2025-06-05 20:42:26,652 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204226.json
+2025-06-05 20:42:26,654 - database.db_manager - INFO - 成功插入文章: 電線桿
+2025-06-05 20:42:26,655 - database.db_manager - INFO - 成功插入文章: 買房建議做居家鍍膜維持環境嗎??
+2025-06-05 20:42:26,656 - database.db_manager - INFO - 成功插入文章: #裝潢 我把阿公的台南老透天翻新了！
+2025-06-05 20:42:26,656 - database.db_manager - INFO - 成功插入文章: #問題 此預售屋格局有何需要注意的地方和建議
+2025-06-05 20:42:26,657 - database.db_manager - INFO - 成功插入文章: 預售屋下訂金簽約流程
+2025-06-05 20:42:26,657 - database.db_manager - INFO - 成功插入文章: #問題 請教預售格局
+2025-06-05 20:42:26,658 - database.db_manager - INFO - 成功插入文章: #分享 新北預售屋 LG07大同新紀元LG08和御 LG09馥春錦
+2025-06-05 20:42:26,659 - database.db_manager - INFO - 成功插入文章: 請益格局
+2025-06-05 20:42:26,661 - database.db_manager - INFO - 成功插入文章: 小坪數首購想用青安會被強迫推銷買其他產品嗎？
+2025-06-05 20:42:26,661 - database.db_manager - INFO - 成功插入文章: #建議 請問這樣的房型需要客變嗎？
+2025-06-05 20:42:26,663 - database.db_manager - INFO - 成功插入文章: #資訊 築巢優利貸
+2025-06-05 20:42:26,666 - database.db_manager - INFO - 成功插入文章: 年薪百萬 首購地區選擇
+2025-06-05 20:42:26,669 - database.db_manager - INFO - 成功插入文章: 台北豪宅大觀園
+2025-06-05 20:42:26,670 - database.db_manager - INFO - 成功插入文章: 大家能接受小坪數嗎？
+2025-06-05 20:42:26,670 - database.db_manager - INFO - 成功插入文章: #裝潢 4房改3房格局請益
+2025-06-05 20:42:26,671 - database.db_manager - INFO - 成功插入文章: #資訊 鉅虹建設｜台中十三期 3009坪超大基地・高綠覆宜居2-3房 潛銷分享！
+2025-06-05 20:42:26,672 - database.db_manager - INFO - 成功插入文章: 鳳山、楠梓都要4字頭？
+2025-06-05 20:42:26,675 - database.db_manager - INFO - 成功插入文章: #問題 #問題 有人可以給一點看房小白建議嗎🥹
+2025-06-05 20:42:26,678 - database.db_manager - INFO - 成功插入文章: #資訊 有神xx揚的住戶嗎
+2025-06-05 20:42:26,680 - database.db_manager - INFO - 成功插入文章: 小坪數貸款（不懂就問）
+2025-06-05 20:42:26,680 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修重點 不看一定後悔 ✅ 4. 空間規劃超重要！這些細節沒想好，住進去一定崩潰！
+2025-06-05 20:42:26,681 - database.db_manager - INFO - 成功插入文章: （2025.2月信義房價指數）房價給我繼續噴！繼續噴！繼續噴！
+2025-06-05 20:42:26,681 - database.db_manager - INFO - 成功插入文章: #問題 頭份 築上惠友 建案討論
+2025-06-05 20:42:26,682 - database.db_manager - INFO - 成功插入文章: 糞管問題
+2025-06-05 20:42:26,682 - database.db_manager - INFO - 成功插入文章: 房價問題
+2025-06-05 20:42:26,683 - database.db_manager - INFO - 成功插入文章: #問題 第一次買房裝潢費用請益
+2025-06-05 20:42:26,684 - database.db_manager - INFO - 成功插入文章: #建議 2+1、3房請益
+2025-06-05 20:42:26,685 - database.db_manager - INFO - 成功插入文章: #裝潢 新成屋的裝潢家電安裝順序
+2025-06-05 20:42:26,686 - database.db_manager - INFO - 成功插入文章: 請益此預售屋格局有何需要注意的地方和建議
+2025-06-05 20:42:26,688 - database.db_manager - INFO - 成功插入文章: #分享 家電選擇
+2025-06-05 20:42:26,689 - database.db_manager - INFO - 成功插入文章: #資訊 房子漏水怎麼辦？(一)如何判斷以及解決方法
+2025-06-05 20:42:26,690 - database.db_manager - INFO - 成功插入文章: #問題 宜蘭員山買房選擇
+2025-06-05 20:42:26,692 - database.db_manager - INFO - 成功插入文章: #建議 預售屋兩房格局
+2025-06-05 20:42:26,697 - database.db_manager - INFO - 成功插入文章: 預售屋3年前700萬，現在662萬，到底在哪裏？
+2025-06-05 20:42:26,699 - database.db_manager - INFO - 成功插入文章: #資訊 台灣年輕人的未來徹底被新青安玩壞了吧
+2025-06-05 20:42:26,700 - database.db_manager - INFO - 成功插入文章: #問題 預售屋請益
+2025-06-05 20:42:26,702 - database.db_manager - INFO - 成功插入文章: 小坪數落塵區
+2025-06-05 20:42:26,705 - database.db_manager - INFO - 成功插入文章: 買預售屋
+2025-06-05 20:42:26,706 - database.db_manager - INFO - 成功插入文章: 父母不同戶籍，小孩學區認定？
+2025-06-05 20:42:26,714 - database.db_manager - INFO - 成功插入文章: #建議 #請益 預售三房格局請益
+2025-06-05 20:42:26,716 - database.db_manager - INFO - 成功插入文章: #問題 頭份吾居吾墅已購戶群組
+2025-06-05 20:42:26,720 - database.db_manager - INFO - 成功插入文章: #問題 預售屋兩房兩衛格局詢問🙋‍♀️🥹
+2025-06-05 20:42:26,721 - database.db_manager - INFO - 成功插入文章: 請問社區保全費這樣算多嗎？
+2025-06-05 20:42:26,722 - database.db_manager - INFO - 成功插入文章: #資訊 台北老宅tour😘😘
+2025-06-05 20:42:26,723 - database.db_manager - INFO - 成功插入文章: #問題 希望有人可以給一點建議🥹
+2025-06-05 20:42:26,723 - database.db_manager - INFO - 成功插入文章: #資訊  <分享>預售屋微客變介紹
+2025-06-05 20:42:26,724 - database.db_manager - INFO - 成功插入文章: #裝潢 油漆面改善請益
+2025-06-05 20:42:26,726 - database.db_manager - INFO - 成功插入文章: 台銀下週開始房貸減成？
+2025-06-05 20:42:26,727 - database.db_manager - INFO - 成功插入文章: #問題 #建議 預售屋兩房格局請益
+2025-06-05 20:42:26,729 - database.db_manager - INFO - 成功插入文章: 年輕人是不是根本不用著急買台灣的房?
+2025-06-05 20:42:26,730 - database.db_manager - INFO - 成功插入文章: #問題 老社區電梯異音
+2025-06-05 20:42:26,731 - database.db_manager - INFO - 成功插入文章: #裝潢 進場拆除-老舊公寓
+2025-06-05 20:42:26,731 - database.db_manager - INFO - 成功插入文章: #問題 想詢問買房棟距、樓高問題
+2025-06-05 20:42:26,732 - database.db_manager - INFO - 成功插入文章: 大埔台積發展
+2025-06-05 20:42:26,734 - database.db_manager - INFO - 成功插入文章: #問題 預售3房格局請益
+2025-06-05 20:42:26,741 - database.db_manager - INFO - 成功插入文章: #問題 預售屋3房格局
+2025-06-05 20:42:26,743 - database.db_manager - INFO - 成功插入文章: 2025近期房貸利率
+2025-06-05 20:42:26,744 - database.db_manager - INFO - 成功插入文章: 櫻花建設 烏日新案｜環河路五段 2-4 房新案分享
+2025-06-05 20:42:26,745 - database.db_manager - INFO - 成功插入文章: 首購房貸利率
+2025-06-05 20:42:26,746 - database.db_manager - INFO - 成功插入文章: (更）對保後沒消息
+2025-06-05 20:42:26,747 - database.db_manager - INFO - 成功插入文章: #問題 普通台北市民都怎買房的？
+2025-06-05 20:42:26,748 - database.db_manager - INFO - 成功插入文章: 裝潢設計
+2025-06-05 20:42:26,749 - database.db_manager - INFO - 成功插入文章: #分享 冷知識 其實只有25%的年輕人有買房
+2025-06-05 20:42:26,750 - database.db_manager - INFO - 成功插入文章: 預售屋兩房有什麼優缺點
+2025-06-05 20:42:26,751 - database.db_manager - INFO - 成功插入文章: 小坪數貸款問題
+2025-06-05 20:42:26,752 - database.db_manager - INFO - 成功插入文章: #裝潢 【30年老屋重生】簡約風 × 高質感翻新，打造理想生活空間
+2025-06-05 20:42:26,753 - database.db_manager - INFO - 成功插入文章: #問題 預售屋三房格局請益
+2025-06-05 20:42:26,754 - database.db_manager - INFO - 成功插入文章: 建商合理嗎？
+2025-06-05 20:42:26,755 - database.db_manager - INFO - 成功插入文章: #資訊 2025年房屋稅與地價稅新制重點整理
+2025-06-05 20:42:26,755 - database.db_manager - INFO - 成功插入文章: 房貸 銀行核出條件
+2025-06-05 20:42:26,760 - database.db_manager - INFO - 成功插入文章: #問題 苗栗還能買？大矽谷計畫跟台積電擴廠是認真的還是又在畫餅？
+2025-06-05 20:42:26,930 - database.db_manager - INFO - 成功插入文章: #裝潢 從新成屋到理想家：台中家庭的裝潢全紀錄
+2025-06-05 20:42:26,942 - database.db_manager - INFO - 成功插入文章: #問題 室內20坪以下的房子
+2025-06-05 20:42:26,986 - database.db_manager - INFO - 成功插入文章: #建議 三房兩廳格局請益
+2025-06-05 20:42:26,996 - database.db_manager - INFO - 成功插入文章: 工程裝潢
+2025-06-05 20:42:26,997 - database.db_manager - INFO - 成功插入文章: #裝潢 工程蟑螂
+2025-06-05 20:42:26,998 - database.db_manager - INFO - 成功插入文章: #問題 請益這樣的房價/所得是否買的下來
+2025-06-05 20:42:26,999 - database.db_manager - INFO - 成功插入文章: #問題 已經付訂的預售都賣不出去
+2025-06-05 20:42:26,999 - database.db_manager - INFO - 成功插入文章: 求助：回租是否還要清空交屋
+2025-06-05 20:42:27,000 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修 必懂重點 不看一定後悔 ✅ 3. 報價單怎麼看？這 3 個常見陷阱一定要避開！
+2025-06-05 20:42:27,002 - database.db_manager - INFO - 成功插入文章: 兩房格局是否有缺點
+2025-06-05 20:42:27,003 - database.db_manager - INFO - 成功插入文章: #問題 房屋稅，地價稅疑問
+2025-06-05 20:42:27,006 - database.db_manager - INFO - 成功插入文章: #裝潢 招財廚房 老屋改造血淚史第一次分享
+2025-06-05 20:42:27,007 - database.db_manager - INFO - 成功插入文章: 買房
+2025-06-05 20:42:27,010 - database.db_manager - INFO - 成功插入文章: 買房
+2025-06-05 20:42:27,011 - database.db_manager - INFO - 成功插入文章: #問題 想問新竹的朋朋們🥹香山牛埔有空汙的問題嗎🥲
+2025-06-05 20:42:27,012 - database.db_manager - INFO - 成功插入文章: #抱怨 台南市政府縱容日東昇建設、日盛升建設在我家土地蓋違建不拆除
+2025-06-05 20:42:27,014 - database.db_manager - INFO - 成功插入文章: #裝潢 10款造型天花板分享⚡️
+2025-06-05 20:42:27,016 - database.db_manager - INFO - 成功插入文章: #問題 這格局適合哪種族群?
+2025-06-05 20:42:27,017 - database.db_manager - INFO - 成功插入文章: 廚房改位子
+2025-06-05 20:42:27,018 - database.db_manager - INFO - 成功插入文章: 有關外電的相關問題
+2025-06-05 20:42:27,020 - database.db_manager - INFO - 成功插入文章: #問題 請問本身條件不好能否貸過新青安
+2025-06-05 20:42:27,021 - database.db_manager - INFO - 成功插入文章: 新青安真的會查是否自住
+2025-06-05 20:42:27,023 - database.db_manager - INFO - 成功插入文章: 距離國道7號300公尺的房
+2025-06-05 20:42:27,025 - database.db_manager - INFO - 成功插入文章: #裝潢 台南室內設計公司推薦
+2025-06-05 20:42:27,029 - database.db_manager - INFO - 成功插入文章: #資訊 「建商積極卡位大里二期黃金角地，區域價值飆升！」
+2025-06-05 20:42:27,030 - database.db_manager - INFO - 成功插入文章: 夢幻小套房❤️
+2025-06-05 20:42:27,032 - database.db_manager - INFO - 成功插入文章: #資訊 #活動分享 「不動產業者識詐應對與法律風險」座談會
+2025-06-05 20:42:27,034 - database.db_manager - INFO - 成功插入文章: 有透天小資裝潢分享推薦嗎？
+2025-06-05 20:42:27,035 - database.db_manager - INFO - 成功插入文章: #問題 請益預售屋2房格局
+2025-06-05 20:42:27,037 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:42:27,039 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258247794 (版面: house_purchase)
+2025-06-05 20:42:27,039 - crawler.zenrowsapi - INFO - 已處理 200/1000 篇文章，最後ID: 258247794
+2025-06-05 20:42:30,047 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258247794&limit=100
+2025-06-05 20:42:41,522 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204241.json
+2025-06-05 20:42:41,523 - database.db_manager - INFO - 成功插入文章: #問題 請益想中部三房
+2025-06-05 20:42:41,524 - database.db_manager - INFO - 成功插入文章: #空間裝修 裝潢報價單請益
+2025-06-05 20:42:41,525 - database.db_manager - INFO - 成功插入文章: #裝潢 小資族裝潢詢問～
+2025-06-05 20:42:41,525 - database.db_manager - INFO - 成功插入文章: 請益2+1房格局
+2025-06-05 20:42:41,526 - database.db_manager - INFO - 成功插入文章: 公教房貸85成條件，這樣可以過嗎
+2025-06-05 20:42:41,526 - database.db_manager - INFO - 成功插入文章: #分享 最後買了舊曲的新房子
+2025-06-05 20:42:41,527 - database.db_manager - INFO - 成功插入文章: 預售屋2房格局
+2025-06-05 20:42:41,527 - database.db_manager - INFO - 成功插入文章: #問題 什麼人才能買的起房呢
+2025-06-05 20:42:41,528 - database.db_manager - INFO - 成功插入文章: #裝潢 台北小宅系統櫃分享🏠
+2025-06-05 20:42:41,528 - database.db_manager - INFO - 成功插入文章: #裝潢 分享 新北市三房新成屋
+2025-06-05 20:42:41,528 - database.db_manager - INFO - 成功插入文章: #問題 找廚房廚具系統櫃推薦廠商或設計師
+2025-06-05 20:42:41,529 - database.db_manager - INFO - 成功插入文章: 請幫忙看看格局～
+2025-06-05 20:42:41,529 - database.db_manager - INFO - 成功插入文章: 驗屋-總存水彎拿不起來
+2025-06-05 20:42:41,530 - database.db_manager - INFO - 成功插入文章: 社區型透天購屋的問題
+2025-06-05 20:42:41,530 - database.db_manager - INFO - 成功插入文章: #裝潢 開放式衣帽間問題請教
+2025-06-05 20:42:41,530 - database.db_manager - INFO - 成功插入文章: #建議 （請益）三房二進式玄關規劃？
+2025-06-05 20:42:41,531 - database.db_manager - INFO - 成功插入文章: #問題 預售屋裝潢設計請益
+2025-06-05 20:42:41,533 - database.db_manager - INFO - 成功插入文章: #裝潢 該不該自己裝潢買老屋
+2025-06-05 20:42:41,533 - database.db_manager - INFO - 成功插入文章: #問題 兩房格局
+2025-06-05 20:42:41,534 - database.db_manager - INFO - 成功插入文章: #裝潢 小廚房5招放大術！
+2025-06-05 20:42:41,534 - database.db_manager - INFO - 成功插入文章: 預售屋請益相關問題
+2025-06-05 20:42:41,534 - database.db_manager - INFO - 成功插入文章: 三房兩廳裝潢規劃請益
+2025-06-05 20:42:41,535 - database.db_manager - INFO - 成功插入文章: #裝潢 桃園裝潢設計推薦
+2025-06-05 20:42:41,535 - database.db_manager - INFO - 成功插入文章: #分享 #預售屋心得 #31歲 父母無資助 在新北買了第三間房
+2025-06-05 20:42:41,536 - database.db_manager - INFO - 成功插入文章: 新房格局
+2025-06-05 20:42:41,536 - database.db_manager - INFO - 成功插入文章: #問題 未婚女性購屋調查
+2025-06-05 20:42:41,536 - database.db_manager - INFO - 成功插入文章: #驗屋 全面比較：16家驗屋公司報價大公開！
+2025-06-05 20:42:41,537 - database.db_manager - INFO - 成功插入文章: 買賣契約簽訂後，服務費還有談的空間嗎？
+2025-06-05 20:42:41,537 - database.db_manager - INFO - 成功插入文章: #資訊 房貸問題
+2025-06-05 20:42:41,538 - database.db_manager - INFO - 成功插入文章: 想請益一下這間兩房格局如何？
+2025-06-05 20:42:41,538 - database.db_manager - INFO - 成功插入文章: #問題 現在新北1700買得到中古電梯三房嗎
+2025-06-05 20:42:41,539 - database.db_manager - INFO - 成功插入文章: 未簽設計約，設計師要求付費
+2025-06-05 20:42:41,540 - database.db_manager - INFO - 成功插入文章: 想請教一下幾個問題
+2025-06-05 20:42:41,540 - database.db_manager - INFO - 成功插入文章: 不買了
+2025-06-05 20:42:41,541 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 20:42:41,541 - database.db_manager - INFO - 成功插入文章: #問題 豪宅稅新增門檻對購屋會有影響嗎？
+2025-06-05 20:42:41,541 - database.db_manager - INFO - 成功插入文章: 建商要買我家
+2025-06-05 20:42:41,542 - database.db_manager - INFO - 成功插入文章: 台中格局圖請益
+2025-06-05 20:42:41,542 - database.db_manager - INFO - 成功插入文章: 龜山區的上下龜山區分
+2025-06-05 20:42:41,543 - database.db_manager - INFO - 成功插入文章: #問題 板橋預售屋詢問
+2025-06-05 20:42:41,543 - database.db_manager - INFO - 成功插入文章: #問題 桃園中古屋總價800推薦
+2025-06-05 20:42:41,543 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 新手裝潢全攻略 10大裝修必懂重點 不看一定後悔 ✅ 2. 裝潢找谁做？裝潢公司、設計師、自己找工班，怎麼選？
+2025-06-05 20:42:41,544 - database.db_manager - INFO - 成功插入文章: #建議 三房格局建議
+2025-06-05 20:42:41,544 - database.db_manager - INFO - 成功插入文章: 台積出走，帥過頭說要跌了
+2025-06-05 20:42:41,544 - database.db_manager - INFO - 成功插入文章: #資訊 尋找桃園楊梅鼎藏昕站 已購戶
+2025-06-05 20:42:41,545 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 20:42:41,545 - database.db_manager - INFO - 成功插入文章: #發問 #更新 1+1房預售屋格局請益
+2025-06-05 20:42:41,545 - database.db_manager - INFO - 成功插入文章: 🙏🏻研究問卷調查，誠摯邀請您的寶貴經驗🥺🙏🏻
+2025-06-05 20:42:41,546 - database.db_manager - INFO - 成功插入文章: #分享 我買了4間房
+2025-06-05 20:42:41,547 - database.db_manager - INFO - 成功插入文章: #問題 統包報價討論的次數
+2025-06-05 20:42:41,547 - database.db_manager - INFO - 成功插入文章: #問題 貸款撥款時間請教
+2025-06-05 20:42:41,548 - database.db_manager - INFO - 成功插入文章: #問題 桃園總價八百萬內買兩房
+2025-06-05 20:42:41,548 - database.db_manager - INFO - 成功插入文章: 牆角凸一塊🥲
+2025-06-05 20:42:41,548 - database.db_manager - INFO - 成功插入文章: 預售屋兩房格局請益
+2025-06-05 20:42:41,549 - database.db_manager - INFO - 成功插入文章: 三房預售屋格局請益
+2025-06-05 20:42:41,549 - database.db_manager - INFO - 成功插入文章: 各位前輩是如何買房的？
+2025-06-05 20:42:41,549 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局
+2025-06-05 20:42:41,550 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:42:41,550 - database.db_manager - INFO - 成功插入文章: #問題 台北人怎都不把自己公寓拉皮一下？
+2025-06-05 20:42:41,550 - database.db_manager - INFO - 成功插入文章: #建議 該繼續租屋還是將就買房？
+2025-06-05 20:42:41,551 - database.db_manager - INFO - 成功插入文章: #裝潢 #詢問 屋研所評價
+2025-06-05 20:42:41,552 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 20:42:41,553 - database.db_manager - INFO - 成功插入文章: #問題 要買桃園火車站小套房嗎？
+2025-06-05 20:42:41,554 - database.db_manager - INFO - 成功插入文章: #問題 三房格局請益，求詳解
+2025-06-05 20:42:41,554 - database.db_manager - INFO - 成功插入文章: #建議 信貸會影響房貸嗎
+2025-06-05 20:42:41,560 - database.db_manager - INFO - 成功插入文章: 辦房貸印章選擇
+2025-06-05 20:42:41,560 - database.db_manager - INFO - 成功插入文章: #建議 三房預售屋格局請益🙏🏻
+2025-06-05 20:42:41,561 - database.db_manager - INFO - 成功插入文章: 拆架後多久會交屋
+2025-06-05 20:42:41,561 - database.db_manager - INFO - 成功插入文章: 有人知道這樣是否是獨立管線嗎？
+2025-06-05 20:42:41,562 - database.db_manager - INFO - 成功插入文章: 房屋格局請益
+2025-06-05 20:42:41,562 - database.db_manager - INFO - 成功插入文章: 購屋遇到漏水問題，求解決方案
+2025-06-05 20:42:41,563 - database.db_manager - INFO - 成功插入文章: #建議 中古屋房貸詢問
+2025-06-05 20:42:41,563 - database.db_manager - INFO - 成功插入文章: #裝潢 新北25坪老公寓翻新分享
+2025-06-05 20:42:41,564 - database.db_manager - INFO - 成功插入文章: #請益 換工作貸款問題
+2025-06-05 20:42:41,564 - database.db_manager - INFO - 成功插入文章: 台中兩房預售屋 請益格局🙏
+2025-06-05 20:42:41,565 - database.db_manager - INFO - 成功插入文章: ［請益］新成屋格局
+2025-06-05 20:42:41,565 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸問題
+2025-06-05 20:42:41,565 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 20:42:41,566 - database.db_manager - INFO - 成功插入文章: #問題 已經賣一百多戶了但找不到實價登錄
+2025-06-05 20:42:41,566 - database.db_manager - INFO - 成功插入文章: 房價跌多少正常？
+2025-06-05 20:42:41,567 - database.db_manager - INFO - 成功插入文章: #請益 新北汐止貸款利率/成數
+2025-06-05 20:42:41,567 - database.db_manager - INFO - 成功插入文章: #建議 如果近期沒打算買房的話是否就不適合去找仲介帶看?
+2025-06-05 20:42:41,568 - database.db_manager - INFO - 成功插入文章: 郵局房貸利率問題(新手）
+2025-06-05 20:42:41,568 - database.db_manager - INFO - 成功插入文章: 新成屋需要花錢驗屋嗎？
+2025-06-05 20:42:41,569 - database.db_manager - INFO - 成功插入文章: 預售屋格局
+2025-06-05 20:42:41,569 - database.db_manager - INFO - 成功插入文章: 徵求桃園中壢地區統包或室內設計（老屋翻新）
+2025-06-05 20:42:41,570 - database.db_manager - INFO - 成功插入文章: 請益 有人知道有偶設計嗎？
+2025-06-05 20:42:41,570 - database.db_manager - INFO - 成功插入文章: #驗屋 真的有建商不怕你驗
+2025-06-05 20:42:41,571 - database.db_manager - INFO - 成功插入文章: 找房
+2025-06-05 20:42:41,571 - database.db_manager - INFO - 成功插入文章: 北高科工館OR南高文化中心?求建案推薦
+2025-06-05 20:42:41,571 - database.db_manager - INFO - 成功插入文章: 什麼樣因素最能影響房價
+2025-06-05 20:42:41,572 - database.db_manager - INFO - 成功插入文章: #問題 重購退稅的錢要給前女友嗎？
+2025-06-05 20:42:41,572 - database.db_manager - INFO - 成功插入文章: 分享宜蘭買房
+2025-06-05 20:42:41,573 - database.db_manager - INFO - 成功插入文章: #資訊 🌟營造成本持續上揚..
+2025-06-05 20:42:41,575 - database.db_manager - INFO - 成功插入文章: 九個月後的貸款變化
+2025-06-05 20:42:41,576 - database.db_manager - INFO - 成功插入文章: 把多的老房子賣掉
+2025-06-05 20:42:41,580 - database.db_manager - INFO - 成功插入文章: #問題 電梯保養費用
+2025-06-05 20:42:41,581 - database.db_manager - INFO - 成功插入文章: #裝潢 想詢問台中歐威室內設計
+2025-06-05 20:42:41,581 - database.db_manager - INFO - 成功插入文章: 台中北屯 豐益風禾 轉讓
+2025-06-05 20:42:41,582 - database.db_manager - INFO - 成功插入文章: 想請問這間預售屋格局怎麼樣🥹謝謝
+2025-06-05 20:42:41,582 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:42:41,583 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258189431 (版面: house_purchase)
+2025-06-05 20:42:41,583 - crawler.zenrowsapi - INFO - 已處理 300/1000 篇文章，最後ID: 258189431
+2025-06-05 20:42:44,584 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258189431&limit=100
+2025-06-05 20:43:21,110 - crawler.zenrowsapi - ERROR - 響應中未找到文章數據
+2025-06-05 20:43:21,112 - crawler.zenrowsapi - WARNING - 沒有更多文章或請求失敗
+2025-06-05 20:43:21,113 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 20:43:21,115 - __main__ - INFO - 爬蟲任務完成
+2025-06-05 20:43:21,115 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-05 20:44:32,796 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-05 20:44:32,799 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-05 20:44:32,799 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-05 20:44:32,799 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 20:44:32,799 - __main__ - INFO - 資料庫連接測試成功
+2025-06-05 20:44:32,800 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 20:44:32,800 - __main__ - INFO - 環境驗證通過
+2025-06-05 20:44:32,800 - __main__ - INFO - 開始爬蟲任務
+2025-06-05 20:44:32,800 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-05 20:44:32,800 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 20:44:32,800 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-05 20:44:32,801 - utils.helpers - INFO - 讀取最後爬取的文章 ID: 258189431 (版面: house_purchase, 更新時間: 2025-06-05 20:42:41)
+2025-06-05 20:44:32,801 - crawler.zenrowsapi - INFO - 繼續從上次爬取的位置開始，last_id: 258189431
+2025-06-05 20:44:32,801 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258189431&limit=100
+2025-06-05 20:44:45,026 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204444.json
+2025-06-05 20:44:45,029 - database.db_manager - INFO - 成功插入文章: #裝潢 圓弧設計分享⚡️
+2025-06-05 20:44:45,029 - database.db_manager - INFO - 成功插入文章: 網路上疑美棄台論大肆宣揚，為什麼迄今沒有房屋被急售呢？？
+2025-06-05 20:44:45,030 - database.db_manager - INFO - 成功插入文章: #裝潢 窩要成老屋翻新｜26坪3房2衛｜中山區合江
+2025-06-05 20:44:45,030 - database.db_manager - INFO - 成功插入文章: ［房貸］新成屋房貸詢問
+2025-06-05 20:44:45,031 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修重點 1.先抓好裝潢預算
+2025-06-05 20:44:45,031 - database.db_manager - INFO - 成功插入文章: #問題 新莊副都心(富都馨)有人想買嗎
+2025-06-05 20:44:45,032 - database.db_manager - INFO - 成功插入文章: #問題 桃園2000萬買新房
+2025-06-05 20:44:45,032 - database.db_manager - INFO - 成功插入文章: #裝潢 冷氣排水疑問
+2025-06-05 20:44:45,033 - database.db_manager - INFO - 成功插入文章: #問題 新風機選購建議
+2025-06-05 20:44:45,033 - database.db_manager - INFO - 成功插入文章: #裝潢 #請益 沙發上放有樑的的傢俱擺放位置
+2025-06-05 20:44:45,034 - database.db_manager - INFO - 成功插入文章: #資訊 社會住宅優缺點？租屋族別錯過這些資訊！
+2025-06-05 20:44:45,034 - database.db_manager - INFO - 成功插入文章: #裝潢 請問裝潢報價
+2025-06-05 20:44:45,034 - database.db_manager - INFO - 成功插入文章: #分享 房屋買賣炒房術
+2025-06-05 20:44:45,035 - database.db_manager - INFO - 成功插入文章: #資訊 🌟大里土地創新高
+2025-06-05 20:44:45,035 - database.db_manager - INFO - 成功插入文章: #問題 購屋預算
+2025-06-05 20:44:45,036 - database.db_manager - INFO - 成功插入文章: #裝潢 房內衣帽間規劃詢問
+2025-06-05 20:44:45,036 - database.db_manager - INFO - 成功插入文章: 有人在台南新化買蒔睶的建案嗎？
+2025-06-05 20:44:45,036 - database.db_manager - INFO - 成功插入文章: #抱怨 國揚大南方和國揚光河的預售案，參考一下我購買該集團的體驗
+2025-06-05 20:44:45,037 - database.db_manager - INFO - 成功插入文章: #資訊 賣掉房子改買聯博高收益或安聯穩定月配，好嗎？
+2025-06-05 20:44:45,037 - database.db_manager - INFO - 成功插入文章: #資訊 🌟中興大學BOT醫療園區
+2025-06-05 20:44:45,038 - database.db_manager - INFO - 成功插入文章: #問題 很好奇詢問 「新屋」這個區域是不是被大家遺忘
+2025-06-05 20:44:45,038 - database.db_manager - INFO - 成功插入文章: #裝潢 預售三房格局請益
+2025-06-05 20:44:45,039 - database.db_manager - INFO - 成功插入文章: #建議 請教各位，最近要購入預售屋
+因為是新手小白，不知這兩戶格局怎麼選
+猶豫不決的我，麻煩各位建議了
+2025-06-05 20:44:45,039 - database.db_manager - INFO - 成功插入文章: #問題 預售屋三房格局請益
+2025-06-05 20:44:45,039 - database.db_manager - INFO - 成功插入文章: #建議 開門見灶又是長型格局
+2025-06-05 20:44:45,040 - database.db_manager - INFO - 成功插入文章: #裝潢 2房還是2+1?
+2025-06-05 20:44:45,040 - database.db_manager - INFO - 成功插入文章: #建議 格局請益🙏
+2025-06-05 20:44:45,041 - database.db_manager - INFO - 成功插入文章: #分享 西區門戶計畫-皇翔Aster One
+2025-06-05 20:44:45,041 - database.db_manager - INFO - 成功插入文章: #問題 宜蘭建案選擇
+2025-06-05 20:44:45,041 - database.db_manager - INFO - 成功插入文章: #問題 快交屋了，建商卻要寄存證信函給我
+2025-06-05 20:44:45,042 - database.db_manager - INFO - 成功插入文章: #問題 最近剛成交，請問貸款是否建議搭配壽險或是理財產品？
+2025-06-05 20:44:45,042 - database.db_manager - INFO - 成功插入文章: 台中藍捷2025即將動工，持續關注沙鹿後站房市
+2025-06-05 20:44:45,043 - database.db_manager - INFO - 成功插入文章: #問題 開工跟動工定義？
+2025-06-05 20:44:45,043 - database.db_manager - INFO - 成功插入文章: #建議 外買車位管理費
+2025-06-05 20:44:45,043 - database.db_manager - INFO - 成功插入文章: #建議 房貸/負債比
+2025-06-05 20:44:45,044 - database.db_manager - INFO - 成功插入文章: 購物地點
+2025-06-05 20:44:45,044 - database.db_manager - INFO - 成功插入文章: 2025銀行房貸利率30年或40年選擇?
+2025-06-05 20:44:45,045 - database.db_manager - INFO - 成功插入文章: #問題 三房格局請益
+2025-06-05 20:44:45,045 - database.db_manager - INFO - 成功插入文章: 戰爭機率多高
+2025-06-05 20:44:45,045 - database.db_manager - INFO - 成功插入文章: 小建商的預售屋真的很可怕
+2025-06-05 20:44:45,046 - database.db_manager - INFO - 成功插入文章: #抱怨 買房家裡意見多
+2025-06-05 20:44:45,046 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋川字型兩房格局請益
+2025-06-05 20:44:45,046 - database.db_manager - INFO - 成功插入文章: #裝潢 裝修預算怎麼抓？7個真實案例看裝潢費用！
+2025-06-05 20:44:45,047 - database.db_manager - INFO - 成功插入文章: #問題 預售屋客變 客廳位置請益🙏
+2025-06-05 20:44:45,047 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 20:44:45,048 - database.db_manager - INFO - 成功插入文章: 預售屋三房格局圖請益
+2025-06-05 20:44:45,048 - database.db_manager - INFO - 成功插入文章: #建議 科學園區旁邊的房子最好不要上車 #台積電投資美國
+2025-06-05 20:44:45,048 - database.db_manager - INFO - 成功插入文章: 桃園預售屋地點選擇🙏
+2025-06-05 20:44:45,049 - database.db_manager - INFO - 成功插入文章: 我這樣的條件，貸得過嗎？
+2025-06-05 20:44:45,049 - database.db_manager - INFO - 成功插入文章: #分享 終於找到心儀的房子~有打算跟妹妹合購~有合購的經驗分享嗎? 謝謝
+2025-06-05 20:44:45,050 - database.db_manager - INFO - 成功插入文章: 🙏🏻研究問卷調查，誠摯邀請您的寶貴經驗🥺🙏🏻
+2025-06-05 20:44:45,050 - database.db_manager - INFO - 成功插入文章: 這隔局算沖煞嗎？
+2025-06-05 20:44:45,050 - database.db_manager - INFO - 成功插入文章: #裝潢 新手裝潢全攻略 10大裝修必懂重點，不看一定後悔
+2025-06-05 20:44:45,051 - database.db_manager - INFO - 成功插入文章: #問題 #成屋驗屋問題
+2025-06-05 20:44:45,051 - database.db_manager - INFO - 成功插入文章: #分享 從等待到行動：投資移民者的台灣置業啟示錄
+2025-06-05 20:44:45,051 - database.db_manager - INFO - 成功插入文章: #問題 台北的民生社區很厲害嗎?
+2025-06-05 20:44:45,052 - database.db_manager - INFO - 成功插入文章: 台灣就像一位美麗的女人，只有來了才能看見它的真面目 |外國人在台灣
+2025-06-05 20:44:45,052 - database.db_manager - INFO - 成功插入文章: 房價這樣的跌幅算多嗎？
+2025-06-05 20:44:45,053 - database.db_manager - INFO - 成功插入文章: #問題 想詢問Line群組密碼🥺
+2025-06-05 20:44:45,053 - database.db_manager - INFO - 成功插入文章: 預售屋兩房格局請益
+2025-06-05 20:44:45,054 - database.db_manager - INFO - 成功插入文章: 房價會跌嗎
+2025-06-05 20:44:45,054 - database.db_manager - INFO - 成功插入文章: 問個房貸成數難易程度（認真）
+2025-06-05 20:44:45,054 - database.db_manager - INFO - 成功插入文章: 房價真的會跌嗎？
+2025-06-05 20:44:45,055 - database.db_manager - INFO - 成功插入文章: 兩房格局請益
+2025-06-05 20:44:45,055 - database.db_manager - INFO - 成功插入文章: 房貸利率
+2025-06-05 20:44:45,055 - database.db_manager - INFO - 成功插入文章: #驗屋 驗屋的必要性 找人家驗或是DIY
+2025-06-05 20:44:45,056 - database.db_manager - INFO - 成功插入文章: 房貸前是否先清償信貸請益
+2025-06-05 20:44:45,056 - database.db_manager - INFO - 成功插入文章: #問題 想問高CP值的家具
+2025-06-05 20:44:45,057 - database.db_manager - INFO - 成功插入文章: 哪個數字是正確的？
+2025-06-05 20:44:45,057 - database.db_manager - INFO - 成功插入文章: #資訊 #分享 區域分享 三峽台北大學重劃區 LB06&07
+2025-06-05 20:44:45,058 - database.db_manager - INFO - 成功插入文章: 沙鹿有不錯的大樓預售嗎？
+2025-06-05 20:44:45,058 - database.db_manager - INFO - 成功插入文章: 買房～認真
+2025-06-05 20:44:45,058 - database.db_manager - INFO - 成功插入文章: #資訊 夫妻差額分配請求權，如何聰明節稅？
+2025-06-05 20:44:45,059 - database.db_manager - INFO - 成功插入文章: 🌟沙鹿【2~3房新案】2房雙衛浴 走路就到機能 靜宜大學商圈 藍線捷運B6站 市區機能中科宅 空拍分享📢
+2025-06-05 20:44:45,059 - database.db_manager - INFO - 成功插入文章: 楊金龍  加油好嗎
+2025-06-05 20:44:45,059 - database.db_manager - INFO - 成功插入文章: 台中買房越來越難
+2025-06-05 20:44:45,060 - database.db_manager - INFO - 成功插入文章: 新青安貸款請教～
+2025-06-05 20:44:45,060 - database.db_manager - INFO - 成功插入文章: #問題 預售屋 客變請益 2+1房1衛
+2025-06-05 20:44:45,060 - database.db_manager - INFO - 成功插入文章: #問題 三房格局 風水財位請益
+2025-06-05 20:44:45,061 - database.db_manager - INFO - 成功插入文章: #問題 #問題#請益 三房格局圖
+2025-06-05 20:44:45,061 - database.db_manager - INFO - 成功插入文章: #問題 格局圖請益 3房2衛
+2025-06-05 20:44:45,061 - database.db_manager - INFO - 成功插入文章: 兩房格局請益
+2025-06-05 20:44:45,062 - database.db_manager - INFO - 成功插入文章: #問題 轉增貸
+2025-06-05 20:44:45,062 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢報價單請益
+2025-06-05 20:44:45,063 - database.db_manager - INFO - 成功插入文章: 房價實登連跌半年了
+2025-06-05 20:44:45,063 - database.db_manager - INFO - 成功插入文章: #問題 我的想法是不是有問題
+2025-06-05 20:44:45,063 - database.db_manager - INFO - 成功插入文章: #問題#新竹套房房貸詢問請益🙋‍♀️
+2025-06-05 20:44:45,064 - database.db_manager - INFO - 成功插入文章: 出租問題
+2025-06-05 20:44:45,064 - database.db_manager - INFO - 成功插入文章: 無薪轉購屋建議
+2025-06-05 20:44:45,064 - database.db_manager - INFO - 成功插入文章: 自備款約70萬 想找雙北、台中、台南低總價房
+2025-06-05 20:44:45,065 - database.db_manager - INFO - 成功插入文章: #問題 格局圖請益 2房2衛
+2025-06-05 20:44:45,065 - database.db_manager - INFO - 成功插入文章: #資訊 美國工程師退休，選擇桃園小檜溪，沒有選擇青埔的理由
+2025-06-05 20:44:45,065 - database.db_manager - INFO - 成功插入文章: #問題 無裝潢的話，交屋到入住大概花多少時間啊
+2025-06-05 20:44:45,066 - database.db_manager - INFO - 成功插入文章: #建議 #請益#建議房貸到底要不要用寬限期？
+2025-06-05 20:44:45,066 - database.db_manager - INFO - 成功插入文章: 購屋心得 房仲與代銷
+2025-06-05 20:44:45,067 - database.db_manager - INFO - 成功插入文章: #問題#延遲交屋的利息可以要求建商負責嗎？
+2025-06-05 20:44:45,068 - database.db_manager - INFO - 成功插入文章: #請益 格局裝潢問題
+2025-06-05 20:44:45,069 - database.db_manager - INFO - 成功插入文章: “打房”有規定銀行只貸給當地人嗎？
+2025-06-05 20:44:45,069 - database.db_manager - INFO - 成功插入文章: #請益 預售屋格局跟樓層選擇
+2025-06-05 20:44:45,069 - database.db_manager - INFO - 成功插入文章: #請益#貸款 預售屋貸款條件及格局
+2025-06-05 20:44:45,069 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:44:45,071 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258139882 (版面: house_purchase)
+2025-06-05 20:44:45,071 - crawler.zenrowsapi - INFO - 已處理 100/1000 篇文章，最後ID: 258139882
+2025-06-05 20:44:48,076 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258139882&limit=100
+2025-06-05 20:44:52,408 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204452.json
+2025-06-05 20:44:52,409 - database.db_manager - INFO - 成功插入文章: 斗六很多一房一廳跟套房，其實是在抓交替
+2025-06-05 20:44:52,410 - database.db_manager - INFO - 成功插入文章: #問題 理財型房貸疑問
+2025-06-05 20:44:52,410 - database.db_manager - INFO - 成功插入文章: 七年級 購屋歷程
+2025-06-05 20:44:52,410 - database.db_manager - INFO - 成功插入文章: #裝潢 高雄20坪輕裝潢分享
+2025-06-05 20:44:52,411 - database.db_manager - INFO - 成功插入文章: #裝潢 18坪小3房
+2025-06-05 20:44:52,411 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局
+2025-06-05 20:44:52,411 - database.db_manager - INFO - 成功插入文章: #問題 預售屋建商
+2025-06-05 20:44:52,412 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 20:44:52,412 - database.db_manager - INFO - 成功插入文章: #問題 預售屋兩房格局請益
+2025-06-05 20:44:52,412 - database.db_manager - INFO - 成功插入文章: 格局請益～🙏
+2025-06-05 20:44:52,413 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:44:52,413 - database.db_manager - INFO - 成功插入文章: #問題 裝潢請益
+2025-06-05 20:44:52,414 - database.db_manager - INFO - 成功插入文章: 掛四股票質押
+2025-06-05 20:44:52,414 - database.db_manager - INFO - 成功插入文章: #裝潢 台中 木工師傅推薦
+2025-06-05 20:44:52,414 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益 儲藏室
+2025-06-05 20:44:52,415 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋客變請益
+2025-06-05 20:44:52,415 - database.db_manager - INFO - 成功插入文章: #分享 北二高沿線房價竄升！哪裡還比較好入手~
+2025-06-05 20:44:52,416 - database.db_manager - INFO - 成功插入文章: #問題 好奇這裡有多少人是在淡水買房？
+2025-06-05 20:44:52,416 - database.db_manager - INFO - 成功插入文章: #問題 #首購族預售屋格局請益
+2025-06-05 20:44:52,416 - database.db_manager - INFO - 成功插入文章: #分享 湖口舊市區生活圈房價也很嚇人了...
+2025-06-05 20:44:52,417 - database.db_manager - INFO - 成功插入文章: #裝潢 求推薦設計公司
+2025-06-05 20:44:52,417 - database.db_manager - INFO - 成功插入文章: #分享 大新竹預售大樓供給太少！？
+2025-06-05 20:44:52,417 - database.db_manager - INFO - 成功插入文章: #資訊 買房賣房租房
+2025-06-05 20:44:52,418 - database.db_manager - INFO - 成功插入文章: 光纖電纜疑問
+2025-06-05 20:44:52,418 - database.db_manager - INFO - 成功插入文章: 神明桌擺放位置詢問
+2025-06-05 20:44:52,418 - database.db_manager - INFO - 成功插入文章: #發問 預售屋工程款25% 貸款8成後會匯5%到我的帳戶嗎？
+2025-06-05 20:44:52,419 - database.db_manager - INFO - 成功插入文章: #裝潢 有履約保證的裝潢設計公司？
+2025-06-05 20:44:52,419 - database.db_manager - INFO - 成功插入文章: Zack再度發文看空房市 不知道大家看法
+2025-06-05 20:44:52,420 - database.db_manager - INFO - 成功插入文章: #裝潢 小宅（1x坪）裝潢報價，多少錢合理呢？
+2025-06-05 20:44:52,420 - database.db_manager - INFO - 成功插入文章: #問題 新青安貸款～
+2025-06-05 20:44:52,421 - database.db_manager - INFO - 成功插入文章: #問題 資產500萬的北漂族該買哪裡？
+2025-06-05 20:44:52,421 - database.db_manager - INFO - 成功插入文章: 青安銀行選擇
+2025-06-05 20:44:52,421 - database.db_manager - INFO - 成功插入文章: #問題 裝潢發票問題
+2025-06-05 20:44:52,422 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:44:52,422 - database.db_manager - INFO - 成功插入文章: 二等親買賣資金回流問題！
+2025-06-05 20:44:52,422 - database.db_manager - INFO - 成功插入文章: #分享 烤漆玻璃色系分享⚡️
+2025-06-05 20:44:52,423 - database.db_manager - INFO - 成功插入文章: #分享 竹北指標德鑫V1
+2025-06-05 20:44:52,423 - database.db_manager - INFO - 成功插入文章: 預售屋合約的👻故事
+2025-06-05 20:44:52,423 - database.db_manager - INFO - 成功插入文章: #問題 該敗嗎？
+2025-06-05 20:44:52,424 - database.db_manager - INFO - 成功插入文章: 預售屋，管線暗管需注意事項
+2025-06-05 20:44:52,424 - database.db_manager - INFO - 成功插入文章: 打房政策帶來的影響
+2025-06-05 20:44:52,425 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:44:52,425 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:44:52,425 - database.db_manager - INFO - 成功插入文章: 預售屋格局問題
+2025-06-05 20:44:52,426 - database.db_manager - INFO - 成功插入文章: #問題 新青安貸款
+2025-06-05 20:44:52,426 - database.db_manager - INFO - 成功插入文章: #裝潢 終於有自己的家🙆裝潢心得～謝謝窩要成的小靖
+2025-06-05 20:44:52,426 - database.db_manager - INFO - 成功插入文章: #建議 新竹房子能接受沒有管理員嗎
+2025-06-05 20:44:52,427 - database.db_manager - INFO - 成功插入文章: #問題 預售屋請益
+2025-06-05 20:44:52,427 - database.db_manager - INFO - 成功插入文章: #建議  #購屋 遇到屋主自售 有什麼要注意的嗎
+2025-06-05 20:44:52,427 - database.db_manager - INFO - 成功插入文章: Re: #居家修繕 20年透天翻修基礎工程
+2025-06-05 20:44:52,428 - database.db_manager - INFO - 成功插入文章: 投票，希望有無第八波打房政策
+2025-06-05 20:44:52,428 - database.db_manager - INFO - 成功插入文章: #問題 #房貸利率選擇
+2025-06-05 20:44:52,429 - database.db_manager - INFO - 成功插入文章: 兩戶核貸問題
+2025-06-05 20:44:52,429 - database.db_manager - INFO - 成功插入文章: 如何「 跟銀行往來」？
+2025-06-05 20:44:52,429 - database.db_manager - INFO - 成功插入文章: 新青安出租轉貸
+2025-06-05 20:44:52,430 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 20:44:52,430 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 20:44:52,430 - database.db_manager - INFO - 成功插入文章: 買房格局請益
+2025-06-05 20:44:52,431 - database.db_manager - INFO - 成功插入文章: #問題 土地貸款與自建房屋
+2025-06-05 20:44:52,431 - database.db_manager - INFO - 成功插入文章: #分享 新竹縣三個重劃區！大家怎麼選、怎麼看？
+2025-06-05 20:44:52,431 - database.db_manager - INFO - 成功插入文章: #問題 楊梅埔心該住哪？
+2025-06-05 20:44:52,432 - database.db_manager - INFO - 成功插入文章: #分享 塞車真的讓人爆炸！八德人期待超重要建設
+2025-06-05 20:44:52,432 - database.db_manager - INFO - 成功插入文章: 請問  預售屋這樣的格局好嗎？
+2025-06-05 20:44:52,432 - database.db_manager - INFO - 成功插入文章: #發問 預售屋格局請益
+2025-06-05 20:44:52,433 - database.db_manager - INFO - 成功插入文章: #問題 現在還有人在乎風水嗎？
+2025-06-05 20:44:52,433 - database.db_manager - INFO - 成功插入文章: #抱怨 我被信義房仲封鎖了
+2025-06-05 20:44:52,433 - database.db_manager - INFO - 成功插入文章: 買套房有人看格局嗎？
+2025-06-05 20:44:52,434 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:44:52,435 - database.db_manager - INFO - 成功插入文章: #建議 #問題 格局請益預售不可客變
+2025-06-05 20:44:52,436 - database.db_manager - INFO - 成功插入文章: #問題 這樣的條件能買房嗎？
+2025-06-05 20:44:52,436 - database.db_manager - INFO - 成功插入文章: #問題 買預售屋信貸問題
+2025-06-05 20:44:52,437 - database.db_manager - INFO - 成功插入文章: 購屋的首要因素是什麼。
+2025-06-05 20:44:52,437 - database.db_manager - INFO - 成功插入文章: #請益預售屋格局解法
+2025-06-05 20:44:52,437 - database.db_manager - INFO - 成功插入文章: #問題 #貸款 如果這個條件，貸款會過嗎？
+2025-06-05 20:44:52,438 - database.db_manager - INFO - 成功插入文章: #問題 預留孔位置被擋住
+2025-06-05 20:44:52,438 - database.db_manager - INFO - 成功插入文章: 這樣的條件要買多少價位的房子
+2025-06-05 20:44:52,439 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局裝潢請益
+2025-06-05 20:44:52,439 - database.db_manager - INFO - 成功插入文章: 各位新青安有撥款成功嗎？
+2025-06-05 20:44:52,439 - database.db_manager - INFO - 成功插入文章: #問題 台北買房仲介/房貸專員
+2025-06-05 20:44:52,440 - database.db_manager - INFO - 成功插入文章: 跪求網友評估購屋建議1320萬台中
+2025-06-05 20:44:52,440 - database.db_manager - INFO - 成功插入文章: #分享 房價會跌多少?
+2025-06-05 20:44:52,440 - database.db_manager - INFO - 成功插入文章: 裝潢發問 設計師提供圖面的時間？
+2025-06-05 20:44:52,441 - database.db_manager - INFO - 成功插入文章: #裝潢 會有願意接續其他設計師進度的設計公司嗎？
+2025-06-05 20:44:52,441 - database.db_manager - INFO - 成功插入文章: #問題 首購房貸請教
+2025-06-05 20:44:52,442 - database.db_manager - INFO - 成功插入文章: 如何計算113年度個人出售房屋之財產交易所得(含豪宅稅)
+2025-06-05 20:44:52,442 - database.db_manager - INFO - 成功插入文章: #裝潢 20種客廳吧台設計，不只廚房才能用！
+2025-06-05 20:44:52,442 - database.db_manager - INFO - 成功插入文章: #問 預售屋格局 2房
+2025-06-05 20:44:52,443 - database.db_manager - INFO - 成功插入文章: #建議 年薪100萬，房價1150萬（27坪無車位），頭期剛好，這樣會太硬嗎？
+2025-06-05 20:44:52,443 - database.db_manager - INFO - 成功插入文章: #驗屋 可以請問專業人士這是什麼嗎
+2025-06-05 20:44:52,443 - database.db_manager - INFO - 成功插入文章: #資訊 #預售屋透天格局
+2025-06-05 20:44:52,444 - database.db_manager - INFO - 成功插入文章: #問題 大園客運園區 貸款推薦
+2025-06-05 20:44:52,444 - database.db_manager - INFO - 成功插入文章: 購屋貸款能力
+2025-06-05 20:44:52,444 - database.db_manager - INFO - 成功插入文章: #預售屋 新手裝潢格局請益
+2025-06-05 20:44:52,445 - database.db_manager - INFO - 成功插入文章: #分享 遠雄敦富建案初評分享
+2025-06-05 20:44:52,445 - database.db_manager - INFO - 成功插入文章: #資訊 『高雄』老家的不破壞之裝潢拆除！
+2025-06-05 20:44:52,445 - database.db_manager - INFO - 成功插入文章: #裝潢 #設計 #裝潢 想作個玄關
+2025-06-05 20:44:52,446 - database.db_manager - INFO - 成功插入文章: #問題 兩間預售屋格局請益
+2025-06-05 20:44:52,446 - database.db_manager - INFO - 成功插入文章: #分享 #裝潢 開箱新莊全新理髮院!極簡+冷清質感拉滿！
+2025-06-05 20:44:52,446 - database.db_manager - INFO - 成功插入文章: #資訊 買房下斡旋要注意什麼？斡旋金可以退嗎？
+2025-06-05 20:44:52,447 - database.db_manager - INFO - 成功插入文章: #問題 台中烏日透天有需要注意的地方？
+2025-06-05 20:44:52,447 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:44:52,447 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258094718 (版面: house_purchase)
+2025-06-05 20:44:52,447 - crawler.zenrowsapi - INFO - 已處理 200/1000 篇文章，最後ID: 258094718
+2025-06-05 20:44:55,453 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258094718&limit=100
+2025-06-05 20:45:46,771 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204546.json
+2025-06-05 20:45:46,772 - database.db_manager - INFO - 成功插入文章: 打開台北25坪3房室內設計驚喜包！
+2025-06-05 20:45:46,772 - database.db_manager - INFO - 成功插入文章: #建議 嘉義買房 東唐建設
+2025-06-05 20:45:46,773 - database.db_manager - INFO - 成功插入文章: #問題 交屋後的建商代管期沒有物業人員
+2025-06-05 20:45:46,773 - database.db_manager - INFO - 成功插入文章: #建議 買房該先求有，再求好嗎？
+2025-06-05 20:45:46,774 - database.db_manager - INFO - 成功插入文章: #資訊 🌟自住利息補貼需留意
+2025-06-05 20:45:46,774 - database.db_manager - INFO - 成功插入文章: 預售屋格局圖
+2025-06-05 20:45:46,774 - database.db_manager - INFO - 成功插入文章: #問題 三房格局請益
+2025-06-05 20:45:46,775 - database.db_manager - INFO - 成功插入文章: #問題 首購族三房兩衛格局請益
+2025-06-05 20:45:46,775 - database.db_manager - INFO - 成功插入文章: #資訊 泓瑞建設｜洲際生活圈 2-3房優質宅 即將公開！
+2025-06-05 20:45:46,775 - database.db_manager - INFO - 成功插入文章: #建議 #求助 新成屋裝潢設計問題 求建議
+2025-06-05 20:45:46,776 - database.db_manager - INFO - 成功插入文章: #分享 同樣都是4字頭，大新竹都計外與都市計畫內、該買哪很清楚了~
+2025-06-05 20:45:46,776 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢請益
+2025-06-05 20:45:46,777 - database.db_manager - INFO - 成功插入文章: #驗屋 #問題 這樣可以要求建商重新點交嗎？
+2025-06-05 20:45:46,777 - database.db_manager - INFO - 成功插入文章: 詢問🙋台南裝潢
+2025-06-05 20:45:46,778 - database.db_manager - INFO - 成功插入文章: 現階段想買房投資哪裡適合？
+2025-06-05 20:45:46,778 - database.db_manager - INFO - 成功插入文章: 投資房地產跟自用的觀點應該是不同的才對
+2025-06-05 20:45:46,779 - database.db_manager - INFO - 成功插入文章: 台北市小兩房請益
+2025-06-05 20:45:46,779 - database.db_manager - INFO - 成功插入文章: 無需繳房屋稅的房屋
+2025-06-05 20:45:46,779 - database.db_manager - INFO - 成功插入文章: #問題 怕地震的人會不會買制震宅?
+2025-06-05 20:45:46,780 - database.db_manager - INFO - 成功插入文章: 大、舊、蛋黃VS小、新、蛋殼
+2025-06-05 20:45:46,780 - database.db_manager - INFO - 成功插入文章: 機械倉儲車位60萬應該買嗎？
+2025-06-05 20:45:46,780 - database.db_manager - INFO - 成功插入文章: #裝潢 開箱高雄新房子！年輕設計師果然厲害！
+2025-06-05 20:45:46,781 - database.db_manager - INFO - 成功插入文章: 富宇南區新案最新動態更新
+2025-06-05 20:45:46,781 - database.db_manager - INFO - 成功插入文章: 這隔局怎解？
+2025-06-05 20:45:46,781 - database.db_manager - INFO - 成功插入文章: 沙鹿2025新預售 富宇漾
+2025-06-05 20:45:46,782 - database.db_manager - INFO - 成功插入文章: #預售屋 #裝潢
+2025-06-05 20:45:46,782 - database.db_manager - INFO - 成功插入文章: #問題 兩房格局請益
+2025-06-05 20:45:46,783 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 #作品分享 #老屋翻修
+2025-06-05 20:45:46,783 - database.db_manager - INFO - 成功插入文章: 為了保證人結婚
+2025-06-05 20:45:46,783 - database.db_manager - INFO - 成功插入文章: #問題 #預售屋格局請益
+2025-06-05 20:45:46,784 - database.db_manager - INFO - 成功插入文章: #問題 新莊文華苑購屋
+2025-06-05 20:45:46,784 - database.db_manager - INFO - 成功插入文章: #分享 預售屋房屋貸款核貸
+2025-06-05 20:45:46,785 - database.db_manager - INFO - 成功插入文章: 內政部：300坪以上新建物未來須設太陽光電、4類建築除外
+2025-06-05 20:45:46,785 - database.db_manager - INFO - 成功插入文章: #問題 #格局請益#格局比較
+2025-06-05 20:45:46,785 - database.db_manager - INFO - 成功插入文章: #資訊 限貸令衝擊！2025年房貸額度縮水，買房更難？
+2025-06-05 20:45:46,786 - database.db_manager - INFO - 成功插入文章: #問題 裝潢格局請益 3+1房室內29坪
+2025-06-05 20:45:46,786 - database.db_manager - INFO - 成功插入文章: 台南的舊市區 重劃區
+2025-06-05 20:45:46,786 - database.db_manager - INFO - 成功插入文章: 算壁刀煞或天斬煞嗎？
+2025-06-05 20:45:46,787 - database.db_manager - INFO - 成功插入文章: #分享 站穩4字頭的八德擴大~ 聽說有矚目新案即將公開！
+2025-06-05 20:45:46,787 - database.db_manager - INFO - 成功插入文章: #問題 預售屋2+1 小3房2廳2衛格局/衛浴選擇/車位請益
+2025-06-05 20:45:46,787 - database.db_manager - INFO - 成功插入文章: #裝潢 玄關廚房格局建議
+2025-06-05 20:45:46,788 - database.db_manager - INFO - 成功插入文章: 買在高雄可以買在哪裡
+2025-06-05 20:45:46,788 - database.db_manager - INFO - 成功插入文章: #問題 透天預售屋格局請益
+2025-06-05 20:45:46,788 - database.db_manager - INFO - 成功插入文章: #請益 軍人將退伍買房貸款
+2025-06-05 20:45:46,789 - database.db_manager - INFO - 成功插入文章: #抱怨 雙北小到沒有極限的小  "三房"!!
+2025-06-05 20:45:46,789 - database.db_manager - INFO - 成功插入文章: #問題 格局裝潢請益 2房2廳1.5衛
+2025-06-05 20:45:46,789 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:46,790 - database.db_manager - INFO - 成功插入文章: 房貸問題詢問
+2025-06-05 20:45:46,790 - database.db_manager - INFO - 成功插入文章: 請益 買了一間預售屋，因為我是餐廳負責人，未來要注意什麼，準備什麼。
+2025-06-05 20:45:46,791 - database.db_manager - INFO - 成功插入文章: 買房貸款的問題，想請教大家一些建議
+2025-06-05 20:45:46,791 - database.db_manager - INFO - 成功插入文章: 今年房價年中聽說會急劇下跌？
+2025-06-05 20:45:46,791 - database.db_manager - INFO - 成功插入文章: 廚房拉門做木作隔間牆
+2025-06-05 20:45:46,792 - database.db_manager - INFO - 成功插入文章: 會買客廳沒有光線的房子嗎？
+2025-06-05 20:45:46,792 - database.db_manager - INFO - 成功插入文章: 2房格局請益
+2025-06-05 20:45:46,792 - database.db_manager - INFO - 成功插入文章: #裝潢 三房格局
+2025-06-05 20:45:46,793 - database.db_manager - INFO - 成功插入文章: #問題 預售屋健檢 2房2廳2衛
+2025-06-05 20:45:46,793 - database.db_manager - INFO - 成功插入文章: #裝潢 桃園系統櫃案例分享
+2025-06-05 20:45:46,793 - database.db_manager - INFO - 成功插入文章: 尋求大神菜單（臺中）
+2025-06-05 20:45:46,794 - database.db_manager - INFO - 成功插入文章: 別被房仲說現在是買方市場騙了
+2025-06-05 20:45:46,794 - database.db_manager - INFO - 成功插入文章: #問題 房貸（更）
+2025-06-05 20:45:46,794 - database.db_manager - INFO - 成功插入文章: 中古屋購屋請教（首購）
+2025-06-05 20:45:46,795 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:46,795 - database.db_manager - INFO - 成功插入文章: 一張圖看現在賣房要怎麼繳稅
+2025-06-05 20:45:46,795 - database.db_manager - INFO - 成功插入文章: #問題 看屋時要怎麼知道鄰居好壞
+2025-06-05 20:45:46,796 - database.db_manager - INFO - 成功插入文章: 新青安房貸請益
+2025-06-05 20:45:46,796 - database.db_manager - INFO - 成功插入文章: 獨家／台灣老人有罪？銀行卡房貸、房東拒租屋！專家吐實：真相很殘酷
+2025-06-05 20:45:46,797 - database.db_manager - INFO - 成功插入文章: 桃園中路重劃區，已經到頂無法成為桃園一哥？
+2025-06-05 20:45:46,797 - database.db_manager - INFO - 成功插入文章: #問題 請問交屋時間
+2025-06-05 20:45:46,797 - database.db_manager - INFO - 成功插入文章: #問題 請益  預售屋車位怎麼選
+2025-06-05 20:45:46,798 - database.db_manager - INFO - 成功插入文章: 買房後想出國打工
+2025-06-05 20:45:46,798 - database.db_manager - INFO - 成功插入文章: 土城暫緩新案『家泰♾️嘉潤』好像要推案了
+2025-06-05 20:45:46,798 - database.db_manager - INFO - 成功插入文章: #資訊 中和矚目大案『大同新紀元』實價登錄出來295筆了
+2025-06-05 20:45:46,799 - database.db_manager - INFO - 成功插入文章: #資訊 🌟小編分享近期市況
+2025-06-05 20:45:46,799 - database.db_manager - INFO - 成功插入文章: #問題 樓上廁所漏水，會不會影響到馬桶？
+2025-06-05 20:45:46,799 - database.db_manager - INFO - 成功插入文章: #裝潢 🎀 30坪老宅翻新開箱：系統櫃+木工設計，提升空間收納與美感！
+2025-06-05 20:45:46,800 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:46,800 - database.db_manager - INFO - 成功插入文章: #問題 #裝潢 關於裝潢的一些問題
+2025-06-05 20:45:46,800 - database.db_manager - INFO - 成功插入文章: #資訊 現在房價到底有沒有跌？
+是進場的好時機嗎？
+《現狀分析與概述》
+2025-06-05 20:45:46,801 - database.db_manager - INFO - 成功插入文章: #問題 預售屋健檢 2房2廳1.5衛 朝東南
+2025-06-05 20:45:46,801 - database.db_manager - INFO - 成功插入文章: 貸款相關問題
+2025-06-05 20:45:46,802 - database.db_manager - INFO - 成功插入文章: #問題 預售屋5%尾款請益
+2025-06-05 20:45:46,803 - database.db_manager - INFO - 成功插入文章: 預售屋格局請教
+2025-06-05 20:45:46,803 - database.db_manager - INFO - 成功插入文章: 大家願意用車程時間換房價嗎?想了解大家標準是多少?
+2025-06-05 20:45:46,804 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢格局請益 預售屋
+2025-06-05 20:45:46,804 - database.db_manager - INFO - 成功插入文章: 房屋貸款這樣能過嗎
+2025-06-05 20:45:46,804 - database.db_manager - INFO - 成功插入文章: #問題 購屋貸款能過嗎
+2025-06-05 20:45:46,805 - database.db_manager - INFO - 成功插入文章: 購屋貸款問題
+2025-06-05 20:45:46,805 - database.db_manager - INFO - 成功插入文章: #問題 網路買房技巧，反而讓我買不到房？！
+2025-06-05 20:45:46,806 - database.db_manager - INFO - 成功插入文章: #問題 買過預售屋屋主請進，罵人的先別進～
+2025-06-05 20:45:46,806 - database.db_manager - INFO - 成功插入文章: #問題 請益 中壢預售屋格局
+2025-06-05 20:45:46,807 - database.db_manager - INFO - 成功插入文章: #問題 這樣的條件有辦法在新竹置產嗎
+2025-06-05 20:45:46,807 - database.db_manager - INFO - 成功插入文章: #分享 裝潢傢俱分享⚡️
+2025-06-05 20:45:46,807 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:46,808 - database.db_manager - INFO - 成功插入文章: #問題 
+#預售屋 #格局請益 小套房一個人住可行嗎
+2025-06-05 20:45:46,808 - database.db_manager - INFO - 成功插入文章: 113年舊制財產交易所得稅豪宅條款
+2025-06-05 20:45:46,808 - database.db_manager - INFO - 成功插入文章: 房價有修正嗎
+2025-06-05 20:45:46,809 - database.db_manager - INFO - 成功插入文章: #裝潢 感謝低卡網友的信任完工分享文
+2025-06-05 20:45:46,809 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局問題請益
+2025-06-05 20:45:46,809 - database.db_manager - INFO - 成功插入文章: 請問去國稅局可申請113的扣繳憑單了嗎？
+2025-06-05 20:45:46,810 - database.db_manager - INFO - 成功插入文章: 真的不要買房
+2025-06-05 20:45:46,810 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:45:46,811 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 258044447 (版面: house_purchase)
+2025-06-05 20:45:46,811 - crawler.zenrowsapi - INFO - 已處理 300/1000 篇文章，最後ID: 258044447
+2025-06-05 20:45:49,816 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=258044447&limit=100
+2025-06-05 20:45:53,774 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204553.json
+2025-06-05 20:45:53,775 - database.db_manager - INFO - 成功插入文章: #資訊 台灣頂級豪宅開價每坪300萬，居然是香港與新加坡的平均房價
+2025-06-05 20:45:53,775 - database.db_manager - INFO - 成功插入文章: 台灣房市長期以來只漲不跌，即刻布局才是真聰明
+2025-06-05 20:45:53,776 - database.db_manager - INFO - 成功插入文章: #建議 #問題#預售屋#格局
+2025-06-05 20:45:53,776 - database.db_manager - INFO - 成功插入文章: 🌟豐原【3+1~4房新案】成功路商圈 亞洲大學醫療園區、后里科學園區、豐洲工業區 剛性需求市區機能增值宅 空拍分享📢
+2025-06-05 20:45:53,777 - database.db_manager - INFO - 成功插入文章: #裝潢 怎樣找願意承接其他設計師構圖的統包?
+2025-06-05 20:45:53,777 - database.db_manager - INFO - 成功插入文章: #裝潢 怎樣找願意承接其他設計師構圖的統包?
+2025-06-05 20:45:53,777 - database.db_manager - INFO - 成功插入文章: 設計公司標榜之“穩定合作工班”, 或“自營工班”和無標示工班種類,三者對消費者權益 有何不同?
+2025-06-05 20:45:53,778 - database.db_manager - INFO - 成功插入文章: 設計公司標榜之“穩定合作工班”, 或“自營工班”和無標示工班種類,三者對消費者權益 有何不同?
+2025-06-05 20:45:53,778 - database.db_manager - INFO - 成功插入文章: #裝潢 要怎麼在一萬以內化解穿堂煞呢？
+2025-06-05 20:45:53,779 - database.db_manager - INFO - 成功插入文章: 請益：預售屋未取得使照 先對保
+2025-06-05 20:45:53,779 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請
+2025-06-05 20:45:53,780 - database.db_manager - INFO - 成功插入文章: #問題 關於未來重購退稅跟遷入戶籍的問題
+2025-06-05 20:45:53,780 - database.db_manager - INFO - 成功插入文章: #問題 #預售屋 #格局請益 #更 #地點請益
+2025-06-05 20:45:53,780 - database.db_manager - INFO - 成功插入文章: #問題 淡水 休閒娛樂
+2025-06-05 20:45:53,781 - database.db_manager - INFO - 成功插入文章: #問題 如果父母幫你出頭期，條件是他們要搬來跟你一起住？
+2025-06-05 20:45:53,781 - database.db_manager - INFO - 成功插入文章: #裝潢 #問「月球筏棧」評價
+2025-06-05 20:45:53,781 - database.db_manager - INFO - 成功插入文章: 買房子真的有意義嗎
+2025-06-05 20:45:53,782 - database.db_manager - INFO - 成功插入文章: 坐在星巴客看著越來越熱鬧、繁榮的王爺壟
+2025-06-05 20:45:53,782 - database.db_manager - INFO - 成功插入文章: 問：113年扣繳憑單申請
+2025-06-05 20:45:53,782 - database.db_manager - INFO - 成功插入文章: #分享 台中北屯14期坤悅·泊岳建案分享(未公開）
+2025-06-05 20:45:53,783 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 裝潢報價單請益
+2025-06-05 20:45:53,783 - database.db_manager - INFO - 成功插入文章: #問題 房屋貸款請益
+2025-06-05 20:45:53,783 - database.db_manager - INFO - 成功插入文章: #問題 #預售屋 #客變 #小坪數
+2025-06-05 20:45:53,784 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:53,784 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:45:53,784 - database.db_manager - INFO - 成功插入文章: #問題 北市預售屋房貸請益
+2025-06-05 20:45:53,785 - database.db_manager - INFO - 成功插入文章: 裝潢 木地板報價請益
+2025-06-05 20:45:53,785 - database.db_manager - INFO - 成功插入文章: 裝潢貸款怎麼申請？銀行貸款額度、利率、還款期限一次懂！
+2025-06-05 20:45:53,786 - database.db_manager - INFO - 成功插入文章: #問題 預售屋 建商及格局請益
+2025-06-05 20:45:53,786 - database.db_manager - INFO - 成功插入文章: #裝潢 請益系統櫃報價是否合理
+2025-06-05 20:45:53,786 - database.db_manager - INFO - 成功插入文章: 與其購屋，不如把錢
+2025-06-05 20:45:53,787 - database.db_manager - INFO - 成功插入文章: 關於斡旋的期間跟簽約期限
+2025-06-05 20:45:53,787 - database.db_manager - INFO - 成功插入文章: #問題 鼎藏建設 鼎藏中原匯的實價登錄
+2025-06-05 20:45:53,787 - database.db_manager - INFO - 成功插入文章: #資訊 莫當井蛙唱衰房價，從宏觀視野看世界就能明白了。
+2025-06-05 20:45:53,788 - database.db_manager - INFO - 成功插入文章: 2025上半年房市風向球
+2025-06-05 20:45:53,788 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:45:53,789 - database.db_manager - INFO - 成功插入文章: #分享 老屋翻新分享│透天厝舊屋翻新整修前後對比│台東聯漢室內設計
+2025-06-05 20:45:53,789 - database.db_manager - INFO - 成功插入文章: #資訊 借屋裝修
+2025-06-05 20:45:53,789 - database.db_manager - INFO - 成功插入文章: 台中南區即將穩站60萬
+2025-06-05 20:45:53,790 - database.db_manager - INFO - 成功插入文章: 請益🙏4年屋牆壁裂痕
+2025-06-05 20:45:53,790 - database.db_manager - INFO - 成功插入文章: #問題 海線七期沙鹿，富宇漾單坪飆破單坪45萬
+2025-06-05 20:45:53,791 - database.db_manager - INFO - 成功插入文章: 接下緊急任務的聊域系居然是冠軍之路的夥伴？
+2025-06-05 20:45:53,791 - database.db_manager - INFO - 成功插入文章: #驗屋 預售屋車位選擇
+2025-06-05 20:45:53,791 - database.db_manager - INFO - 成功插入文章: #問題 首購貸款資格，求銀行貸款專員或是各房產業者幫我解惑..
+2025-06-05 20:45:53,792 - database.db_manager - INFO - 成功插入文章: 機械車位
+2025-06-05 20:45:53,792 - database.db_manager - INFO - 成功插入文章: 看吧，政客根本不想房價跌......醒醒了，不要做夢想說房價會跌了好嗎.....
+房價根本還沒跌，一看到上漲幅度減緩，一堆政客就開始緊張了
+2025-06-05 20:45:53,792 - database.db_manager - INFO - 成功插入文章: 我有一間民生1號院平轉出售
+2025-06-05 20:45:53,793 - database.db_manager - INFO - 成功插入文章: 分享我的夢幻海景房～海灘400m可達～❤️
+2025-06-05 20:45:53,793 - database.db_manager - INFO - 成功插入文章: #資訊 ✅2025台中01月份建照核發資訊分享
+2025-06-05 20:45:53,794 - database.db_manager - INFO - 成功插入文章: #問題 帥過頭靠什麼賺錢
+2025-06-05 20:45:53,794 - database.db_manager - INFO - 成功插入文章: #問題 (更)小坪數 公教貸款
+2025-06-05 20:45:53,794 - database.db_manager - INFO - 成功插入文章: #協尋 楊梅四季逸墅買家
+2025-06-05 20:45:53,795 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢建材色號分享⚡️
+2025-06-05 20:45:53,795 - database.db_manager - INFO - 成功插入文章: #問題 有「還可以」的一房一廳或套房嗎?
+2025-06-05 20:45:53,795 - database.db_manager - INFO - 成功插入文章: 🌟大里【純2房雙衛浴】相對大里低總價 正爽文路 走路就到商圈 均質戶數 小資首購增值宅 空拍分享📢
+2025-06-05 20:45:53,796 - database.db_manager - INFO - 成功插入文章: #裝潢 請問馬桶換位置只能墊高嗎
+2025-06-05 20:45:53,796 - database.db_manager - INFO - 成功插入文章: #資訊 亞昕建設 南屯捷運宅｜1-3房 優質生活圈 潛銷分享
+2025-06-05 20:45:53,796 - database.db_manager - INFO - 成功插入文章: #問題 請問有人自己賣房過嗎
+2025-06-05 20:45:53,797 - database.db_manager - INFO - 成功插入文章: 請益🙏買透天的約定車位問題
+2025-06-05 20:45:53,797 - database.db_manager - INFO - 成功插入文章: 貸款利率詢問
+2025-06-05 20:45:53,797 - database.db_manager - INFO - 成功插入文章: #資訊 分享住展12月制表（113/11-12月）新北市預售屋交易價格
+2025-06-05 20:45:53,798 - database.db_manager - INFO - 成功插入文章: #問題 房貸請益
+2025-06-05 20:45:53,798 - database.db_manager - INFO - 成功插入文章: 南台南重劃區
+2025-06-05 20:45:53,798 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢
+2025-06-05 20:45:53,799 - database.db_manager - INFO - 成功插入文章: 台北買房，地點選擇？
+2025-06-05 20:45:53,799 - database.db_manager - INFO - 成功插入文章: #問題 最近亞灣區是不是很熱鬧啊？
+2025-06-05 20:45:53,799 - database.db_manager - INFO - 成功插入文章: 如果家裡房子不錯（三千萬以上）還會想買房嗎？
+2025-06-05 20:45:53,800 - database.db_manager - INFO - 成功插入文章: #裝潢 三房新成屋 家電、軟裝 預算有限如何分配及取捨請教
+2025-06-05 20:45:53,800 - database.db_manager - INFO - 成功插入文章: #建議 埔心火車站附近房子好嗎？
+2025-06-05 20:45:53,800 - database.db_manager - INFO - 成功插入文章: 西屯逢甲這價位安全嗎
+2025-06-05 20:45:53,801 - database.db_manager - INFO - 成功插入文章: 高雄小宅再創新高　「郡都巨蛋」單坪衝68.8萬實登
+2025-06-05 20:45:53,801 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 設計師裝潢報價單請益(17年中古)
+2025-06-05 20:45:53,802 - database.db_manager - INFO - 成功插入文章: 兩房 室內大約16.6坪 求小資平釘天花板通常這樣坪數的天花板報價🥹（知道需要實際場勘）但我想知道區間大概多少 例如3.4萬可以完工之類…等
+2025-06-05 20:45:53,802 - database.db_manager - INFO - 成功插入文章: （台北、新北）不二價真的是不二價嗎？
+2025-06-05 20:45:53,803 - database.db_manager - INFO - 成功插入文章: #問題 請教桃園八德-竹風森林
+2025-06-05 20:45:53,803 - database.db_manager - INFO - 成功插入文章: 購屋含特殊風格裝潢可以殺價嗎
+2025-06-05 20:45:53,803 - database.db_manager - INFO - 成功插入文章: 想換工作但預售屋差不多要對保
+2025-06-05 20:45:53,804 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 20:45:53,804 - database.db_manager - INFO - 成功插入文章: 預售屋過戶未交屋
+2025-06-05 20:45:53,804 - database.db_manager - INFO - 成功插入文章: 新竹兩房出租，空屋只提供冷氣+熱水器還是附家電比較合適？
+2025-06-05 20:45:53,805 - database.db_manager - INFO - 成功插入文章: 他說的對嗎
+2025-06-05 20:45:53,805 - database.db_manager - INFO - 成功插入文章: #建議 建議裝潢新手用戶 #裝潢#作品分享#店面裝潢
+2025-06-05 20:45:53,805 - database.db_manager - INFO - 成功插入文章: #問題 中壢買房區域選擇
+2025-06-05 20:45:53,806 - database.db_manager - INFO - 成功插入文章: 廚下RO淨水器選擇（櫻花VS賀眾）
+2025-06-05 20:45:53,806 - database.db_manager - INFO - 成功插入文章: #問題 新北大樓vs.桃園透天
+2025-06-05 20:45:53,806 - database.db_manager - INFO - 成功插入文章: #分享 人潮絡繹不絕！八德房市再添重要指標
+2025-06-05 20:45:53,807 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:45:53,807 - database.db_manager - INFO - 成功插入文章: #資訊 房價崩盤在即？
+2025-06-05 20:45:53,808 - database.db_manager - INFO - 成功插入文章: 新青安利率2.275
+2025-06-05 20:45:53,808 - database.db_manager - INFO - 成功插入文章: 【開箱】20坪台南全新屋裝潢分享
+2025-06-05 20:45:53,808 - database.db_manager - INFO - 成功插入文章: 老公寓該買嗎
+2025-06-05 20:45:53,809 - database.db_manager - INFO - 成功插入文章: #裝潢 請益 老公寓裝潢建議
+2025-06-05 20:45:53,809 - database.db_manager - INFO - 成功插入文章: #分享 年輕人完全不要買房子
+2025-06-05 20:45:53,809 - database.db_manager - INFO - 成功插入文章: 高樓層露台專用戶漏水，修繕負責問題
+2025-06-05 20:45:53,810 - database.db_manager - INFO - 成功插入文章: 一個平常聊天都會說房價很貴的同事
+2025-06-05 20:45:53,810 - database.db_manager - INFO - 成功插入文章: #問題 要將股票出清買房還是繼續租房？
+2025-06-05 20:45:53,810 - database.db_manager - INFO - 成功插入文章: 台南預售屋
+2025-06-05 20:45:53,811 - database.db_manager - INFO - 成功插入文章: 特力屋裝修老屋
+2025-06-05 20:45:53,811 - database.db_manager - INFO - 成功插入文章: 老婆想搬出去
+2025-06-05 20:45:53,811 - database.db_manager - INFO - 成功插入文章: 夫妻購屋房貸問題
+2025-06-05 20:45:53,811 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:45:53,812 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257991794 (版面: house_purchase)
+2025-06-05 20:45:53,812 - crawler.zenrowsapi - INFO - 已處理 400/1000 篇文章，最後ID: 257991794
+2025-06-05 20:45:56,818 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257991794&limit=100
+2025-06-05 20:46:11,257 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204611.json
+2025-06-05 20:46:11,262 - database.db_manager - INFO - 成功插入文章: 預售屋進度拖延請益
+2025-06-05 20:46:11,263 - database.db_manager - INFO - 成功插入文章: 房貸選擇
+2025-06-05 20:46:11,264 - database.db_manager - INFO - 成功插入文章: #分享 中山鉑悅建案初評分享
+2025-06-05 20:46:11,265 - database.db_manager - INFO - 成功插入文章: 收到稅捐處輔導通知書（自用住宅）
+2025-06-05 20:46:11,266 - database.db_manager - INFO - 成功插入文章: 關於買房子
+2025-06-05 20:46:11,267 - database.db_manager - INFO - 成功插入文章: #問題 實登價格請益
+2025-06-05 20:46:11,267 - database.db_manager - INFO - 成功插入文章: #分享 桃園A8新成屋1房影片分享（屋主自售）
+2025-06-05 20:46:11,268 - database.db_manager - INFO - 成功插入文章: #問題 遷戶籍問題
+2025-06-05 20:46:11,271 - database.db_manager - INFO - 成功插入文章: #問題 請問居住正義跟買房的關聯
+2025-06-05 20:46:11,272 - database.db_manager - INFO - 成功插入文章: #裝潢 76萬成家裝潢分享！全境空間規劃
+2025-06-05 20:46:11,274 - database.db_manager - INFO - 成功插入文章: #問題 竹北西區預售
+2025-06-05 20:46:11,276 - database.db_manager - INFO - 成功插入文章: #問題 一般房市網站的開價可以往多少談
+2025-06-05 20:46:11,278 - database.db_manager - INFO - 成功插入文章: #資訊 買房為什麼要簽本票?
+2025-06-05 20:46:11,278 - database.db_manager - INFO - 成功插入文章: #裝潢 [反推] 工作室：惠O琪空間設計；設計師：曹O偉
+2025-06-05 20:46:11,279 - database.db_manager - INFO - 成功插入文章: #問題 竹科工作買不起新竹會考慮苗栗嗎?
+2025-06-05 20:46:11,280 - database.db_manager - INFO - 成功插入文章: #殺價 關於買預售屋
+2025-06-05 20:46:11,280 - database.db_manager - INFO - 成功插入文章: #問題 新青安貸款
+2025-06-05 20:46:11,281 - database.db_manager - INFO - 成功插入文章: #建議 購屋選擇，尋求各位先知意見
+2025-06-05 20:46:11,281 - database.db_manager - INFO - 成功插入文章: #問題 店面不用裝修許可？
+2025-06-05 20:46:11,282 - database.db_manager - INFO - 成功插入文章: 低於行情你們還會砍價嗎？
+2025-06-05 20:46:11,282 - database.db_manager - INFO - 成功插入文章: 難得看到有亮點的公設設計
+2025-06-05 20:46:11,283 - database.db_manager - INFO - 成功插入文章: #問題 購屋貸款請益
+2025-06-05 20:46:11,283 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 20:46:11,284 - database.db_manager - INFO - 成功插入文章: 採光罩請益
+2025-06-05 20:46:11,284 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸問題
+2025-06-05 20:46:11,285 - database.db_manager - INFO - 成功插入文章: #分享 美國房地產投資
+2025-06-05 20:46:11,285 - database.db_manager - INFO - 成功插入文章: 各位前輩好 ～尋求推薦新北不錯的統包～預算只有約20萬左右（天花、小孩房、部分木作） 感謝
+2025-06-05 20:46:11,286 - database.db_manager - INFO - 成功插入文章: 預售屋房貸詢問
+2025-06-05 20:46:11,286 - database.db_manager - INFO - 成功插入文章: #問題 有沒有關於戶數少的華廈心得
+2025-06-05 20:46:11,287 - database.db_manager - INFO - 成功插入文章: #問題 徵求可配合粗估的房貸專員
+2025-06-05 20:46:11,287 - database.db_manager - INFO - 成功插入文章: 房貸詢問
+2025-06-05 20:46:11,288 - database.db_manager - INFO - 成功插入文章: #問題 該買哪裡好
+2025-06-05 20:46:11,288 - database.db_manager - INFO - 成功插入文章: 2025哪家銀行承作套房貸款利率最好呢？
+2025-06-05 20:46:11,289 - database.db_manager - INFO - 成功插入文章: #裝潢 請推薦台中市區【中古屋透天】裝潢統包團隊！
+2025-06-05 20:46:11,290 - database.db_manager - INFO - 成功插入文章: #分享 麻煩的裝潢細清怎麼做？高雄清潔公司實例分享
+2025-06-05 20:46:11,290 - database.db_manager - INFO - 成功插入文章: 公教房貸收支比問題
+2025-06-05 20:46:11,291 - database.db_manager - INFO - 成功插入文章: #裝潢 新竹室內設計師推薦｜裝潢設計、收納規劃、風格打造一次搞定！
+2025-06-05 20:46:11,291 - database.db_manager - INFO - 成功插入文章: 廚房裝潢建議
+2025-06-05 20:46:11,292 - database.db_manager - INFO - 成功插入文章: #裝潢#泰山裝潢推薦
+2025-06-05 20:46:11,292 - database.db_manager - INFO - 成功插入文章: #問題 首購房貸詢問
+2025-06-05 20:46:11,292 - database.db_manager - INFO - 成功插入文章: #裝潢 #分享 30年老屋翻新 我成功了！！！｜嘉義｜30坪
+2025-06-05 20:46:11,293 - database.db_manager - INFO - 成功插入文章: 2025/03新青安房貸詢問
+2025-06-05 20:46:11,294 - database.db_manager - INFO - 成功插入文章: #資訊 昂峰建設 | 福音街全新力作 VIP潛銷攻略交流分享
+2025-06-05 20:46:11,294 - database.db_manager - INFO - 成功插入文章: 想詢問房貸的流程
+2025-06-05 20:46:11,295 - database.db_manager - INFO - 成功插入文章: #問題 年後南部房價是不是會繼續飆漲
+2025-06-05 20:46:11,295 - database.db_manager - INFO - 成功插入文章: 房屋轉貸
+2025-06-05 20:46:11,296 - database.db_manager - INFO - 成功插入文章: 詢問房貸
+2025-06-05 20:46:11,296 - database.db_manager - INFO - 成功插入文章: #建議 房貸
+2025-06-05 20:46:11,297 - database.db_manager - INFO - 成功插入文章: 預售屋房貸問題
+2025-06-05 20:46:11,297 - database.db_manager - INFO - 成功插入文章: 想問系統櫃報價
+2025-06-05 20:46:11,297 - database.db_manager - INFO - 成功插入文章: #分享 租屋補助就是鴉片我預言正確🫠
+2025-06-05 20:46:11,298 - database.db_manager - INFO - 成功插入文章: 詢問房貸
+2025-06-05 20:46:11,298 - database.db_manager - INFO - 成功插入文章: #裝潢 小坪數客廳裝潢5招數！
+2025-06-05 20:46:11,298 - database.db_manager - INFO - 成功插入文章: 詢問公教築巢優利貸
+2025-06-05 20:46:11,299 - database.db_manager - INFO - 成功插入文章: #問題 請益。預售屋對保
+2025-06-05 20:46:11,299 - database.db_manager - INFO - 成功插入文章: #問題 新青安 一般房貸 信貸請益
+2025-06-05 20:46:11,300 - database.db_manager - INFO - 成功插入文章: #問題 大樓一層蓋多久合理？
+2025-06-05 20:46:11,300 - database.db_manager - INFO - 成功插入文章: #問題 想詢問棟距與採光的問題
+2025-06-05 20:46:11,300 - database.db_manager - INFO - 成功插入文章: #分享 有錢人買房都會入厝🤔？簡單入厝儀式分享、物品清單
+2025-06-05 20:46:11,301 - database.db_manager - INFO - 成功插入文章: #問題 可以同時下兩處斡旋嗎？
+2025-06-05 20:46:11,301 - database.db_manager - INFO - 成功插入文章: #請益 3房2廳2衛預售屋請益
+2025-06-05 20:46:11,301 - database.db_manager - INFO - 成功插入文章: #問題 買房位置請益
+2025-06-05 20:46:11,302 - database.db_manager - INFO - 成功插入文章: #問題 新青安房貸請益
+2025-06-05 20:46:11,302 - database.db_manager - INFO - 成功插入文章: #問題 兩房兩衛格局請益
+2025-06-05 20:46:11,303 - database.db_manager - INFO - 成功插入文章: #資訊 買房簽AB約？小心貸款不成反被罰！
+2025-06-05 20:46:11,303 - database.db_manager - INFO - 成功插入文章: #建議 預售屋請益
+2025-06-05 20:46:11,303 - database.db_manager - INFO - 成功插入文章: #問題 #更 預售屋請益-龍板靜玥
+2025-06-05 20:46:11,304 - database.db_manager - INFO - 成功插入文章: 請益：預售屋合約問題🙏
+2025-06-05 20:46:11,304 - database.db_manager - INFO - 成功插入文章: #資訊 #分享 北漂買房以及賣房紀錄(二)
+2025-06-05 20:46:11,304 - database.db_manager - INFO - 成功插入文章: #問題 房子貸款請教
+2025-06-05 20:46:11,305 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:46:11,305 - database.db_manager - INFO - 成功插入文章: #裝潢 採光罩骨架請益
+2025-06-05 20:46:11,305 - database.db_manager - INFO - 成功插入文章: #問題 請問系統櫃木作價格？
+2025-06-05 20:46:11,306 - database.db_manager - INFO - 成功插入文章: #裝潢 「台灣瑪摩」精雕「亞果遊艇黃金會所」，打造渡假生活圈
+2025-06-05 20:46:11,306 - database.db_manager - INFO - 成功插入文章: #分享 區域分享 八德擴大重劃區 G01&02
+2025-06-05 20:46:11,306 - database.db_manager - INFO - 成功插入文章: 建議裝潢新手用戶 #裝潢#作品分享#老屋翻修
+2025-06-05 20:46:11,307 - database.db_manager - INFO - 成功插入文章: 桃園中壢採光罩推薦
+2025-06-05 20:46:11,307 - database.db_manager - INFO - 成功插入文章: #分享 尋找紅樹林「米蘭日光」已購戶
+2025-06-05 20:46:11,308 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:46:11,308 - database.db_manager - INFO - 成功插入文章: #建議 車庫雙向鐵捲門風水請益+樑問題
+2025-06-05 20:46:11,309 - database.db_manager - INFO - 成功插入文章: #問題 小坪數客變請益
+2025-06-05 20:46:11,309 - database.db_manager - INFO - 成功插入文章: 預售屋請益
+2025-06-05 20:46:11,309 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸與信貸請益
+2025-06-05 20:46:11,310 - database.db_manager - INFO - 成功插入文章: #問題 新青安 對保文件 (已解決)
+2025-06-05 20:46:11,310 - database.db_manager - INFO - 成功插入文章: 新竹-新屋木工/水電尋找
+2025-06-05 20:46:11,310 - database.db_manager - INFO - 成功插入文章: #問題 裝潢浴室牆歪掉怎麼辦
+2025-06-05 20:46:11,311 - database.db_manager - INFO - 成功插入文章: #裝潢 #中古屋裝潢 （新竹）
+2025-06-05 20:46:11,311 - database.db_manager - INFO - 成功插入文章: #問題 桃園大竹建案
+2025-06-05 20:46:11,311 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 老屋重整裝潢怎麼挑公司？
+2025-06-05 20:46:11,312 - database.db_manager - INFO - 成功插入文章: #驗屋 新竹驗屋推薦
+2025-06-05 20:46:11,312 - database.db_manager - INFO - 成功插入文章: #問 預售屋貸款
+2025-06-05 20:46:11,312 - database.db_manager - INFO - 成功插入文章: #問題 房貸利率
+2025-06-05 20:46:11,313 - database.db_manager - INFO - 成功插入文章: #問題 #請益 小港買房推薦
+2025-06-05 20:46:11,313 - database.db_manager - INFO - 成功插入文章: 為什麼不能先鑑價？大家都在冒險買房耶
+2025-06-05 20:46:11,314 - database.db_manager - INFO - 成功插入文章: #問題 合資買房契約書
+2025-06-05 20:46:11,314 - database.db_manager - INFO - 成功插入文章: 貸款目前極限約8成40年
+2025-06-05 20:46:11,314 - database.db_manager - INFO - 成功插入文章: 3房格局請益
+2025-06-05 20:46:11,315 - database.db_manager - INFO - 成功插入文章: #問題 等核貸期間可以做什麼？
+2025-06-05 20:46:11,315 - database.db_manager - INFO - 成功插入文章: #請益 預售屋格局
+2025-06-05 20:46:11,315 - database.db_manager - INFO - 成功插入文章: 與其砸錢買房，不如
+2025-06-05 20:46:11,315 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:46:11,316 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257931710 (版面: house_purchase)
+2025-06-05 20:46:11,316 - crawler.zenrowsapi - INFO - 已處理 500/1000 篇文章，最後ID: 257931710
+2025-06-05 20:46:14,322 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257931710&limit=100
+2025-06-05 20:46:17,771 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_204617.json
+2025-06-05 20:46:17,772 - database.db_manager - INFO - 成功插入文章: #問題 只能貸七成很尷尬
+2025-06-05 20:46:17,772 - database.db_manager - INFO - 成功插入文章: 該不該入手太平洋炊飯器收納櫃？
+2025-06-05 20:46:17,773 - database.db_manager - INFO - 成功插入文章: #問題 預售屋建材是否需與文宣符合
+2025-06-05 20:46:17,773 - database.db_manager - INFO - 成功插入文章: #裝潢 請教客變&規劃建議
+2025-06-05 20:46:17,774 - database.db_manager - INFO - 成功插入文章: 桃園買房自住推薦
+2025-06-05 20:46:17,774 - database.db_manager - INFO - 成功插入文章: #資訊 勝美建設｜西屯12期新案｜上安路2-3房 潛銷攻略
+2025-06-05 20:46:17,774 - database.db_manager - INFO - 成功插入文章: #問題 貸款成數請益
+2025-06-05 20:46:17,775 - database.db_manager - INFO - 成功插入文章: 買房的最大受益者
+2025-06-05 20:46:17,775 - database.db_manager - INFO - 成功插入文章: #問題 怎麼跟房仲談價格，已看屋
+2025-06-05 20:46:17,775 - database.db_manager - INFO - 成功插入文章: #裝潢 最近，我們完成了新家的裝潢｜從找設計師到完工的心路歷程｜台南室內設計
+2025-06-05 20:46:17,776 - database.db_manager - INFO - 成功插入文章: #建議 格局請益
+2025-06-05 20:46:17,776 - database.db_manager - INFO - 成功插入文章: #問題 學貸會影響房貸嗎？
+2025-06-05 20:46:17,777 - database.db_manager - INFO - 成功插入文章: #分享 遷戶口到新屋
+2025-06-05 20:46:17,777 - database.db_manager - INFO - 成功插入文章: #問題 房貸利率這樣算高嗎？增貸討論？
+2025-06-05 20:46:17,777 - database.db_manager - INFO - 成功插入文章: #問題 向民間辦理二胎房貸後一直收到廣告信
+2025-06-05 20:46:17,778 - database.db_manager - INFO - 成功插入文章: #問題 下斡旋請益
+2025-06-05 20:46:17,779 - database.db_manager - INFO - 成功插入文章: #裝潢 老屋翻新要注意什麼？4個翻修案例一次看！
+2025-06-05 20:46:17,779 - database.db_manager - INFO - 成功插入文章: #問題 車位選擇
+2025-06-05 20:46:17,779 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 20:46:17,780 - database.db_manager - INFO - 成功插入文章: #裝潢#作品分享#老屋翻修
+2025-06-05 20:46:17,780 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢問題
+2025-06-05 20:46:17,780 - database.db_manager - INFO - 成功插入文章: #分享 在台北買套房就是爽
+2025-06-05 20:46:17,781 - database.db_manager - INFO - 成功插入文章: #資訊 小宅的廚房之基本烹煮電器（品牌）推薦？謝謝
+2025-06-05 20:46:17,781 - database.db_manager - INFO - 成功插入文章: 裝潢廠商找幾家比較才合理
+2025-06-05 20:46:17,782 - database.db_manager - INFO - 成功插入文章: 尋找統包 或設計師(台中)
+2025-06-05 20:46:17,782 - database.db_manager - INFO - 成功插入文章: #請益 預售屋格局
+2025-06-05 20:46:17,782 - database.db_manager - INFO - 成功插入文章: #問題 公務員買房問題
+2025-06-05 20:46:17,783 - database.db_manager - INFO - 成功插入文章: #裝潢 有關老屋裝修_化糞池
+2025-06-05 20:46:17,783 - database.db_manager - INFO - 成功插入文章: #裝潢 高雄｜奶茶色系統櫥櫃，質感真的沒話說！歐洲進口低甲醛環保建材
+2025-06-05 20:46:17,783 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢工程報價請益
+2025-06-05 20:46:17,784 - database.db_manager - INFO - 成功插入文章: 請問該整修蛋白舊屋還是買蛋黃新屋？
+2025-06-05 20:46:17,784 - database.db_manager - INFO - 成功插入文章: #問題 全熱交換器
+2025-06-05 20:46:17,784 - database.db_manager - INFO - 成功插入文章: #裝潢 小資宅局部裝修分享
+2025-06-05 20:46:17,785 - database.db_manager - INFO - 成功插入文章: #資訊 分享！最新房貸利率情形！
+2025-06-05 20:46:17,785 - database.db_manager - INFO - 成功插入文章: 房貸請益
+2025-06-05 20:46:17,785 - database.db_manager - INFO - 成功插入文章: #請益 預售屋格局請益
+2025-06-05 20:46:17,786 - database.db_manager - INFO - 成功插入文章: #分享 台南家具店開箱！開價真的有便宜
+2025-06-05 20:46:17,786 - database.db_manager - INFO - 成功插入文章: #問題 台南建案的建商請益(欣巴巴、豐邑、志竤)
+2025-06-05 20:46:17,787 - database.db_manager - INFO - 成功插入文章: #裝潢 台南老屋翻新成辦公室！舒服又好用！
+2025-06-05 20:46:17,787 - database.db_manager - INFO - 成功插入文章: 房屋貸款請益
+2025-06-05 20:46:17,788 - database.db_manager - INFO - 成功插入文章: #問題 透天裝電梯好嗎？孝親房就好？
+2025-06-05 20:46:17,788 - database.db_manager - INFO - 成功插入文章: #請益 預售格局請益
+2025-06-05 20:46:17,789 - database.db_manager - INFO - 成功插入文章: #裝潢 ”三d渲染圖”給的顏色如何套入真實板材，真實油漆顏色？
+2025-06-05 20:46:17,790 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢新屋的櫃體，牆壁之選色，在哪選較不出錯？
+2025-06-05 20:46:17,790 - database.db_manager - INFO - 成功插入文章: #建議 若非自住 謹慎購買
+2025-06-05 20:46:17,791 - database.db_manager - INFO - 成功插入文章: #建議 小三房預售屋格局請益
+2025-06-05 20:46:17,791 - database.db_manager - INFO - 成功插入文章: 台中市 烏日區 家倉住幸福Line社群
+2025-06-05 20:46:17,792 - database.db_manager - INFO - 成功插入文章: #裝潢 廚房設計4攻略，人造石檯面、烤漆玻璃及中島廚房大全！
+2025-06-05 20:46:17,792 - database.db_manager - INFO - 成功插入文章: #資訊 哇噻，三重人也太猛了！
+2025-06-05 20:46:17,793 - database.db_manager - INFO - 成功插入文章: 彰化新青安貸款詢問
+2025-06-05 20:46:17,793 - database.db_manager - INFO - 成功插入文章: #裝潢 3D模擬圖或渲染圖,各區顏色如何和業主指定完全相同?
+2025-06-05 20:46:17,794 - database.db_manager - INFO - 成功插入文章: #問題 請問 #預售屋格局
+2025-06-05 20:46:17,794 - database.db_manager - INFO - 成功插入文章: #建議 首次購屋 請問預售屋格局 謝謝🙏
+2025-06-05 20:46:17,794 - database.db_manager - INFO - 成功插入文章: 請益 房屋自售管道
+2025-06-05 20:46:17,795 - database.db_manager - INFO - 成功插入文章: 室內26坪三房格局
+2025-06-05 20:46:17,795 - database.db_manager - INFO - 成功插入文章: #裝潢 格局請益
+2025-06-05 20:46:17,795 - database.db_manager - INFO - 成功插入文章: 台南哪裡算精華蛋黃區
+2025-06-05 20:46:17,796 - database.db_manager - INFO - 成功插入文章: #資訊 買房根本不難啊
+2025-06-05 20:46:17,797 - database.db_manager - INFO - 成功插入文章: 請問這樣算對嗎？
+2025-06-05 20:46:17,797 - database.db_manager - INFO - 成功插入文章: #問題 新青安貸款下來是匯到戶頭嗎？
+2025-06-05 20:46:17,798 - database.db_manager - INFO - 成功插入文章: 首購 房貸請益
+2025-06-05 20:46:17,798 - database.db_manager - INFO - 成功插入文章: 台灣房市狂飆　專家籲借鏡國際　慎防泡沫破滅
+2025-06-05 20:46:17,798 - database.db_manager - INFO - 成功插入文章: 不懂就問 買二樓真的不好嗎
+2025-06-05 20:46:17,799 - database.db_manager - INFO - 成功插入文章: 年輕人買不起房是眼高手低的關係
+2025-06-05 20:46:17,799 - database.db_manager - INFO - 成功插入文章: 預售屋落架到交屋通常要多久？
+2025-06-05 20:46:17,800 - database.db_manager - INFO - 成功插入文章: 想買預售屋，但是有兩個問題，請大哥大姐幫忙回答
+2025-06-05 20:46:17,800 - database.db_manager - INFO - 成功插入文章: #資訊 桃園小檜溪重劃區，超越中正藝文特區問鼎桃園區第一
+2025-06-05 20:46:17,801 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢格局請益
+2025-06-05 20:46:17,801 - database.db_manager - INFO - 成功插入文章: #問題#請問這樣有符合首購嗎？
+2025-06-05 20:46:17,802 - database.db_manager - INFO - 成功插入文章: #資訊 金龍風暴後的房價變化
+2025-06-05 20:46:17,802 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢費用整理，裝潢一坪多少？室內裝修申請要錢嗎？
+2025-06-05 20:46:17,802 - database.db_manager - INFO - 成功插入文章: #建議 關於保留五樓增建買賣可能性問題
+2025-06-05 20:46:17,803 - database.db_manager - INFO - 成功插入文章: #問題 銀行房貸股票財力認列
+2025-06-05 20:46:17,803 - database.db_manager - INFO - 成功插入文章: #資訊 少子化 空空們假議題？
+2025-06-05 20:46:17,803 - database.db_manager - INFO - 成功插入文章: 格局
+2025-06-05 20:46:17,804 - database.db_manager - INFO - 成功插入文章: #分享 雙北建案鄰損風險高？桃園地質威、民眾移居量明顯增！
+2025-06-05 20:46:17,804 - database.db_manager - INFO - 成功插入文章: 統計～房子，愈買愈老🫠
+2025-06-05 20:46:17,804 - database.db_manager - INFO - 成功插入文章: 房屋貸款請益
+2025-06-05 20:46:17,805 - database.db_manager - INFO - 成功插入文章: #問題 八德房市衝了、但很缺醫療資源！何時露曙光？
+2025-06-05 20:46:17,805 - database.db_manager - INFO - 成功插入文章: #分享 該冷靜了！房市必須休息了、價修正調整
+2025-06-05 20:46:17,805 - database.db_manager - INFO - 成功插入文章: #分享 左營區世紀莊園建案分享
+2025-06-05 20:46:17,806 - database.db_manager - INFO - 成功插入文章: #問題 樓梯下廁所高170有符合法規嗎？
+2025-06-05 20:46:17,807 - database.db_manager - INFO - 成功插入文章: #分享 桃園八擴與周邊越來越繁榮的明確跡象！
+2025-06-05 20:46:17,807 - database.db_manager - INFO - 成功插入文章: #裝潢 格局請益
+2025-06-05 20:46:17,809 - database.db_manager - INFO - 成功插入文章: 兩個門開的位置哪個好？
+2025-06-05 20:46:17,809 - database.db_manager - INFO - 成功插入文章: 他想一輩子租房！網打臉「20歲租到80歲」　累積租金破2千萬
+2025-06-05 20:46:17,809 - database.db_manager - INFO - 成功插入文章: 台南東區的房子可以買嗎？
+2025-06-05 20:46:17,810 - database.db_manager - INFO - 成功插入文章: #問題 有關114年公教築巢優利貸問題
+2025-06-05 20:46:17,810 - database.db_manager - INFO - 成功插入文章: #分享 新與舊的交織！北高雄區域大變化進行中
+2025-06-05 20:46:17,810 - database.db_manager - INFO - 成功插入文章: #裝潢 天花板裝潢有哪些？3 攻略看天花板優缺點
+2025-06-05 20:46:17,811 - database.db_manager - INFO - 成功插入文章: #問題 是否要賣股買房？
+2025-06-05 20:46:17,811 - database.db_manager - INFO - 成功插入文章: #問題 江翠北側開發
+2025-06-05 20:46:17,812 - database.db_manager - INFO - 成功插入文章: #問題 先買房？還是先有小孩？
+2025-06-05 20:46:17,812 - database.db_manager - INFO - 成功插入文章: 想問這個格局有哪些優點跟缺點
+2025-06-05 20:46:17,813 - database.db_manager - INFO - 成功插入文章: 老公寓要室內裝修許可嗎？
+2025-06-05 20:46:17,813 - database.db_manager - INFO - 成功插入文章: #建議 貸款成數請益
+2025-06-05 20:46:17,813 - database.db_manager - INFO - 成功插入文章: 避雷台中設計師
+2025-06-05 20:46:17,814 - database.db_manager - INFO - 成功插入文章: #問題 怎麼最低成本合乎法規要求？
+2025-06-05 20:46:17,814 - database.db_manager - INFO - 成功插入文章: #裝潢 汐止套房完工
+2025-06-05 20:46:17,814 - database.db_manager - INFO - 成功插入文章: #裝潢 凸窗還是鐵窗？
+2025-06-05 20:46:17,814 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 20:46:17,815 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257855183 (版面: house_purchase)
+2025-06-05 20:46:17,815 - crawler.zenrowsapi - INFO - 已處理 600/1000 篇文章，最後ID: 257855183
+2025-06-05 20:46:20,820 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257855183&limit=100
+2025-06-05 20:47:35,524 - crawler.zenrowsapi - ERROR - 響應中未找到文章數據
+2025-06-05 20:47:35,527 - crawler.zenrowsapi - WARNING - 沒有更多文章或請求失敗
+2025-06-05 20:47:35,528 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 20:47:35,528 - __main__ - INFO - 爬蟲任務完成
+2025-06-05 20:47:35,528 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-05 21:42:53,178 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-05 21:42:53,180 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-05 21:42:53,180 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-05 21:42:53,180 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 21:42:53,180 - __main__ - INFO - 資料庫連接測試成功
+2025-06-05 21:42:53,180 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 21:42:53,180 - __main__ - INFO - 環境驗證通過
+2025-06-05 21:42:53,180 - __main__ - INFO - 開始爬蟲任務
+2025-06-05 21:42:53,180 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-05 21:42:53,181 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 21:42:53,181 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-05 21:42:53,181 - utils.helpers - INFO - 讀取最後爬取的文章 ID: 257855183 (版面: house_purchase, 更新時間: 2025-06-05 20:46:17)
+2025-06-05 21:42:53,181 - crawler.zenrowsapi - INFO - 繼續從上次爬取的位置開始，last_id: 257855183
+2025-06-05 21:42:53,182 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257855183&limit=100
+2025-06-05 21:43:07,819 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_214307.json
+2025-06-05 21:43:07,822 - database.db_manager - INFO - 成功插入文章: #分享 八德有這麼美的星巴克！讓人不禁想多看幾眼
+2025-06-05 21:43:07,822 - database.db_manager - INFO - 成功插入文章: #裝潢 大門對主臥室門 裝潢請益
+2025-06-05 21:43:07,823 - database.db_manager - INFO - 成功插入文章: #裝潢 軌道燈安裝要注意什麼？3大軌道燈設計懶人包！
+2025-06-05 21:43:07,823 - database.db_manager - INFO - 成功插入文章: #請益 詢問鄰居空地當停車場經驗
+2025-06-05 21:43:07,824 - database.db_manager - INFO - 成功插入文章: #問題 桃園的「觀音」與「中壢」，都幾？
+2025-06-05 21:43:07,824 - database.db_manager - INFO - 成功插入文章: #請益 中古屋這樣是漏/滲水嗎？
+2025-06-05 21:43:07,825 - database.db_manager - INFO - 成功插入文章: 為什麼台北的房子會貴？
+2025-06-05 21:43:07,826 - database.db_manager - INFO - 成功插入文章: #分享 買高雄是送分題！
+2025-06-05 21:43:07,827 - database.db_manager - INFO - 成功插入文章: #裝潢 客廳工作區請益
+2025-06-05 21:43:07,827 - database.db_manager - INFO - 成功插入文章: #分享 橋頭新市鎮現況！雖待開發、但未來確實可期待
+2025-06-05 21:43:07,828 - database.db_manager - INFO - 成功插入文章: #問題 銀行對保後的處理時間？
+2025-06-05 21:43:07,829 - database.db_manager - INFO - 成功插入文章: 現在預售屋在賣未來價嗎？
+2025-06-05 21:43:07,829 - database.db_manager - INFO - 成功插入文章: 小14.87坪，中古屋
+2025-06-05 21:43:07,829 - database.db_manager - INFO - 成功插入文章: #資訊 十年前的空空文共賞（附上貼心整理）
+2025-06-05 21:43:07,830 - database.db_manager - INFO - 成功插入文章: #建議 台北巨嬰真的好多 好好笑
+2025-06-05 21:43:07,831 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋格局請益
+2025-06-05 21:43:07,831 - database.db_manager - INFO - 成功插入文章: 換房子 請益
+2025-06-05 21:43:07,832 - database.db_manager - INFO - 成功插入文章: #請益 裝潢遇到五金困難
+2025-06-05 21:43:07,832 - database.db_manager - INFO - 成功插入文章: #裝潢 到瑞典第18個月內裝+入厝了
+2025-06-05 21:43:07,832 - database.db_manager - INFO - 成功插入文章: 想請問各位大大室內配置
+2025-06-05 21:43:07,833 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋格局請益
+2025-06-05 21:43:07,833 - database.db_manager - INFO - 成功插入文章: #裝潢 馬桶移位請益
+2025-06-05 21:43:07,834 - database.db_manager - INFO - 成功插入文章: #裝潢 為什麼不能拆防火門啊？！
+2025-06-05 21:43:07,834 - database.db_manager - INFO - 成功插入文章: #問題 格局請益 室內24.48坪
+2025-06-05 21:43:07,835 - database.db_manager - INFO - 成功插入文章: #裝潢 小坪數裝潢眉角多！北中南4案例看小宅注意事項！
+2025-06-05 21:43:07,835 - database.db_manager - INFO - 成功插入文章: #建議 舊屋翻修完工分享文
+2025-06-05 21:43:07,836 - database.db_manager - INFO - 成功插入文章: #抱怨 沒有高雄厝有什麼好驕傲的？
+2025-06-05 21:43:07,837 - database.db_manager - INFO - 成功插入文章: #分享 半年多來看屋有感
+2025-06-05 21:43:07,839 - database.db_manager - INFO - 成功插入文章: #問題 各銀行近期內規年齡限制 新青安貸不到
+2025-06-05 21:43:07,841 - database.db_manager - INFO - 成功插入文章: #裝潢 三房預售屋請益
+2025-06-05 21:43:07,841 - database.db_manager - INFO - 成功插入文章: 請問台南市政大道評價如何？
+2025-06-05 21:43:07,842 - database.db_manager - INFO - 成功插入文章: 系統櫃公司的"木工"裝修天花板,和一般設計公司相比
+2025-06-05 21:43:07,842 - database.db_manager - INFO - 成功插入文章: 如何找到兼具美感(時代性)以及施工扎實的室內設計公司?如何找?用什麼方法?
+2025-06-05 21:43:07,843 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 21:43:07,843 - database.db_manager - INFO - 成功插入文章: 房貸請益
+2025-06-05 21:43:07,844 - database.db_manager - INFO - 成功插入文章: 請益 父母贊助的房型選擇
+2025-06-05 21:43:07,844 - database.db_manager - INFO - 成功插入文章: 請益 預售屋格局規劃
+2025-06-05 21:43:07,845 - database.db_manager - INFO - 成功插入文章: #資訊 松江Wow、信義Wow已購户請進
+2025-06-05 21:43:07,845 - database.db_manager - INFO - 成功插入文章: #分享 八德擴大更健康了！幾年前房市反轉、掃除投資客
+2025-06-05 21:43:07,846 - database.db_manager - INFO - 成功插入文章: 其實年輕人沒有買不起房子呀
+2025-06-05 21:43:07,846 - database.db_manager - INFO - 成功插入文章: #詢問 剛裝好的系統櫃顏色不滿意
+2025-06-05 21:43:07,847 - database.db_manager - INFO - 成功插入文章: #問題 房貸成數請教
+2025-06-05 21:43:07,847 - database.db_manager - INFO - 成功插入文章: #裝潢 兩房預售屋格局請益
+2025-06-05 21:43:07,849 - database.db_manager - INFO - 成功插入文章: #裝潢  #建議 預售屋格局建議
+
+請各位高手給個意見。
+權狀23.7，室內14.7坪，過客變期。
+1.苦惱電器櫃位置
+2.玄關設計怎樣較好
+3.能有儲藏空間嗎
+2025-06-05 21:43:07,849 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 21:43:07,850 - database.db_manager - INFO - 成功插入文章: #問題 實木木皮板家具？
+2025-06-05 21:43:07,850 - database.db_manager - INFO - 成功插入文章: #問題 幸福空間的幸福種子？
+2025-06-05 21:43:07,854 - database.db_manager - INFO - 成功插入文章: ⭐南屯【2~3房】黎明商圈 稀有千坪基地 精華地段 享受機能免等待 市區機能便利宜居宅 空拍分享
+2025-06-05 21:43:07,855 - database.db_manager - INFO - 成功插入文章: 軟底跟燒底一樣嗎? 磁磚燒底、硬底一次搞懂❗準備新家裝潢的請進⛏️👉
+2025-06-05 21:43:07,855 - database.db_manager - INFO - 成功插入文章: #問題 估價丈量為什麼不收費
+2025-06-05 21:43:07,856 - database.db_manager - INFO - 成功插入文章: #問題 新成屋格局
+2025-06-05 21:43:07,856 - database.db_manager - INFO - 成功插入文章: #問題 桃園八德竹風森林格局
+2025-06-05 21:43:07,857 - database.db_manager - INFO - 成功插入文章: 購屋首購請益
+2025-06-05 21:43:07,857 - database.db_manager - INFO - 成功插入文章: #問題 如何提高貸款成數
+2025-06-05 21:43:07,858 - database.db_manager - INFO - 成功插入文章: #問題 台中海線建案
+2025-06-05 21:43:07,858 - database.db_manager - INFO - 成功插入文章: 預售格局請益
+2025-06-05 21:43:07,859 - database.db_manager - INFO - 成功插入文章: #裝潢 石英石檯面選購3重點，優缺點、價格一次看！
+2025-06-05 21:43:07,860 - database.db_manager - INFO - 成功插入文章: #問題 建照的竣工期限
+2025-06-05 21:43:07,860 - database.db_manager - INFO - 成功插入文章: #問題 新婚夫妻兩間物件的抉擇(淡水)
+2025-06-05 21:43:07,862 - database.db_manager - INFO - 成功插入文章: 房貸問題請教
+2025-06-05 21:43:07,863 - database.db_manager - INFO - 成功插入文章: #裝潢 打牆移門還是維持原狀好？
+2025-06-05 21:43:07,863 - database.db_manager - INFO - 成功插入文章: 三鶯捷運預定旁鳳鳴重劃區旁新建案！
+2025-06-05 21:43:07,863 - database.db_manager - INFO - 成功插入文章: #問題 平面車位選擇
+2025-06-05 21:43:07,864 - database.db_manager - INFO - 成功插入文章: 預售屋客變請益 三房
+2025-06-05 21:43:07,864 - database.db_manager - INFO - 成功插入文章: 找設計師還是請認識的統包
+2025-06-05 21:43:07,865 - database.db_manager - INFO - 成功插入文章: #裝潢 ［現代風飯店宅/裝潢分享］
+2025-06-05 21:43:07,865 - database.db_manager - INFO - 成功插入文章: 雙北太擠了不宜居
+2025-06-05 21:43:07,865 - database.db_manager - INFO - 成功插入文章: #裝潢 #預售 #建議 #問題 3房裝潢格局請益
+2025-06-05 21:43:07,866 - database.db_manager - INFO - 成功插入文章: 投資客週轉失靈
+2025-06-05 21:43:07,867 - database.db_manager - INFO - 成功插入文章: #問題 買房仍追不上房價的分享與疑問
+2025-06-05 21:43:07,867 - database.db_manager - INFO - 成功插入文章: #分享 北高雄房價有鬆動？
+2025-06-05 21:43:07,868 - database.db_manager - INFO - 成功插入文章: #資訊 #問 房貸申請
+2025-06-05 21:43:07,868 - database.db_manager - INFO - 成功插入文章: #分享 幼兒園、補習班明顯增加！八德擴大移入居民確實多
+2025-06-05 21:43:07,869 - database.db_manager - INFO - 成功插入文章: #建議 #問題 請益餐桌跟電器櫃建議擺放位置
+2025-06-05 21:43:07,869 - database.db_manager - INFO - 成功插入文章: #問題 台灣可以蓋這種日本公寓
+2025-06-05 21:43:07,869 - database.db_manager - INFO - 成功插入文章: 有約定專用的法定用地，就可以隨便增建嗎？
+2025-06-05 21:43:07,871 - database.db_manager - INFO - 成功插入文章: #資訊 ⭐小宅的趨勢?
+2025-06-05 21:43:07,872 - database.db_manager - INFO - 成功插入文章: 預售屋兩房格局請益🙏🏻
+2025-06-05 21:43:07,872 - database.db_manager - INFO - 成功插入文章: #裝潢 室內設計裝修分享
+2025-06-05 21:43:07,872 - database.db_manager - INFO - 成功插入文章: #問題  土城馥春錦個案
+2025-06-05 21:43:07,873 - database.db_manager - INFO - 成功插入文章: #建議 格局變更請益
+2025-06-05 21:43:07,873 - database.db_manager - INFO - 成功插入文章: 在雙北買不起房，考慮轉往高雄發展
+2025-06-05 21:43:07,874 - database.db_manager - INFO - 成功插入文章: #資訊 秒殺房❗️，可寵🐱🐶，可雙租補，近一中街❗️月租16000
+2025-06-05 21:43:07,874 - database.db_manager - INFO - 成功插入文章: #建議 格局請益（兩房一衛）
+2025-06-05 21:43:07,874 - database.db_manager - INFO - 成功插入文章: 為什麼靜巷巷弄房子詢問度遠比同地段幹道低
+2025-06-05 21:43:07,876 - database.db_manager - INFO - 成功插入文章: #裝潢 室內16坪 灰色系 請求裝潢分享🙏
+2025-06-05 21:43:07,877 - database.db_manager - INFO - 成功插入文章: #裝潢 想看看大家的系統櫃顏色🤩
+2025-06-05 21:43:07,878 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢案例分享
+2025-06-05 21:43:07,878 - database.db_manager - INFO - 成功插入文章: #問題 尋找南投市永豐建設 三十而立鄰居 蓋個鄰居樓
+2025-06-05 21:43:07,878 - database.db_manager - INFO - 成功插入文章: #問題 台中13期14期首購選擇
+2025-06-05 21:43:07,879 - database.db_manager - INFO - 成功插入文章: #預售 四房裝潢格局請益
+2025-06-05 21:43:07,879 - database.db_manager - INFO - 成功插入文章: #裝潢 想詢問板上大大 木作價錢是否合理
+2025-06-05 21:43:07,880 - database.db_manager - INFO - 成功插入文章: 同樣的頭期款選哪？
+2025-06-05 21:43:07,880 - database.db_manager - INFO - 成功插入文章: #裝潢 兩房一位格局請益
+2025-06-05 21:43:07,881 - database.db_manager - INFO - 成功插入文章: 格局請益
+2025-06-05 21:43:07,881 - database.db_manager - INFO - 成功插入文章: #問題 下定決心買房，好像買貴了？？(賀成交🤩)
+2025-06-05 21:43:07,881 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 21:43:07,882 - database.db_manager - INFO - 成功插入文章: #裝潢 【開箱】13坪小宅，天花板、冷氣盒木作輕裝修
+2025-06-05 21:43:07,882 - database.db_manager - INFO - 成功插入文章: #問題 新屋（集合大樓）的所有權人會議，如何修訂陽台辦法？
+2025-06-05 21:43:07,883 - database.db_manager - INFO - 成功插入文章: #裝潢 墊高的和室有什麼作用？
+2025-06-05 21:43:07,883 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 21:43:07,884 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257782901 (版面: house_purchase)
+2025-06-05 21:43:07,884 - crawler.zenrowsapi - INFO - 已處理 100/300 篇文章，最後ID: 257782901
+2025-06-05 21:43:10,889 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257782901&limit=100
+2025-06-05 21:43:15,117 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_214314.json
+2025-06-05 21:43:15,118 - database.db_manager - INFO - 成功插入文章: 交屋款問題
+2025-06-05 21:43:15,119 - database.db_manager - INFO - 成功插入文章: #問題 #問題 預售屋格局請益
+2025-06-05 21:43:15,120 - database.db_manager - INFO - 成功插入文章: 房屋增貸撥款前會再回查保證人的聯徵嗎？
+2025-06-05 21:43:15,120 - database.db_manager - INFO - 成功插入文章: 三師貸款
+2025-06-05 21:43:15,121 - database.db_manager - INFO - 成功插入文章: #分享 公教貸款（中信）8成35年
+2025-06-05 21:43:15,121 - database.db_manager - INFO - 成功插入文章: #分享 A8長庚屋主自售+出租（無仲介費）房型一鏡到底影片
+2025-06-05 21:43:15,122 - database.db_manager - INFO - 成功插入文章: #問題 自營商房貸
+2025-06-05 21:43:15,122 - database.db_manager - INFO - 成功插入文章: #抱怨 簽約後悔～
+2025-06-05 21:43:15,123 - database.db_manager - INFO - 成功插入文章: #問題 #更   想詢問各位前輩對於這間房子的看法
+2025-06-05 21:43:15,124 - database.db_manager - INFO - 成功插入文章: 買屋送裝潢 何時交屋
+2025-06-05 21:43:15,125 - database.db_manager - INFO - 成功插入文章: #問題 賣房 售後回租 何時開始算才合理
+2025-06-05 21:43:15,125 - database.db_manager - INFO - 成功插入文章: #問題 購屋諮詢
+2025-06-05 21:43:15,131 - database.db_manager - INFO - 成功插入文章: #問題 重購退稅
+2025-06-05 21:43:15,132 - database.db_manager - INFO - 成功插入文章: #分享 這樣能省冷氣費
+2025-06-05 21:43:15,133 - database.db_manager - INFO - 成功插入文章: #建議 自建還是租房
+2025-06-05 21:43:15,133 - database.db_manager - INFO - 成功插入文章: #裝潢 高雄60坪中古屋翻新！講求細節的室內設計師
+2025-06-05 21:43:15,134 - database.db_manager - INFO - 成功插入文章: #建議 汐止伯爵山莊1字頭房價太便宜了吧
+2025-06-05 21:43:15,134 - database.db_manager - INFO - 成功插入文章: #問題 房貸 壽險 方案請教
+2025-06-05 21:43:15,134 - database.db_manager - INFO - 成功插入文章: #問題 想詢問大家對房子的看法
+2025-06-05 21:43:15,135 - database.db_manager - INFO - 成功插入文章: #裝潢 20坪老屋翻新｜板橋民權｜窩要成公益活動一個留言捐100
+2025-06-05 21:43:15,135 - database.db_manager - INFO - 成功插入文章: 預售屋格局請益
+2025-06-05 21:43:15,136 - database.db_manager - INFO - 成功插入文章: #公告 徵求購屋板板主
+2025-06-05 21:43:15,136 - database.db_manager - INFO - 成功插入文章: #問題 房貸對保前5個月離職自己開店做生意
+2025-06-05 21:43:15,137 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 感謝低卡網友的信任第四彈
+2025-06-05 21:43:15,137 - database.db_manager - INFO - 成功插入文章: #問題 桃園小戶型建案挑選推薦
+2025-06-05 21:43:15,138 - database.db_manager - INFO - 成功插入文章: #問題 繼承房選擇
+2025-06-05 21:43:15,138 - database.db_manager - INFO - 成功插入文章: #問題 #請益#買房基地整體位置不優，是否該買？
+2025-06-05 21:43:15,139 - database.db_manager - INFO - 成功插入文章: #問題 五股是否還有機會補漲
+2025-06-05 21:43:15,139 - database.db_manager - INFO - 成功插入文章: #建議 交屋信貸要還清嗎？
+2025-06-05 21:43:15,140 - database.db_manager - INFO - 成功插入文章: #分享 西屯勝美籌備中
+2025-06-05 21:43:15,140 - database.db_manager - INFO - 成功插入文章: #裝潢 排油煙管長這樣到底可以怎麼裝潢🥺
+2025-06-05 21:43:15,140 - database.db_manager - INFO - 成功插入文章: #問題 沙發貓抓布選擇 德國ABU vs 以色列那普勒斯1800款
+2025-06-05 21:43:15,141 - database.db_manager - INFO - 成功插入文章: #問題 新成屋 洗手台下方櫥櫃漏水
+2025-06-05 21:43:15,141 - database.db_manager - INFO - 成功插入文章: #分享 20家預售屋畢業心得
+2025-06-05 21:43:15,141 - database.db_manager - INFO - 成功插入文章: #問題 近期房貸狀況 第一銀行 新青安
+2025-06-05 21:43:15,142 - database.db_manager - INFO - 成功插入文章: #問題 #問題 台南預售屋履約保證
+2025-06-05 21:43:15,142 - database.db_manager - INFO - 成功插入文章: #裝潢 統包 電燈做這樣對嗎？快瘋掉
+2025-06-05 21:43:15,143 - database.db_manager - INFO - 成功插入文章: #問題 無薪轉 首購擔心貸款不過？🥲
+2025-06-05 21:43:15,144 - database.db_manager - INFO - 成功插入文章: #問題 小坪數預售屋格局請益
+2025-06-05 21:43:15,144 - database.db_manager - INFO - 成功插入文章: #問題 主臥到底需要需要廁所
+2025-06-05 21:43:15,145 - database.db_manager - INFO - 成功插入文章: #問題 房屋貸款請益
+2025-06-05 21:43:15,145 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 21:43:15,146 - database.db_manager - INFO - 成功插入文章: #問題 兩房兩衛格局請益
+2025-06-05 21:43:15,146 - database.db_manager - INFO - 成功插入文章: #問題 有人住在偏鄉嗎
+2025-06-05 21:43:15,146 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 21:43:15,147 - database.db_manager - INFO - 成功插入文章: #問題 預售屋車位請益
+2025-06-05 21:43:15,147 - database.db_manager - INFO - 成功插入文章: #問題 請教他人汽車登記會破免稅額嗎
+2025-06-05 21:43:15,147 - database.db_manager - INFO - 成功插入文章: #問題 年收入的判斷？
+2025-06-05 21:43:15,148 - database.db_manager - INFO - 成功插入文章: #資訊 桃園 宜誠謙里 已購戶 ～開群
+2025-06-05 21:43:15,148 - database.db_manager - INFO - 成功插入文章: #問題 有可能取消信用管制嗎 貸款成數不受限
+2025-06-05 21:43:15,148 - database.db_manager - INFO - 成功插入文章: #裝潢 5個小坪數房間設計小方法！
+2025-06-05 21:43:15,149 - database.db_manager - INFO - 成功插入文章: #問題 買房建議詢問
+2025-06-05 21:43:15,149 - database.db_manager - INFO - 成功插入文章: #資訊 雙北市平均購屋預算要多少？
+2025-06-05 21:43:15,150 - database.db_manager - INFO - 成功插入文章: #抱怨 #分享 普特絲防蹣紗窗品質控管糟！
+2025-06-05 21:43:15,150 - database.db_manager - INFO - 成功插入文章: #建議 #購屋請益
+2025-06-05 21:43:15,150 - database.db_manager - INFO - 成功插入文章: #問題 在南科工作最遠會考慮住在哪?
+2025-06-05 21:43:15,151 - database.db_manager - INFO - 成功插入文章: #分享 小夫妻購屋初體驗流水帳😂
+2025-06-05 21:43:15,151 - database.db_manager - INFO - 成功插入文章: #問題 板殯遷不遷？板橋人有什麼想法呢？
+2025-06-05 21:43:15,151 - database.db_manager - INFO - 成功插入文章: #問題 一般薪資的房屋貸款
+2025-06-05 21:43:15,152 - database.db_manager - INFO - 成功插入文章: #裝潢 室內裝潢問題
+2025-06-05 21:43:15,152 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 #請益 台中輕裝潢
+2025-06-05 21:43:15,153 - database.db_manager - INFO - 成功插入文章: #問題 買房子了還款請益
+2025-06-05 21:43:15,153 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋配建商的裝潢
+2025-06-05 21:43:15,153 - database.db_manager - INFO - 成功插入文章: #問題 新成屋玻璃自爆🙀
+2025-06-05 21:43:15,154 - database.db_manager - INFO - 成功插入文章: #問題 桃園大園航空城店面投資問題請教
+2025-06-05 21:43:15,154 - database.db_manager - INFO - 成功插入文章: #問題 房貸請益
+2025-06-05 21:43:15,154 - database.db_manager - INFO - 成功插入文章: #驗屋 #尋找鄰居 高雄茄萣藍天白雲
+2025-06-05 21:43:15,155 - database.db_manager - INFO - 成功插入文章: #問題 想找南區新大樓
+2025-06-05 21:43:15,155 - database.db_manager - INFO - 成功插入文章: #問題 沙鹿富宇多少錢？
+2025-06-05 21:43:15,156 - database.db_manager - INFO - 成功插入文章: #裝潢 請益有關統包公司
+2025-06-05 21:43:15,156 - database.db_manager - INFO - 成功插入文章: #建議 想請教可以負擔的房價金額
+2025-06-05 21:43:15,156 - database.db_manager - INFO - 成功插入文章: #問題 價格高的房鄰居素質會比較好嗎？
+2025-06-05 21:43:15,157 - database.db_manager - INFO - 成功插入文章: #裝潢 天花板平釘-需要室內裝修證嗎
+2025-06-05 21:43:15,157 - database.db_manager - INFO - 成功插入文章: #問題 預售屋 是否要客變
+2025-06-05 21:43:15,157 - database.db_manager - INFO - 成功插入文章: #問題 後陽台地板鋪草皮？？
+2025-06-05 21:43:15,158 - database.db_manager - INFO - 成功插入文章: #問題 自地自建 污水已經接管，營造商卻要額外套匯弄化糞池收七萬多合理？
+2025-06-05 21:43:15,158 - database.db_manager - INFO - 成功插入文章: #問題 這樣買會不會太硬
+2025-06-05 21:43:15,158 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 報價請益
+2025-06-05 21:43:15,159 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢-系統櫃退稅-求問
+2025-06-05 21:43:15,160 - database.db_manager - INFO - 成功插入文章: #問題 預售屋交屋
+2025-06-05 21:43:15,160 - database.db_manager - INFO - 成功插入文章: #問題 #問題 新竹房貸請益🆘
+2025-06-05 21:43:15,161 - database.db_manager - INFO - 成功插入文章: #分享 高雄三民區三地艾美松地點初評分享（傳聞近完美格局？）
+2025-06-05 21:43:15,161 - database.db_manager - INFO - 成功插入文章: #分享 #分享 第一間房的裝潢
+2025-06-05 21:43:15,162 - database.db_manager - INFO - 成功插入文章: #問題 #問題 三房預售屋格局建議
+2025-06-05 21:43:15,162 - database.db_manager - INFO - 成功插入文章: #問題 預售屋工程進度請教
+2025-06-05 21:43:15,163 - database.db_manager - INFO - 成功插入文章: #裝潢 【開箱】台中18坪司曼特灰調小宅
+2025-06-05 21:43:15,163 - database.db_manager - INFO - 成功插入文章: #抱怨 房仲狗眼看人低
+2025-06-05 21:43:15,165 - database.db_manager - INFO - 成功插入文章: #問題 請益 竹北預售屋
+2025-06-05 21:43:15,167 - database.db_manager - INFO - 成功插入文章: #裝潢 主臥配置請益
+2025-06-05 21:43:15,168 - database.db_manager - INFO - 成功插入文章: #問題 請教持分的既有道路土地
+2025-06-05 21:43:15,168 - database.db_manager - INFO - 成功插入文章: #問題 高雄 房貸利率
+2025-06-05 21:43:15,169 - database.db_manager - INFO - 成功插入文章: #問題 建商整批房貸真的會比較好過嗎？
+2025-06-05 21:43:15,169 - database.db_manager - INFO - 成功插入文章: #建議 預售屋車位選擇困難請益
+2025-06-05 21:43:15,169 - database.db_manager - INFO - 成功插入文章: #裝潢 #中古屋翻新
+2025-06-05 21:43:15,170 - database.db_manager - INFO - 成功插入文章: #問題 114年最新公教築巢優利貸請益
+2025-06-05 21:43:15,170 - database.db_manager - INFO - 成功插入文章: #問題 關於房貸可貸金額
+2025-06-05 21:43:15,170 - database.db_manager - INFO - 成功插入文章: #分享 超低總價 只要5開頭  買輕屋齡2房華夏
+2025-06-05 21:43:15,171 - database.db_manager - INFO - 成功插入文章: #問題 大家首次買房真的會用新青安嗎？
+2025-06-05 21:43:15,171 - database.db_manager - INFO - 成功插入文章: #問題 房仲有存在的必要嗎？
+2025-06-05 21:43:15,172 - database.db_manager - INFO - 成功插入文章: #資訊 信義房屋刊「賀成交」廣告 未揭露是別家房仲成交案！公平會認定不實開罰
+2025-06-05 21:43:15,172 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 21:43:15,172 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257721363 (版面: house_purchase)
+2025-06-05 21:43:15,172 - crawler.zenrowsapi - INFO - 已處理 200/300 篇文章，最後ID: 257721363
+2025-06-05 21:43:18,178 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257721363&limit=100
+2025-06-05 21:43:36,585 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_214336.json
+2025-06-05 21:43:36,586 - database.db_manager - INFO - 成功插入文章: #裝潢 室內設計提案報價請益
+2025-06-05 21:43:36,587 - database.db_manager - INFO - 成功插入文章: #建議 請問育嬰留停對房貸審核的影響
+2025-06-05 21:43:36,587 - database.db_manager - INFO - 成功插入文章: #資訊 花蓮
+2025-06-05 21:43:36,588 - database.db_manager - INFO - 成功插入文章: #抱怨 千金難買好鄰居，還要賭嗎？
+2025-06-05 21:43:36,588 - database.db_manager - INFO - 成功插入文章: #分享 預售屋
+2025-06-05 21:43:36,589 - database.db_manager - INFO - 成功插入文章: #問題 新青安合資購屋
+2025-06-05 21:43:36,589 - database.db_manager - INFO - 成功插入文章: #問題 新加坡式華夏
+2025-06-05 21:43:36,590 - database.db_manager - INFO - 成功插入文章: #問題 合約條文疑問
+2025-06-05 21:43:36,590 - database.db_manager - INFO - 成功插入文章: #問題 新竹光復路一段和關新路一帶的老公寓、老透天為什麼不都更？
+2025-06-05 21:43:36,590 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢建材色號分享⚡️
+2025-06-05 21:43:36,591 - database.db_manager - INFO - 成功插入文章: #問題 新北徵室內設計師或統包（大坪數）
+2025-06-05 21:43:36,592 - database.db_manager - INFO - 成功插入文章: #裝潢 找10間以上室內設計師分享，各間裝潢丈量/設計費用比較。最後成品分享(文長)
+2025-06-05 21:43:36,592 - database.db_manager - INFO - 成功插入文章: #建議 預計明年買房
+2025-06-05 21:43:36,592 - database.db_manager - INFO - 成功插入文章: #問題 有關大樓管理費
+2025-06-05 21:43:36,593 - database.db_manager - INFO - 成功插入文章: #問題 有機會貸款8.5成40年嗎？
+2025-06-05 21:43:36,593 - database.db_manager - INFO - 成功插入文章: #問題 #裝潢 大成鋼隆美家居
+2025-06-05 21:43:36,594 - database.db_manager - INFO - 成功插入文章: #裝潢 台南室內設計-市區裡的樹屋豪宅，每個角落都摸得到木頭的溫潤
+2025-06-05 21:43:36,594 - database.db_manager - INFO - 成功插入文章: #建議 請問新竹貸款銀行推薦
+2025-06-05 21:43:36,595 - database.db_manager - INFO - 成功插入文章: #問題 管理費調漲失敗 取消垃圾清運服務
+2025-06-05 21:43:36,595 - database.db_manager - INFO - 成功插入文章: #問題 三峽北大特區 北大儛已購戶群組～
+2025-06-05 21:43:36,595 - database.db_manager - INFO - 成功插入文章: #資訊 永和區是庶民天堂
+2025-06-05 21:43:36,596 - database.db_manager - INFO - 成功插入文章: #裝潢 #問題 #裝潢問題
+2025-06-05 21:43:36,597 - database.db_manager - INFO - 成功插入文章: #裝潢 2房格局擺放
+2025-06-05 21:43:36,597 - database.db_manager - INFO - 成功插入文章: #分享 買房後，別忘了還有這些費用要付😱
+2025-06-05 21:43:36,598 - database.db_manager - INFO - 成功插入文章: #裝潢 軌道燈缺點是什麼？5個軌道燈注意事項！
+2025-06-05 21:43:36,598 - database.db_manager - INFO - 成功插入文章: #問題 採光罩 是否列入房地合一
+2025-06-05 21:43:36,598 - database.db_manager - INFO - 成功插入文章: #裝潢 #問題 格局請益
+2025-06-05 21:43:36,599 - database.db_manager - INFO - 成功插入文章: #問題 有113年自購住宅利息補貼申請通過的嗎？
+2025-06-05 21:43:36,599 - database.db_manager - INFO - 成功插入文章: #抱怨 大樓不都有停車位 但路邊停車變更多
+2025-06-05 21:43:36,599 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益🥺
+2025-06-05 21:43:36,600 - database.db_manager - INFO - 成功插入文章: #問題 買房請益
+2025-06-05 21:43:36,600 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局
+2025-06-05 21:43:36,600 - database.db_manager - INFO - 成功插入文章: #問題 兄弟贈與金錢問題
+2025-06-05 21:43:36,601 - database.db_manager - INFO - 成功插入文章: #問題 被脅迫要讓出頂樓
+2025-06-05 21:43:36,601 - database.db_manager - INFO - 成功插入文章: #問題 請問大家垃圾清運費用多少
+2025-06-05 21:43:36,602 - database.db_manager - INFO - 成功插入文章: #問題 送審核信貸會影響房貸嗎？
+2025-06-05 21:43:36,602 - database.db_manager - INFO - 成功插入文章: #問題 住商混合大樓問題
+2025-06-05 21:43:36,602 - database.db_manager - INFO - 成功插入文章: #問題 請問有關預售屋
+2025-06-05 21:43:36,603 - database.db_manager - INFO - 成功插入文章: #裝潢 室內窗封窗工程
+2025-06-05 21:43:36,603 - database.db_manager - INFO - 成功插入文章: #問題 大家怎不去買老大樓？
+2025-06-05 21:43:36,603 - database.db_manager - INFO - 成功插入文章: #問題 房價跌14%算多嗎？
+2025-06-05 21:43:36,604 - database.db_manager - INFO - 成功插入文章: #分享 分享三重預售屋113/10/1～11/20實價登錄共253筆
+2025-06-05 21:43:36,604 - database.db_manager - INFO - 成功插入文章: #裝潢 這主臥大樑有救嗎？
+2025-06-05 21:43:36,604 - database.db_manager - INFO - 成功插入文章: #問題 情侶買房疑問
+2025-06-05 21:43:36,605 - database.db_manager - INFO - 成功插入文章: #裝潢 【開箱】15坪高雄中古屋輕裝修
+2025-06-05 21:43:36,605 - database.db_manager - INFO - 成功插入文章: #分享 高雄拆除裝潢｜洗手台系統櫃無損拆除｜玉鼎拆除工程
+2025-06-05 21:43:36,606 - database.db_manager - INFO - 成功插入文章: #問題 課稅的問題
+2025-06-05 21:43:36,606 - database.db_manager - INFO - 成功插入文章: #問題 合資購屋匯款單據問題
+2025-06-05 21:43:36,607 - database.db_manager - INFO - 成功插入文章: #問題 最近的房貸申請
+2025-06-05 21:43:36,607 - database.db_manager - INFO - 成功插入文章: #問題 #請益。水電報價的部分覺得怪怪的🥲
+2025-06-05 21:43:36,607 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 21:43:36,608 - database.db_manager - INFO - 成功插入文章: #驗屋 買房後要做污水 是賣家要付嗎
+2025-06-05 21:43:36,608 - database.db_manager - INFO - 成功插入文章: #問題 購屋，要先把信貸還清？
+2025-06-05 21:43:36,608 - database.db_manager - INFO - 成功插入文章: #裝潢 尋找高雄小宅室內設計
+2025-06-05 21:43:36,609 - database.db_manager - INFO - 成功插入文章: #問題 中壢人求問，有哪裡值得下手？
+2025-06-05 21:43:36,609 - database.db_manager - INFO - 成功插入文章: #資訊 虛坪改革有譜？內政部允諾：今年一定有所作為
+2025-06-05 21:43:36,610 - database.db_manager - INFO - 成功插入文章: #問題 （請益）夫妻年薪175萬買房
+2025-06-05 21:43:36,610 - database.db_manager - INFO - 成功插入文章: #資訊 松江wow已購群開群了！
+2025-06-05 21:43:36,611 - database.db_manager - INFO - 成功插入文章: #分享 高鐵南延，市區房價要起飛了嗎？
+2025-06-05 21:43:36,611 - database.db_manager - INFO - 成功插入文章: #問題 首購定義
+2025-06-05 21:43:36,612 - database.db_manager - INFO - 成功插入文章: #裝潢 樂土、司曼特電視牆作品分享💡
+2025-06-05 21:43:36,612 - database.db_manager - INFO - 成功插入文章: #分享 一則以喜，一則以憂
+2025-06-05 21:43:36,612 - database.db_manager - INFO - 成功插入文章: #問題 台積電高雄即將投產 楠梓漢在起?
+2025-06-05 21:43:36,613 - database.db_manager - INFO - 成功插入文章: #問題 樓上水管漏水
+2025-06-05 21:43:36,613 - database.db_manager - INFO - 成功插入文章: #分享 【#北屯富宇】太原路首席2-3房
+十期核心｜總價1288萬起❗
+2025-06-05 21:43:36,613 - database.db_manager - INFO - 成功插入文章: #分享 新成屋不到一年就賣，不算投資客的房子？
+2025-06-05 21:43:36,614 - database.db_manager - INFO - 成功插入文章: #問題 小屋換大屋
+2025-06-05 21:43:36,614 - database.db_manager - INFO - 成功插入文章: #裝潢 這房間大樑上，下，可這樣規劃嗎？
+2025-06-05 21:43:36,615 - database.db_manager - INFO - 成功插入文章: #裝潢 衛廁施工報價請益
+2025-06-05 21:43:36,615 - database.db_manager - INFO - 成功插入文章: #分享 台北捷運三重站房價破百萬，已相當於韓國首爾四折
+2025-06-05 21:43:36,615 - database.db_manager - INFO - 成功插入文章: #建議 預售屋陽台旁有樹木請益
+2025-06-05 21:43:36,616 - database.db_manager - INFO - 成功插入文章: #資訊 住河岸景觀宅超讚的
+2025-06-05 21:43:36,616 - database.db_manager - INFO - 成功插入文章: #分享 💥潭子頭家【聚佳建設新案】
+2025-06-05 21:43:36,616 - database.db_manager - INFO - 成功插入文章: #分享 南區和瑞新案
+2025-06-05 21:43:36,617 - database.db_manager - INFO - 成功插入文章: #分享 八德房市交易量縮1成多！價難跌？
+2025-06-05 21:43:36,617 - database.db_manager - INFO - 成功插入文章: #問題 冷暖氣品牌推薦
+2025-06-05 21:43:36,618 - database.db_manager - INFO - 成功插入文章: #分享 房市沿著高鐵發展是趨勢！高雄左營高鐵特區房價增值看好
+2025-06-05 21:43:36,618 - database.db_manager - INFO - 成功插入文章: #裝潢 不做天花板可以嗎？「無天花板裝潢」需要注意什麼？
+2025-06-05 21:43:36,620 - database.db_manager - INFO - 成功插入文章: #分享 仁義重劃區-宏道仁滙(0到100與100到101的故事)
+2025-06-05 21:43:36,621 - database.db_manager - INFO - 成功插入文章: #問題 大樁建設評價如何呢
+2025-06-05 21:43:36,621 - database.db_manager - INFO - 成功插入文章: #資訊 手上一堆空房 想坑科技業 吃鱉了吧
+2025-06-05 21:43:36,622 - database.db_manager - INFO - 成功插入文章: #分享 桃園「4字頭區」CP值高、真像下個三峽北大！？
+2025-06-05 21:43:36,622 - database.db_manager - INFO - 成功插入文章: #裝潢 該找室內設計還是統包
+2025-06-05 21:43:36,622 - database.db_manager - INFO - 成功插入文章: #分享 只有白癡才會想要去買那明顯已經漲過的房子
+2025-06-05 21:43:36,623 - database.db_manager - INFO - 成功插入文章: #分享 艾美柏建案初評分享
+2025-06-05 21:43:36,623 - database.db_manager - INFO - 成功插入文章: #問題 桃園某社區 大家都沒網路用？
+2025-06-05 21:43:36,624 - database.db_manager - INFO - 成功插入文章: #問題 驗屋與斡旋
+2025-06-05 21:43:36,624 - database.db_manager - INFO - 成功插入文章: #問題 尋找 信義WOW 已購戶
+2025-06-05 21:43:36,624 - database.db_manager - INFO - 成功插入文章: #問題 我該踮腳尖買房嗎？
+2025-06-05 21:43:36,625 - database.db_manager - INFO - 成功插入文章: #問題 愛上鈺璽 3房格局請益
+2025-06-05 21:43:36,625 - database.db_manager - INFO - 成功插入文章: #分享 樂居房市分析 大家怎麼看？
+2025-06-05 21:43:36,625 - database.db_manager - INFO - 成功插入文章: #建議 買賣請益
+2025-06-05 21:43:36,626 - database.db_manager - INFO - 成功插入文章: #裝潢 這格局...真的要捨棄餐桌了嗎...
+2025-06-05 21:43:36,626 - database.db_manager - INFO - 成功插入文章: #問題 有人買久云嘉潤日出嗎？
+2025-06-05 21:43:36,627 - database.db_manager - INFO - 成功插入文章: #問題 問題 （房貸利率）
+2025-06-05 21:43:36,627 - database.db_manager - INFO - 成功插入文章: #裝潢 全室磁磚地房屋設計
+2025-06-05 21:43:36,628 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸請益
+2025-06-05 21:43:36,628 - database.db_manager - INFO - 成功插入文章: #裝潢 只想找純設計客廳的有辦法嗎
+2025-06-05 21:43:36,629 - database.db_manager - INFO - 成功插入文章: #抱怨 偏頗的機車位抽籤辦法
+2025-06-05 21:43:36,630 - database.db_manager - INFO - 成功插入文章: #問題 買房社區有健身房好還是附近有健身房好
+2025-06-05 21:43:36,630 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 21:43:36,630 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257626871 (版面: house_purchase)
+2025-06-05 21:43:36,630 - crawler.zenrowsapi - INFO - 已處理 300/300 篇文章，最後ID: 257626871
+2025-06-05 21:43:39,636 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 21:43:39,638 - __main__ - INFO - 爬蟲任務完成
+2025-06-05 21:43:39,638 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-05 23:35:05,596 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-05 23:35:05,598 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-05 23:35:05,598 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-05 23:35:05,599 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 23:35:05,599 - __main__ - INFO - 資料庫連接測試成功
+2025-06-05 23:35:05,599 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 23:35:05,599 - __main__ - INFO - 環境驗證通過
+2025-06-05 23:35:05,599 - __main__ - INFO - 開始爬蟲任務
+2025-06-05 23:35:05,599 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-05 23:35:05,600 - database.db_manager - INFO - 數據庫連接成功
+2025-06-05 23:35:05,600 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-05 23:35:05,600 - utils.helpers - INFO - 讀取最後爬取的文章 ID: 257626871 (版面: house_purchase, 更新時間: 2025-06-05 21:43:36)
+2025-06-05 23:35:05,601 - crawler.zenrowsapi - INFO - 繼續從上次爬取的位置開始，last_id: 257626871
+2025-06-05 23:35:05,601 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257626871&limit=100
+2025-06-05 23:35:15,166 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_233514.json
+2025-06-05 23:35:15,169 - database.db_manager - INFO - 成功插入文章: #殺價 #仲介 賣房要如何守住中古屋底價，不被仲介玩把戲
+2025-06-05 23:35:15,169 - database.db_manager - INFO - 成功插入文章: #分享 八德擴大發生啥事？買房坪數大縮水、買氣還是熱！
+2025-06-05 23:35:15,170 - database.db_manager - INFO - 成功插入文章: #分享 三貸族分享
+2025-06-05 23:35:15,171 - database.db_manager - INFO - 成功插入文章: #問題 建商實價登入公設不符
+2025-06-05 23:35:15,171 - database.db_manager - INFO - 成功插入文章: #資訊 Q4出來  請問這時候永慶指數是可信的嗎
+2025-06-05 23:35:15,171 - database.db_manager - INFO - 成功插入文章: #問題 三房預售屋格局請益
+2025-06-05 23:35:15,172 - database.db_manager - INFO - 成功插入文章: #裝潢 請問新竹裝修設計推薦
+2025-06-05 23:35:15,172 - database.db_manager - INFO - 成功插入文章: #問題 預售屋問題請益
+2025-06-05 23:35:15,173 - database.db_manager - INFO - 成功插入文章: #問題 真實發生！槓桿開太大，投資客連三降 求售
+2025-06-05 23:35:15,174 - database.db_manager - INFO - 成功插入文章: #問題 #預售屋 購屋請教
+2025-06-05 23:35:15,174 - database.db_manager - INFO - 成功插入文章: #分享 預售屋小白-資金評估篇
+2025-06-05 23:35:15,174 - database.db_manager - INFO - 成功插入文章: #問題 求救！預售屋建商疑似缺資金準備跑路
+2025-06-05 23:35:15,175 - database.db_manager - INFO - 成功插入文章: #問題 帶看出價疑問
+2025-06-05 23:35:15,176 - database.db_manager - INFO - 成功插入文章: #分享 月薪5萬靠自己買房
+2025-06-05 23:35:15,176 - database.db_manager - INFO - 成功插入文章: #問題 社區戶數少於50戶的未來
+2025-06-05 23:35:15,177 - database.db_manager - INFO - 成功插入文章: #問題 請問這樣的報價算合理嗎？
+2025-06-05 23:35:15,178 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸請教
+2025-06-05 23:35:15,178 - database.db_manager - INFO - 成功插入文章: #分享 新商場+飯店+商辦！北高雄發展又是大噴發
+2025-06-05 23:35:15,179 - database.db_manager - INFO - 成功插入文章: #問題 #購屋 預售屋頂樓 格局請益
+2025-06-05 23:35:15,179 - database.db_manager - INFO - 成功插入文章: #問題 阿嘎開箱Taco新家 好羨慕有眾多乾爹乾媽
+2025-06-05 23:35:15,180 - database.db_manager - INFO - 成功插入文章: #問題 預售簽約後，後悔了怎麼辦？
+2025-06-05 23:35:15,180 - database.db_manager - INFO - 成功插入文章: #裝潢 #分享 #裝潢 40年老公寓裝潢分享
+2025-06-05 23:35:15,180 - database.db_manager - INFO - 成功插入文章: #資訊 小年輕
+2025-06-05 23:35:15,181 - database.db_manager - INFO - 成功插入文章: #資訊 梧棲預售建案換約可商量
+2025-06-05 23:35:15,181 - database.db_manager - INFO - 成功插入文章: #問題 請問預售屋高雄民生1號院好嗎？
+2025-06-05 23:35:15,182 - database.db_manager - INFO - 成功插入文章: #資訊 建商：要讓年輕人也買得起北市黃金門牌，一圓蛋黃市中心購屋夢。
+2025-06-05 23:35:15,183 - database.db_manager - INFO - 成功插入文章: #問題 夫妻領最低薪資台中能買哪裡
+2025-06-05 23:35:15,183 - database.db_manager - INFO - 成功插入文章: #建議 買房？租房？
+2025-06-05 23:35:15,183 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 23:35:15,184 - database.db_manager - INFO - 成功插入文章: #問題 高雄人覺得這個地點好嗎
+2025-06-05 23:35:15,184 - database.db_manager - INFO - 成功插入文章: #資訊 全台買賣移轉棟數10年走勢
+2025-06-05 23:35:15,185 - database.db_manager - INFO - 成功插入文章: #問題 預售要完成了，但管線外露
+2025-06-05 23:35:15,186 - database.db_manager - INFO - 成功插入文章: #分享 大多香港人都住這樣
+2025-06-05 23:35:15,187 - database.db_manager - INFO - 成功插入文章: #裝潢 70萬2房一廳完工分享！台中室內設計推薦
+2025-06-05 23:35:15,187 - database.db_manager - INFO - 成功插入文章: #分享 買了預售有點後悔，分享兩個建案板橋三重看屋心得
+2025-06-05 23:35:15,188 - database.db_manager - INFO - 成功插入文章: #問題 房價開始跌了，各位的心情如何？
+2025-06-05 23:35:15,188 - database.db_manager - INFO - 成功插入文章: #問題 預售屋的店面價格大概會是一般房價的幾倍
+2025-06-05 23:35:15,189 - database.db_manager - INFO - 成功插入文章: #裝潢 室內裝潢的”設計約”應包含立面設計（而不只平面）
+2025-06-05 23:35:15,190 - database.db_manager - INFO - 成功插入文章: #建議 預售屋兩房格局客變請益
+2025-06-05 23:35:15,190 - database.db_manager - INFO - 成功插入文章: #資訊 （更新）尋找房貸專員
+2025-06-05 23:35:15,192 - database.db_manager - INFO - 成功插入文章: #問題 【問】富宇沙鹿首席 好漾生活2-3房
+2025-06-05 23:35:15,193 - database.db_manager - INFO - 成功插入文章: #問題 有人去看台中南區新案嗎
+2025-06-05 23:35:15,193 - database.db_manager - INFO - 成功插入文章: #裝潢 專長弧狀天花板+打"線燈"的北部室內設計公司?
+2025-06-05 23:35:15,194 - database.db_manager - INFO - 成功插入文章: #分享 新北市畢業心得
+2025-06-05 23:35:15,194 - database.db_manager - INFO - 成功插入文章: #資訊 新北市 新x區 新建案微x 每天打牆壁，各位買家要注意這預售屋品質
+2025-06-05 23:35:15,195 - database.db_manager - INFO - 成功插入文章: #資訊 國宅可以買嗎？有哪些優缺點？
+2025-06-05 23:35:15,195 - database.db_manager - INFO - 成功插入文章: #問題 透天格局建議
+2025-06-05 23:35:15,197 - database.db_manager - INFO - 成功插入文章: #問題 蓋透天的建築事務所費用合理嗎？
+2025-06-05 23:35:15,197 - database.db_manager - INFO - 成功插入文章: #問題 老屋和預售屋的抉擇，想請大家給個建議...是否要踏入預售屋
+2025-06-05 23:35:15,198 - database.db_manager - INFO - 成功插入文章: #裝潢 浴室翻修門檻打掉油漆誰來做#裝潢
+2025-06-05 23:35:15,198 - database.db_manager - INFO - 成功插入文章: #問題 客變請益
+2025-06-05 23:35:15,199 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢建材色號分享⚡️
+2025-06-05 23:35:15,199 - database.db_manager - INFO - 成功插入文章: #問題 #問題 只裝天花板費用，預算怎沒抓
+2025-06-05 23:35:15,200 - database.db_manager - INFO - 成功插入文章: #建議 三房預售屋格局請益
+2025-06-05 23:35:15,200 - database.db_manager - INFO - 成功插入文章: #問題 #建議 #請益 預售屋格局
+2025-06-05 23:35:15,201 - database.db_manager - INFO - 成功插入文章: #建議 預售屋三房裝潢請益
+2025-06-05 23:35:15,202 - database.db_manager - INFO - 成功插入文章: #問題 開放詢問台中及彰化地區農會購屋貸款問題
+2025-06-05 23:35:15,203 - database.db_manager - INFO - 成功插入文章: #問題 隔半年就拿出來賣是什麼意思呢？
+2025-06-05 23:35:15,203 - database.db_manager - INFO - 成功插入文章: #問題 賣房的問題
+2025-06-05 23:35:15,204 - database.db_manager - INFO - 成功插入文章: #問題 請問科目四貸款
+2025-06-05 23:35:15,204 - database.db_manager - INFO - 成功插入文章: #建議 預售屋小兩房裝潢請益
+2025-06-05 23:35:15,204 - database.db_manager - INFO - 成功插入文章: #問題 大樓頂樓戶同時釋出的疑慮
+2025-06-05 23:35:15,205 - database.db_manager - INFO - 成功插入文章: #建議 #請益 第一次購屋 預售屋格局建議
+2025-06-05 23:35:15,206 - database.db_manager - INFO - 成功插入文章: #問題 2改1格局建議
+2025-06-05 23:35:15,206 - database.db_manager - INFO - 成功插入文章: #問題 有人也是住在航道下方嗎？
+2025-06-05 23:35:15,206 - database.db_manager - INFO - 成功插入文章: #問題 預售屋房貸
+2025-06-05 23:35:15,207 - database.db_manager - INFO - 成功插入文章: #問題 貸款現金流問題
+2025-06-05 23:35:15,207 - database.db_manager - INFO - 成功插入文章: #裝潢 台灣瑪摩推出全新「實境模擬」工具，輕鬆打造完美家居！
+2025-06-05 23:35:15,208 - database.db_manager - INFO - 成功插入文章: #問題 川字格局廚房位置求建議
+2025-06-05 23:35:15,208 - database.db_manager - INFO - 成功插入文章: #問題 台南東區購屋
+2025-06-05 23:35:15,209 - database.db_manager - INFO - 成功插入文章: #分享 一些驗屋小技巧與劣質建商避雷
+2025-06-05 23:35:15,209 - database.db_manager - INFO - 成功插入文章: #資訊 #尋找鄰居 彰化花壇 金墩菁城
+2025-06-05 23:35:15,209 - database.db_manager - INFO - 成功插入文章: #問題 問題首購-桃園A19清井澤預售屋請益
+2025-06-05 23:35:15,210 - database.db_manager - INFO - 成功插入文章: #問題 好粗的梁
+2025-06-05 23:35:15,210 - database.db_manager - INFO - 成功插入文章: #資訊 買房風水怎麼看？！part2
+2025-06-05 23:35:15,211 - database.db_manager - INFO - 成功插入文章: #資訊 潭子區這麼大一塊，為什麼潭子頭家厝這區最夯呢
+2025-06-05 23:35:15,211 - database.db_manager - INFO - 成功插入文章: #裝潢 年前裝潢要注意什麼？
+2025-06-05 23:35:15,212 - database.db_manager - INFO - 成功插入文章: #資訊 公告土地現值及公告地價
+2025-06-05 23:35:15,212 - database.db_manager - INFO - 成功插入文章: #問題 房貸成數請益
+2025-06-05 23:35:15,212 - database.db_manager - INFO - 成功插入文章: #驗屋 三重驗屋經驗分享
+2025-06-05 23:35:15,213 - database.db_manager - INFO - 成功插入文章: #問題 五股日進學，有人去看過嗎？
+2025-06-05 23:35:15,214 - database.db_manager - INFO - 成功插入文章: #問題 #問題冷氣報價評估
+2025-06-05 23:35:15,214 - database.db_manager - INFO - 成功插入文章: #資訊 40年老房子
+2025-06-05 23:35:15,214 - database.db_manager - INFO - 成功插入文章: #建議 兩房預售屋格局 請益
+2025-06-05 23:35:15,215 - database.db_manager - INFO - 成功插入文章: #問題 這樣能告房仲未盡責嗎
+2025-06-05 23:35:15,215 - database.db_manager - INFO - 成功插入文章: #問題 詢問房貸，謝謝
+2025-06-05 23:35:15,216 - database.db_manager - INFO - 成功插入文章: #建議 #建議 #預售屋請益 #兩房
+2025-06-05 23:35:15,216 - database.db_manager - INFO - 成功插入文章: #問題 排煙管裝潢
+2025-06-05 23:35:15,217 - database.db_manager - INFO - 成功插入文章: #問題 交屋撥款問題
+2025-06-05 23:35:15,217 - database.db_manager - INFO - 成功插入文章: #抱怨 低端居民到哪裡都會是低端嗎?
+2025-06-05 23:35:15,218 - database.db_manager - INFO - 成功插入文章: #問題 首次購屋詢問
+2025-06-05 23:35:15,218 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 23:35:15,219 - database.db_manager - INFO - 成功插入文章: #問題 #問題(急) 問電梯共壁影響以及已購戶的經驗
+2025-06-05 23:35:15,219 - database.db_manager - INFO - 成功插入文章: #資訊 租賃該注意什麼? (二)特約條款的適當性?
+2025-06-05 23:35:15,220 - database.db_manager - INFO - 成功插入文章: #分享 醫療資源未來大爆發！桃園八德房市更添亮點
+2025-06-05 23:35:15,220 - database.db_manager - INFO - 成功插入文章: #建議 台北、新北可以買那裡
+2025-06-05 23:35:15,221 - database.db_manager - INFO - 成功插入文章: #建議 到底要不要更改格局？
+2025-06-05 23:35:15,221 - database.db_manager - INFO - 成功插入文章: #建議 房貸☹️
+2025-06-05 23:35:15,222 - database.db_manager - INFO - 成功插入文章: #問題 台中預售屋
+2025-06-05 23:35:15,222 - database.db_manager - INFO - 成功插入文章: #資訊 裝潢剩下的嵌燈處理
+2025-06-05 23:35:15,222 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 23:35:15,223 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257564248 (版面: house_purchase)
+2025-06-05 23:35:15,223 - crawler.zenrowsapi - INFO - 已處理 100/200 篇文章，最後ID: 257564248
+2025-06-05 23:35:18,228 - crawler.zenrowsapi - INFO - 開始獲取文章列表: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts?before=257564248&limit=100
+2025-06-05 23:35:28,790 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limit100_20250605_233528.json
+2025-06-05 23:35:28,791 - database.db_manager - INFO - 成功插入文章: #分享 科技人南下高雄買房、高鐵運量持續衝！北高雄不得了
+2025-06-05 23:35:28,791 - database.db_manager - INFO - 成功插入文章: #建議 預售屋跟新成屋請益
+2025-06-05 23:35:28,792 - database.db_manager - INFO - 成功插入文章: #問題 繼承房屋增建問題
+2025-06-05 23:35:28,792 - database.db_manager - INFO - 成功插入文章: #問題 12月申請房貸利率
+2025-06-05 23:35:28,793 - database.db_manager - INFO - 成功插入文章: #問題 中古屋或預售屋
+2025-06-05 23:35:28,793 - database.db_manager - INFO - 成功插入文章: #資訊 購房vs租屋試算
+2025-06-05 23:35:28,794 - database.db_manager - INFO - 成功插入文章: #問題 買二手新成屋交屋前 可以先驗屋嗎
+2025-06-05 23:35:28,794 - database.db_manager - INFO - 成功插入文章: #建議 新建案高樓層怎麼選？
+2025-06-05 23:35:28,794 - database.db_manager - INFO - 成功插入文章: #資訊 永遠不要唱衰台灣房價，除非你希望你變得更貧窮！
+2025-06-05 23:35:28,795 - database.db_manager - INFO - 成功插入文章: #裝潢 【開箱】高雄13坪木作輕裝修，從手繪圖實現真正的家
+2025-06-05 23:35:28,796 - database.db_manager - INFO - 成功插入文章: #資訊 買房風水怎麼看？！
+2025-06-05 23:35:28,797 - database.db_manager - INFO - 成功插入文章: #抱怨 #凶宅房價比鬼還兇
+2025-06-05 23:35:28,797 - database.db_manager - INFO - 成功插入文章: #建議 #客變 兩房兩衛兩廳
+2025-06-05 23:35:28,798 - database.db_manager - INFO - 成功插入文章: #問題 南部房市會消風嗎
+2025-06-05 23:35:28,798 - database.db_manager - INFO - 成功插入文章: #問題 蛋黃區小坪數到底能碰嗎？內有選手
+2025-06-05 23:35:28,798 - database.db_manager - INFO - 成功插入文章: #建議 預售屋 三房格局請益
+2025-06-05 23:35:28,799 - database.db_manager - INFO - 成功插入文章: #裝潢 #建議 預售屋裝潢請益 兩房 客變 裝潢
+2025-06-05 23:35:28,799 - database.db_manager - INFO - 成功插入文章: #問題 預售四房客變請益
+2025-06-05 23:35:28,800 - database.db_manager - INFO - 成功插入文章: #資訊 調降建商「囤房稅」 台南市議會通過
+2025-06-05 23:35:28,801 - database.db_manager - INFO - 成功插入文章: #問題 頭期可以分期嗎？
+2025-06-05 23:35:28,801 - database.db_manager - INFO - 成功插入文章: #裝潢 房子感覺買小了，有推薦的設計師？或是設計公司？
+2025-06-05 23:35:28,802 - database.db_manager - INFO - 成功插入文章: #建議 請益 關於客變
+2025-06-05 23:35:28,802 - database.db_manager - INFO - 成功插入文章: #建議 第一次購屋，請問2房格局
+2025-06-05 23:35:28,802 - database.db_manager - INFO - 成功插入文章: #建議 打房就直接證所稅課下去，股票慘賠就會大量賣房子
+2025-06-05 23:35:28,803 - database.db_manager - INFO - 成功插入文章: #問題 桃園高鐵房價
+2025-06-05 23:35:28,803 - database.db_manager - INFO - 成功插入文章: #裝潢 預售屋格局請益
+2025-06-05 23:35:28,804 - database.db_manager - INFO - 成功插入文章: #建議 請問2+1房格局
+2025-06-05 23:35:28,804 - database.db_manager - INFO - 成功插入文章: #問題 買房保人可以是婆婆嗎？
+2025-06-05 23:35:28,805 - database.db_manager - INFO - 成功插入文章: #問題 《請益》姐妹共有房貸新青安
+2025-06-05 23:35:28,805 - database.db_manager - INFO - 成功插入文章: #分享 新竹怎不學香港，蓋超多摩天大樓
+2025-06-05 23:35:28,805 - database.db_manager - INFO - 成功插入文章: #問題 房屋產權
+2025-06-05 23:35:28,806 - database.db_manager - INFO - 成功插入文章: #建議 第一次購屋 請問預售屋兩房客變和裝潢
+2025-06-05 23:35:28,806 - database.db_manager - INFO - 成功插入文章: #問題 房屋鑑價、預售屋對保、貸款程序？
+2025-06-05 23:35:28,806 - database.db_manager - INFO - 成功插入文章: #問題 #問題 請問格局該怎麼選比較好
+2025-06-05 23:35:28,807 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 23:35:28,807 - database.db_manager - INFO - 成功插入文章: #資訊 櫻花建設 彰化中山路上1-4房潛銷攻略新案分享
+2025-06-05 23:35:28,808 - database.db_manager - INFO - 成功插入文章: #裝潢 台北裝潢分享⚡️
+2025-06-05 23:35:28,808 - database.db_manager - INFO - 成功插入文章: #裝潢 老屋翻新32坪3房2衛｜新莊民安西｜窩要成公益捐款活動
+2025-06-05 23:35:28,809 - database.db_manager - INFO - 成功插入文章: #裝潢 南部 初次裝潢報價請益
+2025-06-05 23:35:28,809 - database.db_manager - INFO - 成功插入文章: #裝潢 #分享 復古畫廊風的新屋開箱✨
+2025-06-05 23:35:28,809 - database.db_manager - INFO - 成功插入文章: #問題 客變 裝潢 請益
+2025-06-05 23:35:28,810 - database.db_manager - INFO - 成功插入文章: #問題 新莊購屋 89是否比較少?
+2025-06-05 23:35:28,810 - database.db_manager - INFO - 成功插入文章: #問題 請問兩房格局，客變和裝潢
+2025-06-05 23:35:28,811 - database.db_manager - INFO - 成功插入文章: #裝潢 木作工程 報價請益
+2025-06-05 23:35:28,811 - database.db_manager - INFO - 成功插入文章: #問題 板橋算是新北最方便跟保值的地方吧？
+2025-06-05 23:35:28,811 - database.db_manager - INFO - 成功插入文章: #分享 對於自住房地產的反思
+2025-06-05 23:35:28,812 - database.db_manager - INFO - 成功插入文章: #建議 預售屋格局請益
+2025-06-05 23:35:28,812 - database.db_manager - INFO - 成功插入文章: #問題 房貸相關疑問
+2025-06-05 23:35:28,812 - database.db_manager - INFO - 成功插入文章: #問題 裝潢水電報價
+2025-06-05 23:35:28,813 - database.db_manager - INFO - 成功插入文章: #問題 選擇 北高VS高雄高鐵
+2025-06-05 23:35:28,813 - database.db_manager - INFO - 成功插入文章: #分享 木地板懶人包
+2025-06-05 23:35:28,813 - database.db_manager - INFO - 成功插入文章: #問題 購屋信貸相關問題
+2025-06-05 23:35:28,814 - database.db_manager - INFO - 成功插入文章: #問題 買房頭期款非自有資金
+2025-06-05 23:35:28,814 - database.db_manager - INFO - 成功插入文章: #裝潢 中古屋裝潢需要找統包嗎？
+2025-06-05 23:35:28,815 - database.db_manager - INFO - 成功插入文章: #建議 第一次購屋 請問大神們預售屋格局和裝潢建議
+2025-06-05 23:35:28,815 - database.db_manager - INFO - 成功插入文章: #問題 林口A9購屋地區選擇
+2025-06-05 23:35:28,815 - database.db_manager - INFO - 成功插入文章: #問題 有關房子所有權人和戶長疑問
+2025-06-05 23:35:28,816 - database.db_manager - INFO - 成功插入文章: #問題 預售屋戶型請益
+2025-06-05 23:35:28,816 - database.db_manager - INFO - 成功插入文章: #分享 2024第四季決策會議，推測將持續動作，保留房價的想像空間
+2025-06-05 23:35:28,816 - database.db_manager - INFO - 成功插入文章: #問題 新手請教兩房格局圖
+2025-06-05 23:35:28,817 - database.db_manager - INFO - 成功插入文章: #問題 賣房 自售還是仲介？
+2025-06-05 23:35:28,817 - database.db_manager - INFO - 成功插入文章: #問題 配偶是軍公教可以申請築巢優利貸嗎？
+2025-06-05 23:35:28,818 - database.db_manager - INFO - 成功插入文章: #問題 首購貸款
+2025-06-05 23:35:28,818 - database.db_manager - INFO - 成功插入文章: #問題 三房預售屋格局請益
+2025-06-05 23:35:28,819 - database.db_manager - INFO - 成功插入文章: #分享 預售屋交屋6步驟，對保、完稅、過戶一次看！
+2025-06-05 23:35:28,819 - database.db_manager - INFO - 成功插入文章: #裝潢 新成屋室內設計
+2025-06-05 23:35:28,819 - database.db_manager - INFO - 成功插入文章: #問題 台中震後中古3房含車位千萬有找有真有可能？
+2025-06-05 23:35:28,820 - database.db_manager - INFO - 成功插入文章: #問題 竹北高鐵附近3個月內一坪跌30萬的房子到底在哪裡！？
+2025-06-05 23:35:28,820 - database.db_manager - INFO - 成功插入文章: #問題 買了蛋白區應該要驗屋吧?
+2025-06-05 23:35:28,820 - database.db_manager - INFO - 成功插入文章: #裝潢 #裝潢 #系統櫃 ｜開箱小分享💛主打一個便宜又實惠😎
+2025-06-05 23:35:28,821 - database.db_manager - INFO - 成功插入文章: #問題 五股洲子洋vs新北產業園區站
+2025-06-05 23:35:28,821 - database.db_manager - INFO - 成功插入文章: #問題 #問題 預售屋格局請益
+2025-06-05 23:35:28,822 - database.db_manager - INFO - 成功插入文章: #問題 預售屋 三房格局請益
+2025-06-05 23:35:28,822 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局健檢
+2025-06-05 23:35:28,822 - database.db_manager - INFO - 成功插入文章: #分享 八德擴大重劃區的綠地及優質環境！住著就是舒服~
+2025-06-05 23:35:28,823 - database.db_manager - INFO - 成功插入文章: #裝潢 彰化30年老屋翻新
+2025-06-05 23:35:28,823 - database.db_manager - INFO - 成功插入文章: #建議 格局請益
+2025-06-05 23:35:28,823 - database.db_manager - INFO - 成功插入文章: #資訊 租賃該注意什麼? (一)房屋類型的差異性
+2025-06-05 23:35:28,824 - database.db_manager - INFO - 成功插入文章: #裝潢 歐德集團-i宅設計 好嗎？
+2025-06-05 23:35:28,824 - database.db_manager - INFO - 成功插入文章: #建議 新成屋 格局建議
+2025-06-05 23:35:28,825 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益 台中北屯
+2025-06-05 23:35:28,825 - database.db_manager - INFO - 成功插入文章: #分享 #整理 大家對於透天的誤解
+2025-06-05 23:35:28,826 - database.db_manager - INFO - 成功插入文章: #問題 明年新北五股房價會下修嗎？
+2025-06-05 23:35:28,826 - database.db_manager - INFO - 成功插入文章: #問題 仲介自砍服務費？
+2025-06-05 23:35:28,826 - database.db_manager - INFO - 成功插入文章: #分享 江翠北側單元D-新潤River One
+2025-06-05 23:35:28,827 - database.db_manager - INFO - 成功插入文章: #裝潢 詢問！海線裝潢師
+2025-06-05 23:35:28,827 - database.db_manager - INFO - 成功插入文章: #問題 買房一定要找房仲嗎？
+2025-06-05 23:35:28,827 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局
+2025-06-05 23:35:28,828 - database.db_manager - INFO - 成功插入文章: #問題 土城舊市區vs暫緩重劃區
+2025-06-05 23:35:28,828 - database.db_manager - INFO - 成功插入文章: #建議 請問不做天花板可以做燈條嗎
+2025-06-05 23:35:28,829 - database.db_manager - INFO - 成功插入文章: #問題 預售屋請益
+2025-06-05 23:35:28,830 - database.db_manager - INFO - 成功插入文章: #問題 預售屋格局請益
+2025-06-05 23:35:28,830 - database.db_manager - INFO - 成功插入文章: #問題 要買老公寓嗎？
+2025-06-05 23:35:28,831 - database.db_manager - INFO - 成功插入文章: #問題 #問題 預售屋格局請益
+2025-06-05 23:35:28,831 - database.db_manager - INFO - 成功插入文章: #裝潢 預售格局客變請益
+2025-06-05 23:35:28,832 - database.db_manager - INFO - 成功插入文章: #問題 九揚建設推薦嗎
+2025-06-05 23:35:28,832 - database.db_manager - INFO - 成功插入文章: #問題 購套房請益
+2025-06-05 23:35:28,833 - database.db_manager - INFO - 成功插入文章: #建議 預售屋....那裡需要更動格局
+2025-06-05 23:35:28,833 - database.db_manager - INFO - 成功插入文章: #裝潢 裝潢開箱✨Less is more 用48萬打造日常的溫暖
+2025-06-05 23:35:28,833 - database.db_manager - INFO - 成功插入文章: #建議 看懂賣房社團的隱藏資訊，節省時間避免做錯誤判斷
+2025-06-05 23:35:28,833 - crawler.zenrowsapi - INFO - 成功獲取 100 篇文章
+2025-06-05 23:35:28,834 - utils.helpers - INFO - 成功保存最後爬取的文章 ID: 257504931 (版面: house_purchase)
+2025-06-05 23:35:28,835 - crawler.zenrowsapi - INFO - 已處理 200/200 篇文章，最後ID: 257504931
+2025-06-05 23:35:31,840 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-05 23:35:31,841 - __main__ - INFO - 爬蟲任務完成
+2025-06-05 23:35:31,841 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
