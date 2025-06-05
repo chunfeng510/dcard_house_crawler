@@ -13,6 +13,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # from crawler.selenium import SeleniumCrawler
 from crawler.scraperapi import ScraperApiCrawler
+from crawler.zenrowsapi import ZenRowsApiCrawler
 from database.db_manager import DatabaseManager
 from analysis.gpt_analyzer import GPTAnalyzer
 from utils.helpers import ensure_directory, create_backup
@@ -43,9 +44,8 @@ def parse_arguments():
     parser.add_argument('--only-analyze', action='store_true', help='只執行 GPT 分析，不爬取新文章')
     parser.add_argument('--api-key', type=str, help='OpenAI API 金鑰')
     parser.add_argument('--gpt-model', type=str, default='gpt-3.5-turbo', help='使用的 GPT 模型')
-    parser.add_argument('--crawler', type=str, default='selenium', 
-                      choices=['selenium', 'scraperapi'], 
-                      help='選擇爬蟲方式：selenium 或 scraperapi')
+    parser.add_argument('--crawler', type=str, choices=['selenium', 'scraperapi', 'zenrows'], 
+                      help='選擇爬蟲方式：selenium 或 scraperapi 或 zenrows')
     parser.add_argument('--scraper-api-key', type=str, help='ScraperAPI 的 API 金鑰')
     parser.add_argument('--no-render', action='store_true', 
                       help='使用 ScraperAPI 時不渲染 JavaScript (更快但可能不完整)')
@@ -107,9 +107,13 @@ def get_crawler(args):
         render = not args.no_render  # 默認啟用渲染
         logger.info(f"使用 ScraperAPI 爬蟲模式 (render={render})")
         return ScraperApiCrawler(api_key=api_key, render=render)
+    elif args.crawler == 'zenrows':
+        api_key = args.scraper_api_key or '3d16f55e44b51fc52353566769dce39bfe0c5c58'  # 預設或自定義的 API 金鑰
+        logger.info("使用 ZenRowsAPI 爬蟲模式")
+        return ZenRowsApiCrawler(api_key=api_key)
     else:
-        logger.warning(f"未知的爬蟲類型: {args.crawler}，使用默認的 Selenium 爬蟲")
-        return ScraperApiCrawler()
+        logger.error(f"未知的爬蟲類型: {args.crawler}，程式中止")
+        sys.exit(1)
 
 def main():
     """主程式入口"""
