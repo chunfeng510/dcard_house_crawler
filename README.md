@@ -31,7 +31,8 @@ dcard_house_crawler/
 ├── crawler/               # 爬蟲模組
 │   ├── base_crawler.py    # 爬蟲基礎類別
 │   ├── selenium.py        # Selenium爬蟲實現
-│   └── scraperapi.py      # ScraperAPI爬蟲實現
+│   ├── scraperapi.py      # ScraperAPI爬蟲實現
+│   └── zenrowsapi.py      # ZenRows API爬蟲實現
 ├── database/              # 資料庫模組
 │   └── db_manager.py      # SQLite資料庫管理器
 ├── analysis/              # 分析模組
@@ -59,6 +60,7 @@ dcard_house_crawler/
    - `crawler/base_crawler.py`：定義爬蟲基礎類別，提供共用的方法和介面
    - `crawler/selenium.py`：使用Selenium繞過Cloudflare保護
    - `crawler/scraperapi.py`：使用ScraperAPI服務爬取內容，可用於繞過防爬蟲保護
+   - `crawler/zenrowsapi.py`：使用ZenRows API服務爬取內容，提供強大的JS渲染和防爬蟲繞過功能
 
 4. **分析模組** (`analysis/gpt_analyzer.py`):
    - 使用 GPT 模型分析爬取的文章內容
@@ -111,6 +113,12 @@ dcard_house_crawler/
    
    # 使用 ScraperAPI 爬蟲並指定自己的 API 金鑰
    python main.py --crawler scraperapi --scraper-api-key YOUR_API_KEY
+   
+   # 使用 ZenRows API 爬蟲
+   python main.py --crawler zenrows
+   
+   # 使用 ZenRows API 爬蟲並指定自己的 API 金鑰
+   python main.py --crawler zenrows --zenrows-api-key YOUR_API_KEY
    ```
    
    附加選項：
@@ -140,6 +148,7 @@ dcard_house_crawler/
 1. **爬蟲方式選擇**：
    - **Selenium 爬蟲**：模擬真實瀏覽器行為，適合繞過 Cloudflare 保護，但速度較慢
    - **ScraperAPI 爬蟲**：使用付費 API 服務，速度較快，無需自行管理 IP 和瀏覽器，但有使用配額限制
+   - **ZenRows API 爬蟲**：提供強大的 JavaScript 渲染和防爬蟲繞過功能，支援自動處理 Cloudflare 保護，具有良好的穩定性和高效能
 
 2. **代理伺服器功能**：
    - 在`config/settings.py`中可配置代理伺服器，支援多個代理和輪換策略
