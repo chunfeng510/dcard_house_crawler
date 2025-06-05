@@ -15,12 +15,6 @@ from typing import Callable, Any, Optional
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 # 設定日誌
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'utils.log'),
-    encoding='utf-8'
-)
 logger = logging.getLogger(__name__)
 
 def ensure_directory(directory_path):

@@ -7,12 +7,6 @@ import sqlite3
 from datetime import datetime
 
 # 設定日誌
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'database.log'),
-    encoding='utf-8'
-)
 logger = logging.getLogger(__name__)
 
 class DatabaseManager:

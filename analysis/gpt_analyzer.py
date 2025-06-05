@@ -18,12 +18,6 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from database.db_manager import DatabaseManager
 
 # 設定日誌
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    filename=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'logs', 'analysis.log'),
-    encoding='utf-8'  # 確保 UTF-8 編碼配置正確
-)
 logger = logging.getLogger(__name__)
 
 class GPTAnalyzer:
