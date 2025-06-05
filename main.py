@@ -11,7 +11,6 @@ from datetime import datetime
 # 將專案根目錄加入系統路徑
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-# from crawler.selenium import SeleniumCrawler
 from crawler.scraperapi import ScraperApiCrawler
 from crawler.zenrowsapi import ZenRowsApiCrawler
 from database.db_manager import DatabaseManager
@@ -44,8 +43,8 @@ def parse_arguments():
     parser.add_argument('--only-analyze', action='store_true', help='只執行 GPT 分析，不爬取新文章')
     parser.add_argument('--api-key', type=str, help='OpenAI API 金鑰')
     parser.add_argument('--gpt-model', type=str, default='gpt-3.5-turbo', help='使用的 GPT 模型')
-    parser.add_argument('--crawler', type=str, choices=['selenium', 'scraperapi', 'zenrows'], 
-                      help='選擇爬蟲方式：selenium 或 scraperapi 或 zenrows')
+    parser.add_argument('--crawler', type=str, choices=['scraperapi', 'zenrows'], 
+                      help='選擇爬蟲方式：scraperapi 或 zenrows')
     parser.add_argument('--scraper-api-key', type=str, help='ScraperAPI 的 API 金鑰')
     parser.add_argument('--no-render', action='store_true', 
                       help='使用 ScraperAPI 時不渲染 JavaScript (更快但可能不完整)')
@@ -98,10 +97,6 @@ def run_analysis(api_key=None, model='gpt-3.5-turbo'):
 
 def get_crawler(args):
     """根據命令列參數獲取適當的爬蟲實例"""
-    # if args.crawler == 'selenium':
-    #     logger.info("使用 Selenium 爬蟲模式")
-    #     return SeleniumCrawler()
-    # el
     if args.crawler == 'scraperapi':
         api_key = args.scraper_api_key or '874493b63edbe6b44362b48525886d6c'  # 預設或自定義的 API 金鑰
         render = not args.no_render  # 默認啟用渲染
