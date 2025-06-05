@@ -90,6 +90,71 @@ def create_backup(file_path):
         logger.error(f"創建備份失敗: {e}")
         return None
 
+def save_last_id(last_id, forum_name=None):
+    """保存最後爬取的文章 ID"""
+    try:
+        # 設置保存路徑
+        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+        ensure_directory(data_dir)
+        
+        # 創建或讀取現有的狀態檔案
+        state_path = os.path.join(data_dir, 'crawler_state.json')
+        if os.path.exists(state_path):
+            try:
+                with open(state_path, 'r', encoding='utf-8') as f:
+                    state_data = json.load(f)
+            except (json.JSONDecodeError, FileNotFoundError):
+                state_data = {}
+        else:
+            state_data = {}
+        
+        # 更新狀態
+        forum_key = forum_name or 'default'
+        if forum_key not in state_data:
+            state_data[forum_key] = {}
+            
+        state_data[forum_key]['last_id'] = last_id
+        state_data[forum_key]['updated_at'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        
+        # 保存狀態
+        with open(state_path, 'w', encoding='utf-8') as f:
+            json.dump(state_data, f, indent=2, ensure_ascii=False)
+            
+        logger.info(f"成功保存最後爬取的文章 ID: {last_id} (版面: {forum_key})")
+        return True
+    except Exception as e:
+        logger.error(f"保存最後爬取的文章 ID 失敗: {e}")
+        return False
+
+def load_last_id(forum_name=None):
+    """讀取最後爬取的文章 ID"""
+    try:
+        # 設置保存路徑
+        data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data')
+        state_path = os.path.join(data_dir, 'crawler_state.json')
+        
+        if not os.path.exists(state_path):
+            logger.warning(f"找不到狀態檔案: {state_path}")
+            return None
+            
+        # 讀取狀態
+        with open(state_path, 'r', encoding='utf-8') as f:
+            state_data = json.load(f)
+            
+        # 獲取特定論壇的最後 ID
+        forum_key = forum_name or 'default'
+        if forum_key not in state_data or 'last_id' not in state_data[forum_key]:
+            logger.warning(f"找不到版面 {forum_key} 的最後爬取 ID")
+            return None
+            
+        last_id = state_data[forum_key]['last_id']
+        updated_at = state_data[forum_key].get('updated_at', '未知時間')
+        logger.info(f"讀取最後爬取的文章 ID: {last_id} (版面: {forum_key}, 更新時間: {updated_at})")
+        return last_id
+    except Exception as e:
+        logger.error(f"讀取最後爬取的文章 ID 失敗: {e}")
+        return None
+
 def retry(
     max_tries: int = 3, 
     delay: float = 1.0, 

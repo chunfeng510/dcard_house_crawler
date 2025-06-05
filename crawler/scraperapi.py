@@ -22,17 +22,19 @@ from config.settings import (
     DELAY_BETWEEN_REQUESTS, USE_PROXY, PROXY_LIST, ROTATE_PROXY
 )
 from crawler.base_crawler import BaseCrawler, logger
-from utils.helpers import retry
+from utils.helpers import retry, save_last_id, load_last_id
 
 class ScraperApiCrawler(BaseCrawler):
     """Dcard爬蟲類別，使用 ScraperAPI 繞過網站保護"""
     
-    def __init__(self, api_key='874493b63edbe6b44362b48525886d6c', render=True):
+    def __init__(self, api_key='874493b63edbe6b44362b48525886d6c', render=True, forum_name=None, continue_last=True):
         """初始化爬蟲"""
         super().__init__()  # 調用父類別初始化方法
         self.api_key = api_key
         self.render = render  # 是否啟用 JavaScript 渲染
         self.api_base_url = 'https://api.scraperapi.com/'
+        self.forum_name = forum_name or FORUM_NAME
+        self.continue_last = continue_last  # 是否從上次爬取的位置繼續
         
     def setup(self):
         """設置爬蟲環境"""
@@ -135,9 +137,19 @@ class ScraperApiCrawler(BaseCrawler):
             if not self.setup():
                 logger.error("無法設置爬蟲環境")
                 return False
-                
+            
+            # 初始化變數    
             posts_count = 0
             last_id = None
+            
+            # 如果需要繼續上次的爬取，則讀取保存的 last_id
+            if self.continue_last:
+                saved_last_id = load_last_id(self.forum_name)
+                if saved_last_id:
+                    last_id = saved_last_id
+                    logger.info(f"繼續從上次爬取的位置開始，last_id: {last_id}")
+                else:
+                    logger.info("沒有找到上次爬取的位置，將從頭開始爬取")
             
             while posts_count < TOTAL_POSTS:
                 # 獲取文章列表
@@ -158,8 +170,10 @@ class ScraperApiCrawler(BaseCrawler):
                 # 記錄最後一篇文章的ID用於分頁
                 if posts:
                     last_id = posts[-1].get('id')
+                    # 保存最後一篇文章的ID，以便下次繼續爬取
+                    save_last_id(last_id, self.forum_name)
                     
-                logger.info(f"已處理 {posts_count}/{TOTAL_POSTS} 篇文章")
+                logger.info(f"已處理 {posts_count}/{TOTAL_POSTS} 篇文章，最後ID: {last_id}")
                 
                 # 延遲避免請求過快
                 time.sleep(DELAY_BETWEEN_REQUESTS)
@@ -167,6 +181,9 @@ class ScraperApiCrawler(BaseCrawler):
             return True
         except Exception as e:
             logger.error(f"爬取過程中發生錯誤: {e}")
+            # 即使出錯，也要保存最後爬取的ID
+            if last_id:
+                save_last_id(last_id, self.forum_name)
             return False
         finally:
             self.close()

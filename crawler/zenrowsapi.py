@@ -18,6 +18,7 @@ from config.settings import (
     DELAY_BETWEEN_REQUESTS
 )
 from database.db_manager import DatabaseManager
+from utils.helpers import save_last_id, load_last_id
 
 # 設定日誌
 logger = logging.getLogger(__name__)
@@ -25,13 +26,15 @@ logger = logging.getLogger(__name__)
 class ZenRowsApiCrawler:
     """使用 ZenRows API 的 Dcard 爬蟲類"""
     
-    def __init__(self, api_key="3d16f55e44b51fc52353566769dce39bfe0c5c58"):
+    def __init__(self, api_key="3d16f55e44b51fc52353566769dce39bfe0c5c58", forum_name=None, continue_last=True):
         """初始化爬蟲"""
         self.client = ZenRowsClient(api_key)
         self.base_url = BASE_URL
-        self.forum_url = f"{BASE_URL}/forums/{FORUM_NAME}/posts"
+        self.forum_name = forum_name or FORUM_NAME
+        self.forum_url = f"{BASE_URL}/forums/{self.forum_name}/posts"
         self.save_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'raw_posts')
         os.makedirs(self.save_dir, exist_ok=True)
+        self.continue_last = continue_last  # 是否從上次爬取的位置繼續
         
         # 初始化資料庫連接
         self.db = DatabaseManager()
@@ -130,6 +133,15 @@ class ZenRowsApiCrawler:
             posts_count = 0
             last_id = None
             
+            # 如果需要繼續上次的爬取，則讀取保存的 last_id
+            if self.continue_last:
+                saved_last_id = load_last_id(self.forum_name)
+                if saved_last_id:
+                    last_id = saved_last_id
+                    logger.info(f"繼續從上次爬取的位置開始，last_id: {last_id}")
+                else:
+                    logger.info("沒有找到上次爬取的位置，將從頭開始爬取")
+            
             while posts_count < total_posts:
                 posts = self.fetch_posts(before=last_id)
                 
@@ -141,8 +153,10 @@ class ZenRowsApiCrawler:
                 
                 if posts:
                     last_id = posts[-1].get('id')
+                    # 保存最後一篇文章的ID，以便下次繼續爬取
+                    save_last_id(last_id, self.forum_name)
                     
-                logger.info(f"已處理 {posts_count}/{total_posts} 篇文章")
+                logger.info(f"已處理 {posts_count}/{total_posts} 篇文章，最後ID: {last_id}")
                 
                 # 在請求之間添加延遲
                 time.sleep(DELAY_BETWEEN_REQUESTS)
@@ -151,6 +165,9 @@ class ZenRowsApiCrawler:
             
         except Exception as e:
             logger.error(f"爬取過程中發生錯誤: {e}")
+            # 即使出錯，也要保存最後爬取的ID
+            if last_id:
+                save_last_id(last_id, self.forum_name)
             return False
             
         finally:
