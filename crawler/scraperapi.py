@@ -130,8 +130,45 @@ class ScraperApiCrawler(BaseCrawler):
             logger.error(f"獲取文章內容失敗: {e}")
             return None
             
-    def crawl(self):
-        """爬取文章主函數"""
+    def process_post(self, post):
+        """處理單篇文章數據 - 只處理基本資料，不獲取詳細內容"""
+        try:
+            post_id = post.get('id')
+            
+            # 僅保存基本文章信息到 posts 表
+            self.db.insert_post(post)
+            logger.info(f"已保存文章基本信息: ID {post_id}, 標題: {post.get('title', '無標題')}")
+            
+            # 延遲避免請求過快
+            time.sleep(DELAY_BETWEEN_REQUESTS)
+            
+            return True
+        except Exception as e:
+            logger.error(f"處理文章失敗: {e}")
+            return False
+            
+    def process_post_content(self, post_id):
+        """處理單篇文章的詳細內容"""
+        try:
+            # 獲取文章詳細內容
+            post_content = self.fetch_post_content(post_id)
+            
+            if post_content:
+                # 保存文章詳細內容到 post_content 表
+                self.db.insert_post_content(post_content)
+                logger.info(f"已保存文章詳細內容: ID {post_id}")
+                
+                # 延遲避免請求過快
+                time.sleep(DELAY_BETWEEN_REQUESTS)
+                
+                return True
+            return False
+        except Exception as e:
+            logger.error(f"處理文章詳細內容失敗: {e}")
+            return False
+            
+    def crawl_post(self):
+        """爬取文章基本資訊主函數"""
         try:
             # 設置 ScraperAPI
             if not self.setup():
@@ -187,6 +224,57 @@ class ScraperApiCrawler(BaseCrawler):
             return False
         finally:
             self.close()
+            
+    def crawl_post_content(self, limit=None):
+        """爬取文章詳細內容主函數"""
+        try:
+            # 設置 ScraperAPI
+            if not self.setup():
+                logger.error("無法設置爬蟲環境")
+                return False
+            
+            # 獲取資料庫中所有需要抓取詳細內容的文章ID
+            cursor = self.db.conn.cursor()
+            
+            # 查詢 posts 表中有記錄但 post_content 表中沒有的文章
+            cursor.execute('''
+                SELECT p.id FROM posts p
+                LEFT JOIN post_content pc ON p.id = pc.post_id
+                WHERE pc.post_id IS NULL
+                ORDER BY p.id DESC
+            ''')
+            
+            rows = cursor.fetchall()
+            total_posts = len(rows)
+            
+            if limit and limit < total_posts:
+                rows = rows[:limit]
+                logger.info(f"根據限制條件，將爬取 {limit}/{total_posts} 篇文章詳細內容")
+            else:
+                logger.info(f"將爬取 {total_posts} 篇文章詳細內容")
+            
+            processed_count = 0
+            
+            # 處理每篇文章詳細內容
+            for row in rows:
+                post_id = row[0]
+                
+                if self.process_post_content(post_id):
+                    processed_count += 1
+                    logger.info(f"進度: {processed_count}/{len(rows)}")
+                
+            logger.info(f"文章詳細內容爬取完成，共處理 {processed_count} 篇")
+            return True
+            
+        except Exception as e:
+            logger.error(f"爬取文章詳細內容過程中發生錯誤: {e}")
+            return False
+        finally:
+            self.close()
+    
+    def crawl(self):
+        """保留原方法名稱以保持向後兼容"""
+        return self.crawl_post()
 
 # 測試執行
 if __name__ == "__main__":
