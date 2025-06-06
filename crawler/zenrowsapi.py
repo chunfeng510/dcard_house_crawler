@@ -72,7 +72,7 @@ class ZenRowsApiCrawler:
             logger.error(f"獲取文章內容失敗: {e}")
             return None
 
-    def fetch_posts(self, limit=POSTS_LIMIT, before=None):
+    def fetch_post(self, limit=POSTS_LIMIT, before=None):
         """獲取文章列表"""
         try:
             url = self.forum_url
@@ -209,7 +209,7 @@ class ZenRowsApiCrawler:
             
             while posts_count < total_posts:
                 # 獲取文章列表
-                posts = self.fetch_posts(before=last_id)
+                posts = self.fetch_post(before=last_id)
                 
                 if not posts:
                     logger.warning("沒有更多文章或請求失敗")
