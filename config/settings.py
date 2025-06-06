@@ -3,6 +3,15 @@ Dcard House Crawler 配置文件
 """
 
 # API 設定
+"""
+API 路徑說明:
+- 全部文章: GET /posts
+- 看板資訊: GET /forums
+- 看板內文章列表: GET /forums/{看板名稱}/posts
+- 文章內文: GET /posts/{文章ID}
+- 文章內引用連結: GET /posts/{文章ID}/links
+- 文章內留言: GET /posts/{文章ID}/comments
+"""
 BASE_URL = "https://www.dcard.tw/service/api/v2"
 FORUM_NAME = "house_purchase"  # 可以更改為其他想爬取的版面
 HEADERS = {
