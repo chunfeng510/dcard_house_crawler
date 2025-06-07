@@ -179,7 +179,7 @@ class ZenRowsApiCrawler:
             
             if post_content:
                 # 保存文章詳細內容到 post_content 表
-                self.db.insert_post_content(post_content)
+                self.db.insert_post_content(post_id, post_content)
                 logger.info(f"已保存文章詳細內容: ID {post_id}")
                 
                 # 延遲避免請求過快
