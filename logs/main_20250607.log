@@ -1,0 +1,2014 @@
+2025-06-07 13:00:11,488 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:00:11,495 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:00:11,495 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:00:11,508 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:00:11,508 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:00:11,508 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:00:11,508 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:00:11,508 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:00:11,509 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:00:11,509 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:00:11,536 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:00:53,357 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:00:53,357 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:00:53,357 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:00:53,359 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:00:53,359 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:00:53,359 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:00:53,359 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:00:53,359 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:00:53,359 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:00:53,359 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:00:53,359 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:00:53,361 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 10/2400 篇文章詳細內容
+2025-06-07 13:00:53,361 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:01:22,842 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:01:22,844 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:01:22,845 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:01:22,847 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:01:22,847 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:01:22,847 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:01:22,847 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:01:22,847 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:01:22,847 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:01:22,848 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:01:22,848 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:02:16,266 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 10/2400 篇文章詳細內容
+2025-06-07 13:02:16,268 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:02:54,082 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 422
+2025-06-07 13:02:54,083 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994711
+2025-06-07 13:07:00,978 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:07:00,980 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:07:00,980 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:07:00,982 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:07:00,982 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:07:00,982 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:07:00,982 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:07:00,982 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:07:00,982 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:07:00,983 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:07:00,983 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:07:02,009 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 10/2400 篇文章詳細內容
+2025-06-07 13:07:02,010 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:07:12,559 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130712.json
+2025-06-07 13:07:12,559 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994745
+2025-06-07 13:07:12,561 - database.db_manager - INFO - 成功插入文章詳細內容: 258994745
+2025-06-07 13:07:12,562 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994745
+2025-06-07 13:07:15,567 - crawler.zenrowsapi - INFO - 進度: 1/10
+2025-06-07 13:07:15,569 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994711
+2025-06-07 13:07:18,816 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130718.json
+2025-06-07 13:07:18,817 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994711
+2025-06-07 13:07:18,818 - database.db_manager - INFO - 成功插入文章詳細內容: 258994711
+2025-06-07 13:07:18,818 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994711
+2025-06-07 13:07:21,824 - crawler.zenrowsapi - INFO - 進度: 2/10
+2025-06-07 13:07:21,826 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994065
+2025-06-07 13:07:23,717 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130723.json
+2025-06-07 13:07:23,717 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994065
+2025-06-07 13:07:23,719 - database.db_manager - INFO - 成功插入文章詳細內容: 258994065
+2025-06-07 13:07:23,719 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994065
+2025-06-07 13:07:26,725 - crawler.zenrowsapi - INFO - 進度: 3/10
+2025-06-07 13:07:26,726 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258992429
+2025-06-07 13:07:28,108 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 404
+2025-06-07 13:07:28,109 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258991881
+2025-06-07 13:07:36,796 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130736.json
+2025-06-07 13:07:36,797 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258991881
+2025-06-07 13:07:36,799 - database.db_manager - INFO - 成功插入文章詳細內容: 258991881
+2025-06-07 13:07:36,799 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258991881
+2025-06-07 13:07:39,805 - crawler.zenrowsapi - INFO - 進度: 4/10
+2025-06-07 13:07:39,806 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258991598
+2025-06-07 13:07:41,025 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130741.json
+2025-06-07 13:07:41,025 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258991598
+2025-06-07 13:07:41,027 - database.db_manager - INFO - 成功插入文章詳細內容: 258991598
+2025-06-07 13:07:41,028 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258991598
+2025-06-07 13:07:44,033 - crawler.zenrowsapi - INFO - 進度: 5/10
+2025-06-07 13:07:44,033 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258991389
+2025-06-07 13:07:45,155 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130745.json
+2025-06-07 13:07:45,155 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258991389
+2025-06-07 13:07:45,157 - database.db_manager - INFO - 成功插入文章詳細內容: 258991389
+2025-06-07 13:07:45,157 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258991389
+2025-06-07 13:07:48,159 - crawler.zenrowsapi - INFO - 進度: 6/10
+2025-06-07 13:07:48,161 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258990701
+2025-06-07 13:07:49,545 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130749.json
+2025-06-07 13:07:49,547 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258990701
+2025-06-07 13:07:49,553 - database.db_manager - INFO - 成功插入文章詳細內容: 258990701
+2025-06-07 13:07:49,554 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258990701
+2025-06-07 13:07:52,555 - crawler.zenrowsapi - INFO - 進度: 7/10
+2025-06-07 13:07:52,555 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258990607
+2025-06-07 13:07:55,053 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130755.json
+2025-06-07 13:07:55,053 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258990607
+2025-06-07 13:07:55,055 - database.db_manager - INFO - 成功插入文章詳細內容: 258990607
+2025-06-07 13:07:55,055 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258990607
+2025-06-07 13:07:58,060 - crawler.zenrowsapi - INFO - 進度: 8/10
+2025-06-07 13:07:58,061 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258989224
+2025-06-07 13:07:59,665 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_130759.json
+2025-06-07 13:07:59,666 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258989224
+2025-06-07 13:07:59,668 - database.db_manager - INFO - 成功插入文章詳細內容: 258989224
+2025-06-07 13:07:59,668 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258989224
+2025-06-07 13:08:02,673 - crawler.zenrowsapi - INFO - 進度: 9/10
+2025-06-07 13:08:06,054 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 9 篇
+2025-06-07 13:08:06,056 - __main__ - ERROR - 爬蟲過程中發生錯誤: 'ZenRowsApiCrawler' object has no attribute 'close'
+2025-06-07 13:08:06,056 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-07 13:21:23,177 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:21:23,180 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:21:23,180 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:21:23,181 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:21:23,182 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:21:23,182 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:21:23,182 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:21:23,182 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:21:23,182 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:21:23,182 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:21:23,183 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:21:26,110 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 2/2400 篇文章詳細內容
+2025-06-07 13:21:26,111 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:22:10,465 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 422
+2025-06-07 13:22:10,465 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994711
+2025-06-07 13:22:32,905 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_132232.json
+2025-06-07 13:22:32,906 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994711
+2025-06-07 13:22:32,906 - crawler.zenrowsapi - ERROR - 處理文章詳細內容失敗: insert_post_content() missing 1 required positional argument: 'content_data'
+2025-06-07 13:24:32,477 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:24:32,480 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:24:32,480 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:24:32,481 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:24:32,481 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:24:32,481 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:24:32,481 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:24:32,481 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:24:32,481 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:24:32,482 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:24:32,482 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:24:36,625 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 2/2400 篇文章詳細內容
+2025-06-07 13:24:36,625 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:24:46,421 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_132446.json
+2025-06-07 13:24:46,422 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994745
+2025-06-07 13:24:46,422 - database.db_manager - ERROR - 文章 258994745 的詳細內容數據插入失敗: table post_content has no column named content
+2025-06-07 13:24:46,422 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994745
+2025-06-07 13:24:49,428 - crawler.zenrowsapi - INFO - 進度: 1/2
+2025-06-07 13:24:49,429 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994711
+2025-06-07 13:24:50,333 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_132450.json
+2025-06-07 13:24:50,333 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994711
+2025-06-07 13:24:50,334 - database.db_manager - ERROR - 文章 258994711 的詳細內容數據插入失敗: table post_content has no column named content
+2025-06-07 13:24:50,334 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994711
+2025-06-07 13:24:53,340 - crawler.zenrowsapi - INFO - 進度: 2/2
+2025-06-07 13:24:56,841 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 2 篇
+2025-06-07 13:24:56,841 - __main__ - ERROR - 爬蟲過程中發生錯誤: 'ZenRowsApiCrawler' object has no attribute 'close'
+2025-06-07 13:24:56,841 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-07 13:26:11,160 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:26:11,162 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:26:11,162 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:26:11,164 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:26:11,164 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:26:11,164 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:26:11,164 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:26:11,164 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:26:11,164 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:26:11,165 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:26:11,166 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:26:14,242 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 2/2400 篇文章詳細內容
+2025-06-07 13:26:14,243 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:26:15,912 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_132615.json
+2025-06-07 13:26:15,912 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994745
+2025-06-07 13:26:15,913 - database.db_manager - INFO - 文章 258994745 的詳細內容數據插入成功
+2025-06-07 13:26:15,913 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994745
+2025-06-07 13:26:18,918 - crawler.zenrowsapi - INFO - 進度: 1/2
+2025-06-07 13:26:18,919 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994711
+2025-06-07 13:26:20,712 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_132620.json
+2025-06-07 13:26:20,713 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994711
+2025-06-07 13:26:20,715 - database.db_manager - INFO - 文章 258994711 的詳細內容數據插入成功
+2025-06-07 13:26:20,715 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994711
+2025-06-07 13:26:23,720 - crawler.zenrowsapi - INFO - 進度: 2/2
+2025-06-07 13:26:25,277 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 2 篇
+2025-06-07 13:26:25,279 - __main__ - ERROR - 爬蟲過程中發生錯誤: 'ZenRowsApiCrawler' object has no attribute 'close'
+2025-06-07 13:26:25,279 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-07 13:39:34,207 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:39:34,209 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:39:34,209 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:39:34,211 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:39:34,211 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:39:34,211 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:39:34,211 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:39:34,211 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:39:34,211 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:39:34,212 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:39:34,212 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:39:47,633 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/446 篇文章詳細內容
+2025-06-07 13:39:47,634 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994745
+2025-06-07 13:40:03,991 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134003.json
+2025-06-07 13:40:03,991 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994745
+2025-06-07 13:40:03,994 - database.db_manager - INFO - 文章 258994745 的詳細內容數據插入成功
+2025-06-07 13:40:03,994 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994745
+2025-06-07 13:40:06,999 - crawler.zenrowsapi - INFO - 進度: 1/100
+2025-06-07 13:40:07,000 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258994065
+2025-06-07 13:40:08,491 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134008.json
+2025-06-07 13:40:08,492 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258994065
+2025-06-07 13:40:08,494 - database.db_manager - INFO - 文章 258994065 的詳細內容數據插入成功
+2025-06-07 13:40:08,495 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258994065
+2025-06-07 13:40:11,500 - crawler.zenrowsapi - INFO - 進度: 2/100
+2025-06-07 13:40:11,501 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258991881
+2025-06-07 13:40:13,127 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134013.json
+2025-06-07 13:40:13,127 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258991881
+2025-06-07 13:40:13,129 - database.db_manager - INFO - 文章 258991881 的詳細內容數據插入成功
+2025-06-07 13:40:13,129 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258991881
+2025-06-07 13:40:16,135 - crawler.zenrowsapi - INFO - 進度: 3/100
+2025-06-07 13:40:16,136 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258987521
+2025-06-07 13:40:17,921 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134017.json
+2025-06-07 13:40:17,921 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258987521
+2025-06-07 13:40:17,923 - database.db_manager - INFO - 文章 258987521 的詳細內容數據插入成功
+2025-06-07 13:40:17,923 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258987521
+2025-06-07 13:40:20,929 - crawler.zenrowsapi - INFO - 進度: 4/100
+2025-06-07 13:40:20,930 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258985418
+2025-06-07 13:40:24,858 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134024.json
+2025-06-07 13:40:24,859 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258985418
+2025-06-07 13:40:24,862 - database.db_manager - INFO - 文章 258985418 的詳細內容數據插入成功
+2025-06-07 13:40:24,862 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258985418
+2025-06-07 13:40:27,868 - crawler.zenrowsapi - INFO - 進度: 5/100
+2025-06-07 13:40:27,869 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258985260
+2025-06-07 13:40:29,574 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134029.json
+2025-06-07 13:40:29,574 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258985260
+2025-06-07 13:40:29,576 - database.db_manager - INFO - 文章 258985260 的詳細內容數據插入成功
+2025-06-07 13:40:29,576 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258985260
+2025-06-07 13:40:32,586 - crawler.zenrowsapi - INFO - 進度: 6/100
+2025-06-07 13:40:32,618 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258975035
+2025-06-07 13:40:34,898 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134034.json
+2025-06-07 13:40:34,898 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258975035
+2025-06-07 13:40:34,900 - database.db_manager - INFO - 文章 258975035 的詳細內容數據插入成功
+2025-06-07 13:40:34,901 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258975035
+2025-06-07 13:40:37,906 - crawler.zenrowsapi - INFO - 進度: 7/100
+2025-06-07 13:40:37,910 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258973081
+2025-06-07 13:40:39,458 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134039.json
+2025-06-07 13:40:39,459 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258973081
+2025-06-07 13:40:39,460 - database.db_manager - INFO - 文章 258973081 的詳細內容數據插入成功
+2025-06-07 13:40:39,460 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258973081
+2025-06-07 13:40:42,467 - crawler.zenrowsapi - INFO - 進度: 8/100
+2025-06-07 13:40:42,468 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258969446
+2025-06-07 13:40:44,417 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134044.json
+2025-06-07 13:40:44,417 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258969446
+2025-06-07 13:40:44,419 - database.db_manager - INFO - 文章 258969446 的詳細內容數據插入成功
+2025-06-07 13:40:44,419 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258969446
+2025-06-07 13:40:47,425 - crawler.zenrowsapi - INFO - 進度: 9/100
+2025-06-07 13:40:47,427 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258966813
+2025-06-07 13:40:50,050 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134050.json
+2025-06-07 13:40:50,050 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258966813
+2025-06-07 13:40:50,052 - database.db_manager - INFO - 文章 258966813 的詳細內容數據插入成功
+2025-06-07 13:40:50,052 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258966813
+2025-06-07 13:40:53,058 - crawler.zenrowsapi - INFO - 進度: 10/100
+2025-06-07 13:40:53,058 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258959351
+2025-06-07 13:40:56,713 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134056.json
+2025-06-07 13:40:56,713 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258959351
+2025-06-07 13:40:56,715 - database.db_manager - INFO - 文章 258959351 的詳細內容數據插入成功
+2025-06-07 13:40:56,715 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258959351
+2025-06-07 13:40:59,721 - crawler.zenrowsapi - INFO - 進度: 11/100
+2025-06-07 13:40:59,722 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258938750
+2025-06-07 13:41:01,217 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134101.json
+2025-06-07 13:41:01,217 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258938750
+2025-06-07 13:41:01,219 - database.db_manager - INFO - 文章 258938750 的詳細內容數據插入成功
+2025-06-07 13:41:01,220 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258938750
+2025-06-07 13:41:04,225 - crawler.zenrowsapi - INFO - 進度: 12/100
+2025-06-07 13:41:04,226 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258935856
+2025-06-07 13:41:07,559 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134107.json
+2025-06-07 13:41:07,560 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258935856
+2025-06-07 13:41:07,561 - database.db_manager - INFO - 文章 258935856 的詳細內容數據插入成功
+2025-06-07 13:41:07,562 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258935856
+2025-06-07 13:41:10,567 - crawler.zenrowsapi - INFO - 進度: 13/100
+2025-06-07 13:41:10,569 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258924117
+2025-06-07 13:41:12,782 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134112.json
+2025-06-07 13:41:12,782 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258924117
+2025-06-07 13:41:12,783 - database.db_manager - INFO - 文章 258924117 的詳細內容數據插入成功
+2025-06-07 13:41:12,783 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258924117
+2025-06-07 13:41:15,789 - crawler.zenrowsapi - INFO - 進度: 14/100
+2025-06-07 13:41:15,790 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258915834
+2025-06-07 13:41:18,525 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134118.json
+2025-06-07 13:41:18,525 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258915834
+2025-06-07 13:41:18,528 - database.db_manager - INFO - 文章 258915834 的詳細內容數據插入成功
+2025-06-07 13:41:18,528 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258915834
+2025-06-07 13:41:21,534 - crawler.zenrowsapi - INFO - 進度: 15/100
+2025-06-07 13:41:21,535 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258911936
+2025-06-07 13:41:24,260 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134124.json
+2025-06-07 13:41:24,260 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258911936
+2025-06-07 13:41:24,262 - database.db_manager - INFO - 文章 258911936 的詳細內容數據插入成功
+2025-06-07 13:41:24,263 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258911936
+2025-06-07 13:41:27,268 - crawler.zenrowsapi - INFO - 進度: 16/100
+2025-06-07 13:41:27,269 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258911648
+2025-06-07 13:41:28,765 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134128.json
+2025-06-07 13:41:28,765 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258911648
+2025-06-07 13:41:28,767 - database.db_manager - INFO - 文章 258911648 的詳細內容數據插入成功
+2025-06-07 13:41:28,767 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258911648
+2025-06-07 13:41:31,773 - crawler.zenrowsapi - INFO - 進度: 17/100
+2025-06-07 13:41:31,774 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258910888
+2025-06-07 13:41:34,383 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134134.json
+2025-06-07 13:41:34,383 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258910888
+2025-06-07 13:41:34,385 - database.db_manager - INFO - 文章 258910888 的詳細內容數據插入成功
+2025-06-07 13:41:34,385 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258910888
+2025-06-07 13:41:37,391 - crawler.zenrowsapi - INFO - 進度: 18/100
+2025-06-07 13:41:37,392 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258899081
+2025-06-07 13:41:39,109 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134139.json
+2025-06-07 13:41:39,110 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258899081
+2025-06-07 13:41:39,111 - database.db_manager - INFO - 文章 258899081 的詳細內容數據插入成功
+2025-06-07 13:41:39,112 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258899081
+2025-06-07 13:41:42,117 - crawler.zenrowsapi - INFO - 進度: 19/100
+2025-06-07 13:41:42,118 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258889513
+2025-06-07 13:41:46,383 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134146.json
+2025-06-07 13:41:46,383 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258889513
+2025-06-07 13:41:46,385 - database.db_manager - INFO - 文章 258889513 的詳細內容數據插入成功
+2025-06-07 13:41:46,385 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258889513
+2025-06-07 13:41:49,391 - crawler.zenrowsapi - INFO - 進度: 20/100
+2025-06-07 13:41:49,392 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258887022
+2025-06-07 13:41:53,043 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134153.json
+2025-06-07 13:41:53,043 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258887022
+2025-06-07 13:41:53,046 - database.db_manager - INFO - 文章 258887022 的詳細內容數據插入成功
+2025-06-07 13:41:53,046 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258887022
+2025-06-07 13:41:56,052 - crawler.zenrowsapi - INFO - 進度: 21/100
+2025-06-07 13:41:56,053 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258886438
+2025-06-07 13:42:07,094 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134207.json
+2025-06-07 13:42:07,095 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258886438
+2025-06-07 13:42:07,097 - database.db_manager - INFO - 文章 258886438 的詳細內容數據插入成功
+2025-06-07 13:42:07,097 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258886438
+2025-06-07 13:42:10,103 - crawler.zenrowsapi - INFO - 進度: 22/100
+2025-06-07 13:42:10,105 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258882064
+2025-06-07 13:42:12,378 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134212.json
+2025-06-07 13:42:12,378 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258882064
+2025-06-07 13:42:12,379 - database.db_manager - INFO - 文章 258882064 的詳細內容數據插入成功
+2025-06-07 13:42:12,379 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258882064
+2025-06-07 13:42:15,382 - crawler.zenrowsapi - INFO - 進度: 23/100
+2025-06-07 13:42:15,383 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258882013
+2025-06-07 13:42:17,197 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134217.json
+2025-06-07 13:42:17,198 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258882013
+2025-06-07 13:42:17,200 - database.db_manager - INFO - 文章 258882013 的詳細內容數據插入成功
+2025-06-07 13:42:17,200 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258882013
+2025-06-07 13:42:20,206 - crawler.zenrowsapi - INFO - 進度: 24/100
+2025-06-07 13:42:20,206 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258881608
+2025-06-07 13:42:21,579 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134221.json
+2025-06-07 13:42:21,579 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258881608
+2025-06-07 13:42:21,581 - database.db_manager - INFO - 文章 258881608 的詳細內容數據插入成功
+2025-06-07 13:42:21,581 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258881608
+2025-06-07 13:42:24,586 - crawler.zenrowsapi - INFO - 進度: 25/100
+2025-06-07 13:42:24,587 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258879401
+2025-06-07 13:42:25,901 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134225.json
+2025-06-07 13:42:25,902 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258879401
+2025-06-07 13:42:25,903 - database.db_manager - INFO - 文章 258879401 的詳細內容數據插入成功
+2025-06-07 13:42:25,904 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258879401
+2025-06-07 13:42:28,909 - crawler.zenrowsapi - INFO - 進度: 26/100
+2025-06-07 13:42:28,910 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258878774
+2025-06-07 13:42:30,210 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134230.json
+2025-06-07 13:42:30,211 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258878774
+2025-06-07 13:42:30,213 - database.db_manager - INFO - 文章 258878774 的詳細內容數據插入成功
+2025-06-07 13:42:30,213 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258878774
+2025-06-07 13:42:33,218 - crawler.zenrowsapi - INFO - 進度: 27/100
+2025-06-07 13:42:33,219 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258877030
+2025-06-07 13:42:34,506 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134234.json
+2025-06-07 13:42:34,506 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258877030
+2025-06-07 13:42:34,508 - database.db_manager - INFO - 文章 258877030 的詳細內容數據插入成功
+2025-06-07 13:42:34,508 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258877030
+2025-06-07 13:42:37,514 - crawler.zenrowsapi - INFO - 進度: 28/100
+2025-06-07 13:42:37,515 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258873282
+2025-06-07 13:42:39,013 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134239.json
+2025-06-07 13:42:39,013 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258873282
+2025-06-07 13:42:39,015 - database.db_manager - INFO - 文章 258873282 的詳細內容數據插入成功
+2025-06-07 13:42:39,015 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258873282
+2025-06-07 13:42:42,023 - crawler.zenrowsapi - INFO - 進度: 29/100
+2025-06-07 13:42:42,031 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258871408
+2025-06-07 13:42:43,513 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134243.json
+2025-06-07 13:42:43,514 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258871408
+2025-06-07 13:42:43,516 - database.db_manager - INFO - 文章 258871408 的詳細內容數據插入成功
+2025-06-07 13:42:43,517 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258871408
+2025-06-07 13:42:46,522 - crawler.zenrowsapi - INFO - 進度: 30/100
+2025-06-07 13:42:46,523 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258868746
+2025-06-07 13:42:49,150 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134249.json
+2025-06-07 13:42:49,151 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258868746
+2025-06-07 13:42:49,153 - database.db_manager - INFO - 文章 258868746 的詳細內容數據插入成功
+2025-06-07 13:42:49,153 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258868746
+2025-06-07 13:42:52,158 - crawler.zenrowsapi - INFO - 進度: 31/100
+2025-06-07 13:42:52,160 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258864954
+2025-06-07 13:42:53,359 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134253.json
+2025-06-07 13:42:53,359 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258864954
+2025-06-07 13:42:53,362 - database.db_manager - INFO - 文章 258864954 的詳細內容數據插入成功
+2025-06-07 13:42:53,362 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258864954
+2025-06-07 13:42:56,366 - crawler.zenrowsapi - INFO - 進度: 32/100
+2025-06-07 13:42:56,366 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258863539
+2025-06-07 13:42:57,548 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134257.json
+2025-06-07 13:42:57,548 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258863539
+2025-06-07 13:42:57,550 - database.db_manager - INFO - 文章 258863539 的詳細內容數據插入成功
+2025-06-07 13:42:57,550 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258863539
+2025-06-07 13:43:00,556 - crawler.zenrowsapi - INFO - 進度: 33/100
+2025-06-07 13:43:00,557 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258862181
+2025-06-07 13:43:01,963 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134301.json
+2025-06-07 13:43:01,964 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258862181
+2025-06-07 13:43:01,965 - database.db_manager - INFO - 文章 258862181 的詳細內容數據插入成功
+2025-06-07 13:43:01,965 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258862181
+2025-06-07 13:43:04,971 - crawler.zenrowsapi - INFO - 進度: 34/100
+2025-06-07 13:43:04,971 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258862134
+2025-06-07 13:43:06,665 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134306.json
+2025-06-07 13:43:06,666 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258862134
+2025-06-07 13:43:06,667 - database.db_manager - INFO - 文章 258862134 的詳細內容數據插入成功
+2025-06-07 13:43:06,668 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258862134
+2025-06-07 13:43:09,673 - crawler.zenrowsapi - INFO - 進度: 35/100
+2025-06-07 13:43:09,674 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258861423
+2025-06-07 13:43:10,937 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134310.json
+2025-06-07 13:43:10,938 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258861423
+2025-06-07 13:43:10,939 - database.db_manager - INFO - 文章 258861423 的詳細內容數據插入成功
+2025-06-07 13:43:10,940 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258861423
+2025-06-07 13:43:13,945 - crawler.zenrowsapi - INFO - 進度: 36/100
+2025-06-07 13:43:13,946 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258861408
+2025-06-07 13:43:15,347 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134315.json
+2025-06-07 13:43:15,348 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258861408
+2025-06-07 13:43:15,348 - database.db_manager - INFO - 文章 258861408 的詳細內容數據插入成功
+2025-06-07 13:43:15,348 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258861408
+2025-06-07 13:43:18,354 - crawler.zenrowsapi - INFO - 進度: 37/100
+2025-06-07 13:43:18,356 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258860008
+2025-06-07 13:43:19,482 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134319.json
+2025-06-07 13:43:19,482 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258860008
+2025-06-07 13:43:19,484 - database.db_manager - INFO - 文章 258860008 的詳細內容數據插入成功
+2025-06-07 13:43:19,484 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258860008
+2025-06-07 13:43:22,490 - crawler.zenrowsapi - INFO - 進度: 38/100
+2025-06-07 13:43:22,491 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258855634
+2025-06-07 13:43:23,800 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134323.json
+2025-06-07 13:43:23,801 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258855634
+2025-06-07 13:43:23,803 - database.db_manager - INFO - 文章 258855634 的詳細內容數據插入成功
+2025-06-07 13:43:23,804 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258855634
+2025-06-07 13:43:26,806 - crawler.zenrowsapi - INFO - 進度: 39/100
+2025-06-07 13:43:26,808 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258855521
+2025-06-07 13:43:28,100 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134328.json
+2025-06-07 13:43:28,100 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258855521
+2025-06-07 13:43:28,101 - database.db_manager - INFO - 文章 258855521 的詳細內容數據插入成功
+2025-06-07 13:43:28,102 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258855521
+2025-06-07 13:43:31,107 - crawler.zenrowsapi - INFO - 進度: 40/100
+2025-06-07 13:43:31,108 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258853941
+2025-06-07 13:43:34,643 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134334.json
+2025-06-07 13:43:34,644 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258853941
+2025-06-07 13:43:34,646 - database.db_manager - INFO - 文章 258853941 的詳細內容數據插入成功
+2025-06-07 13:43:34,646 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258853941
+2025-06-07 13:43:37,653 - crawler.zenrowsapi - INFO - 進度: 41/100
+2025-06-07 13:43:37,654 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258850375
+2025-06-07 13:43:38,872 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134338.json
+2025-06-07 13:43:38,873 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258850375
+2025-06-07 13:43:38,876 - database.db_manager - INFO - 文章 258850375 的詳細內容數據插入成功
+2025-06-07 13:43:38,876 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258850375
+2025-06-07 13:43:41,881 - crawler.zenrowsapi - INFO - 進度: 42/100
+2025-06-07 13:43:41,882 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258843605
+2025-06-07 13:43:52,065 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134352.json
+2025-06-07 13:43:52,066 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258843605
+2025-06-07 13:43:52,071 - database.db_manager - INFO - 文章 258843605 的詳細內容數據插入成功
+2025-06-07 13:43:52,071 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258843605
+2025-06-07 13:43:55,077 - crawler.zenrowsapi - INFO - 進度: 43/100
+2025-06-07 13:43:55,077 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258832594
+2025-06-07 13:43:56,661 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134356.json
+2025-06-07 13:43:56,661 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258832594
+2025-06-07 13:43:56,663 - database.db_manager - INFO - 文章 258832594 的詳細內容數據插入成功
+2025-06-07 13:43:56,663 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258832594
+2025-06-07 13:43:59,668 - crawler.zenrowsapi - INFO - 進度: 44/100
+2025-06-07 13:43:59,669 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258831181
+2025-06-07 13:44:01,271 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134401.json
+2025-06-07 13:44:01,272 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258831181
+2025-06-07 13:44:01,275 - database.db_manager - INFO - 文章 258831181 的詳細內容數據插入成功
+2025-06-07 13:44:01,275 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258831181
+2025-06-07 13:44:04,280 - crawler.zenrowsapi - INFO - 進度: 45/100
+2025-06-07 13:44:04,281 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258826001
+2025-06-07 13:44:05,747 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134405.json
+2025-06-07 13:44:05,747 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258826001
+2025-06-07 13:44:05,749 - database.db_manager - INFO - 文章 258826001 的詳細內容數據插入成功
+2025-06-07 13:44:05,750 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258826001
+2025-06-07 13:44:08,752 - crawler.zenrowsapi - INFO - 進度: 46/100
+2025-06-07 13:44:08,753 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258820505
+2025-06-07 13:44:09,877 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134409.json
+2025-06-07 13:44:09,877 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258820505
+2025-06-07 13:44:09,879 - database.db_manager - INFO - 文章 258820505 的詳細內容數據插入成功
+2025-06-07 13:44:09,879 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258820505
+2025-06-07 13:44:12,882 - crawler.zenrowsapi - INFO - 進度: 47/100
+2025-06-07 13:44:12,884 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258818525
+2025-06-07 13:44:15,087 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134415.json
+2025-06-07 13:44:15,088 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258818525
+2025-06-07 13:44:15,089 - database.db_manager - INFO - 文章 258818525 的詳細內容數據插入成功
+2025-06-07 13:44:15,090 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258818525
+2025-06-07 13:44:18,095 - crawler.zenrowsapi - INFO - 進度: 48/100
+2025-06-07 13:44:18,096 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258816356
+2025-06-07 13:44:19,341 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134419.json
+2025-06-07 13:44:19,341 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258816356
+2025-06-07 13:44:19,342 - database.db_manager - INFO - 文章 258816356 的詳細內容數據插入成功
+2025-06-07 13:44:19,342 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258816356
+2025-06-07 13:44:22,345 - crawler.zenrowsapi - INFO - 進度: 49/100
+2025-06-07 13:44:22,346 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258812098
+2025-06-07 13:44:23,636 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134423.json
+2025-06-07 13:44:23,637 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258812098
+2025-06-07 13:44:23,639 - database.db_manager - INFO - 文章 258812098 的詳細內容數據插入成功
+2025-06-07 13:44:23,639 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258812098
+2025-06-07 13:44:26,647 - crawler.zenrowsapi - INFO - 進度: 50/100
+2025-06-07 13:44:26,649 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258809762
+2025-06-07 13:44:27,988 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134427.json
+2025-06-07 13:44:27,988 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258809762
+2025-06-07 13:44:27,990 - database.db_manager - INFO - 文章 258809762 的詳細內容數據插入成功
+2025-06-07 13:44:27,990 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258809762
+2025-06-07 13:44:30,997 - crawler.zenrowsapi - INFO - 進度: 51/100
+2025-06-07 13:44:30,998 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258809451
+2025-06-07 13:44:32,356 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134432.json
+2025-06-07 13:44:32,357 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258809451
+2025-06-07 13:44:32,359 - database.db_manager - INFO - 文章 258809451 的詳細內容數據插入成功
+2025-06-07 13:44:32,359 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258809451
+2025-06-07 13:44:35,366 - crawler.zenrowsapi - INFO - 進度: 52/100
+2025-06-07 13:44:35,367 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258804332
+2025-06-07 13:44:36,547 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134436.json
+2025-06-07 13:44:36,547 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258804332
+2025-06-07 13:44:36,550 - database.db_manager - INFO - 文章 258804332 的詳細內容數據插入成功
+2025-06-07 13:44:36,550 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258804332
+2025-06-07 13:44:39,556 - crawler.zenrowsapi - INFO - 進度: 53/100
+2025-06-07 13:44:39,556 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258793316
+2025-06-07 13:44:40,833 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134440.json
+2025-06-07 13:44:40,833 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258793316
+2025-06-07 13:44:40,835 - database.db_manager - INFO - 文章 258793316 的詳細內容數據插入成功
+2025-06-07 13:44:40,835 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258793316
+2025-06-07 13:44:43,845 - crawler.zenrowsapi - INFO - 進度: 54/100
+2025-06-07 13:44:43,851 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258792386
+2025-06-07 13:44:45,206 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134445.json
+2025-06-07 13:44:45,206 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258792386
+2025-06-07 13:44:45,208 - database.db_manager - INFO - 文章 258792386 的詳細內容數據插入成功
+2025-06-07 13:44:45,208 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258792386
+2025-06-07 13:44:48,214 - crawler.zenrowsapi - INFO - 進度: 55/100
+2025-06-07 13:44:48,216 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258792057
+2025-06-07 13:44:49,370 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134449.json
+2025-06-07 13:44:49,370 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258792057
+2025-06-07 13:44:49,371 - database.db_manager - INFO - 文章 258792057 的詳細內容數據插入成功
+2025-06-07 13:44:49,371 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258792057
+2025-06-07 13:44:52,377 - crawler.zenrowsapi - INFO - 進度: 56/100
+2025-06-07 13:44:52,379 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258790272
+2025-06-07 13:44:54,360 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134454.json
+2025-06-07 13:44:54,360 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258790272
+2025-06-07 13:44:54,362 - database.db_manager - INFO - 文章 258790272 的詳細內容數據插入成功
+2025-06-07 13:44:54,362 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258790272
+2025-06-07 13:44:57,369 - crawler.zenrowsapi - INFO - 進度: 57/100
+2025-06-07 13:44:57,370 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258780838
+2025-06-07 13:44:58,570 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134458.json
+2025-06-07 13:44:58,570 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258780838
+2025-06-07 13:44:58,572 - database.db_manager - INFO - 文章 258780838 的詳細內容數據插入成功
+2025-06-07 13:44:58,573 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258780838
+2025-06-07 13:45:01,577 - crawler.zenrowsapi - INFO - 進度: 58/100
+2025-06-07 13:45:01,578 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258779357
+2025-06-07 13:45:03,359 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134503.json
+2025-06-07 13:45:03,359 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258779357
+2025-06-07 13:45:03,361 - database.db_manager - INFO - 文章 258779357 的詳細內容數據插入成功
+2025-06-07 13:45:03,361 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258779357
+2025-06-07 13:45:06,367 - crawler.zenrowsapi - INFO - 進度: 59/100
+2025-06-07 13:45:06,369 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258777845
+2025-06-07 13:45:07,454 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134507.json
+2025-06-07 13:45:07,455 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258777845
+2025-06-07 13:45:07,456 - database.db_manager - INFO - 文章 258777845 的詳細內容數據插入成功
+2025-06-07 13:45:07,456 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258777845
+2025-06-07 13:45:10,463 - crawler.zenrowsapi - INFO - 進度: 60/100
+2025-06-07 13:45:10,465 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258771009
+2025-06-07 13:45:11,997 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134511.json
+2025-06-07 13:45:11,997 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258771009
+2025-06-07 13:45:11,999 - database.db_manager - INFO - 文章 258771009 的詳細內容數據插入成功
+2025-06-07 13:45:11,999 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258771009
+2025-06-07 13:45:15,005 - crawler.zenrowsapi - INFO - 進度: 61/100
+2025-06-07 13:45:15,006 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258769901
+2025-06-07 13:45:17,571 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134517.json
+2025-06-07 13:45:17,571 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258769901
+2025-06-07 13:45:17,572 - database.db_manager - INFO - 文章 258769901 的詳細內容數據插入成功
+2025-06-07 13:45:17,572 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258769901
+2025-06-07 13:45:20,578 - crawler.zenrowsapi - INFO - 進度: 62/100
+2025-06-07 13:45:20,579 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258756684
+2025-06-07 13:45:21,924 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134521.json
+2025-06-07 13:45:21,924 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258756684
+2025-06-07 13:45:21,926 - database.db_manager - INFO - 文章 258756684 的詳細內容數據插入成功
+2025-06-07 13:45:21,927 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258756684
+2025-06-07 13:45:24,933 - crawler.zenrowsapi - INFO - 進度: 63/100
+2025-06-07 13:45:24,934 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258744867
+2025-06-07 13:46:06,878 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134606.json
+2025-06-07 13:46:06,879 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258744867
+2025-06-07 13:46:06,882 - database.db_manager - INFO - 文章 258744867 的詳細內容數據插入成功
+2025-06-07 13:46:06,882 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258744867
+2025-06-07 13:46:09,887 - crawler.zenrowsapi - INFO - 進度: 64/100
+2025-06-07 13:46:09,888 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258734566
+2025-06-07 13:46:11,606 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134611.json
+2025-06-07 13:46:11,607 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258734566
+2025-06-07 13:46:11,608 - database.db_manager - INFO - 文章 258734566 的詳細內容數據插入成功
+2025-06-07 13:46:11,609 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258734566
+2025-06-07 13:46:14,614 - crawler.zenrowsapi - INFO - 進度: 65/100
+2025-06-07 13:46:14,616 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258727536
+2025-06-07 13:46:16,140 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134616.json
+2025-06-07 13:46:16,140 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258727536
+2025-06-07 13:46:16,142 - database.db_manager - INFO - 文章 258727536 的詳細內容數據插入成功
+2025-06-07 13:46:16,143 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258727536
+2025-06-07 13:46:19,148 - crawler.zenrowsapi - INFO - 進度: 66/100
+2025-06-07 13:46:19,149 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258726784
+2025-06-07 13:46:20,438 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134620.json
+2025-06-07 13:46:20,438 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258726784
+2025-06-07 13:46:20,440 - database.db_manager - INFO - 文章 258726784 的詳細內容數據插入成功
+2025-06-07 13:46:20,440 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258726784
+2025-06-07 13:46:23,446 - crawler.zenrowsapi - INFO - 進度: 67/100
+2025-06-07 13:46:23,447 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258725989
+2025-06-07 13:46:24,875 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134624.json
+2025-06-07 13:46:24,875 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258725989
+2025-06-07 13:46:24,877 - database.db_manager - INFO - 文章 258725989 的詳細內容數據插入成功
+2025-06-07 13:46:24,877 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258725989
+2025-06-07 13:46:27,881 - crawler.zenrowsapi - INFO - 進度: 68/100
+2025-06-07 13:46:27,882 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258719365
+2025-06-07 13:46:29,159 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134629.json
+2025-06-07 13:46:29,159 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258719365
+2025-06-07 13:46:29,161 - database.db_manager - INFO - 文章 258719365 的詳細內容數據插入成功
+2025-06-07 13:46:29,161 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258719365
+2025-06-07 13:46:32,167 - crawler.zenrowsapi - INFO - 進度: 69/100
+2025-06-07 13:46:32,167 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258717396
+2025-06-07 13:46:33,492 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134633.json
+2025-06-07 13:46:33,492 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258717396
+2025-06-07 13:46:33,493 - database.db_manager - INFO - 文章 258717396 的詳細內容數據插入成功
+2025-06-07 13:46:33,493 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258717396
+2025-06-07 13:46:36,498 - crawler.zenrowsapi - INFO - 進度: 70/100
+2025-06-07 13:46:36,499 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258715318
+2025-06-07 13:46:38,042 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134638.json
+2025-06-07 13:46:38,042 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258715318
+2025-06-07 13:46:38,043 - database.db_manager - INFO - 文章 258715318 的詳細內容數據插入成功
+2025-06-07 13:46:38,043 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258715318
+2025-06-07 13:46:41,049 - crawler.zenrowsapi - INFO - 進度: 71/100
+2025-06-07 13:46:41,051 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258713757
+2025-06-07 13:46:42,134 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134642.json
+2025-06-07 13:46:42,134 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258713757
+2025-06-07 13:46:42,136 - database.db_manager - INFO - 文章 258713757 的詳細內容數據插入成功
+2025-06-07 13:46:42,136 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258713757
+2025-06-07 13:46:45,142 - crawler.zenrowsapi - INFO - 進度: 72/100
+2025-06-07 13:46:45,142 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258711204
+2025-06-07 13:46:46,283 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134646.json
+2025-06-07 13:46:46,284 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258711204
+2025-06-07 13:46:46,285 - database.db_manager - INFO - 文章 258711204 的詳細內容數據插入成功
+2025-06-07 13:46:46,285 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258711204
+2025-06-07 13:46:49,290 - crawler.zenrowsapi - INFO - 進度: 73/100
+2025-06-07 13:46:49,292 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258711080
+2025-06-07 13:46:53,464 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134653.json
+2025-06-07 13:46:53,464 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258711080
+2025-06-07 13:46:53,466 - database.db_manager - INFO - 文章 258711080 的詳細內容數據插入成功
+2025-06-07 13:46:53,466 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258711080
+2025-06-07 13:46:56,472 - crawler.zenrowsapi - INFO - 進度: 74/100
+2025-06-07 13:46:56,473 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258707744
+2025-06-07 13:46:57,756 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134657.json
+2025-06-07 13:46:57,757 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258707744
+2025-06-07 13:46:57,758 - database.db_manager - INFO - 文章 258707744 的詳細內容數據插入成功
+2025-06-07 13:46:57,758 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258707744
+2025-06-07 13:47:00,763 - crawler.zenrowsapi - INFO - 進度: 75/100
+2025-06-07 13:47:00,764 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258705784
+2025-06-07 13:47:02,311 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134702.json
+2025-06-07 13:47:02,312 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258705784
+2025-06-07 13:47:02,313 - database.db_manager - INFO - 文章 258705784 的詳細內容數據插入成功
+2025-06-07 13:47:02,313 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258705784
+2025-06-07 13:47:05,319 - crawler.zenrowsapi - INFO - 進度: 76/100
+2025-06-07 13:47:05,320 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258704025
+2025-06-07 13:47:06,736 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134706.json
+2025-06-07 13:47:06,736 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258704025
+2025-06-07 13:47:06,737 - database.db_manager - INFO - 文章 258704025 的詳細內容數據插入成功
+2025-06-07 13:47:06,737 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258704025
+2025-06-07 13:47:09,743 - crawler.zenrowsapi - INFO - 進度: 77/100
+2025-06-07 13:47:09,743 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258702269
+2025-06-07 13:47:11,913 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134711.json
+2025-06-07 13:47:11,913 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258702269
+2025-06-07 13:47:11,915 - database.db_manager - INFO - 文章 258702269 的詳細內容數據插入成功
+2025-06-07 13:47:11,915 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258702269
+2025-06-07 13:47:14,920 - crawler.zenrowsapi - INFO - 進度: 78/100
+2025-06-07 13:47:14,920 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258698043
+2025-06-07 13:47:17,753 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134717.json
+2025-06-07 13:47:17,753 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258698043
+2025-06-07 13:47:17,755 - database.db_manager - INFO - 文章 258698043 的詳細內容數據插入成功
+2025-06-07 13:47:17,755 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258698043
+2025-06-07 13:47:20,761 - crawler.zenrowsapi - INFO - 進度: 79/100
+2025-06-07 13:47:20,762 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258697284
+2025-06-07 13:47:21,947 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134721.json
+2025-06-07 13:47:21,948 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258697284
+2025-06-07 13:47:21,950 - database.db_manager - INFO - 文章 258697284 的詳細內容數據插入成功
+2025-06-07 13:47:21,950 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258697284
+2025-06-07 13:47:24,955 - crawler.zenrowsapi - INFO - 進度: 80/100
+2025-06-07 13:47:24,956 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258692703
+2025-06-07 13:47:26,223 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134726.json
+2025-06-07 13:47:26,223 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258692703
+2025-06-07 13:47:26,225 - database.db_manager - INFO - 文章 258692703 的詳細內容數據插入成功
+2025-06-07 13:47:26,225 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258692703
+2025-06-07 13:47:29,230 - crawler.zenrowsapi - INFO - 進度: 81/100
+2025-06-07 13:47:29,231 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258679215
+2025-06-07 13:47:30,445 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134730.json
+2025-06-07 13:47:30,445 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258679215
+2025-06-07 13:47:30,447 - database.db_manager - INFO - 文章 258679215 的詳細內容數據插入成功
+2025-06-07 13:47:30,448 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258679215
+2025-06-07 13:47:33,453 - crawler.zenrowsapi - INFO - 進度: 82/100
+2025-06-07 13:47:33,454 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258674784
+2025-06-07 13:47:34,827 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134734.json
+2025-06-07 13:47:34,828 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258674784
+2025-06-07 13:47:34,829 - database.db_manager - INFO - 文章 258674784 的詳細內容數據插入成功
+2025-06-07 13:47:34,829 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258674784
+2025-06-07 13:47:37,835 - crawler.zenrowsapi - INFO - 進度: 83/100
+2025-06-07 13:47:37,836 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258673936
+2025-06-07 13:47:39,059 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134739.json
+2025-06-07 13:47:39,059 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258673936
+2025-06-07 13:47:39,061 - database.db_manager - INFO - 文章 258673936 的詳細內容數據插入成功
+2025-06-07 13:47:39,061 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258673936
+2025-06-07 13:47:42,067 - crawler.zenrowsapi - INFO - 進度: 84/100
+2025-06-07 13:47:42,068 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258672567
+2025-06-07 13:48:23,556 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134823.json
+2025-06-07 13:48:23,557 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258672567
+2025-06-07 13:48:23,558 - database.db_manager - INFO - 文章 258672567 的詳細內容數據插入成功
+2025-06-07 13:48:23,558 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258672567
+2025-06-07 13:48:26,564 - crawler.zenrowsapi - INFO - 進度: 85/100
+2025-06-07 13:48:26,566 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258670632
+2025-06-07 13:48:27,805 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134827.json
+2025-06-07 13:48:27,806 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258670632
+2025-06-07 13:48:27,807 - database.db_manager - INFO - 文章 258670632 的詳細內容數據插入成功
+2025-06-07 13:48:27,808 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258670632
+2025-06-07 13:48:30,813 - crawler.zenrowsapi - INFO - 進度: 86/100
+2025-06-07 13:48:30,815 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258668887
+2025-06-07 13:48:31,985 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134831.json
+2025-06-07 13:48:31,985 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258668887
+2025-06-07 13:48:31,988 - database.db_manager - INFO - 文章 258668887 的詳細內容數據插入成功
+2025-06-07 13:48:31,988 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258668887
+2025-06-07 13:48:34,993 - crawler.zenrowsapi - INFO - 進度: 87/100
+2025-06-07 13:48:34,994 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258668802
+2025-06-07 13:48:36,156 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134836.json
+2025-06-07 13:48:36,156 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258668802
+2025-06-07 13:48:36,158 - database.db_manager - INFO - 文章 258668802 的詳細內容數據插入成功
+2025-06-07 13:48:36,158 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258668802
+2025-06-07 13:48:39,164 - crawler.zenrowsapi - INFO - 進度: 88/100
+2025-06-07 13:48:39,166 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258665622
+2025-06-07 13:48:40,226 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134840.json
+2025-06-07 13:48:40,227 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258665622
+2025-06-07 13:48:40,229 - database.db_manager - INFO - 文章 258665622 的詳細內容數據插入成功
+2025-06-07 13:48:40,229 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258665622
+2025-06-07 13:48:43,232 - crawler.zenrowsapi - INFO - 進度: 89/100
+2025-06-07 13:48:43,233 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258664060
+2025-06-07 13:48:44,533 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134844.json
+2025-06-07 13:48:44,533 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258664060
+2025-06-07 13:48:44,534 - database.db_manager - INFO - 文章 258664060 的詳細內容數據插入成功
+2025-06-07 13:48:44,534 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258664060
+2025-06-07 13:48:47,540 - crawler.zenrowsapi - INFO - 進度: 90/100
+2025-06-07 13:48:47,540 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258663912
+2025-06-07 13:48:49,696 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134849.json
+2025-06-07 13:48:49,697 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258663912
+2025-06-07 13:48:49,698 - database.db_manager - INFO - 文章 258663912 的詳細內容數據插入成功
+2025-06-07 13:48:49,698 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258663912
+2025-06-07 13:48:52,700 - crawler.zenrowsapi - INFO - 進度: 91/100
+2025-06-07 13:48:52,701 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258662199
+2025-06-07 13:48:54,043 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134854.json
+2025-06-07 13:48:54,044 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258662199
+2025-06-07 13:48:54,046 - database.db_manager - INFO - 文章 258662199 的詳細內容數據插入成功
+2025-06-07 13:48:54,046 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258662199
+2025-06-07 13:48:57,051 - crawler.zenrowsapi - INFO - 進度: 92/100
+2025-06-07 13:48:57,053 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258657637
+2025-06-07 13:48:58,161 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134858.json
+2025-06-07 13:48:58,162 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258657637
+2025-06-07 13:48:58,164 - database.db_manager - INFO - 文章 258657637 的詳細內容數據插入成功
+2025-06-07 13:48:58,164 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258657637
+2025-06-07 13:49:01,170 - crawler.zenrowsapi - INFO - 進度: 93/100
+2025-06-07 13:49:01,171 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258656801
+2025-06-07 13:49:02,868 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134902.json
+2025-06-07 13:49:02,868 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258656801
+2025-06-07 13:49:02,870 - database.db_manager - INFO - 文章 258656801 的詳細內容數據插入成功
+2025-06-07 13:49:02,870 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258656801
+2025-06-07 13:49:05,876 - crawler.zenrowsapi - INFO - 進度: 94/100
+2025-06-07 13:49:05,877 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258655232
+2025-06-07 13:49:07,136 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134907.json
+2025-06-07 13:49:07,136 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258655232
+2025-06-07 13:49:07,138 - database.db_manager - INFO - 文章 258655232 的詳細內容數據插入成功
+2025-06-07 13:49:07,139 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258655232
+2025-06-07 13:49:10,144 - crawler.zenrowsapi - INFO - 進度: 95/100
+2025-06-07 13:49:10,145 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258645906
+2025-06-07 13:49:11,389 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134911.json
+2025-06-07 13:49:11,390 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258645906
+2025-06-07 13:49:11,390 - database.db_manager - INFO - 文章 258645906 的詳細內容數據插入成功
+2025-06-07 13:49:11,391 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258645906
+2025-06-07 13:49:14,396 - crawler.zenrowsapi - INFO - 進度: 96/100
+2025-06-07 13:49:14,396 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258639425
+2025-06-07 13:49:17,571 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134917.json
+2025-06-07 13:49:17,571 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258639425
+2025-06-07 13:49:17,573 - database.db_manager - INFO - 文章 258639425 的詳細內容數據插入成功
+2025-06-07 13:49:17,574 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258639425
+2025-06-07 13:49:20,579 - crawler.zenrowsapi - INFO - 進度: 97/100
+2025-06-07 13:49:20,581 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258638139
+2025-06-07 13:49:22,016 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134922.json
+2025-06-07 13:49:22,016 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258638139
+2025-06-07 13:49:22,018 - database.db_manager - INFO - 文章 258638139 的詳細內容數據插入成功
+2025-06-07 13:49:22,018 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258638139
+2025-06-07 13:49:25,024 - crawler.zenrowsapi - INFO - 進度: 98/100
+2025-06-07 13:49:25,025 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258638033
+2025-06-07 13:49:26,900 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134926.json
+2025-06-07 13:49:26,900 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258638033
+2025-06-07 13:49:26,902 - database.db_manager - INFO - 文章 258638033 的詳細內容數據插入成功
+2025-06-07 13:49:26,902 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258638033
+2025-06-07 13:49:29,908 - crawler.zenrowsapi - INFO - 進度: 99/100
+2025-06-07 13:49:29,909 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258637708
+2025-06-07 13:49:31,828 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_134931.json
+2025-06-07 13:49:31,828 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258637708
+2025-06-07 13:49:31,830 - database.db_manager - INFO - 文章 258637708 的詳細內容數據插入成功
+2025-06-07 13:49:31,830 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258637708
+2025-06-07 13:49:34,836 - crawler.zenrowsapi - INFO - 進度: 100/100
+2025-06-07 13:49:43,151 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 100 篇
+2025-06-07 13:49:43,155 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:49:43,155 - crawler.zenrowsapi - INFO - 已關閉數據庫連接
+2025-06-07 13:49:43,156 - __main__ - INFO - 爬蟲任務完成
+2025-06-07 13:49:43,156 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-07 13:51:24,465 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 13:51:24,468 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 13:51:24,468 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 13:51:24,470 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:51:24,470 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 13:51:24,470 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 13:51:24,470 - __main__ - INFO - 環境驗證通過
+2025-06-07 13:51:24,470 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 13:51:24,471 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 13:51:24,471 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 13:51:24,471 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 13:51:31,217 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/346 篇文章詳細內容
+2025-06-07 13:51:31,218 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258629725
+2025-06-07 13:53:37,405 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 422
+2025-06-07 13:53:37,406 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258627721
+2025-06-07 13:53:44,459 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135344.json
+2025-06-07 13:53:44,460 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258627721
+2025-06-07 13:53:44,462 - database.db_manager - INFO - 文章 258627721 的詳細內容數據插入成功
+2025-06-07 13:53:44,463 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258627721
+2025-06-07 13:53:47,468 - crawler.zenrowsapi - INFO - 進度: 1/100
+2025-06-07 13:53:47,469 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258624281
+2025-06-07 13:53:49,658 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135349.json
+2025-06-07 13:53:49,659 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258624281
+2025-06-07 13:53:49,661 - database.db_manager - INFO - 文章 258624281 的詳細內容數據插入成功
+2025-06-07 13:53:49,661 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258624281
+2025-06-07 13:53:52,666 - crawler.zenrowsapi - INFO - 進度: 2/100
+2025-06-07 13:53:52,668 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258623906
+2025-06-07 13:53:54,348 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135354.json
+2025-06-07 13:53:54,348 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258623906
+2025-06-07 13:53:54,350 - database.db_manager - INFO - 文章 258623906 的詳細內容數據插入成功
+2025-06-07 13:53:54,350 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258623906
+2025-06-07 13:53:57,356 - crawler.zenrowsapi - INFO - 進度: 3/100
+2025-06-07 13:53:57,357 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258621939
+2025-06-07 13:53:59,634 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135359.json
+2025-06-07 13:53:59,634 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258621939
+2025-06-07 13:53:59,635 - database.db_manager - INFO - 文章 258621939 的詳細內容數據插入成功
+2025-06-07 13:53:59,635 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258621939
+2025-06-07 13:54:02,641 - crawler.zenrowsapi - INFO - 進度: 4/100
+2025-06-07 13:54:02,642 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258621129
+2025-06-07 13:54:05,762 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135405.json
+2025-06-07 13:54:05,763 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258621129
+2025-06-07 13:54:05,765 - database.db_manager - INFO - 文章 258621129 的詳細內容數據插入成功
+2025-06-07 13:54:05,765 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258621129
+2025-06-07 13:54:08,770 - crawler.zenrowsapi - INFO - 進度: 5/100
+2025-06-07 13:54:08,772 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258617400
+2025-06-07 13:54:11,473 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135411.json
+2025-06-07 13:54:11,473 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258617400
+2025-06-07 13:54:11,479 - database.db_manager - INFO - 文章 258617400 的詳細內容數據插入成功
+2025-06-07 13:54:11,479 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258617400
+2025-06-07 13:54:14,484 - crawler.zenrowsapi - INFO - 進度: 6/100
+2025-06-07 13:54:14,485 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258615509
+2025-06-07 13:54:18,827 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135418.json
+2025-06-07 13:54:18,827 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258615509
+2025-06-07 13:54:18,829 - database.db_manager - INFO - 文章 258615509 的詳細內容數據插入成功
+2025-06-07 13:54:18,830 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258615509
+2025-06-07 13:54:21,835 - crawler.zenrowsapi - INFO - 進度: 7/100
+2025-06-07 13:54:21,838 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258612910
+2025-06-07 13:54:26,170 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135426.json
+2025-06-07 13:54:26,171 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258612910
+2025-06-07 13:54:26,173 - database.db_manager - INFO - 文章 258612910 的詳細內容數據插入成功
+2025-06-07 13:54:26,173 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258612910
+2025-06-07 13:54:29,179 - crawler.zenrowsapi - INFO - 進度: 8/100
+2025-06-07 13:54:29,180 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258606151
+2025-06-07 13:54:30,556 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135430.json
+2025-06-07 13:54:30,556 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258606151
+2025-06-07 13:54:30,558 - database.db_manager - INFO - 文章 258606151 的詳細內容數據插入成功
+2025-06-07 13:54:30,558 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258606151
+2025-06-07 13:54:33,564 - crawler.zenrowsapi - INFO - 進度: 9/100
+2025-06-07 13:54:33,565 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258602552
+2025-06-07 13:54:34,696 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135434.json
+2025-06-07 13:54:34,696 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258602552
+2025-06-07 13:54:34,698 - database.db_manager - INFO - 文章 258602552 的詳細內容數據插入成功
+2025-06-07 13:54:34,698 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258602552
+2025-06-07 13:54:37,702 - crawler.zenrowsapi - INFO - 進度: 10/100
+2025-06-07 13:54:37,702 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258602314
+2025-06-07 13:54:38,815 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135438.json
+2025-06-07 13:54:38,816 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258602314
+2025-06-07 13:54:38,818 - database.db_manager - INFO - 文章 258602314 的詳細內容數據插入成功
+2025-06-07 13:54:38,818 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258602314
+2025-06-07 13:54:41,823 - crawler.zenrowsapi - INFO - 進度: 11/100
+2025-06-07 13:54:41,824 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258596887
+2025-06-07 13:54:42,930 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135442.json
+2025-06-07 13:54:42,930 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258596887
+2025-06-07 13:54:42,933 - database.db_manager - INFO - 文章 258596887 的詳細內容數據插入成功
+2025-06-07 13:54:42,933 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258596887
+2025-06-07 13:54:45,939 - crawler.zenrowsapi - INFO - 進度: 12/100
+2025-06-07 13:54:45,940 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258594322
+2025-06-07 13:54:47,109 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135447.json
+2025-06-07 13:54:47,109 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258594322
+2025-06-07 13:54:47,112 - database.db_manager - INFO - 文章 258594322 的詳細內容數據插入成功
+2025-06-07 13:54:47,112 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258594322
+2025-06-07 13:54:50,118 - crawler.zenrowsapi - INFO - 進度: 13/100
+2025-06-07 13:54:50,118 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258588389
+2025-06-07 13:54:51,399 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135451.json
+2025-06-07 13:54:51,399 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258588389
+2025-06-07 13:54:51,401 - database.db_manager - INFO - 文章 258588389 的詳細內容數據插入成功
+2025-06-07 13:54:51,401 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258588389
+2025-06-07 13:54:54,407 - crawler.zenrowsapi - INFO - 進度: 14/100
+2025-06-07 13:54:54,408 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258581312
+2025-06-07 13:54:57,474 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135457.json
+2025-06-07 13:54:57,474 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258581312
+2025-06-07 13:54:57,476 - database.db_manager - INFO - 文章 258581312 的詳細內容數據插入成功
+2025-06-07 13:54:57,476 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258581312
+2025-06-07 13:55:00,482 - crawler.zenrowsapi - INFO - 進度: 15/100
+2025-06-07 13:55:00,484 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258567445
+2025-06-07 13:55:02,840 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135502.json
+2025-06-07 13:55:02,841 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258567445
+2025-06-07 13:55:02,842 - database.db_manager - INFO - 文章 258567445 的詳細內容數據插入成功
+2025-06-07 13:55:02,843 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258567445
+2025-06-07 13:55:05,848 - crawler.zenrowsapi - INFO - 進度: 16/100
+2025-06-07 13:55:05,849 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258562114
+2025-06-07 13:55:07,658 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135507.json
+2025-06-07 13:55:07,658 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258562114
+2025-06-07 13:55:07,660 - database.db_manager - INFO - 文章 258562114 的詳細內容數據插入成功
+2025-06-07 13:55:07,660 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258562114
+2025-06-07 13:55:10,666 - crawler.zenrowsapi - INFO - 進度: 17/100
+2025-06-07 13:55:10,668 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258556735
+2025-06-07 13:55:12,661 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135512.json
+2025-06-07 13:55:12,661 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258556735
+2025-06-07 13:55:12,662 - database.db_manager - INFO - 文章 258556735 的詳細內容數據插入成功
+2025-06-07 13:55:12,662 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258556735
+2025-06-07 13:55:15,667 - crawler.zenrowsapi - INFO - 進度: 18/100
+2025-06-07 13:55:15,668 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258550987
+2025-06-07 13:55:17,554 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135517.json
+2025-06-07 13:55:17,554 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258550987
+2025-06-07 13:55:17,555 - database.db_manager - INFO - 文章 258550987 的詳細內容數據插入成功
+2025-06-07 13:55:17,555 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258550987
+2025-06-07 13:55:20,560 - crawler.zenrowsapi - INFO - 進度: 19/100
+2025-06-07 13:55:20,561 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258546710
+2025-06-07 13:55:21,842 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135521.json
+2025-06-07 13:55:21,843 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258546710
+2025-06-07 13:55:21,845 - database.db_manager - INFO - 文章 258546710 的詳細內容數據插入成功
+2025-06-07 13:55:21,845 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258546710
+2025-06-07 13:55:24,850 - crawler.zenrowsapi - INFO - 進度: 20/100
+2025-06-07 13:55:24,854 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258545644
+2025-06-07 13:55:27,056 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135527.json
+2025-06-07 13:55:27,056 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258545644
+2025-06-07 13:55:27,058 - database.db_manager - INFO - 文章 258545644 的詳細內容數據插入成功
+2025-06-07 13:55:27,058 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258545644
+2025-06-07 13:55:30,064 - crawler.zenrowsapi - INFO - 進度: 21/100
+2025-06-07 13:55:30,066 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258539392
+2025-06-07 13:55:41,370 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135541.json
+2025-06-07 13:55:41,371 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258539392
+2025-06-07 13:55:41,372 - database.db_manager - INFO - 文章 258539392 的詳細內容數據插入成功
+2025-06-07 13:55:41,372 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258539392
+2025-06-07 13:55:44,378 - crawler.zenrowsapi - INFO - 進度: 22/100
+2025-06-07 13:55:44,378 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258535370
+2025-06-07 13:55:46,878 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135546.json
+2025-06-07 13:55:46,879 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258535370
+2025-06-07 13:55:46,880 - database.db_manager - INFO - 文章 258535370 的詳細內容數據插入成功
+2025-06-07 13:55:46,880 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258535370
+2025-06-07 13:55:49,886 - crawler.zenrowsapi - INFO - 進度: 23/100
+2025-06-07 13:55:49,888 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258533647
+2025-06-07 13:55:51,876 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135551.json
+2025-06-07 13:55:51,876 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258533647
+2025-06-07 13:55:51,878 - database.db_manager - INFO - 文章 258533647 的詳細內容數據插入成功
+2025-06-07 13:55:51,878 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258533647
+2025-06-07 13:55:54,883 - crawler.zenrowsapi - INFO - 進度: 24/100
+2025-06-07 13:55:54,884 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258531439
+2025-06-07 13:55:57,970 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135557.json
+2025-06-07 13:55:57,970 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258531439
+2025-06-07 13:55:57,972 - database.db_manager - INFO - 文章 258531439 的詳細內容數據插入成功
+2025-06-07 13:55:57,972 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258531439
+2025-06-07 13:56:00,977 - crawler.zenrowsapi - INFO - 進度: 25/100
+2025-06-07 13:56:00,979 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258530422
+2025-06-07 13:56:03,179 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135603.json
+2025-06-07 13:56:03,180 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258530422
+2025-06-07 13:56:03,181 - database.db_manager - INFO - 文章 258530422 的詳細內容數據插入成功
+2025-06-07 13:56:03,182 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258530422
+2025-06-07 13:56:06,185 - crawler.zenrowsapi - INFO - 進度: 26/100
+2025-06-07 13:56:06,186 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258525656
+2025-06-07 13:56:23,581 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135623.json
+2025-06-07 13:56:23,582 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258525656
+2025-06-07 13:56:23,584 - database.db_manager - INFO - 文章 258525656 的詳細內容數據插入成功
+2025-06-07 13:56:23,585 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258525656
+2025-06-07 13:56:26,588 - crawler.zenrowsapi - INFO - 進度: 27/100
+2025-06-07 13:56:26,588 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258524624
+2025-06-07 13:56:41,496 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135641.json
+2025-06-07 13:56:41,496 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258524624
+2025-06-07 13:56:41,498 - database.db_manager - INFO - 文章 258524624 的詳細內容數據插入成功
+2025-06-07 13:56:41,498 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258524624
+2025-06-07 13:56:44,505 - crawler.zenrowsapi - INFO - 進度: 28/100
+2025-06-07 13:56:44,506 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258524228
+2025-06-07 13:56:59,779 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135659.json
+2025-06-07 13:56:59,779 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258524228
+2025-06-07 13:56:59,782 - database.db_manager - INFO - 文章 258524228 的詳細內容數據插入成功
+2025-06-07 13:56:59,783 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258524228
+2025-06-07 13:57:02,785 - crawler.zenrowsapi - INFO - 進度: 29/100
+2025-06-07 13:57:02,786 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258518571
+2025-06-07 13:57:49,286 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_135749.json
+2025-06-07 13:57:49,287 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258518571
+2025-06-07 13:57:49,290 - database.db_manager - INFO - 文章 258518571 的詳細內容數據插入成功
+2025-06-07 13:57:49,290 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258518571
+2025-06-07 13:57:52,296 - crawler.zenrowsapi - INFO - 進度: 30/100
+2025-06-07 13:57:52,297 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258509439
+2025-06-07 14:00:09,225 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 422
+2025-06-07 14:00:09,228 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258501348
+2025-06-07 14:00:51,738 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140051.json
+2025-06-07 14:00:51,739 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258501348
+2025-06-07 14:00:51,742 - database.db_manager - INFO - 文章 258501348 的詳細內容數據插入成功
+2025-06-07 14:00:51,742 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258501348
+2025-06-07 14:00:54,748 - crawler.zenrowsapi - INFO - 進度: 31/100
+2025-06-07 14:00:54,749 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258493291
+2025-06-07 14:00:56,744 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140056.json
+2025-06-07 14:00:56,744 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258493291
+2025-06-07 14:00:56,746 - database.db_manager - INFO - 文章 258493291 的詳細內容數據插入成功
+2025-06-07 14:00:56,746 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258493291
+2025-06-07 14:00:59,752 - crawler.zenrowsapi - INFO - 進度: 32/100
+2025-06-07 14:00:59,754 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258493085
+2025-06-07 14:01:01,658 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140101.json
+2025-06-07 14:01:01,659 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258493085
+2025-06-07 14:01:01,660 - database.db_manager - INFO - 文章 258493085 的詳細內容數據插入成功
+2025-06-07 14:01:01,661 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258493085
+2025-06-07 14:01:04,662 - crawler.zenrowsapi - INFO - 進度: 33/100
+2025-06-07 14:01:04,662 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258489011
+2025-06-07 14:01:05,863 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140105.json
+2025-06-07 14:01:05,864 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258489011
+2025-06-07 14:01:05,866 - database.db_manager - INFO - 文章 258489011 的詳細內容數據插入成功
+2025-06-07 14:01:05,867 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258489011
+2025-06-07 14:01:08,872 - crawler.zenrowsapi - INFO - 進度: 34/100
+2025-06-07 14:01:08,873 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258486968
+2025-06-07 14:01:10,428 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140110.json
+2025-06-07 14:01:10,428 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258486968
+2025-06-07 14:01:10,429 - database.db_manager - INFO - 文章 258486968 的詳細內容數據插入成功
+2025-06-07 14:01:10,429 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258486968
+2025-06-07 14:01:13,434 - crawler.zenrowsapi - INFO - 進度: 35/100
+2025-06-07 14:01:13,435 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258484093
+2025-06-07 14:01:14,860 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140114.json
+2025-06-07 14:01:14,860 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258484093
+2025-06-07 14:01:14,862 - database.db_manager - INFO - 文章 258484093 的詳細內容數據插入成功
+2025-06-07 14:01:14,863 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258484093
+2025-06-07 14:01:17,868 - crawler.zenrowsapi - INFO - 進度: 36/100
+2025-06-07 14:01:17,868 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258477991
+2025-06-07 14:01:19,291 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140119.json
+2025-06-07 14:01:19,291 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258477991
+2025-06-07 14:01:19,293 - database.db_manager - INFO - 文章 258477991 的詳細內容數據插入成功
+2025-06-07 14:01:19,293 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258477991
+2025-06-07 14:01:22,298 - crawler.zenrowsapi - INFO - 進度: 37/100
+2025-06-07 14:01:22,298 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258477773
+2025-06-07 14:01:25,317 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140125.json
+2025-06-07 14:01:25,317 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258477773
+2025-06-07 14:01:25,319 - database.db_manager - INFO - 文章 258477773 的詳細內容數據插入成功
+2025-06-07 14:01:25,320 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258477773
+2025-06-07 14:01:28,325 - crawler.zenrowsapi - INFO - 進度: 38/100
+2025-06-07 14:01:28,326 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258474873
+2025-06-07 14:01:29,519 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140129.json
+2025-06-07 14:01:29,520 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258474873
+2025-06-07 14:01:29,521 - database.db_manager - INFO - 文章 258474873 的詳細內容數據插入成功
+2025-06-07 14:01:29,521 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258474873
+2025-06-07 14:01:32,526 - crawler.zenrowsapi - INFO - 進度: 39/100
+2025-06-07 14:01:32,527 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258464383
+2025-06-07 14:03:04,454 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140304.json
+2025-06-07 14:03:04,455 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258464383
+2025-06-07 14:03:04,457 - database.db_manager - INFO - 文章 258464383 的詳細內容數據插入成功
+2025-06-07 14:03:04,457 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258464383
+2025-06-07 14:03:07,463 - crawler.zenrowsapi - INFO - 進度: 40/100
+2025-06-07 14:03:07,464 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258462806
+2025-06-07 14:03:09,559 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140309.json
+2025-06-07 14:03:09,560 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258462806
+2025-06-07 14:03:09,562 - database.db_manager - INFO - 文章 258462806 的詳細內容數據插入成功
+2025-06-07 14:03:09,562 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258462806
+2025-06-07 14:03:12,567 - crawler.zenrowsapi - INFO - 進度: 41/100
+2025-06-07 14:03:12,568 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258457601
+2025-06-07 14:03:13,757 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140313.json
+2025-06-07 14:03:13,757 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258457601
+2025-06-07 14:03:13,760 - database.db_manager - INFO - 文章 258457601 的詳細內容數據插入成功
+2025-06-07 14:03:13,760 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258457601
+2025-06-07 14:03:16,765 - crawler.zenrowsapi - INFO - 進度: 42/100
+2025-06-07 14:03:16,767 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258451296
+2025-06-07 14:03:17,970 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140317.json
+2025-06-07 14:03:17,970 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258451296
+2025-06-07 14:03:17,971 - database.db_manager - INFO - 文章 258451296 的詳細內容數據插入成功
+2025-06-07 14:03:17,971 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258451296
+2025-06-07 14:03:20,976 - crawler.zenrowsapi - INFO - 進度: 43/100
+2025-06-07 14:03:20,977 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258450228
+2025-06-07 14:03:22,013 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140322.json
+2025-06-07 14:03:22,013 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258450228
+2025-06-07 14:03:22,014 - database.db_manager - INFO - 文章 258450228 的詳細內容數據插入成功
+2025-06-07 14:03:22,014 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258450228
+2025-06-07 14:03:25,019 - crawler.zenrowsapi - INFO - 進度: 44/100
+2025-06-07 14:03:25,020 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258447503
+2025-06-07 14:03:26,821 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140326.json
+2025-06-07 14:03:26,822 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258447503
+2025-06-07 14:03:26,823 - database.db_manager - INFO - 文章 258447503 的詳細內容數據插入成功
+2025-06-07 14:03:26,823 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258447503
+2025-06-07 14:03:29,828 - crawler.zenrowsapi - INFO - 進度: 45/100
+2025-06-07 14:03:29,829 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258445304
+2025-06-07 14:03:30,976 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140330.json
+2025-06-07 14:03:30,976 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258445304
+2025-06-07 14:03:30,978 - database.db_manager - INFO - 文章 258445304 的詳細內容數據插入成功
+2025-06-07 14:03:30,978 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258445304
+2025-06-07 14:03:33,984 - crawler.zenrowsapi - INFO - 進度: 46/100
+2025-06-07 14:03:33,985 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258442951
+2025-06-07 14:03:35,674 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140335.json
+2025-06-07 14:03:35,674 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258442951
+2025-06-07 14:03:35,676 - database.db_manager - INFO - 文章 258442951 的詳細內容數據插入成功
+2025-06-07 14:03:35,676 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258442951
+2025-06-07 14:03:38,682 - crawler.zenrowsapi - INFO - 進度: 47/100
+2025-06-07 14:03:38,682 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258441690
+2025-06-07 14:03:40,482 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140340.json
+2025-06-07 14:03:40,482 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258441690
+2025-06-07 14:03:40,484 - database.db_manager - INFO - 文章 258441690 的詳細內容數據插入成功
+2025-06-07 14:03:40,484 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258441690
+2025-06-07 14:03:43,486 - crawler.zenrowsapi - INFO - 進度: 48/100
+2025-06-07 14:03:43,486 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258440219
+2025-06-07 14:03:45,597 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140345.json
+2025-06-07 14:03:45,597 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258440219
+2025-06-07 14:03:45,598 - database.db_manager - INFO - 文章 258440219 的詳細內容數據插入成功
+2025-06-07 14:03:45,598 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258440219
+2025-06-07 14:03:48,604 - crawler.zenrowsapi - INFO - 進度: 49/100
+2025-06-07 14:03:48,606 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258434544
+2025-06-07 14:03:50,927 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140350.json
+2025-06-07 14:03:50,927 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258434544
+2025-06-07 14:03:50,929 - database.db_manager - INFO - 文章 258434544 的詳細內容數據插入成功
+2025-06-07 14:03:50,929 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258434544
+2025-06-07 14:03:53,936 - crawler.zenrowsapi - INFO - 進度: 50/100
+2025-06-07 14:03:53,937 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258433767
+2025-06-07 14:03:55,203 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140355.json
+2025-06-07 14:03:55,204 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258433767
+2025-06-07 14:03:55,206 - database.db_manager - INFO - 文章 258433767 的詳細內容數據插入成功
+2025-06-07 14:03:55,206 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258433767
+2025-06-07 14:03:58,212 - crawler.zenrowsapi - INFO - 進度: 51/100
+2025-06-07 14:03:58,213 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258433462
+2025-06-07 14:03:59,432 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140359.json
+2025-06-07 14:03:59,432 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258433462
+2025-06-07 14:03:59,434 - database.db_manager - INFO - 文章 258433462 的詳細內容數據插入成功
+2025-06-07 14:03:59,435 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258433462
+2025-06-07 14:04:02,440 - crawler.zenrowsapi - INFO - 進度: 52/100
+2025-06-07 14:04:02,441 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258429293
+2025-06-07 14:04:03,729 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140403.json
+2025-06-07 14:04:03,729 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258429293
+2025-06-07 14:04:03,731 - database.db_manager - INFO - 文章 258429293 的詳細內容數據插入成功
+2025-06-07 14:04:03,731 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258429293
+2025-06-07 14:04:06,737 - crawler.zenrowsapi - INFO - 進度: 53/100
+2025-06-07 14:04:06,737 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258427022
+2025-06-07 14:04:07,963 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140407.json
+2025-06-07 14:04:07,963 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258427022
+2025-06-07 14:04:07,964 - database.db_manager - INFO - 文章 258427022 的詳細內容數據插入成功
+2025-06-07 14:04:07,964 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258427022
+2025-06-07 14:04:10,970 - crawler.zenrowsapi - INFO - 進度: 54/100
+2025-06-07 14:04:10,971 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258426628
+2025-06-07 14:04:12,299 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140412.json
+2025-06-07 14:04:12,300 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258426628
+2025-06-07 14:04:12,300 - database.db_manager - INFO - 文章 258426628 的詳細內容數據插入成功
+2025-06-07 14:04:12,301 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258426628
+2025-06-07 14:04:15,304 - crawler.zenrowsapi - INFO - 進度: 55/100
+2025-06-07 14:04:15,306 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258425924
+2025-06-07 14:04:17,654 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140417.json
+2025-06-07 14:04:17,655 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258425924
+2025-06-07 14:04:17,656 - database.db_manager - INFO - 文章 258425924 的詳細內容數據插入成功
+2025-06-07 14:04:17,657 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258425924
+2025-06-07 14:04:20,660 - crawler.zenrowsapi - INFO - 進度: 56/100
+2025-06-07 14:04:20,660 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258423622
+2025-06-07 14:04:21,961 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140421.json
+2025-06-07 14:04:21,962 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258423622
+2025-06-07 14:04:21,964 - database.db_manager - INFO - 文章 258423622 的詳細內容數據插入成功
+2025-06-07 14:04:21,964 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258423622
+2025-06-07 14:04:24,969 - crawler.zenrowsapi - INFO - 進度: 57/100
+2025-06-07 14:04:24,971 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258417225
+2025-06-07 14:04:26,256 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140426.json
+2025-06-07 14:04:26,256 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258417225
+2025-06-07 14:04:26,258 - database.db_manager - INFO - 文章 258417225 的詳細內容數據插入成功
+2025-06-07 14:04:26,258 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258417225
+2025-06-07 14:04:29,264 - crawler.zenrowsapi - INFO - 進度: 58/100
+2025-06-07 14:04:29,264 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258414161
+2025-06-07 14:04:30,452 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140430.json
+2025-06-07 14:04:30,453 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258414161
+2025-06-07 14:04:30,454 - database.db_manager - INFO - 文章 258414161 的詳細內容數據插入成功
+2025-06-07 14:04:30,454 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258414161
+2025-06-07 14:04:33,459 - crawler.zenrowsapi - INFO - 進度: 59/100
+2025-06-07 14:04:33,461 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258413426
+2025-06-07 14:04:34,860 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140434.json
+2025-06-07 14:04:34,860 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258413426
+2025-06-07 14:04:34,862 - database.db_manager - INFO - 文章 258413426 的詳細內容數據插入成功
+2025-06-07 14:04:34,862 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258413426
+2025-06-07 14:04:37,865 - crawler.zenrowsapi - INFO - 進度: 60/100
+2025-06-07 14:04:37,866 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258411537
+2025-06-07 14:04:49,790 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140449.json
+2025-06-07 14:04:49,791 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258411537
+2025-06-07 14:04:49,793 - database.db_manager - INFO - 文章 258411537 的詳細內容數據插入成功
+2025-06-07 14:04:49,793 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258411537
+2025-06-07 14:04:52,799 - crawler.zenrowsapi - INFO - 進度: 61/100
+2025-06-07 14:04:52,799 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258410293
+2025-06-07 14:04:54,312 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140454.json
+2025-06-07 14:04:54,312 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258410293
+2025-06-07 14:04:54,314 - database.db_manager - INFO - 文章 258410293 的詳細內容數據插入成功
+2025-06-07 14:04:54,315 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258410293
+2025-06-07 14:04:57,321 - crawler.zenrowsapi - INFO - 進度: 62/100
+2025-06-07 14:04:57,324 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258409532
+2025-06-07 14:04:58,714 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140458.json
+2025-06-07 14:04:58,715 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258409532
+2025-06-07 14:04:58,716 - database.db_manager - INFO - 文章 258409532 的詳細內容數據插入成功
+2025-06-07 14:04:58,716 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258409532
+2025-06-07 14:05:01,722 - crawler.zenrowsapi - INFO - 進度: 63/100
+2025-06-07 14:05:01,723 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258408022
+2025-06-07 14:05:03,228 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140503.json
+2025-06-07 14:05:03,229 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258408022
+2025-06-07 14:05:03,231 - database.db_manager - INFO - 文章 258408022 的詳細內容數據插入成功
+2025-06-07 14:05:03,231 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258408022
+2025-06-07 14:05:06,236 - crawler.zenrowsapi - INFO - 進度: 64/100
+2025-06-07 14:05:06,237 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258407438
+2025-06-07 14:05:07,728 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140507.json
+2025-06-07 14:05:07,728 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258407438
+2025-06-07 14:05:07,730 - database.db_manager - INFO - 文章 258407438 的詳細內容數據插入成功
+2025-06-07 14:05:07,730 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258407438
+2025-06-07 14:05:10,736 - crawler.zenrowsapi - INFO - 進度: 65/100
+2025-06-07 14:05:10,737 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258407361
+2025-06-07 14:05:12,131 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140512.json
+2025-06-07 14:05:12,131 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258407361
+2025-06-07 14:05:12,134 - database.db_manager - INFO - 文章 258407361 的詳細內容數據插入成功
+2025-06-07 14:05:12,134 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258407361
+2025-06-07 14:05:15,140 - crawler.zenrowsapi - INFO - 進度: 66/100
+2025-06-07 14:05:15,141 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258406175
+2025-06-07 14:05:17,560 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140517.json
+2025-06-07 14:05:17,561 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258406175
+2025-06-07 14:05:17,562 - database.db_manager - INFO - 文章 258406175 的詳細內容數據插入成功
+2025-06-07 14:05:17,563 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258406175
+2025-06-07 14:05:20,569 - crawler.zenrowsapi - INFO - 進度: 67/100
+2025-06-07 14:05:20,571 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258398387
+2025-06-07 14:05:21,868 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140521.json
+2025-06-07 14:05:21,868 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258398387
+2025-06-07 14:05:21,870 - database.db_manager - INFO - 文章 258398387 的詳細內容數據插入成功
+2025-06-07 14:05:21,870 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258398387
+2025-06-07 14:05:24,876 - crawler.zenrowsapi - INFO - 進度: 68/100
+2025-06-07 14:05:24,876 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258396990
+2025-06-07 14:05:27,489 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140527.json
+2025-06-07 14:05:27,489 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258396990
+2025-06-07 14:05:27,490 - database.db_manager - INFO - 文章 258396990 的詳細內容數據插入成功
+2025-06-07 14:05:27,490 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258396990
+2025-06-07 14:05:30,495 - crawler.zenrowsapi - INFO - 進度: 69/100
+2025-06-07 14:05:30,496 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258395737
+2025-06-07 14:05:31,983 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140531.json
+2025-06-07 14:05:31,984 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258395737
+2025-06-07 14:05:31,986 - database.db_manager - INFO - 文章 258395737 的詳細內容數據插入成功
+2025-06-07 14:05:31,986 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258395737
+2025-06-07 14:05:34,987 - crawler.zenrowsapi - INFO - 進度: 70/100
+2025-06-07 14:05:34,988 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258394386
+2025-06-07 14:05:38,351 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140538.json
+2025-06-07 14:05:38,351 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258394386
+2025-06-07 14:05:38,353 - database.db_manager - INFO - 文章 258394386 的詳細內容數據插入成功
+2025-06-07 14:05:38,353 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258394386
+2025-06-07 14:05:41,359 - crawler.zenrowsapi - INFO - 進度: 71/100
+2025-06-07 14:05:41,360 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258394008
+2025-06-07 14:05:43,133 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140543.json
+2025-06-07 14:05:43,133 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258394008
+2025-06-07 14:05:43,136 - database.db_manager - INFO - 文章 258394008 的詳細內容數據插入成功
+2025-06-07 14:05:43,136 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258394008
+2025-06-07 14:05:46,142 - crawler.zenrowsapi - INFO - 進度: 72/100
+2025-06-07 14:05:46,144 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258392346
+2025-06-07 14:05:47,793 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_140547.json
+2025-06-07 14:05:47,793 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258392346
+2025-06-07 14:05:47,794 - database.db_manager - INFO - 文章 258392346 的詳細內容數據插入成功
+2025-06-07 14:05:47,795 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258392346
+2025-06-07 14:05:50,800 - crawler.zenrowsapi - INFO - 進度: 73/100
+2025-06-07 14:05:50,801 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258387387
+2025-06-07 14:05:51,079 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:51,080 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258385658
+2025-06-07 14:05:51,381 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:51,384 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258382798
+2025-06-07 14:05:51,601 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:51,602 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258381826
+2025-06-07 14:05:51,905 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:51,906 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380707
+2025-06-07 14:05:52,142 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:52,143 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380481
+2025-06-07 14:05:52,426 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:52,427 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377442
+2025-06-07 14:05:52,650 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:52,651 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377320
+2025-06-07 14:05:52,955 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:52,955 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258371865
+2025-06-07 14:05:53,174 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:53,175 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258371443
+2025-06-07 14:05:53,478 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:53,478 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258370717
+2025-06-07 14:05:53,722 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:53,723 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258367087
+2025-06-07 14:05:54,002 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:54,003 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258363118
+2025-06-07 14:05:54,224 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:54,225 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258362540
+2025-06-07 14:05:54,529 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:54,530 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258357678
+2025-06-07 14:05:54,748 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:54,748 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258357329
+2025-06-07 14:05:55,049 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:55,050 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258355311
+2025-06-07 14:05:55,336 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:55,338 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258353528
+2025-06-07 14:05:55,574 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:55,575 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258352900
+2025-06-07 14:05:55,793 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:55,794 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258352782
+2025-06-07 14:05:56,292 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:56,292 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258346790
+2025-06-07 14:05:56,815 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:56,816 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258343777
+2025-06-07 14:05:57,149 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:57,149 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258340881
+2025-06-07 14:05:57,371 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:57,372 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258340652
+2025-06-07 14:05:57,675 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:05:57,676 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258337657
+2025-06-07 14:05:57,893 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:00,288 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 73 篇
+2025-06-07 14:06:00,292 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:06:00,292 - crawler.zenrowsapi - INFO - 已關閉數據庫連接
+2025-06-07 14:06:00,292 - __main__ - INFO - 爬蟲任務完成
+2025-06-07 14:06:00,293 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-07 14:06:39,571 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 14:06:39,573 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 14:06:39,573 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 14:06:39,575 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:06:39,575 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 14:06:39,575 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:06:39,575 - __main__ - INFO - 環境驗證通過
+2025-06-07 14:06:39,575 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 14:06:39,575 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 14:06:39,576 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:06:39,576 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 14:06:40,519 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/273 篇文章詳細內容
+2025-06-07 14:06:40,520 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258629725
+2025-06-07 14:06:41,622 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:41,622 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258509439
+2025-06-07 14:06:41,929 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:41,930 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258387387
+2025-06-07 14:06:42,235 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:42,237 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258385658
+2025-06-07 14:06:42,455 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:42,456 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258382798
+2025-06-07 14:06:42,760 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:42,761 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258381826
+2025-06-07 14:06:42,979 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:42,980 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380707
+2025-06-07 14:06:43,279 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:43,280 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380481
+2025-06-07 14:06:43,494 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:43,495 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377442
+2025-06-07 14:06:43,704 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:06:43,704 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377320
+2025-06-07 14:10:29,981 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 14:10:29,984 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 14:10:29,984 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 14:10:29,985 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:10:29,985 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 14:10:29,986 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:10:29,986 - __main__ - INFO - 環境驗證通過
+2025-06-07 14:10:29,986 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 14:10:29,986 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 14:10:29,986 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:10:29,987 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 14:10:32,414 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/273 篇文章詳細內容
+2025-06-07 14:10:32,415 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258629725
+2025-06-07 14:10:33,456 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:33,456 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258509439
+2025-06-07 14:10:33,670 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:33,670 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258387387
+2025-06-07 14:10:33,970 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:33,971 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258385658
+2025-06-07 14:10:34,207 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:34,208 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258382798
+2025-06-07 14:10:34,494 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:34,495 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258381826
+2025-06-07 14:10:34,713 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:34,714 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380707
+2025-06-07 14:10:35,013 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:35,013 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380481
+2025-06-07 14:10:35,232 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:35,233 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377442
+2025-06-07 14:10:35,544 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:35,545 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377320
+2025-06-07 14:10:35,764 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:10:35,764 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258371865
+2025-06-07 14:18:53,570 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 14:18:53,572 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 14:18:53,572 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 14:18:53,574 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:18:53,574 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 14:18:53,574 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:18:53,574 - __main__ - INFO - 環境驗證通過
+2025-06-07 14:18:53,574 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 14:18:53,574 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 14:18:53,575 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:18:53,575 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 14:18:54,271 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/273 篇文章詳細內容
+2025-06-07 14:18:54,272 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258629725
+2025-06-07 14:18:55,595 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:55,596 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258509439
+2025-06-07 14:18:55,809 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:55,810 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258387387
+2025-06-07 14:18:56,021 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:56,022 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258385658
+2025-06-07 14:18:56,236 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:56,236 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258382798
+2025-06-07 14:18:56,450 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:56,450 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258381826
+2025-06-07 14:18:56,661 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:56,661 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380707
+2025-06-07 14:18:56,960 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:56,961 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380481
+2025-06-07 14:18:57,174 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 402
+2025-06-07 14:18:57,175 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377442
+2025-06-07 14:20:04,746 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-07 14:20:04,748 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-07 14:20:04,748 - __main__ - INFO - OpenAI版本: 1.84.0
+2025-06-07 14:20:04,750 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:20:04,750 - __main__ - INFO - 資料庫連接測試成功
+2025-06-07 14:20:04,750 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:20:04,750 - __main__ - INFO - 環境驗證通過
+2025-06-07 14:20:04,750 - __main__ - INFO - 開始爬蟲任務
+2025-06-07 14:20:04,750 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-07 14:20:04,751 - database.db_manager - INFO - 數據庫連接成功
+2025-06-07 14:20:04,751 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-07 14:20:06,647 - crawler.zenrowsapi - INFO - 根據限制條件，將爬取 100/273 篇文章詳細內容
+2025-06-07 14:20:06,648 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258629725
+2025-06-07 14:20:09,653 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142009.json
+2025-06-07 14:20:09,653 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258629725
+2025-06-07 14:20:09,655 - database.db_manager - INFO - 文章 258629725 的詳細內容數據插入成功
+2025-06-07 14:20:09,655 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258629725
+2025-06-07 14:20:12,676 - crawler.zenrowsapi - INFO - 進度: 1/100
+2025-06-07 14:20:12,678 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258509439
+2025-06-07 14:20:14,370 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142014.json
+2025-06-07 14:20:14,370 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258509439
+2025-06-07 14:20:14,373 - database.db_manager - INFO - 文章 258509439 的詳細內容數據插入成功
+2025-06-07 14:20:14,373 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258509439
+2025-06-07 14:20:17,379 - crawler.zenrowsapi - INFO - 進度: 2/100
+2025-06-07 14:20:17,379 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258387387
+2025-06-07 14:20:33,854 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142033.json
+2025-06-07 14:20:33,854 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258387387
+2025-06-07 14:20:33,856 - database.db_manager - INFO - 文章 258387387 的詳細內容數據插入成功
+2025-06-07 14:20:33,856 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258387387
+2025-06-07 14:20:36,861 - crawler.zenrowsapi - INFO - 進度: 3/100
+2025-06-07 14:20:36,862 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258385658
+2025-06-07 14:20:48,256 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142048.json
+2025-06-07 14:20:48,257 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258385658
+2025-06-07 14:20:48,260 - database.db_manager - INFO - 文章 258385658 的詳細內容數據插入成功
+2025-06-07 14:20:48,260 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258385658
+2025-06-07 14:20:51,266 - crawler.zenrowsapi - INFO - 進度: 4/100
+2025-06-07 14:20:51,266 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258382798
+2025-06-07 14:21:08,661 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142108.json
+2025-06-07 14:21:08,662 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258382798
+2025-06-07 14:21:08,664 - database.db_manager - INFO - 文章 258382798 的詳細內容數據插入成功
+2025-06-07 14:21:08,664 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258382798
+2025-06-07 14:21:11,670 - crawler.zenrowsapi - INFO - 進度: 5/100
+2025-06-07 14:21:11,671 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258381826
+2025-06-07 14:21:21,997 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142121.json
+2025-06-07 14:21:21,998 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258381826
+2025-06-07 14:21:22,001 - database.db_manager - INFO - 文章 258381826 的詳細內容數據插入成功
+2025-06-07 14:21:22,001 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258381826
+2025-06-07 14:21:25,007 - crawler.zenrowsapi - INFO - 進度: 6/100
+2025-06-07 14:21:25,008 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380707
+2025-06-07 14:21:35,866 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142135.json
+2025-06-07 14:21:35,867 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258380707
+2025-06-07 14:21:35,870 - database.db_manager - INFO - 文章 258380707 的詳細內容數據插入成功
+2025-06-07 14:21:35,870 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258380707
+2025-06-07 14:21:38,876 - crawler.zenrowsapi - INFO - 進度: 7/100
+2025-06-07 14:21:38,877 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258380481
+2025-06-07 14:21:48,877 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142148.json
+2025-06-07 14:21:48,877 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258380481
+2025-06-07 14:21:48,879 - database.db_manager - INFO - 文章 258380481 的詳細內容數據插入成功
+2025-06-07 14:21:48,879 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258380481
+2025-06-07 14:21:51,885 - crawler.zenrowsapi - INFO - 進度: 8/100
+2025-06-07 14:21:51,885 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377442
+2025-06-07 14:22:34,542 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142234.json
+2025-06-07 14:22:34,543 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258377442
+2025-06-07 14:22:34,545 - database.db_manager - INFO - 文章 258377442 的詳細內容數據插入成功
+2025-06-07 14:22:34,546 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258377442
+2025-06-07 14:22:37,551 - crawler.zenrowsapi - INFO - 進度: 9/100
+2025-06-07 14:22:37,552 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258377320
+2025-06-07 14:24:23,080 - crawler.zenrowsapi - ERROR - 獲取文章內容失敗，狀態碼: 422
+2025-06-07 14:24:23,083 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258371865
+2025-06-07 14:24:35,198 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142435.json
+2025-06-07 14:24:35,198 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258371865
+2025-06-07 14:24:35,200 - database.db_manager - INFO - 文章 258371865 的詳細內容數據插入成功
+2025-06-07 14:24:35,200 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258371865
+2025-06-07 14:24:38,207 - crawler.zenrowsapi - INFO - 進度: 10/100
+2025-06-07 14:24:38,209 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258371443
+2025-06-07 14:24:39,520 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142439.json
+2025-06-07 14:24:39,521 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258371443
+2025-06-07 14:24:39,522 - database.db_manager - INFO - 文章 258371443 的詳細內容數據插入成功
+2025-06-07 14:24:39,522 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258371443
+2025-06-07 14:24:42,527 - crawler.zenrowsapi - INFO - 進度: 11/100
+2025-06-07 14:24:42,528 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258370717
+2025-06-07 14:24:45,079 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142445.json
+2025-06-07 14:24:45,080 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258370717
+2025-06-07 14:24:45,081 - database.db_manager - INFO - 文章 258370717 的詳細內容數據插入成功
+2025-06-07 14:24:45,081 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258370717
+2025-06-07 14:24:48,088 - crawler.zenrowsapi - INFO - 進度: 12/100
+2025-06-07 14:24:48,089 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258367087
+2025-06-07 14:24:51,181 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142451.json
+2025-06-07 14:24:51,182 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258367087
+2025-06-07 14:24:51,183 - database.db_manager - INFO - 文章 258367087 的詳細內容數據插入成功
+2025-06-07 14:24:51,183 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258367087
+2025-06-07 14:24:54,189 - crawler.zenrowsapi - INFO - 進度: 13/100
+2025-06-07 14:24:54,190 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258363118
+2025-06-07 14:24:56,984 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142456.json
+2025-06-07 14:24:56,985 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258363118
+2025-06-07 14:24:56,986 - database.db_manager - INFO - 文章 258363118 的詳細內容數據插入成功
+2025-06-07 14:24:56,986 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258363118
+2025-06-07 14:24:59,991 - crawler.zenrowsapi - INFO - 進度: 14/100
+2025-06-07 14:24:59,993 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258362540
+2025-06-07 14:25:01,329 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142501.json
+2025-06-07 14:25:01,329 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258362540
+2025-06-07 14:25:01,330 - database.db_manager - INFO - 文章 258362540 的詳細內容數據插入成功
+2025-06-07 14:25:01,330 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258362540
+2025-06-07 14:25:04,336 - crawler.zenrowsapi - INFO - 進度: 15/100
+2025-06-07 14:25:04,337 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258357678
+2025-06-07 14:25:05,572 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142505.json
+2025-06-07 14:25:05,573 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258357678
+2025-06-07 14:25:05,575 - database.db_manager - INFO - 文章 258357678 的詳細內容數據插入成功
+2025-06-07 14:25:05,575 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258357678
+2025-06-07 14:25:08,577 - crawler.zenrowsapi - INFO - 進度: 16/100
+2025-06-07 14:25:08,578 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258357329
+2025-06-07 14:25:11,167 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142511.json
+2025-06-07 14:25:11,167 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258357329
+2025-06-07 14:25:11,170 - database.db_manager - INFO - 文章 258357329 的詳細內容數據插入成功
+2025-06-07 14:25:11,170 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258357329
+2025-06-07 14:25:14,176 - crawler.zenrowsapi - INFO - 進度: 17/100
+2025-06-07 14:25:14,176 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258355311
+2025-06-07 14:25:15,593 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142515.json
+2025-06-07 14:25:15,593 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258355311
+2025-06-07 14:25:15,595 - database.db_manager - INFO - 文章 258355311 的詳細內容數據插入成功
+2025-06-07 14:25:15,595 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258355311
+2025-06-07 14:25:18,601 - crawler.zenrowsapi - INFO - 進度: 18/100
+2025-06-07 14:25:18,601 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258353528
+2025-06-07 14:26:04,062 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142604.json
+2025-06-07 14:26:04,063 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258353528
+2025-06-07 14:26:04,065 - database.db_manager - INFO - 文章 258353528 的詳細內容數據插入成功
+2025-06-07 14:26:04,065 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258353528
+2025-06-07 14:26:07,071 - crawler.zenrowsapi - INFO - 進度: 19/100
+2025-06-07 14:26:07,072 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258352900
+2025-06-07 14:26:08,487 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142608.json
+2025-06-07 14:26:08,488 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258352900
+2025-06-07 14:26:08,490 - database.db_manager - INFO - 文章 258352900 的詳細內容數據插入成功
+2025-06-07 14:26:08,490 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258352900
+2025-06-07 14:26:11,495 - crawler.zenrowsapi - INFO - 進度: 20/100
+2025-06-07 14:26:11,496 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258352782
+2025-06-07 14:26:13,026 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142613.json
+2025-06-07 14:26:13,026 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258352782
+2025-06-07 14:26:13,028 - database.db_manager - INFO - 文章 258352782 的詳細內容數據插入成功
+2025-06-07 14:26:13,028 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258352782
+2025-06-07 14:26:16,033 - crawler.zenrowsapi - INFO - 進度: 21/100
+2025-06-07 14:26:16,034 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258346790
+2025-06-07 14:26:18,774 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142618.json
+2025-06-07 14:26:18,774 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258346790
+2025-06-07 14:26:18,776 - database.db_manager - INFO - 文章 258346790 的詳細內容數據插入成功
+2025-06-07 14:26:18,776 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258346790
+2025-06-07 14:26:21,782 - crawler.zenrowsapi - INFO - 進度: 22/100
+2025-06-07 14:26:21,784 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258343777
+2025-06-07 14:26:23,569 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142623.json
+2025-06-07 14:26:23,569 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258343777
+2025-06-07 14:26:23,571 - database.db_manager - INFO - 文章 258343777 的詳細內容數據插入成功
+2025-06-07 14:26:23,571 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258343777
+2025-06-07 14:26:26,577 - crawler.zenrowsapi - INFO - 進度: 23/100
+2025-06-07 14:26:26,577 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258340881
+2025-06-07 14:26:27,990 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142627.json
+2025-06-07 14:26:27,991 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258340881
+2025-06-07 14:26:27,992 - database.db_manager - INFO - 文章 258340881 的詳細內容數據插入成功
+2025-06-07 14:26:27,992 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258340881
+2025-06-07 14:26:30,998 - crawler.zenrowsapi - INFO - 進度: 24/100
+2025-06-07 14:26:30,999 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258340652
+2025-06-07 14:26:33,766 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142633.json
+2025-06-07 14:26:33,767 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258340652
+2025-06-07 14:26:33,769 - database.db_manager - INFO - 文章 258340652 的詳細內容數據插入成功
+2025-06-07 14:26:33,769 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258340652
+2025-06-07 14:26:36,774 - crawler.zenrowsapi - INFO - 進度: 25/100
+2025-06-07 14:26:36,775 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258337657
+2025-06-07 14:26:38,137 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142638.json
+2025-06-07 14:26:38,137 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258337657
+2025-06-07 14:26:38,139 - database.db_manager - INFO - 文章 258337657 的詳細內容數據插入成功
+2025-06-07 14:26:38,139 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258337657
+2025-06-07 14:26:41,145 - crawler.zenrowsapi - INFO - 進度: 26/100
+2025-06-07 14:26:41,147 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258327538
+2025-06-07 14:26:43,561 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142643.json
+2025-06-07 14:26:43,561 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258327538
+2025-06-07 14:26:43,563 - database.db_manager - INFO - 文章 258327538 的詳細內容數據插入成功
+2025-06-07 14:26:43,563 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258327538
+2025-06-07 14:26:46,569 - crawler.zenrowsapi - INFO - 進度: 27/100
+2025-06-07 14:26:46,570 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258322417
+2025-06-07 14:26:48,315 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142648.json
+2025-06-07 14:26:48,316 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258322417
+2025-06-07 14:26:48,353 - database.db_manager - INFO - 文章 258322417 的詳細內容數據插入成功
+2025-06-07 14:26:48,354 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258322417
+2025-06-07 14:26:51,359 - crawler.zenrowsapi - INFO - 進度: 28/100
+2025-06-07 14:26:51,359 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258321810
+2025-06-07 14:26:53,653 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142653.json
+2025-06-07 14:26:53,653 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258321810
+2025-06-07 14:26:53,655 - database.db_manager - INFO - 文章 258321810 的詳細內容數據插入成功
+2025-06-07 14:26:53,655 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258321810
+2025-06-07 14:26:56,661 - crawler.zenrowsapi - INFO - 進度: 29/100
+2025-06-07 14:26:56,662 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258321230
+2025-06-07 14:26:58,057 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142658.json
+2025-06-07 14:26:58,058 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258321230
+2025-06-07 14:26:58,060 - database.db_manager - INFO - 文章 258321230 的詳細內容數據插入成功
+2025-06-07 14:26:58,060 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258321230
+2025-06-07 14:27:01,065 - crawler.zenrowsapi - INFO - 進度: 30/100
+2025-06-07 14:27:01,066 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258318742
+2025-06-07 14:27:02,247 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142702.json
+2025-06-07 14:27:02,247 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258318742
+2025-06-07 14:27:02,249 - database.db_manager - INFO - 文章 258318742 的詳細內容數據插入成功
+2025-06-07 14:27:02,249 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258318742
+2025-06-07 14:27:05,255 - crawler.zenrowsapi - INFO - 進度: 31/100
+2025-06-07 14:27:05,256 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258315185
+2025-06-07 14:27:06,665 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142706.json
+2025-06-07 14:27:06,665 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258315185
+2025-06-07 14:27:06,666 - database.db_manager - INFO - 文章 258315185 的詳細內容數據插入成功
+2025-06-07 14:27:06,666 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258315185
+2025-06-07 14:27:09,672 - crawler.zenrowsapi - INFO - 進度: 32/100
+2025-06-07 14:27:09,674 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258311417
+2025-06-07 14:27:10,829 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142710.json
+2025-06-07 14:27:10,830 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258311417
+2025-06-07 14:27:10,831 - database.db_manager - INFO - 文章 258311417 的詳細內容數據插入成功
+2025-06-07 14:27:10,832 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258311417
+2025-06-07 14:27:13,837 - crawler.zenrowsapi - INFO - 進度: 33/100
+2025-06-07 14:27:13,838 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258307022
+2025-06-07 14:27:16,559 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142716.json
+2025-06-07 14:27:16,559 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258307022
+2025-06-07 14:27:16,561 - database.db_manager - INFO - 文章 258307022 的詳細內容數據插入成功
+2025-06-07 14:27:16,562 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258307022
+2025-06-07 14:27:19,567 - crawler.zenrowsapi - INFO - 進度: 34/100
+2025-06-07 14:27:19,569 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258302991
+2025-06-07 14:27:22,956 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142722.json
+2025-06-07 14:27:22,956 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258302991
+2025-06-07 14:27:22,958 - database.db_manager - INFO - 文章 258302991 的詳細內容數據插入成功
+2025-06-07 14:27:22,958 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258302991
+2025-06-07 14:27:25,964 - crawler.zenrowsapi - INFO - 進度: 35/100
+2025-06-07 14:27:25,966 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258299974
+2025-06-07 14:27:28,091 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142728.json
+2025-06-07 14:27:28,091 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258299974
+2025-06-07 14:27:28,094 - database.db_manager - INFO - 文章 258299974 的詳細內容數據插入成功
+2025-06-07 14:27:28,094 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258299974
+2025-06-07 14:27:31,099 - crawler.zenrowsapi - INFO - 進度: 36/100
+2025-06-07 14:27:31,100 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258298497
+2025-06-07 14:27:32,690 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142732.json
+2025-06-07 14:27:32,691 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258298497
+2025-06-07 14:27:32,695 - database.db_manager - INFO - 文章 258298497 的詳細內容數據插入成功
+2025-06-07 14:27:32,696 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258298497
+2025-06-07 14:27:35,701 - crawler.zenrowsapi - INFO - 進度: 37/100
+2025-06-07 14:27:35,702 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258295403
+2025-06-07 14:27:37,481 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142737.json
+2025-06-07 14:27:37,481 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258295403
+2025-06-07 14:27:37,483 - database.db_manager - INFO - 文章 258295403 的詳細內容數據插入成功
+2025-06-07 14:27:37,484 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258295403
+2025-06-07 14:27:40,490 - crawler.zenrowsapi - INFO - 進度: 38/100
+2025-06-07 14:27:40,493 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258294544
+2025-06-07 14:27:42,294 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142742.json
+2025-06-07 14:27:42,295 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258294544
+2025-06-07 14:27:42,297 - database.db_manager - INFO - 文章 258294544 的詳細內容數據插入成功
+2025-06-07 14:27:42,297 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258294544
+2025-06-07 14:27:45,302 - crawler.zenrowsapi - INFO - 進度: 39/100
+2025-06-07 14:27:45,303 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258292761
+2025-06-07 14:28:32,183 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142832.json
+2025-06-07 14:28:32,184 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258292761
+2025-06-07 14:28:32,186 - database.db_manager - INFO - 文章 258292761 的詳細內容數據插入成功
+2025-06-07 14:28:32,186 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258292761
+2025-06-07 14:28:35,192 - crawler.zenrowsapi - INFO - 進度: 40/100
+2025-06-07 14:28:35,194 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258287445
+2025-06-07 14:28:36,635 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142836.json
+2025-06-07 14:28:36,635 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258287445
+2025-06-07 14:28:36,637 - database.db_manager - INFO - 文章 258287445 的詳細內容數據插入成功
+2025-06-07 14:28:36,637 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258287445
+2025-06-07 14:28:39,644 - crawler.zenrowsapi - INFO - 進度: 41/100
+2025-06-07 14:28:39,645 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258279223
+2025-06-07 14:28:41,959 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142841.json
+2025-06-07 14:28:41,959 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258279223
+2025-06-07 14:28:41,961 - database.db_manager - INFO - 文章 258279223 的詳細內容數據插入成功
+2025-06-07 14:28:41,961 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258279223
+2025-06-07 14:28:44,967 - crawler.zenrowsapi - INFO - 進度: 42/100
+2025-06-07 14:28:44,968 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258278874
+2025-06-07 14:28:47,189 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142847.json
+2025-06-07 14:28:47,190 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258278874
+2025-06-07 14:28:47,192 - database.db_manager - INFO - 文章 258278874 的詳細內容數據插入成功
+2025-06-07 14:28:47,192 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258278874
+2025-06-07 14:28:50,198 - crawler.zenrowsapi - INFO - 進度: 43/100
+2025-06-07 14:28:50,199 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258275842
+2025-06-07 14:28:55,380 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142855.json
+2025-06-07 14:28:55,381 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258275842
+2025-06-07 14:28:55,383 - database.db_manager - INFO - 文章 258275842 的詳細內容數據插入成功
+2025-06-07 14:28:55,383 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258275842
+2025-06-07 14:28:58,389 - crawler.zenrowsapi - INFO - 進度: 44/100
+2025-06-07 14:28:58,390 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258271650
+2025-06-07 14:28:59,788 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142859.json
+2025-06-07 14:28:59,788 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258271650
+2025-06-07 14:28:59,790 - database.db_manager - INFO - 文章 258271650 的詳細內容數據插入成功
+2025-06-07 14:28:59,790 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258271650
+2025-06-07 14:29:02,793 - crawler.zenrowsapi - INFO - 進度: 45/100
+2025-06-07 14:29:02,795 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258269994
+2025-06-07 14:29:03,939 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142903.json
+2025-06-07 14:29:03,939 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258269994
+2025-06-07 14:29:03,942 - database.db_manager - INFO - 文章 258269994 的詳細內容數據插入成功
+2025-06-07 14:29:03,942 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258269994
+2025-06-07 14:29:06,948 - crawler.zenrowsapi - INFO - 進度: 46/100
+2025-06-07 14:29:06,951 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258267198
+2025-06-07 14:29:09,016 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142909.json
+2025-06-07 14:29:09,016 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258267198
+2025-06-07 14:29:09,018 - database.db_manager - INFO - 文章 258267198 的詳細內容數據插入成功
+2025-06-07 14:29:09,018 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258267198
+2025-06-07 14:29:12,024 - crawler.zenrowsapi - INFO - 進度: 47/100
+2025-06-07 14:29:12,025 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258262151
+2025-06-07 14:29:13,511 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142913.json
+2025-06-07 14:29:13,512 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258262151
+2025-06-07 14:29:13,514 - database.db_manager - INFO - 文章 258262151 的詳細內容數據插入成功
+2025-06-07 14:29:13,514 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258262151
+2025-06-07 14:29:16,519 - crawler.zenrowsapi - INFO - 進度: 48/100
+2025-06-07 14:29:16,520 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258255935
+2025-06-07 14:29:18,171 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142918.json
+2025-06-07 14:29:18,171 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258255935
+2025-06-07 14:29:18,173 - database.db_manager - INFO - 文章 258255935 的詳細內容數據插入成功
+2025-06-07 14:29:18,173 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258255935
+2025-06-07 14:29:21,179 - crawler.zenrowsapi - INFO - 進度: 49/100
+2025-06-07 14:29:21,180 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258252216
+2025-06-07 14:29:22,758 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142922.json
+2025-06-07 14:29:22,758 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258252216
+2025-06-07 14:29:22,760 - database.db_manager - INFO - 文章 258252216 的詳細內容數據插入成功
+2025-06-07 14:29:22,760 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258252216
+2025-06-07 14:29:25,766 - crawler.zenrowsapi - INFO - 進度: 50/100
+2025-06-07 14:29:25,768 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258244996
+2025-06-07 14:29:27,027 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142927.json
+2025-06-07 14:29:27,027 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258244996
+2025-06-07 14:29:27,029 - database.db_manager - INFO - 文章 258244996 的詳細內容數據插入成功
+2025-06-07 14:29:27,029 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258244996
+2025-06-07 14:29:30,035 - crawler.zenrowsapi - INFO - 進度: 51/100
+2025-06-07 14:29:30,036 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258242277
+2025-06-07 14:29:31,800 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142931.json
+2025-06-07 14:29:31,800 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258242277
+2025-06-07 14:29:31,802 - database.db_manager - INFO - 文章 258242277 的詳細內容數據插入成功
+2025-06-07 14:29:31,802 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258242277
+2025-06-07 14:29:34,808 - crawler.zenrowsapi - INFO - 進度: 52/100
+2025-06-07 14:29:34,811 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258234407
+2025-06-07 14:29:36,738 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142936.json
+2025-06-07 14:29:36,738 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258234407
+2025-06-07 14:29:36,740 - database.db_manager - INFO - 文章 258234407 的詳細內容數據插入成功
+2025-06-07 14:29:36,740 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258234407
+2025-06-07 14:29:39,746 - crawler.zenrowsapi - INFO - 進度: 53/100
+2025-06-07 14:29:39,747 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258232374
+2025-06-07 14:29:44,151 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142944.json
+2025-06-07 14:29:44,152 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258232374
+2025-06-07 14:29:44,153 - database.db_manager - INFO - 文章 258232374 的詳細內容數據插入成功
+2025-06-07 14:29:44,153 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258232374
+2025-06-07 14:29:47,158 - crawler.zenrowsapi - INFO - 進度: 54/100
+2025-06-07 14:29:47,159 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258230212
+2025-06-07 14:29:49,174 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142949.json
+2025-06-07 14:29:49,175 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258230212
+2025-06-07 14:29:49,176 - database.db_manager - INFO - 文章 258230212 的詳細內容數據插入成功
+2025-06-07 14:29:49,176 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258230212
+2025-06-07 14:29:52,182 - crawler.zenrowsapi - INFO - 進度: 55/100
+2025-06-07 14:29:52,183 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258220811
+2025-06-07 14:29:53,872 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142953.json
+2025-06-07 14:29:53,873 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258220811
+2025-06-07 14:29:53,874 - database.db_manager - INFO - 文章 258220811 的詳細內容數據插入成功
+2025-06-07 14:29:53,875 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258220811
+2025-06-07 14:29:56,880 - crawler.zenrowsapi - INFO - 進度: 56/100
+2025-06-07 14:29:56,881 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258214758
+2025-06-07 14:29:59,566 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_142959.json
+2025-06-07 14:29:59,566 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258214758
+2025-06-07 14:29:59,567 - database.db_manager - INFO - 文章 258214758 的詳細內容數據插入成功
+2025-06-07 14:29:59,567 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258214758
+2025-06-07 14:30:02,574 - crawler.zenrowsapi - INFO - 進度: 57/100
+2025-06-07 14:30:02,576 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258213894
+2025-06-07 14:30:05,342 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143005.json
+2025-06-07 14:30:05,342 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258213894
+2025-06-07 14:30:05,344 - database.db_manager - INFO - 文章 258213894 的詳細內容數據插入成功
+2025-06-07 14:30:05,344 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258213894
+2025-06-07 14:30:08,350 - crawler.zenrowsapi - INFO - 進度: 58/100
+2025-06-07 14:30:08,351 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258209225
+2025-06-07 14:30:11,387 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143011.json
+2025-06-07 14:30:11,388 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258209225
+2025-06-07 14:30:11,388 - database.db_manager - INFO - 文章 258209225 的詳細內容數據插入成功
+2025-06-07 14:30:11,389 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258209225
+2025-06-07 14:30:14,395 - crawler.zenrowsapi - INFO - 進度: 59/100
+2025-06-07 14:30:14,397 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258207884
+2025-06-07 14:30:16,015 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143016.json
+2025-06-07 14:30:16,016 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258207884
+2025-06-07 14:30:16,016 - database.db_manager - INFO - 文章 258207884 的詳細內容數據插入成功
+2025-06-07 14:30:16,017 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258207884
+2025-06-07 14:30:19,022 - crawler.zenrowsapi - INFO - 進度: 60/100
+2025-06-07 14:30:19,023 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258206482
+2025-06-07 14:30:30,562 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143030.json
+2025-06-07 14:30:30,563 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258206482
+2025-06-07 14:30:30,565 - database.db_manager - INFO - 文章 258206482 的詳細內容數據插入成功
+2025-06-07 14:30:30,565 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258206482
+2025-06-07 14:30:33,571 - crawler.zenrowsapi - INFO - 進度: 61/100
+2025-06-07 14:30:33,573 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258204744
+2025-06-07 14:30:35,161 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143035.json
+2025-06-07 14:30:35,161 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258204744
+2025-06-07 14:30:35,162 - database.db_manager - INFO - 文章 258204744 的詳細內容數據插入成功
+2025-06-07 14:30:35,162 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258204744
+2025-06-07 14:30:38,167 - crawler.zenrowsapi - INFO - 進度: 62/100
+2025-06-07 14:30:38,168 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258204418
+2025-06-07 14:30:39,715 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143039.json
+2025-06-07 14:30:39,715 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258204418
+2025-06-07 14:30:39,716 - database.db_manager - INFO - 文章 258204418 的詳細內容數據插入成功
+2025-06-07 14:30:39,716 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258204418
+2025-06-07 14:30:42,722 - crawler.zenrowsapi - INFO - 進度: 63/100
+2025-06-07 14:30:42,722 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258203844
+2025-06-07 14:30:44,548 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143044.json
+2025-06-07 14:30:44,548 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258203844
+2025-06-07 14:30:44,550 - database.db_manager - INFO - 文章 258203844 的詳細內容數據插入成功
+2025-06-07 14:30:44,550 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258203844
+2025-06-07 14:30:47,555 - crawler.zenrowsapi - INFO - 進度: 64/100
+2025-06-07 14:30:47,556 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258193874
+2025-06-07 14:30:49,996 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143049.json
+2025-06-07 14:30:49,996 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258193874
+2025-06-07 14:30:49,998 - database.db_manager - INFO - 文章 258193874 的詳細內容數據插入成功
+2025-06-07 14:30:49,999 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258193874
+2025-06-07 14:30:53,004 - crawler.zenrowsapi - INFO - 進度: 65/100
+2025-06-07 14:30:53,005 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258193346
+2025-06-07 14:31:01,607 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143101.json
+2025-06-07 14:31:01,608 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258193346
+2025-06-07 14:31:01,610 - database.db_manager - INFO - 文章 258193346 的詳細內容數據插入成功
+2025-06-07 14:31:01,611 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258193346
+2025-06-07 14:31:04,616 - crawler.zenrowsapi - INFO - 進度: 66/100
+2025-06-07 14:31:04,617 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258186727
+2025-06-07 14:31:23,481 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143123.json
+2025-06-07 14:31:23,481 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258186727
+2025-06-07 14:31:23,483 - database.db_manager - INFO - 文章 258186727 的詳細內容數據插入成功
+2025-06-07 14:31:23,483 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258186727
+2025-06-07 14:31:26,489 - crawler.zenrowsapi - INFO - 進度: 67/100
+2025-06-07 14:31:26,490 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258183709
+2025-06-07 14:31:37,834 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143137.json
+2025-06-07 14:31:37,835 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258183709
+2025-06-07 14:31:37,836 - database.db_manager - INFO - 文章 258183709 的詳細內容數據插入成功
+2025-06-07 14:31:37,836 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258183709
+2025-06-07 14:31:40,842 - crawler.zenrowsapi - INFO - 進度: 68/100
+2025-06-07 14:31:40,842 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258175617
+2025-06-07 14:31:52,870 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143152.json
+2025-06-07 14:31:52,871 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258175617
+2025-06-07 14:31:52,873 - database.db_manager - INFO - 文章 258175617 的詳細內容數據插入成功
+2025-06-07 14:31:52,873 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258175617
+2025-06-07 14:31:55,878 - crawler.zenrowsapi - INFO - 進度: 69/100
+2025-06-07 14:31:55,879 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258174518
+2025-06-07 14:32:37,695 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143237.json
+2025-06-07 14:32:37,696 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258174518
+2025-06-07 14:32:37,698 - database.db_manager - INFO - 文章 258174518 的詳細內容數據插入成功
+2025-06-07 14:32:37,699 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258174518
+2025-06-07 14:32:40,704 - crawler.zenrowsapi - INFO - 進度: 70/100
+2025-06-07 14:32:40,705 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258174114
+2025-06-07 14:32:52,485 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143252.json
+2025-06-07 14:32:52,486 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258174114
+2025-06-07 14:32:52,486 - database.db_manager - INFO - 文章 258174114 的詳細內容數據插入成功
+2025-06-07 14:32:52,486 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258174114
+2025-06-07 14:32:55,488 - crawler.zenrowsapi - INFO - 進度: 71/100
+2025-06-07 14:32:55,489 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258173300
+2025-06-07 14:32:57,688 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143257.json
+2025-06-07 14:32:57,688 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258173300
+2025-06-07 14:32:57,689 - database.db_manager - INFO - 文章 258173300 的詳細內容數據插入成功
+2025-06-07 14:32:57,689 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258173300
+2025-06-07 14:33:00,695 - crawler.zenrowsapi - INFO - 進度: 72/100
+2025-06-07 14:33:00,697 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258167698
+2025-06-07 14:33:02,438 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143302.json
+2025-06-07 14:33:02,439 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258167698
+2025-06-07 14:33:02,477 - database.db_manager - INFO - 文章 258167698 的詳細內容數據插入成功
+2025-06-07 14:33:02,479 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258167698
+2025-06-07 14:33:05,487 - crawler.zenrowsapi - INFO - 進度: 73/100
+2025-06-07 14:33:05,492 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258160922
+2025-06-07 14:33:07,040 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143307.json
+2025-06-07 14:33:07,041 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258160922
+2025-06-07 14:33:07,044 - database.db_manager - INFO - 文章 258160922 的詳細內容數據插入成功
+2025-06-07 14:33:07,045 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258160922
+2025-06-07 14:33:10,051 - crawler.zenrowsapi - INFO - 進度: 74/100
+2025-06-07 14:33:10,053 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258156952
+2025-06-07 14:33:11,433 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143311.json
+2025-06-07 14:33:11,433 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258156952
+2025-06-07 14:33:11,434 - database.db_manager - INFO - 文章 258156952 的詳細內容數據插入成功
+2025-06-07 14:33:11,434 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258156952
+2025-06-07 14:33:14,440 - crawler.zenrowsapi - INFO - 進度: 75/100
+2025-06-07 14:33:14,441 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258156147
+2025-06-07 14:33:15,867 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143315.json
+2025-06-07 14:33:15,867 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258156147
+2025-06-07 14:33:15,868 - database.db_manager - INFO - 文章 258156147 的詳細內容數據插入成功
+2025-06-07 14:33:15,868 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258156147
+2025-06-07 14:33:18,873 - crawler.zenrowsapi - INFO - 進度: 76/100
+2025-06-07 14:33:18,874 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258154920
+2025-06-07 14:33:20,449 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143320.json
+2025-06-07 14:33:20,449 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258154920
+2025-06-07 14:33:20,450 - database.db_manager - INFO - 文章 258154920 的詳細內容數據插入成功
+2025-06-07 14:33:20,450 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258154920
+2025-06-07 14:33:23,455 - crawler.zenrowsapi - INFO - 進度: 77/100
+2025-06-07 14:33:23,456 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258153701
+2025-06-07 14:33:24,920 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143324.json
+2025-06-07 14:33:24,920 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258153701
+2025-06-07 14:33:24,922 - database.db_manager - INFO - 文章 258153701 的詳細內容數據插入成功
+2025-06-07 14:33:24,922 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258153701
+2025-06-07 14:33:27,931 - crawler.zenrowsapi - INFO - 進度: 78/100
+2025-06-07 14:33:27,989 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258152787
+2025-06-07 14:33:30,434 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143330.json
+2025-06-07 14:33:30,436 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258152787
+2025-06-07 14:33:30,514 - database.db_manager - INFO - 文章 258152787 的詳細內容數據插入成功
+2025-06-07 14:33:30,514 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258152787
+2025-06-07 14:33:33,521 - crawler.zenrowsapi - INFO - 進度: 79/100
+2025-06-07 14:33:33,523 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258149072
+2025-06-07 14:33:35,006 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143335.json
+2025-06-07 14:33:35,006 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258149072
+2025-06-07 14:33:35,008 - database.db_manager - INFO - 文章 258149072 的詳細內容數據插入成功
+2025-06-07 14:33:35,008 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258149072
+2025-06-07 14:33:38,014 - crawler.zenrowsapi - INFO - 進度: 80/100
+2025-06-07 14:33:38,016 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258148111
+2025-06-07 14:33:40,562 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143340.json
+2025-06-07 14:33:40,562 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258148111
+2025-06-07 14:33:40,563 - database.db_manager - INFO - 文章 258148111 的詳細內容數據插入成功
+2025-06-07 14:33:40,563 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258148111
+2025-06-07 14:33:43,568 - crawler.zenrowsapi - INFO - 進度: 81/100
+2025-06-07 14:33:43,568 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258146691
+2025-06-07 14:33:44,937 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143344.json
+2025-06-07 14:33:44,938 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258146691
+2025-06-07 14:33:44,940 - database.db_manager - INFO - 文章 258146691 的詳細內容數據插入成功
+2025-06-07 14:33:44,940 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258146691
+2025-06-07 14:33:47,945 - crawler.zenrowsapi - INFO - 進度: 82/100
+2025-06-07 14:33:47,946 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258144692
+2025-06-07 14:33:50,994 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143350.json
+2025-06-07 14:33:50,995 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258144692
+2025-06-07 14:33:50,996 - database.db_manager - INFO - 文章 258144692 的詳細內容數據插入成功
+2025-06-07 14:33:50,996 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258144692
+2025-06-07 14:33:54,005 - crawler.zenrowsapi - INFO - 進度: 83/100
+2025-06-07 14:33:54,006 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258142792
+2025-06-07 14:33:56,579 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143356.json
+2025-06-07 14:33:56,579 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258142792
+2025-06-07 14:33:56,638 - database.db_manager - INFO - 文章 258142792 的詳細內容數據插入成功
+2025-06-07 14:33:56,638 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258142792
+2025-06-07 14:33:59,647 - crawler.zenrowsapi - INFO - 進度: 84/100
+2025-06-07 14:33:59,649 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258140601
+2025-06-07 14:34:02,342 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143402.json
+2025-06-07 14:34:02,342 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258140601
+2025-06-07 14:34:02,344 - database.db_manager - INFO - 文章 258140601 的詳細內容數據插入成功
+2025-06-07 14:34:02,345 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258140601
+2025-06-07 14:34:05,350 - crawler.zenrowsapi - INFO - 進度: 85/100
+2025-06-07 14:34:05,352 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258139882
+2025-06-07 14:34:06,544 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143406.json
+2025-06-07 14:34:06,544 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258139882
+2025-06-07 14:34:06,546 - database.db_manager - INFO - 文章 258139882 的詳細內容數據插入成功
+2025-06-07 14:34:06,546 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258139882
+2025-06-07 14:34:09,552 - crawler.zenrowsapi - INFO - 進度: 86/100
+2025-06-07 14:34:09,553 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258139710
+2025-06-07 14:34:10,915 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143410.json
+2025-06-07 14:34:10,915 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258139710
+2025-06-07 14:34:10,916 - database.db_manager - INFO - 文章 258139710 的詳細內容數據插入成功
+2025-06-07 14:34:10,917 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258139710
+2025-06-07 14:34:13,918 - crawler.zenrowsapi - INFO - 進度: 87/100
+2025-06-07 14:34:13,920 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258139367
+2025-06-07 14:34:16,158 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143416.json
+2025-06-07 14:34:16,158 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258139367
+2025-06-07 14:34:16,160 - database.db_manager - INFO - 文章 258139367 的詳細內容數據插入成功
+2025-06-07 14:34:16,160 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258139367
+2025-06-07 14:34:19,165 - crawler.zenrowsapi - INFO - 進度: 88/100
+2025-06-07 14:34:19,166 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258132994
+2025-06-07 14:34:21,770 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143421.json
+2025-06-07 14:34:21,770 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258132994
+2025-06-07 14:34:21,772 - database.db_manager - INFO - 文章 258132994 的詳細內容數據插入成功
+2025-06-07 14:34:21,772 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258132994
+2025-06-07 14:34:24,778 - crawler.zenrowsapi - INFO - 進度: 89/100
+2025-06-07 14:34:24,779 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258125923
+2025-06-07 14:34:27,025 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143427.json
+2025-06-07 14:34:27,025 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258125923
+2025-06-07 14:34:27,026 - database.db_manager - INFO - 文章 258125923 的詳細內容數據插入成功
+2025-06-07 14:34:27,026 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258125923
+2025-06-07 14:34:30,034 - crawler.zenrowsapi - INFO - 進度: 90/100
+2025-06-07 14:34:30,036 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258125335
+2025-06-07 14:34:31,897 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143431.json
+2025-06-07 14:34:31,898 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258125335
+2025-06-07 14:34:31,900 - database.db_manager - INFO - 文章 258125335 的詳細內容數據插入成功
+2025-06-07 14:34:31,900 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258125335
+2025-06-07 14:34:34,905 - crawler.zenrowsapi - INFO - 進度: 91/100
+2025-06-07 14:34:34,907 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258122034
+2025-06-07 14:34:47,128 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143447.json
+2025-06-07 14:34:47,129 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258122034
+2025-06-07 14:34:47,132 - database.db_manager - INFO - 文章 258122034 的詳細內容數據插入成功
+2025-06-07 14:34:47,132 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258122034
+2025-06-07 14:34:50,137 - crawler.zenrowsapi - INFO - 進度: 92/100
+2025-06-07 14:34:50,138 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258121475
+2025-06-07 14:34:52,004 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143451.json
+2025-06-07 14:34:52,005 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258121475
+2025-06-07 14:34:52,007 - database.db_manager - INFO - 文章 258121475 的詳細內容數據插入成功
+2025-06-07 14:34:52,007 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258121475
+2025-06-07 14:34:55,013 - crawler.zenrowsapi - INFO - 進度: 93/100
+2025-06-07 14:34:55,013 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258120550
+2025-06-07 14:34:57,727 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143457.json
+2025-06-07 14:34:57,727 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258120550
+2025-06-07 14:34:57,729 - database.db_manager - INFO - 文章 258120550 的詳細內容數據插入成功
+2025-06-07 14:34:57,729 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258120550
+2025-06-07 14:35:00,735 - crawler.zenrowsapi - INFO - 進度: 94/100
+2025-06-07 14:35:00,735 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258116412
+2025-06-07 14:35:02,296 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143502.json
+2025-06-07 14:35:02,296 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258116412
+2025-06-07 14:35:02,298 - database.db_manager - INFO - 文章 258116412 的詳細內容數據插入成功
+2025-06-07 14:35:02,298 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258116412
+2025-06-07 14:35:05,305 - crawler.zenrowsapi - INFO - 進度: 95/100
+2025-06-07 14:35:05,307 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258116409
+2025-06-07 14:35:06,753 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143506.json
+2025-06-07 14:35:06,753 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258116409
+2025-06-07 14:35:06,755 - database.db_manager - INFO - 文章 258116409 的詳細內容數據插入成功
+2025-06-07 14:35:06,755 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258116409
+2025-06-07 14:35:09,756 - crawler.zenrowsapi - INFO - 進度: 96/100
+2025-06-07 14:35:09,756 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258116378
+2025-06-07 14:35:14,879 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143514.json
+2025-06-07 14:35:14,880 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258116378
+2025-06-07 14:35:14,881 - database.db_manager - INFO - 文章 258116378 的詳細內容數據插入成功
+2025-06-07 14:35:14,881 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258116378
+2025-06-07 14:35:17,889 - crawler.zenrowsapi - INFO - 進度: 97/100
+2025-06-07 14:35:17,891 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258115159
+2025-06-07 14:35:19,681 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143519.json
+2025-06-07 14:35:19,681 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258115159
+2025-06-07 14:35:19,683 - database.db_manager - INFO - 文章 258115159 的詳細內容數據插入成功
+2025-06-07 14:35:19,683 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258115159
+2025-06-07 14:35:22,689 - crawler.zenrowsapi - INFO - 進度: 98/100
+2025-06-07 14:35:22,691 - crawler.zenrowsapi - INFO - 開始獲取文章內容: https://www.dcard.tw/service/api/v2/posts/258114032
+2025-06-07 14:35:24,022 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250607_143524.json
+2025-06-07 14:35:24,022 - crawler.zenrowsapi - INFO - 成功獲取文章內容: 258114032
+2025-06-07 14:35:24,025 - database.db_manager - INFO - 文章 258114032 的詳細內容數據插入成功
+2025-06-07 14:35:24,025 - crawler.zenrowsapi - INFO - 已保存文章詳細內容: ID 258114032
+2025-06-07 14:35:27,032 - crawler.zenrowsapi - INFO - 進度: 99/100
+2025-06-07 14:35:29,249 - crawler.zenrowsapi - INFO - 文章詳細內容爬取完成，共處理 99 篇
+2025-06-07 14:35:29,253 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-07 14:35:29,253 - crawler.zenrowsapi - INFO - 已關閉數據庫連接
+2025-06-07 14:35:29,254 - __main__ - INFO - 爬蟲任務完成
+2025-06-07 14:35:29,254 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
