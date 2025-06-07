@@ -51,7 +51,6 @@ class DatabaseManager:
                     is_anonymous_school BOOLEAN,
                     is_anonymous_department BOOLEAN,
                     identity_type TEXT,
-                    content TEXT,
                     fetch_time DATETIME                    
                 )
             ''')
@@ -60,6 +59,7 @@ class DatabaseManager:
             cursor.execute('''
                 CREATE TABLE IF NOT EXISTS post_content (
                     post_id INTEGER PRIMARY KEY,
+                    content TEXT,
                     forum_id TEXT,
                     forum_name TEXT,
                     forum_alias TEXT,
@@ -76,8 +76,20 @@ class DatabaseManager:
                     with_images BOOLEAN DEFAULT FALSE,
                     with_videos BOOLEAN DEFAULT FALSE,
                     edited BOOLEAN DEFAULT FALSE,
+                    edited_at DATETIME,
                     layout TEXT,
                     annotation TEXT,
+                    with_nickname BOOLEAN DEFAULT FALSE,
+                    report_reason TEXT,
+                    hidden_by_author BOOLEAN DEFAULT FALSE,
+                    forum_logo TEXT,
+                    quote_count INTEGER DEFAULT 0,
+                    links TEXT,
+                    identity_id_v3 TEXT,
+                    is_moderator BOOLEAN DEFAULT FALSE,
+                    suspicious_account BOOLEAN DEFAULT FALSE,
+                    enable_private_message BOOLEAN DEFAULT TRUE,
+                    enable_nested_comment BOOLEAN DEFAULT TRUE,
                     raw_data TEXT,
                     FOREIGN KEY (post_id) REFERENCES posts(id)
                 )
@@ -101,8 +113,8 @@ class DatabaseManager:
                     id, title, excerpt, created_at, updated_at,
                     comment_count, like_count, collection_count,
                     gender, school, is_anonymous_school, is_anonymous_department,
-                    identity_type, content, fetch_time
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    identity_type, fetch_time
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', (
                 post_data['id'],
                 post_data['title'],
@@ -117,7 +129,6 @@ class DatabaseManager:
                 post_data['anonymousSchool'],
                 post_data['anonymousDepartment'],
                 post_data['identityType'],
-                post_data.get('content', ''),
                 datetime.now().isoformat()
             ))
             
@@ -129,56 +140,76 @@ class DatabaseManager:
             self.conn.rollback()
             return False
     
-    def insert_post_content(self, post_content_data):
+    def insert_post_content(self, post_id, content_data):
         """插入文章詳細內容數據"""
         try:
-            import json
             cursor = self.conn.cursor()
             
-            # 將列表或字典類型的字段轉換為 JSON 字符串
-            topics = json.dumps(post_content_data.get('topics', []), ensure_ascii=False)
-            categories = json.dumps(post_content_data.get('categories', []), ensure_ascii=False)
-            media_meta = json.dumps(post_content_data.get('mediaMeta', []), ensure_ascii=False)
-            reactions = json.dumps(post_content_data.get('reactions', []), ensure_ascii=False)
-            annotation = json.dumps(post_content_data.get('meta', {}).get('annotation', {}), ensure_ascii=False)
-            
-            # 插入文章詳細內容
+            # 準備 forum_logo 數據
+            forum_logo = None
+            if content_data.get('forumLogo'):
+                forum_logo = str(content_data['forumLogo'])
+                
+            # 準備 links 數據
+            links = None
+            if content_data.get('links'):
+                links = ','.join(content_data['links'])
+                
             cursor.execute('''
                 INSERT OR REPLACE INTO post_content (
-                    post_id, forum_id, forum_name, forum_alias, share_count,
-                    pinned, nsfw, department, persona_nickname, topics,
-                    categories, media_meta, reactions, total_comment_count, 
-                    with_images, with_videos, edited, layout, annotation, raw_data
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    post_id, content, forum_id, forum_name, forum_alias,
+                    share_count, pinned, nsfw, department,
+                    persona_nickname, topics, media_meta,
+                    reactions, total_comment_count, with_images,
+                    with_videos, edited, edited_at, layout,
+                    with_nickname, report_reason, hidden_by_author,
+                    forum_logo, quote_count, links, identity_id_v3,
+                    is_moderator, suspicious_account,
+                    enable_private_message, enable_nested_comment,
+                    raw_data
+                ) VALUES (
+                    ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,
+                    ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+                )
             ''', (
-                post_content_data['id'],
-                post_content_data.get('forumId', ''),
-                post_content_data.get('forumName', ''),
-                post_content_data.get('forumAlias', ''),
-                post_content_data.get('shareCount', 0),
-                post_content_data.get('pinned', False),
-                post_content_data.get('nsfw', False),
-                post_content_data.get('department', ''),
-                post_content_data.get('personaNickname', ''),
-                topics,
-                categories,
-                media_meta,
-                reactions,
-                post_content_data.get('totalCommentCount', 0),
-                post_content_data.get('withImages', False),
-                post_content_data.get('withVideos', False),
-                post_content_data.get('edited', False),
-                post_content_data.get('layout', ''),
-                annotation,
-                json.dumps(post_content_data, ensure_ascii=False)  # 儲存完整原始數據
+                post_id,
+                content_data.get('content', ''),
+                content_data.get('forumId'),
+                content_data.get('forumName'),
+                content_data.get('forumAlias'),
+                content_data.get('shareCount', 0),
+                content_data.get('pinned', False),
+                content_data.get('nsfw', False),
+                content_data.get('department'),
+                content_data.get('personaNickname'),
+                ','.join(content_data.get('topics', [])),
+                str(content_data.get('mediaMeta', [])),
+                str(content_data.get('reactions', [])),
+                content_data.get('totalCommentCount', 0),
+                content_data.get('withImages', False),
+                content_data.get('withVideos', False),
+                content_data.get('edited', False),
+                content_data.get('editedAt'),
+                content_data.get('layout'),
+                content_data.get('withNickname', False),
+                content_data.get('reportReason', ''),
+                content_data.get('hiddenByAuthor', False),
+                forum_logo,
+                content_data.get('quoteCount', 0),
+                links,
+                content_data.get('identityIdV3'),
+                content_data.get('isModerator', False),
+                content_data.get('isSuspiciousAccount', False),
+                content_data.get('enablePrivateMessage', True),
+                content_data.get('enableNestedComment', True),
+                str(content_data)
             ))
             
             self.conn.commit()
-            logger.info(f"成功插入文章詳細內容: {post_content_data['id']}")
+            logger.info(f"文章 {post_id} 的詳細內容數據插入成功")
             return True
         except sqlite3.Error as e:
-            logger.error(f"插入文章詳細內容失敗: {e}")
-            self.conn.rollback()
+            logger.error(f"文章 {post_id} 的詳細內容數據插入失敗: {e}")
             return False
             
     def close(self):
