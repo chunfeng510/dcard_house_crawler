@@ -255,7 +255,7 @@ class ZenRowsApiCrawler:
             cursor.execute('''
                 SELECT p.id FROM posts p
                 LEFT JOIN post_content pc ON p.id = pc.post_id
-                WHERE pc.post_id IS NULL
+                WHERE pc.post_id IS NULL and (title like '%貸%' or excerpt like '%貸%')
                 ORDER BY p.id DESC
             ''')
             
