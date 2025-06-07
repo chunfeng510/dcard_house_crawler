@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 class ZenRowsApiCrawler:
     """使用 ZenRows API 的 Dcard 爬蟲類"""
     
-    def __init__(self, api_key="3d16f55e44b51fc52353566769dce39bfe0c5c58", forum_name=None, continue_last=True):
+    def __init__(self, api_key="e99d58201d831ef32c19c22efed7e9ab8b35db84", forum_name=None, continue_last=True):
         """初始化爬蟲"""
         self.client = ZenRowsClient(api_key)
         self.base_url = BASE_URL # 設定API基本URL
@@ -289,4 +289,10 @@ class ZenRowsApiCrawler:
     
     def crawl(self, total_posts=TOTAL_POSTS):
         """保留原方法名稱以保持向後兼容"""
-        return self.crawl_post(total_posts)
+        return self.crawl_post_content(100)
+        
+    def close(self):
+        """關閉數據庫連接"""
+        if hasattr(self, 'db') and self.db:
+            self.db.close()
+            logger.info("已關閉數據庫連接")

@@ -103,7 +103,7 @@ def get_crawler(args):
         logger.info(f"使用 ScraperAPI 爬蟲模式 (render={render})")
         return ScraperApiCrawler(api_key=api_key, render=render)
     elif args.crawler == 'zenrows':
-        api_key = args.scraper_api_key or '3d16f55e44b51fc52353566769dce39bfe0c5c58'  # 預設或自定義的 API 金鑰
+        api_key = args.scraper_api_key or 'e99d58201d831ef32c19c22efed7e9ab8b35db84'  # 預設或自定義的 API 金鑰
         logger.info("使用 ZenRowsAPI 爬蟲模式")
         return ZenRowsApiCrawler(api_key=api_key)
     else:
