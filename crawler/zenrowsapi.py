@@ -1,4 +1,3 @@
-# pip install zenrows
 from zenrows import ZenRowsClient
 import json
 import re
