@@ -1,0 +1,98 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258440219",
+  "fetch_time": "2025-06-07T14:03:45.593063",
+  "posts": {
+    "id": 258440219,
+    "title": "每年都在買房子，好累",
+    "excerpt": "去年現金買了一間透天店面，現在又在看透天店面了，當買房像在買車一樣，卻忙到沒時間出國一趟，累，僅有的休假就是抽半天帶家人出去吃一頓了事，買店面都現金不貸款，只用最值錢那間增貸出來現金買，有賺錢就趕快清",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-02T13:58:06.988Z",
+    "updatedAt": "2025-04-03T06:16:42.264Z",
+    "commentCount": 23,
+    "likeCount": 15,
+    "collectionCount": 5,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房子",
+      "好累"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "唯有相思不可醫👹",
+    "department": "harleydavidson",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "唯有相思不可醫👹",
+    "personaUid": "harleydavidson",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "去年現金買了一間透天店面\n\n現在又在看透天店面了\n\n當買房像在買車一樣\n\n卻忙到沒時間出國一趟\n\n累\n僅有的休假就是抽半天帶家人出去吃一頓了事\n\n買店面都現金不貸款\n只用最值錢那間增貸出來現金買，有賺錢就趕快清償貸款\n把貸款戶數控制在一戶以下",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 12
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 45,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-03T06:16:42.269Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": true,
+    "officialCreatorBadge": false
+  }
+}

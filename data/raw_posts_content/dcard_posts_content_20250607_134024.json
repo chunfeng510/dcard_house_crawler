@@ -1,0 +1,97 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258985418",
+  "fetch_time": "2025-06-07T13:40:24.852265",
+  "posts": {
+    "id": 258985418,
+    "title": "#問題 買不到一年就萌生換屋念頭",
+    "excerpt": "去年因為新青安買了房，結果腦袋打到選了一個根本不是原本生活圈的地方，經歷這近一年的來回奔波，心裡覺得好累（加上自己也好懶散<-主要原因），萌生了想換屋的念頭，但是第二間最高也只能貸5成（預售屋又不太敢",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-03T15:13:54.400Z",
+    "updatedAt": "2025-06-07T03:18:24.471Z",
+    "commentCount": 25,
+    "likeCount": 51,
+    "collectionCount": 59,
+    "shareCount": 38,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "咪咪貓貓",
+    "department": "mimimaomao9527",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "咪咪貓貓",
+    "personaUid": "mimimaomao9527",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "去年因為新青安買了房，結果腦袋打到選了一個根本不是原本生活圈的地方\n經歷這近一年的來回奔波，心裡覺得好累（加上自己也好懶散<-主要原因）\n萌生了想換屋的念頭\n\n但是第二間最高也只能貸5成（預售屋又不太敢買…)\n不過若是買賣在ㄧ年內重購換屋\n除了可以退稅之外，似乎也可以跟銀行談談看簽切結書，有機會提高貸款成數\n\n近期有了解我那一區應該不算太難賣，這幾個月房市冷冷的但同棟還是有成交，成交價若扣掉我裝潢的錢，我大概是不賺不賠（正50-100）\n\n換屋應該是我勢必會做的（本來心裡當初買是自住想先求有）\n\n目前猶豫的點：\n1.現在看到喜歡的就換屋\n既然沒那麼喜歡，就乾脆儘早換換\n可是原本的都裝潢好了，換屋還要再來一次勞心傷財，而且今年貸款似乎史上最嚴格，感覺銀行不會理我簽什麼切結書\n\n2.先住至少兩年觀望看看再煩惱\n難保之後不會再推出新青安2.0、3.0之類的\n房市也許會回溫，可能變比較好貸，或是價格可以賣更好\n\n3.等五年之後直接先賣再買\n較單純，且賣掉後手上資金較充裕，再來考慮買，先賣再買也不會有五成的限制了\n但是五年後房市會怎樣也不好說，喜歡的五年後大概也是更貴\n\n房屋小白，不曉得有沒有過來人或是前輩可以提點一下",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 49
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 33,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

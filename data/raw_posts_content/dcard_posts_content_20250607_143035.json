@@ -1,0 +1,99 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258204744",
+  "fetch_time": "2025-06-07T14:30:35.156091",
+  "posts": {
+    "id": 258204744,
+    "title": "#問題 已經賣一百多戶了但找不到實價登錄",
+    "excerpt": "（再更新），預售和中古的實登時間不同，預售是簽約的那天，但雙方可以說好不壓簽約日、不送件登錄，中古是要等到貸款下來才會揭露，簽約到貸款下來的時間，依每個人的狀況不同，最長半年都有可能，By 認識的朋友",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-08T06:30:13.857Z",
+    "updatedAt": "2025-05-14T12:22:29.135Z",
+    "commentCount": 31,
+    "likeCount": 24,
+    "collectionCount": 30,
+    "shareCount": 18,
+    "tags": [],
+    "topics": [
+      "買房",
+      "實價登錄",
+      "法規"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立成功大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "（再更新）\n預售和中古的實登時間不同，預售是簽約的那天，但雙方可以說好不壓簽約日、不送件登錄\n中古是要等到貸款下來才會揭露，簽約到貸款下來的時間，依每個人的狀況不同，最長半年都有可能\n\nBy 認識的朋友\n\n(更新）\n謝謝各位的回覆和親身經驗分享，我就不一一回覆了\n最近加入了住戶討論群，有些戶確實已經交屋了，覺得可能跟有些留言的狀況符合，三十天後還有作業時間，通常一到三個月左右\n更詳細的可以參考 B26 \n謝謝大家\n\n———\n\n如題，最近去看一間預售的新成屋建商說從去年底到現在已經賣了一百多戶了，但是我去查實價登錄都找不到任何一戶，在想是我搞錯實價登錄的定義了嗎？是要簽約完後就上實價登錄？還是交屋後才上實價登錄？\n\n法規：\n110年7月1日前開始銷售之預售屋的登錄是在全部代銷完後一次登錄，在這之前未做登錄就會查不到案件；110年7月1日新制實施後是簽訂銷售契約後30日內要申報，申報後約４０天後之揭露期可查詢到。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 21
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 45,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-16T07:56:29.443Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

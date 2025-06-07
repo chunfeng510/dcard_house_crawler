@@ -1,0 +1,109 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258139710",
+  "fetch_time": "2025-06-07T14:34:10.912325",
+  "posts": {
+    "id": 258139710,
+    "title": "#問題 理財型房貸疑問",
+    "excerpt": "預售屋預計2027/4交屋，總價2600，家人出2000萬，預計會貸款1000萬（用首購或新青安看當時市場狀況），本人年薪170萬，所以房貸的安全邊際基本上應該算很高。這邊想請問的問題是，2027/4",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-01T14:03:45.242Z",
+    "updatedAt": "2025-03-01T14:09:41.769Z",
+    "commentCount": 4,
+    "likeCount": 3,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "理財",
+      "房貸",
+      "疑問",
+      "投資"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中央大學",
+    "department": "財務金融學系",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL_FULL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "預售屋預計2027/4交屋\n總價2600\n家人出2000萬\n預計會貸款1000萬（用首購或新青安看當時市場狀況）\n本人年薪170萬，所以房貸的安全邊際基本上應該算很高。\n\n這邊想請問的問題是，2027/4交屋房貸撥款後，「多久後才可以去跟銀行申請理財型房貸」？\n然後去跟銀行申請理財型房貸的可動用額度是會以我已經付的那個2000萬下去鑑價？還是會把2000萬減掉我的房貸1000萬在下去鑒價？有爬過文但都沒爬到我這個狀況\nhttps://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 4,
+    "mediaMeta": [
+      {
+        "id": "3e1ae179-1abd-4483-b9e5-717502685657",
+        "url": "https://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-03-01T14:09:41.769Z",
+        "updatedAt": "2025-03-01T14:09:41.769Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K]Lg^Yt700WBRjWBIUoft7"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-03-01T14:09:41.780Z",
+    "identityIdV3": "30eb7f51-0dd0-40ff-80a2-2edceb83defb",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

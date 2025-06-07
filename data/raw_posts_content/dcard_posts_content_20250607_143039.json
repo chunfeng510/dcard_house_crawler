@@ -1,0 +1,106 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258204418",
+  "fetch_time": "2025-06-07T14:30:39.711842",
+  "posts": {
+    "id": 258204418,
+    "title": "#請益 新北汐止貸款利率/成數",
+    "excerpt": "請問如果在新北汐止的首購可以有比 2.3% 7成更好的方案嗎？謝謝🙏，*頭期款能負擔6成左右，但希望能有更好的條件！先謝謝各方大佬",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-08T05:46:17.601Z",
+    "updatedAt": "2025-03-08T14:30:16.129Z",
+    "commentCount": 1,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "汐止",
+      "新北",
+      "買房",
+      "貸款",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺北大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請問如果在新北汐止的首購可以有比 2.3% 7成更好的方案嗎？謝謝🙏\n\n*頭期款能負擔6成左右，但希望能有更好的條件！先謝謝各方大佬\nhttps://sticker-assets.dcard.tw/images/5f8874cf-6611-4ca6-8d29-38f9ac636ea5/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 1,
+    "mediaMeta": [
+      {
+        "id": "00856189-e502-4510-8c27-48f9d698bcca",
+        "url": "https://sticker-assets.dcard.tw/images/5f8874cf-6611-4ca6-8d29-38f9ac636ea5/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/5f8874cf-6611-4ca6-8d29-38f9ac636ea5",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-03-08T05:49:05.174Z",
+        "updatedAt": "2025-03-08T05:49:05.174Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KnH^UZEP0jEOs,t40$s,-S"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-03-08T05:49:05.186Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

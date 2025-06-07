@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258380481",
+  "fetch_time": "2025-06-07T14:21:48.870242",
+  "posts": {
+    "id": 258380481,
+    "title": "#資訊 房貸貸款",
+    "excerpt": "本人買在台中清水海線預售屋總價950自備款2成 近期建商傳來合作金庫貸款優惠資料 但只能7.5成想詢問哪家銀行可以貸款8成或以上，本人在上市上櫃公司上班 年薪80up 目前名下一筆信貸約50初 無其他",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-27T04:35:50.808Z",
+    "updatedAt": "2025-03-27T04:41:36.822Z",
+    "commentCount": 3,
+    "likeCount": 4,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房貸",
+      "買房",
+      "銀行",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "平凡人～",
+    "department": "a0985060522",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "平凡人～",
+    "personaUid": "a0985060522",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "本人買在台中清水海線預售屋總價950自備款2成 近期建商傳來合作金庫貸款優惠資料 但只能7.5成想詢問哪家銀行可以貸款8成或以上 \n本人在上市上櫃公司上班 年薪80up 目前名下一筆信貸約50初 無其他貸款 \n老婆部分月薪3萬初左右  房子名字想掛老婆，由老婆貸款，我做擔保人 想詢問哪家銀行可以貸款 年限最低30或以上",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 7,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-27T04:41:36.832Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258153701",
+  "fetch_time": "2025-06-07T14:33:24.914568",
+  "posts": {
+    "id": 258153701,
+    "title": "楊金龍  加油好嗎",
+    "excerpt": "打什麼鳥房，預售屋一樣一堆人在看一堆人在搶，中古屋市場屋主每個價格都比石頭還硬，還想加價賣，到底在打什麼房真的看不懂，限貸措施到底有沒有做足，還是有人在走後門？第八波什麼時候要來，不痛不養的⋯唉⋯⋯⋯",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-03T04:30:53.093Z",
+    "updatedAt": "2025-03-03T04:30:53.093Z",
+    "commentCount": 17,
+    "likeCount": 3,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "投資",
+      "理財",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "打什麼鳥房，預售屋一樣一堆人在看一堆人在搶，中古屋市場屋主每個價格都比石頭還硬，還想加價賣\n\n到底在打什麼房真的看不懂\n限貸措施到底有沒有做足，還是有人在走後門？\n\n第八波什麼時候要來\n不痛不養的⋯唉⋯⋯⋯⋯\nhttps://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 28,
+    "mediaMeta": [
+      {
+        "id": "0b21b93f-3ee2-49ef-9a16-7fbf8e22f30b",
+        "url": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-03T04:30:53.093Z",
+        "updatedAt": "2025-03-03T04:30:53.093Z",
+        "width": 90,
+        "height": 160,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 165,
+          "width": 828,
+          "height": 496
+        },
+        "blurhash": "cRPGdERO-;_4a$M{I9ofbH%2M_xt%MWYNG"
+      },
+      {
+        "id": "0b21b93f-3ee2-49ef-9a16-7fbf8e22f30b",
+        "url": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-03T04:30:53.093Z",
+        "updatedAt": "2025-03-03T04:30:53.093Z",
+        "width": 828,
+        "height": 1465,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 165,
+          "width": 828,
+          "height": 496
+        },
+        "blurhash": "cRPGdERO-;_4a$M{I9ofbH%2M_xt%MWYNG"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/596d07c6-f14e-4c16-ac17-95e5ec0a6c85/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

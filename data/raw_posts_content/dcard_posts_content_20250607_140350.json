@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258434544",
+  "fetch_time": "2025-06-07T14:03:50.921536",
+  "posts": {
+    "id": 258434544,
+    "title": "#問題 預售房貸請益",
+    "excerpt": "雖然離對保、驗交屋還有一段時間，但還是想問看看，想貸8成有寬限期的話，條件如下：1.房屋總價1528萬，2.個人年收入約90-110萬，3.信貸80萬（這筆房貸前就會繳清），4.股票質押110萬（一樣",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-02T02:45:24.628Z",
+    "updatedAt": "2025-04-20T09:43:03.712Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立屏東科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "雖然離對保、驗交屋還有一段時間，但還是想問看看，想貸8成有寬限期的話，條件如下：\n\n1.房屋總價1528萬\n2.個人年收入約90-110萬\n3.信貸80萬（這筆房貸前就會繳清）\n4.股票質押110萬（一樣會在房貸前解除）\n5.學貸到時候大概剩不到5萬\n6.保人目前沒有，如果跟女友登記的話（已求婚完成但還沒登記）她的年收入約50萬",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

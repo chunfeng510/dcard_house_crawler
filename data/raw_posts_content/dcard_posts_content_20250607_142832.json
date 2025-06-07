@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258292761",
+  "fetch_time": "2025-06-07T14:28:32.176678",
+  "posts": {
+    "id": 258292761,
+    "title": "#資訊 築巢優利貸",
+    "excerpt": "台中市，成交1600，夫妻扣繳憑單160，台銀回覆只能貸7成，8成要230；7.5成要200，股票現值不算財力，我們是小換大，原本的小房也不算財力，真的滿硬的，想請教若詢問不同台銀分行，有機會有更好的",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-17T15:12:38.906Z",
+    "updatedAt": "2025-04-29T02:52:49.406Z",
+    "commentCount": 23,
+    "likeCount": 10,
+    "collectionCount": 40,
+    "shareCount": 61,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "社會大學",
+    "department": "kennyshih0918",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "社會大學",
+    "personaUid": "kennyshih0918",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "台中市，成交1600\n夫妻扣繳憑單160，台銀回覆只能貸7成\n8成要230；7.5成要200，股票現值不算財力，我們是小換大，原本的小房也不算財力，真的滿硬的\n\n想請教若詢問不同台銀分行，有機會有更好的條件嗎？還是通通都一樣？\n有其它銀行或農會能提供跟築巢優利貸一樣的利率嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 88,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

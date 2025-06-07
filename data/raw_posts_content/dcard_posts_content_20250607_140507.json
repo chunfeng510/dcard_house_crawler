@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258407438",
+  "fetch_time": "2025-06-07T14:05:07.722082",
+  "posts": {
+    "id": 258407438,
+    "title": "有銀行貸房貸可以認列當年的年收嗎?",
+    "excerpt": "大家好，建商說預售屋今年2025/11月要對保，請問一下如果是這樣的話，可以請銀行認列2025/1-2025/11的年收去算我的房貸收支比，或者用過去一年 2024/12-2025/11的年收，而\"不",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-30T02:37:34.744Z",
+    "updatedAt": "2025-03-30T23:37:43.921Z",
+    "commentCount": 6,
+    "likeCount": 5,
+    "collectionCount": 6,
+    "shareCount": 1,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "銀行",
+      "房貸",
+      "年收"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中山大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好\n\n建商說預售屋今年2025/11月要對保\n\n請問一下如果是這樣的話\n\n可以請銀行認列2025/1-2025/11的年收去算我的房貸收支比, \n\n或者用過去一年 2024/12-2025/11的年收, \n\n而\"不要用\" 2024/1-2024/12這段時間的年收嗎?\n\n因為我2024沒有拿分紅 薪水比較低\n\n我2023/10到現在都在同一間公司 公司是科技業半導體相關上市公司 市值有前50\n\n但是2024年算新人 幾乎沒有分紅 年薪只有120萬\n\n今年2025開始拿比較多分紅 預計到2025/11對保的時候, 2025/1-2025/11這11個月總薪水有220-240萬\n\n比2024年多了不少  所以不知道有沒有銀行可以擇優認列收入的?\n\n謝謝各位",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 14,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-30T03:08:27.584Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

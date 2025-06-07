@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258252216",
+  "fetch_time": "2025-06-07T14:29:22.751587",
+  "posts": {
+    "id": 258252216,
+    "title": "#問題 請問本身條件不好能否貸過新青安",
+    "excerpt": "近日家裡要贈與購買一間2700萬的房子給我，目前已透過每年贈與稅488拿來當頭期，剩下貸款的部分，小弟去年有空窗四個月，月收入大約六萬，剛好二月換工作無縫接軌，月收變成四萬，家人資產大約目前七千多萬 ",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-13T07:21:52.760Z",
+    "updatedAt": "2025-03-14T18:09:13.290Z",
+    "commentCount": 6,
+    "likeCount": 2,
+    "collectionCount": 4,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "請問",
+      "條件"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "德明財經科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "近日家裡要贈與購買一間2700萬的房子給我\n目前已透過每年贈與稅488拿來當頭期\n\n剩下貸款的部分\n小弟去年有空窗四個月\n月收入大約六萬\n剛好二月換工作無縫接軌\n月收變成四萬 \n\n家人資產大約目前七千多萬 無房貸車貸信貸\n如果我這樣的條件很差\n是請家人當一般保證人嗎?\n還是當共同借貸人\n這間房屋將名字是登記下我名下的\n\n不知道這樣會不會順利貸款\n另外這樣有辦法迴避掉贈與稅嗎?\n\n謝謝版上",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 22,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-13T09:58:23.597Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

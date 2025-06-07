@@ -1,0 +1,104 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258220811",
+  "fetch_time": "2025-06-07T14:29:53.866691",
+  "posts": {
+    "id": 258220811,
+    "title": "#問題 貸款撥款時間請教",
+    "excerpt": "小妹我今年終於買房了～（中古屋/和台銀貸款640萬），目前進度：繳完首付，並在今年2/24和銀行完成對保，2/27完成驗屋，現在正等待交屋，因為迫不及待的想要入住，上網查詢對保後大約1～2週可以交屋。",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-10T03:03:49.815Z",
+    "updatedAt": "2025-03-12T14:01:04.779Z",
+    "commentCount": 3,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "時間"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "銘傳大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小妹我今年終於買房了～（中古屋/和台銀貸款640萬）\n目前進度：繳完首付，並在今年2/24和銀行完成對保，2/27完成驗屋，現在正等待交屋\n\n因為迫不及待的想要入住，上網查詢對保後大約1～2週可以交屋。\n上週四（3/6）詢問代書目前進度，代書說「過戶中」\n\n想請問各位前輩，大概對保後多久交屋呢？現在是否還是有延遲撥款的情況？\n\n謝謝大家\nhttps://sticker-assets.dcard.tw/images/b9ec0c0f-d4e6-47a7-8c3c-aa89790bf23d/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [
+      {
+        "id": "0bd8b6be-4bb8-4c94-a060-7fbf71869263",
+        "url": "https://sticker-assets.dcard.tw/images/b9ec0c0f-d4e6-47a7-8c3c-aa89790bf23d/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b9ec0c0f-d4e6-47a7-8c3c-aa89790bf23d",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-03-10T03:03:49.815Z",
+        "updatedAt": "2025-03-10T03:03:49.815Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KpM6MUNG4.0ds:R*IUayxu"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

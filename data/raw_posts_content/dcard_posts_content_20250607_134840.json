@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258665622",
+  "fetch_time": "2025-06-07T13:48:40.221068",
+  "posts": {
+    "id": 258665622,
+    "title": "#問題 貸款成數詢問",
+    "excerpt": "想請教各位前輩，最近做了一些功課，但還是有些地方拿不太準，想請有經驗的大家指點迷津。小弟背景如下：•\t自己是底層碼農，月薪 52K 年資5年，•\t另一半是行政人員，月薪 36K 年資10幾年，•\t兩人",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-27T17:08:54.711Z",
+    "updatedAt": "2025-04-29T04:58:05.080Z",
+    "commentCount": 8,
+    "likeCount": 6,
+    "collectionCount": 5,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "請益",
+      "房地產",
+      "新手"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔仁大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請教各位前輩，最近做了一些功課，但還是有些地方拿不太準，想請有經驗的大家指點迷津。\n\n小弟背景如下：\n\t•\t自己是底層碼農，月薪 52K 年資5年\n\t•\t另一半是行政人員，月薪 36K 年資10幾年\n\t•\t兩人年收固定 13 個月，合計約 114 萬\n\t•\t手上現金加股票約 250 萬（契稅、規費可另行準備）\n\n目前房市處於信用管制、量縮價緩的階段（不確定理解是否正確）。目標是購買上龜山的小坪數新古屋，已做好通勤單程約 40 分鐘左右的心理準備（其實跟現在租屋的通勤時間差不多）。主要目的是想有個遮風避雨的家，盡快自有住處。\n\n想請教以下幾個問題：\n\t1.\t上龜山在銀行認定中，算是 B 級地區嗎？會影響貸款成數嗎？\n\t2.\t目前房價水位偏高，在這種情況下，首購族貸款成數還能拿到八成嗎？還是要保守抓七成比較穩？\n\t3.\t原本想將總價上限定在 1150 萬內，但試算了一下，目前市場利率大概 2.5%，本息攤還每個月要36,351。照夫妻雙薪收入來看（參考板上與數字網分享），這樣的收支比是不是根本無法過關？感覺台銀內規新算法對小資族很不友善，是不是基本上小資仔買房的路越來越窄？\n     4.   總價1150萬的新古，契稅等等所有稅金粗估要抓25-30萬正確嗎？\n\t5.\t除了以上之外，還有沒有什麼盲點或需要注意的地方？如果有，也請前輩們不吝指教，鞭大力一點，小弟會感激不盡！\n\n謝謝大家撥冗閱讀！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

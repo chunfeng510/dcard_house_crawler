@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258426628",
+  "fetch_time": "2025-06-07T14:04:12.295214",
+  "posts": {
+    "id": 258426628,
+    "title": "#請益 雙薪年薪300萬能買房嗎",
+    "excerpt": "版上看年薪100萬想買1000萬以下的房子，底下留言通常都是勸退&貸款貸不到，假設27歲雙薪家庭（目前無小孩+1隻貓），年薪加總300萬，頭期500萬已經準備好，且再保留裝潢費100萬，每月不用孝親費",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-01T05:12:59.261Z",
+    "updatedAt": "2025-04-02T08:32:42.592Z",
+    "commentCount": 21,
+    "likeCount": 13,
+    "collectionCount": 11,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立政治大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "版上看年薪100萬想買1000萬以下的房子\n底下留言通常都是勸退&貸款貸不到\n\n假設27歲雙薪家庭（目前無小孩+1隻貓）\n年薪加總300萬，頭期500萬已經準備好\n且再保留裝潢費100萬，每月不用孝親費\n但考量未來五年內可能會有生小孩的需求，\n希望可以貸到8成、40年、新青安首購，\n\n想請教各位買房前輩，請問這樣的條件可以買4年後交屋總價2500萬的預售屋嗎？\n（新北重劃區小坪數）\n或是最高建議預算可以買到多少，謝謝！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 12
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 23,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-01T05:23:24.065Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

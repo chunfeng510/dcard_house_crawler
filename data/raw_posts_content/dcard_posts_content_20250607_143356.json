@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258142792",
+  "fetch_time": "2025-06-07T14:33:56.564008",
+  "posts": {
+    "id": 258142792,
+    "title": "#建議 #請益#建議房貸到底要不要用寬限期？",
+    "excerpt": "如題，想問一下版上前輩意見，本人預計下半年會申請房貸，有關於貸款年限、寬限期疑慮，想問大家哪個比較好？本人條件：上市金融業、28歲、年資5年、吃家裡住家裡、無孝親費。1. 年限30年、寬限期短，利率低",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-02T01:33:45.330Z",
+    "updatedAt": "2025-05-19T13:25:50.195Z",
+    "commentCount": 26,
+    "likeCount": 20,
+    "collectionCount": 57,
+    "shareCount": 23,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "建議",
+      "請益",
+      "理財",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中央大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題，想問一下版上前輩意見，本人預計下半年會申請房貸，有關於貸款年限、寬限期疑慮，想問大家哪個比較好？\n本人條件：上市金融業、28歲、年資5年、吃家裡住家裡、無孝親費。\n\n1. 年限30年、寬限期短，利率低：\n30年、寬限期1-3年、利率1.885%\n\n2.年限有40年、寬限期有機會較長，利率較高：\n40年、寬限期3-5年、利率2.5%\n\n勿噴～行員貸款方案有地板價利率1.885%，但只有30年、寬限期也短，也不想讓同事知道買房😅。\n所以在猶豫到時候要不要用建商團貸，有機會來到40年但利率也較高（建商很大）。\n\n爬文說寬限期間只還利息，等於多還一大筆錢；另外也有人說，貸款年限越長越好，通膨會把負債吃掉，想請問大家意見，謝謝🙏\n\nPs.收支比都算得過",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 19
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 54,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

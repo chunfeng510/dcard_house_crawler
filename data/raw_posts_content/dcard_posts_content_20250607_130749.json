@@ -1,0 +1,206 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258990701",
+  "fetch_time": "2025-06-07T13:07:49.530665",
+  "posts": {
+    "id": 258990701,
+    "title": "#裝潢 新竹裝潢報價請益",
+    "excerpt": "試問一下，下列報價是否合理，主建物23坪，原本希望可以控制在110左右。",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-04T08:09:54.207Z",
+    "updatedAt": "2025-06-06T15:40:30.279Z",
+    "commentCount": 22,
+    "likeCount": 1,
+    "collectionCount": 40,
+    "shareCount": 30,
+    "tags": [],
+    "topics": [
+      "裝潢",
+      "新竹",
+      "報價"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "暗夜下的貓",
+    "department": "sans_tu",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "暗夜下的貓",
+    "personaUid": "sans_tu",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "試問一下，下列報價是否合理，主建物23坪，原本希望可以控制在110左右。\nhttps://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/aca8d7da-2b2a-48a9-a2e9-0175c551e069/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/7ec953eb-afa8-47c9-a742-ae7e4776c467/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/4baca060-8fb6-4938-af2f-6780aefa06ae/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/b934230d-730e-4500-8b61-175fdc23638c/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/84e1e25c-5712-4c2e-8071-3c2010a099f0/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "裝潢"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 27,
+    "mediaMeta": [
+      {
+        "id": "0bb209b0-84ca-4b63-ae5d-8f7822918f2b",
+        "url": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 160,
+        "height": 81,
+        "blurhash": "N3R:HG9FD%00%M_3t7xuxuofRjM{4nWBxuofofay"
+      },
+      {
+        "id": "0bb209b0-84ca-4b63-ae5d-8f7822918f2b",
+        "url": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1179,
+        "height": 599,
+        "blurhash": "N3R:HG9FD%00%M_3t7xuxuofRjM{4nWBxuofofay"
+      },
+      {
+        "id": "91f03757-6bda-4425-a34a-3632cc2102d4",
+        "url": "https://megapx-assets.dcard.tw/images/aca8d7da-2b2a-48a9-a2e9-0175c551e069/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/aca8d7da-2b2a-48a9-a2e9-0175c551e069",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/aca8d7da-2b2a-48a9-a2e9-0175c551e069/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1179,
+        "height": 1690,
+        "blurhash": "T3RMb#?bIV_1WCa$t8ofWBfmofM{"
+      },
+      {
+        "id": "f0fe9953-44a6-4a8c-85c2-fa4e034068dd",
+        "url": "https://megapx-assets.dcard.tw/images/7ec953eb-afa8-47c9-a742-ae7e4776c467/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/7ec953eb-afa8-47c9-a742-ae7e4776c467",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/7ec953eb-afa8-47c9-a742-ae7e4776c467/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1179,
+        "height": 1254,
+        "blurhash": "K5RW0bxuM{~pRkofW8WBof"
+      },
+      {
+        "id": "1b78259d-d9a9-49f1-bb50-bc05f603c8d7",
+        "url": "https://megapx-assets.dcard.tw/images/4baca060-8fb6-4938-af2f-6780aefa06ae/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/4baca060-8fb6-4938-af2f-6780aefa06ae",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/4baca060-8fb6-4938-af2f-6780aefa06ae/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1153,
+        "height": 2500,
+        "blurhash": "l4RW0b-;D%RiRjkC-:Rjoz00WBWBITofkCD$t7WB"
+      },
+      {
+        "id": "cf73aaea-bb98-459d-a81c-93a6bab8d17c",
+        "url": "https://megapx-assets.dcard.tw/images/b934230d-730e-4500-8b61-175fdc23638c/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b934230d-730e-4500-8b61-175fdc23638c",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/b934230d-730e-4500-8b61-175fdc23638c/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1153,
+        "height": 2500,
+        "blurhash": "l5RC[5RjbbohayaeV;ofkC_4t7ay?axuWVM{fPjt"
+      },
+      {
+        "id": "7c1d2937-42f5-467c-b7f8-4cb9e5ab7ee9",
+        "url": "https://megapx-assets.dcard.tw/images/84e1e25c-5712-4c2e-8071-3c2010a099f0/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/84e1e25c-5712-4c2e-8071-3c2010a099f0",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/84e1e25c-5712-4c2e-8071-3c2010a099f0/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T08:09:54.207Z",
+        "updatedAt": "2025-06-04T08:09:54.207Z",
+        "width": 1178,
+        "height": 1293,
+        "blurhash": "K5S6PlIUWD4mM{ogMwWBof"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/026deeca-7c22-49de-8c2a-0e2226bd313a/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/aca8d7da-2b2a-48a9-a2e9-0175c551e069/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/7ec953eb-afa8-47c9-a742-ae7e4776c467/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/4baca060-8fb6-4938-af2f-6780aefa06ae/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/b934230d-730e-4500-8b61-175fdc23638c/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/84e1e25c-5712-4c2e-8071-3c2010a099f0/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

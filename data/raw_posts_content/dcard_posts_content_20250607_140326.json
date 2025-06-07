@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258447503",
+  "fetch_time": "2025-06-07T14:03:26.816816",
+  "posts": {
+    "id": 258447503,
+    "title": "#問題 ［房貸請益］想問我們能申請到多少貸款成數及利率",
+    "excerpt": "各位大大們晚安，我們夫妻倆預計於今年中進行預售屋交屋，以下是我們的條件，1. 房子總價：21xx，2. 地點：新竹市北區（危老都更建案），3. 貸款人：太太 （先生當保人），太太（所有權人+貸款人），",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-03T12:12:54.506Z",
+    "updatedAt": "2025-05-02T02:44:08.363Z",
+    "commentCount": 7,
+    "likeCount": 3,
+    "collectionCount": 2,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "買房",
+      "貸款",
+      "預售屋",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立交通大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位大大們晚安\n我們夫妻倆預計於今年中進行預售屋交屋\n以下是我們的條件\n\n1. 房子總價：21xx\n2. 地點：新竹市北區（危老都更建案）\n3. 貸款人：太太 （先生當保人）\n\n太太（所有權人+貸款人）\n職業：剛離職，目前為家管\n名下無房產\n\n先生（保人）\n職業：台積工程師\n2023年收：250w\n2024年收：270w\n名下一房產（無貸款）\n\n夫妻資產\n現金：350w (已繳370w工程款，共17%)\n股票：200w\n\n想問各位大大們\n以我們目前的情況，大概可以貸到多少的成數及利率呢？\n據我瞭解，新輕安&寬限期應該是沒了@@\n\n希望貸款結果：\n8成\n<2.6%\n>30年\n\n不知道有沒有機會\n再麻煩大家解答了，感恩！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-05-02T02:44:08.370Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

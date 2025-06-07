@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258725989",
+  "fetch_time": "2025-06-07T13:46:24.870136",
+  "posts": {
+    "id": 258725989,
+    "title": "#問題 婚前買房婚後買房？",
+    "excerpt": "還沒買房 目前我的家人會幫我支出全額頭期款，未婚夫未來會跟我一起平分每個月房貸，房子會登記我名下，並且未婚夫有表示若真的離婚的話他不會爭取房子的半毛錢，那請問我應該婚前買房還是婚後買房呢？婚前買：有爬",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-04T15:13:22.632Z",
+    "updatedAt": "2025-05-05T16:30:02.833Z",
+    "commentCount": 9,
+    "likeCount": 11,
+    "collectionCount": 24,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "婚前",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "世新大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "還沒買房 目前我的家人會幫我支出全額頭期款\n未婚夫未來會跟我一起平分每個月房貸\n房子會登記我名下\n並且未婚夫有表示若真的離婚的話他不會爭取房子的半毛錢\n\n那請問我應該婚前買房還是婚後買房呢？\n婚前買：有爬文說要繳清房貸才算是我名下的？目前是房貸繳不完，婚後若是法定財產制，丈夫一樣可以共同持有，除非先簽婚前契約嗎？\n婚後買：共同持有，但若有離婚那天的話，連同家人幫忙支出的頭期是否也會被瓜分掉？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 21,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-05-04T19:05:21.750Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

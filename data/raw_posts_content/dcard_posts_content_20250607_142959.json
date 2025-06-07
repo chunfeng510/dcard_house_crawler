@@ -1,0 +1,94 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258214758",
+  "fetch_time": "2025-06-07T14:29:59.563549",
+  "posts": {
+    "id": 258214758,
+    "title": "#建議 信貸會影響房貸嗎",
+    "excerpt": "想請教大家，小弟今年29歲，在2024/02購入預售屋，總價約1400萬，預計今年第三季交屋，上個月建商請我們提供去年扣繳憑單上的所得，以利之後核貸相關作業，但因為小弟在2023/03從前公司離職，2",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-09T09:28:02.017Z",
+    "updatedAt": "2025-04-17T02:21:07.919Z",
+    "commentCount": 19,
+    "likeCount": 28,
+    "collectionCount": 58,
+    "shareCount": 37,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請教大家\n小弟今年29歲，在2024/02購入預售屋，總價約1400萬，預計今年第三季交屋，上個月建商請我們提供去年扣繳憑單上的所得，以利之後核貸相關作業，但因為小弟在2023/03從前公司離職，2023/09才進到新公司，因此扣繳憑單薪資所得只有60萬。\n\n目前財務狀況如下\n1. 信貸：2022/12貸款200萬，目前剩餘120萬（利率1.96%，月還款2萬2）\n2. 月薪約9萬5，年薪約180萬\n3. 股票：約350萬\n4. 現金：約60萬\n\n想請教大家兩個問題\n1. 信貸這120萬會影響到房貸利率嗎？由於信貸資金不能投入房市，且此資金目前也有其他用途，想了解說這樣會影響貸款成數跟利率嗎？\n2. 2023/03離職因此前年（60萬）跟去年（約130萬）收入較少，今年才開始穩定（約180萬），會因為前兩年收入較低而影響房貸利率嗎？\n\n希望有相關經驗的大家可以跟我分享，或給我一些建議，謝謝大家🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 27
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 55,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-09T17:35:38.176Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

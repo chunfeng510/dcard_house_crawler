@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258464383",
+  "fetch_time": "2025-06-07T14:03:04.447012",
+  "posts": {
+    "id": 258464383,
+    "title": "#問題 預售屋房貸，做固定金流可行嗎？",
+    "excerpt": "預售屋總價1200，工程款和交屋款約三成，都繳完還會剩下七成840萬。我每月有兼職的薪轉跟勞健保2萬5，存款150萬，家裡開店但是沒有公司戶，如果讓家人每個月固定轉帳五萬到我的戶頭做現金流，這樣有機會",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-05T12:17:39.926Z",
+    "updatedAt": "2025-04-05T12:17:39.926Z",
+    "commentCount": 7,
+    "likeCount": 4,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "臺北醫學大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "預售屋總價1200，工程款和交屋款約三成，都繳完還會剩下七成840萬。我每月有兼職的薪轉跟勞健保2萬5，存款150萬，家裡開店但是沒有公司戶，如果讓家人每個月固定轉帳五萬到我的戶頭做現金流，這樣有機會貸到款嗎？不要求高成數跟低利率，能貸六成以上就可以了。身邊的人不是身上有房貸就是專職投資，也不知道能不能當擔保人…明年就要跟銀行諮詢了，想先做好心理準備😭",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

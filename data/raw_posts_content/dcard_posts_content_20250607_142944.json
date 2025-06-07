@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258232374",
+  "fetch_time": "2025-06-07T14:29:44.146679",
+  "posts": {
+    "id": 258232374,
+    "title": "#問題 未婚女性購屋調查",
+    "excerpt": "大家好！我是台大的研究生，目前正在研究單身/未婚女性購屋的議題，想了解女性在購屋旅程中的需求，以及和房貸銀行的往來狀況。如果您是未婚/單身時購屋的女性，希望您能協助填寫這份問卷，幫助我們規劃更適合女性",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-11T06:49:36.615Z",
+    "updatedAt": "2025-03-11T06:49:36.615Z",
+    "commentCount": 3,
+    "likeCount": 1,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "cccchien",
+    "department": "yuyu9977",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "cccchien",
+    "personaUid": "yuyu9977",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好！我是台大的研究生，目前正在研究單身/未婚女性購屋的議題，想了解女性在購屋旅程中的需求，以及和房貸銀行的往來狀況。\n如果您是未婚/單身時購屋的女性，希望您能協助填寫這份問卷，幫助我們規劃更適合女性的購屋和金融服務，謝謝您！\n\n📌問卷內容：未婚/單身女性購屋時的痛點和需求，以及和銀行往來的意願\n📌問卷對象：未婚/單身時購屋的女性尤佳\n\n🎁完成問卷後會抽出5位填答者，每人贈送300元現金\n\n問卷連結：\nhttps://www.surveycake.com/s/v0oWX",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://www.surveycake.com/s/v0oWX"
+    ],
+    "enableListLinkPreview": true,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

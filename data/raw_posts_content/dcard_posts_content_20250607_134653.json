@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258711080",
+  "fetch_time": "2025-06-07T13:46:53.458362",
+  "posts": {
+    "id": 258711080,
+    "title": "#問題 中古屋貸款及殺價問題",
+    "excerpt": "最近在看到一間中古屋因與家裡老人同一棟（社區大樓）非常想入手，希望入手這間開價698/33坪 算老社區沒有設施 26年，看了實價登錄去年同房型成交630，但自己爬了很多文都說看那個不準，很多人都說先砍",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-02T21:57:26.349Z",
+    "updatedAt": "2025-05-07T16:26:11.880Z",
+    "commentCount": 10,
+    "likeCount": 2,
+    "collectionCount": 7,
+    "shareCount": 6,
+    "tags": [],
+    "topics": [
+      "中古屋",
+      "貸款",
+      "殺價",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "德育護理健康學院",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近在看到一間中古屋因與家裡老人同一棟（社區大樓）非常想入手\n希望入手這間開價698/33坪 算老社區沒有設施 26年\n看了實價登錄去年同房型成交630\n但自己爬了很多文都說看那個不準\n很多人都說先砍至少20%開始斡旋\n想問問如果先喊500-520是否會太過分\n或是有沒有前輩可以建議怎麼殺比較好\n\n另外想請問青年貸款問題\n本身年紀還在2開頭\n目前在公家醫院就職護理師快兩年\n算了去年年收80左右\n但還有學貸18萬\n有35萬放在股票 身上可動用現金10萬\n另外就是家人贊助50萬\n所以自備款加上裝修費還有差距\n想要申請信貸50-100萬\n另外就是申辦青年貸款\n想請問各位前輩這樣貸款機率高嗎⋯\n\n會在自備款不足的情況下買房主要家裡因素\n老人需有人就近照顧 但無法住一起才考慮買近一些的\n想說看看房剛好就看到同一棟又很滿意的\n且會有家人共同負擔貸款 才想說能否拼看看",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-05-02T22:46:31.687Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

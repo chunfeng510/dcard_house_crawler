@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258409532",
+  "fetch_time": "2025-06-07T14:04:58.710277",
+  "posts": {
+    "id": 258409532,
+    "title": "#問題 第二屋貸款",
+    "excerpt": "想請問第一戶還有大概八百萬要繳，第二戶總價3500萬，有辦法貸到5成嗎，貸款年限跟利率有機會到多少呢，今年年薪大概是240萬左右，希望有經驗的人可以分享一下消息~",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-30T07:50:12.815Z",
+    "updatedAt": "2025-04-04T23:03:36.753Z",
+    "commentCount": 5,
+    "likeCount": 4,
+    "collectionCount": 5,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請問第一戶還有大概八百萬要繳\n第二戶總價3500萬，有辦法貸到5成嗎\n貸款年限跟利率有機會到多少呢\n今年年薪大概是240萬左右\n希望有經驗的人可以分享一下消息~",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 13,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

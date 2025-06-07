@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258533647",
+  "fetch_time": "2025-06-07T13:55:51.870832",
+  "posts": {
+    "id": 258533647,
+    "title": "#問題 近期新青安銀行推薦",
+    "excerpt": "請問最近有人貸款新青安對保嗎？因為平鎮預售屋快交屋了，下週開始要自己去銀行詢問利率、寬限、成數等問題，建商沒有配合新青安送件，想請問有無推薦銀行，謝謝！，也請大家分享自己貸款成功的案例，我是希望可以4",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-13T02:31:34.899Z",
+    "updatedAt": "2025-05-07T12:35:04.722Z",
+    "commentCount": 11,
+    "likeCount": 4,
+    "collectionCount": 14,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "銀行",
+      "買房",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "John wei",
+    "department": "crosswei",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "John wei",
+    "personaUid": "crosswei",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請問最近有人貸款新青安對保嗎？\n因為平鎮預售屋快交屋了，下週開始要自己去銀行詢問利率、寬限、成數等問題，建商沒有配合新青安送件，想請問有無推薦銀行，謝謝！\n\n也請大家分享自己貸款成功的案例，我是希望可以40年、8成、寬限5、2.5利率左右，年收70萬左右，前十大企業，可提供保證人。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 21,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

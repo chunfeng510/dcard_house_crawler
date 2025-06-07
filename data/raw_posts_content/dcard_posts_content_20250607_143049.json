@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258193874",
+  "fetch_time": "2025-06-07T14:30:49.989764",
+  "posts": {
+    "id": 258193874,
+    "title": "九個月後的貸款變化",
+    "excerpt": "首先，先感謝大家當時勸退我，因為過了九個月後的現在證明了當初的選擇是正確的。買第一間房時問過銀行，表示願意給到八成甚至九成，結果好死不死遇到政府打房最嚴重的時候，原先說好的銀行表示沒有額度，只能轉向和",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": 255952963,
+    "createdAt": "2025-03-07T02:38:35.206Z",
+    "updatedAt": "2025-03-09T08:50:13.254Z",
+    "commentCount": 4,
+    "likeCount": 9,
+    "collectionCount": 4,
+    "shareCount": 7,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "轉變"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中興大學",
+    "replyTitle": "#問題 可以買第二間嗎？",
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "首先，先感謝大家當時勸退我，因為過了九個月後的現在證明了當初的選擇是正確的。\n買第一間房時問過銀行，表示願意給到八成甚至九成，結果好死不死遇到政府打房最嚴重的時候，原先說好的銀行表示沒有額度，只能轉向和建商配合的銀行，最終貸款條件是⋯\n［七成 30年、40年（一千萬以內） 無寬限期 2.3%］\n不得不說，當行員算出這個條件時，當真很天旋地轉。同社區的其他住戶也是怨聲載道，但好在勉強還付的出來。\n行員有建議父母連保，可以提升到七五或八，但最後考量不要造成父母麻煩依舊選擇七成。\n·\n潛伏在購屋板很久了，看到很多人咬牙買房或是預估（賭注）貸款八成，所以想發文勸世ㄏㄏ。真的不要槓桿開太大，貸款少一成就快撐不下去了，更別說如果買了兩間應該會直接崩潰。\n身旁有朋友是買四年後預售，建商有優購方案只要付5%，所以雖然只有兩成左右的自備款，她依舊咬牙買了，搞得對未來很惶恐。只能說，掌握在自己手中的才是實在的，政策變化太快。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 8
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 13,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

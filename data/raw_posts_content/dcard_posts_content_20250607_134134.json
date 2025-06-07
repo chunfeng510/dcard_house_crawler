@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258910888",
+  "fetch_time": "2025-06-07T13:41:34.378594",
+  "posts": {
+    "title": "#問 準備要簽約才發現屋主有債務",
+    "excerpt": "不好意思打擾，我是這篇的原po，時隔一個月，房仲有再次聯絡我們，說當時開價屋主願意談，約好時間至小房間談的時候，我們要求看「不動產說明書」房仲就有說明屋主目前還跟兩家銀行有貸款未償還，再加上*屋主有私",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-26T04:11:30.159Z",
+    "updatedAt": "2025-05-26T15:56:42.298Z",
+    "commentCount": 6,
+    "likeCount": 3,
+    "collectionCount": 11,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "問",
+      "準備",
+      "簽約",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 258910888,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "東吳大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://www.dcard.tw/f/house_purchase/p/258552095?cid=5A81F88C-F478-402C-8B69-85003006D24E\n不好意思打擾，我是這篇的原po\n時隔一個月，房仲有再次聯絡我們，說當時開價屋主願意談，約好時間至小房間談的時候，我們要求看「不動產說明書」\n房仲就有說明屋主目前還跟兩家銀行有貸款未償還，再加上*屋主有私人欠款*\n房仲說被欠款者是這家店認識的人，並且有給我們看欠款合約\n我跟家人就有點擔心這部分\n房仲說欠款會在簽約前解除，我們可以於合約中提出「一個月內沒有解除，無條件解約」會將訂金跟仲介費退回\n想問問板上有人有過相同經驗嗎QQ",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 15,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://www.dcard.tw/f/house_purchase/p/258552095?cid=5A81F88C-F478-402C-8B69-85003006D24E"
+    ],
+    "enableListLinkPreview": true,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

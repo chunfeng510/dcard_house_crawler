@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258594322",
+  "fetch_time": "2025-06-07T13:54:47.104169",
+  "posts": {
+    "id": 258594322,
+    "title": "#問題 房貸請益",
+    "excerpt": "請教各位前輩，本人為首購族，目前27歲，職業是公務員，年薪約110萬，我在上個月時購入了一間位在淡海新市鎮的新古屋，成交價1600萬，於3/11口頭詢問台銀公教築巢專案，承辦人員初估可貸款1200萬（",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-19T14:56:12.525Z",
+    "updatedAt": "2025-04-23T01:18:26.672Z",
+    "commentCount": 14,
+    "likeCount": 11,
+    "collectionCount": 16,
+    "shareCount": 6,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "房貸",
+      "貸款",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請教各位前輩，本人為首購族，目前27歲，職業是公務員，年薪約110萬\n\n我在上個月時購入了一間位在淡海新市鎮的新古屋，成交價1600萬\n\n於3/11口頭詢問台銀公教築巢專案，承辦人員初估可貸款1200萬(7.5成)，40年，利率2.185%\n\n因跟我當初預想的條件差不多，所以就在3/18直接送件(雖然後來傳出台銀開始拉高收支比，但因在3/11就已先詢問，承辦人員說不受影響)\n\n但從3/18送件後就一直沒有消息，也沒接到照會電話，房仲說在4/2已拍照內勘，隨著時間經過，內心越來越害怕，有點後悔當初沒送件其他銀行，準備周一打電話問問承辦人員\n\n現在有遇到以下問題，想請各位有經驗的前輩幫忙解答~\n\n問題1：請問承辦人員口頭告知的條件和最終核貸結果有可能差距非常大嗎?(目前還有保留約100萬現金準備做裝潢)\n\n問題2：如果核貸後的金額不足，我去辦理信貸補足是ok的嗎?(怕辦理信貸後，房貸銀行撥款時查詢聯徵，核貸金額又會改變)\n\n問題3：我在送件後發現我有張信用卡還有一期分期付款約4000多元，但在4月初時已全部繳清，目前也都沒分期付款，想請問會影響到核貸金額嗎?(4/18查詢聯徵時已在報告上顯示繳清，但台銀是在3/27查詢聯徵)",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 38,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-20T02:35:16.744Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

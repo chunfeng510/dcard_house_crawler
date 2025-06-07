@@ -1,0 +1,172 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258392346",
+  "fetch_time": "2025-06-07T14:05:47.786051",
+  "posts": {
+    "id": 258392346,
+    "title": "#資訊 炒房社團的中年投資客開始恐慌",
+    "excerpt": "小弟一直潛伏在炒房社團裡面拔草看風向，最近發現社團裡的中年投資客在抱怨政府打房。接著開始求援銀行主管辦房貸。昨天開始整理願意賠售的屋主名單，企圖省仲介費割韭菜。房價真的要崩嗎？",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-28T07:58:03.947Z",
+    "updatedAt": "2025-03-31T08:48:52.608Z",
+    "commentCount": 23,
+    "likeCount": 33,
+    "collectionCount": 20,
+    "shareCount": 10,
+    "tags": [],
+    "topics": [
+      "炒房",
+      "社團",
+      "中年",
+      "房價",
+      "投資"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "科技業底層駝獸",
+    "department": "ilove56789",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "科技業底層駝獸",
+    "personaUid": "ilove56789",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小弟一直潛伏在炒房社團裡面拔草看風向，最近發現社團裡的中年投資客在抱怨政府打房。\nhttps://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/orig.jpeg\n\n接著開始求援銀行主管辦房貸。\n\nhttps://megapx-assets.dcard.tw/images/474d03fc-e393-447b-a5ad-3b5ee1b50b46/orig.jpeg\n\n昨天開始整理願意賠售的屋主名單，企圖省仲介費割韭菜。\nhttps://megapx-assets.dcard.tw/images/a2a5fbd5-5f76-49a4-bd96-18bc1d6de8a1/orig.jpeg\n\n房價真的要崩嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 29
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 73,
+    "mediaMeta": [
+      {
+        "id": "80a81b9f-2708-4997-a124-3cff0dcd7c04",
+        "url": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-28T07:58:03.947Z",
+        "updatedAt": "2025-03-28T07:58:03.947Z",
+        "width": 160,
+        "height": 113,
+        "blurhash": "LNCkpGouD?WG^iRlt2WX~PRlxnt2"
+      },
+      {
+        "id": "80a81b9f-2708-4997-a124-3cff0dcd7c04",
+        "url": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-28T07:58:03.947Z",
+        "updatedAt": "2025-03-28T07:58:03.947Z",
+        "width": 1042,
+        "height": 738,
+        "blurhash": "LNCkpGouD?WG^iRlt2WX~PRlxnt2"
+      },
+      {
+        "id": "656dc54f-7d85-4e10-9723-10b3f61a0e2d",
+        "url": "https://megapx-assets.dcard.tw/images/474d03fc-e393-447b-a5ad-3b5ee1b50b46/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/474d03fc-e393-447b-a5ad-3b5ee1b50b46",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/474d03fc-e393-447b-a5ad-3b5ee1b50b46/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-28T07:58:03.947Z",
+        "updatedAt": "2025-03-28T07:58:03.947Z",
+        "width": 915,
+        "height": 895,
+        "blurhash": "KNCuA*WoN3~RWBa#?FRlxn"
+      },
+      {
+        "id": "28009d07-818e-43e7-8804-c4249531922e",
+        "url": "https://megapx-assets.dcard.tw/images/a2a5fbd5-5f76-49a4-bd96-18bc1d6de8a1/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/a2a5fbd5-5f76-49a4-bd96-18bc1d6de8a1",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/a2a5fbd5-5f76-49a4-bd96-18bc1d6de8a1/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-28T07:58:03.947Z",
+        "updatedAt": "2025-03-28T07:58:03.947Z",
+        "width": 884,
+        "height": 913,
+        "blurhash": "KRENu;k9Iv~QWBobxJRlt2"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/3341438c-c793-4d9e-9ad1-c6e4e66e3aeb/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/474d03fc-e393-447b-a5ad-3b5ee1b50b46/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/a2a5fbd5-5f76-49a4-bd96-18bc1d6de8a1/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

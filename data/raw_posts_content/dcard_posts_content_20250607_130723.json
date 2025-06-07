@@ -1,0 +1,88 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258994065",
+  "fetch_time": "2025-06-07T13:07:23.712956",
+  "posts": {
+    "id": 258994065,
+    "title": "#問題 貸款 首購？新青安？",
+    "excerpt": "想問一下板上各位大神，預計下個月要去對保，但不知道到底用新青安會比較好，還是用首購會比較好，原本是想說用新青安 但查了發現大家都說不要用，而且新青安現在都要等很久 排到兩三個月後了，所以也有考慮用首購",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-04T14:20:44.561Z",
+    "updatedAt": "2025-06-04T14:20:44.561Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 7,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "醒吾科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想問一下板上各位大神\n預計下個月要去對保 \n但不知道到底用新青安會比較好\n還是用首購會比較好\n原本是想說用新青安 但查了發現大家都說不要用\n而且新青安現在都要等很久 排到兩三個月後了\n所以也有考慮用首購下去貸\n\n基本上這間房就是自住不考慮出租之類的\n有打去銀行詢問過 如果使用新青安的話貸600萬至少要年收60萬才會過\n但因為貸款本人是剛畢業 過去收入並沒有到這麼高\n在這種情況下是不是任何貸款都過不了🥲\n\n查了一堆資料發現越看越覺得很亂\n所以想說來問問看大家😖\n再請各位大神給意見了🙏🏻🙏🏻",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

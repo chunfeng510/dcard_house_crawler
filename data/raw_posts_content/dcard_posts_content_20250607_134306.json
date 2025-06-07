@@ -1,0 +1,149 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258862134",
+  "fetch_time": "2025-06-07T13:43:06.656194",
+  "posts": {
+    "id": 258862134,
+    "title": "屏東起家專案貸款問題",
+    "excerpt": "想詢問各位，如果本人年收約70萬（公教人員），購買預售總價700，如果使用屏東縣府專案，貸款成數是否可以8成或8成5呢，不知道是否有人申請過這個專案貸款有比較有利嗎？還是說一樣去台銀或土銀使用公教貸款",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-20T08:43:55.712Z",
+    "updatedAt": "2025-05-20T13:45:00.417Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 2,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "屏東",
+      "專案",
+      "貸款",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立暨南國際大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想詢問各位\n如果本人年收約70萬（公教人員）\n購買預售總價700\n如果使用屏東縣府專案\n貸款成數是否可以8成或8成5呢\n不知道是否有人申請過這個專案貸款有比較有利嗎？\n還是說一樣去台銀或土銀使用公教貸款比較好呢？\n（因為看板上分享台銀貸款變嚴格怕過不了）\n\n先謝謝各位幫忙解惑\n\n\n以下是專案內容截圖\nhttps://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/afb989e0-bbae-4d7d-9048-0b590fc73af3/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [
+      {
+        "id": "cc520dbe-681b-456f-aa51-2f7a2e1d88af",
+        "url": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-05-20T08:43:55.712Z",
+        "updatedAt": "2025-05-20T08:43:55.712Z",
+        "width": 89,
+        "height": 160,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 234,
+          "width": 1170,
+          "height": 702
+        },
+        "blurhash": "cARMb$of~qfRofoeofayWBxuM{j[M|axj]"
+      },
+      {
+        "id": "cc520dbe-681b-456f-aa51-2f7a2e1d88af",
+        "url": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-05-20T08:43:55.712Z",
+        "updatedAt": "2025-05-20T08:43:55.712Z",
+        "width": 1170,
+        "height": 2100,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 234,
+          "width": 1170,
+          "height": 702
+        },
+        "blurhash": "cARMb$of~qfRofoeofayWBxuM{j[M|axj]"
+      },
+      {
+        "id": "a29e4333-f52f-4761-a4e8-892b521ce090",
+        "url": "https://megapx-assets.dcard.tw/images/afb989e0-bbae-4d7d-9048-0b590fc73af3/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/afb989e0-bbae-4d7d-9048-0b590fc73af3",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/afb989e0-bbae-4d7d-9048-0b590fc73af3/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-05-20T08:43:55.712Z",
+        "updatedAt": "2025-05-20T08:43:55.712Z",
+        "width": 1170,
+        "height": 1812,
+        "blurhash": "cDRC[7Rj~qRjofofIUt7xuxuofofIUayt8"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/f40df69d-90f0-4c47-ac2d-fda431dc8f2c/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/afb989e0-bbae-4d7d-9048-0b590fc73af3/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

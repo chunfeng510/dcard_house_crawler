@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258638033",
+  "fetch_time": "2025-06-07T13:49:26.894564",
+  "posts": {
+    "id": 258638033,
+    "title": "#問題 新青安VS公教",
+    "excerpt": "大家好，小弟最近要買房了，相信有些人會遇到跟我一樣的問題，所以在這邊請教各位，我的條件目前是符合公教貸款資格，但目前新青安1.775還是優於公教2.185，補助期間每個月貸款省1千多塊，明年結束後則是",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-24T11:48:54.809Z",
+    "updatedAt": "2025-06-07T05:10:51.210Z",
+    "commentCount": 19,
+    "likeCount": 10,
+    "collectionCount": 32,
+    "shareCount": 19,
+    "tags": [],
+    "topics": [
+      "買房",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "正修科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，小弟最近要買房了，相信有些人會遇到跟我一樣的問題，所以在這邊請教各位\n\n我的條件目前是符合公教貸款資格，但目前新青安1.775還是優於公教2.185，補助期間每個月貸款省1千多塊，明年結束後則是多繳幾百塊\n\n以下假設兩條路⬇️請問大家會怎麼選\n\n劇情一➡️先辦新青安，明年7月結束再轉公教\n缺點：只能貸8成，多繳了開辦手續費、信用查詢費，到時候轉貸還要重跑流程，麻煩以外還有一些費用\n優點：但省了一年左右的利率差\n\n劇情二➡️直接辦公教\n缺點：每個月多繳1千多\n優點：免開辦費、查詢費，有機會可以貸到85%，可以拿來裝潢😆\n\n這邊有一個疑問，假設明年新青安續辦，辦公教貸款的人，怎麼辦？可以轉回利率較低的新青安嗎？不行的話就尷尬了😅",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 44,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

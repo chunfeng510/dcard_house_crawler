@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258518571",
+  "fetch_time": "2025-06-07T13:57:49.279470",
+  "posts": {
+    "id": 258518571,
+    "title": "#問題 對保登記時間",
+    "excerpt": "我跟男友（尚未結婚）男友在兩年前買預售屋 購屋合約簽男友名字，預計交屋2026 Q2，有結婚計畫 但不確定該在對保前還是對保後怕會影響到相關權益，房子確定為男方持有 房貸也是他 工作較為穩定 行業別也",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-11T07:23:53.705Z",
+    "updatedAt": "2025-04-13T13:20:59.430Z",
+    "commentCount": 8,
+    "likeCount": 4,
+    "collectionCount": 9,
+    "shareCount": 3,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "問題",
+      "貸款",
+      "對保"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中臺科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我跟男友（尚未結婚）男友在兩年前買預售屋 購屋合約簽男友名字\n預計交屋2026 Q2\n有結婚計畫 但不確定該在對保前還是對保後怕會影響到相關權益\n\n房子確定為男方持有 房貸也是他 工作較為穩定 行業別也較為好申請貸款\n\n女方目前有信貸在身 沒有想要房子任何產權\n(我不要關於房子的任何東西 我一點也不在乎 我只是一個房客 或是路人哈哈)\n\n想請問這樣應該在什麼時間點登記比較好呢?\n\n第一次在購屋版發問 謝謝大家指教！！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-11T07:42:09.649Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

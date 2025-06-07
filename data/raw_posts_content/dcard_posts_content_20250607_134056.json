@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258959351",
+  "fetch_time": "2025-06-07T13:40:56.707423",
+  "posts": {
+    "id": 258959351,
+    "title": "#問題 #公教房貸",
+    "excerpt": "各位好！，想詢問我的條件有沒有可能貸到八成，我的資料：職業：國中老師，年資：1.5年，年收：65W，無任何貸款，信用卡每次都馬上繳清，名下一間房屋，市值約1000W，房屋資料：預售屋，2027蓋好，總",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-31T15:26:50.597Z",
+    "updatedAt": "2025-06-05T18:16:20.053Z",
+    "commentCount": 22,
+    "likeCount": 10,
+    "collectionCount": 48,
+    "shareCount": 24,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款",
+      "預售屋",
+      "請益",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣師範大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位好！\n想詢問我的條件有沒有可能貸到八成\n我的資料：\n職業：國中老師\n年資：1.5年\n年收：65W\n無任何貸款，信用卡每次都馬上繳清\n名下一間房屋，市值約1000W\n\n房屋資料：\n預售屋，2027蓋好\n總價約1080W\n\n目前頭期準備280W\n剩下想要貸款\n寬限期前三年還1.5W/月\n之後還3.2W/月（那時候月薪應該到6.5萬）\n\n先謝謝各位解答🙂‍↕️",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 80,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

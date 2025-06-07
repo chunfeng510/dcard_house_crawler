@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258427022",
+  "fetch_time": "2025-06-07T14:04:07.961013",
+  "posts": {
+    "id": 258427022,
+    "title": "大園 新青安",
+    "excerpt": "前陣子買了預售屋 總價1280，目前準備要對保，因為符合新青安資格 打算使用新青安貸1000萬 剩下都自備付掉，今天建商配合的第一銀行接洽 專員直接表示新青安在大園就只能貸最多房價7.5成 不管我個人",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-01T06:00:50.196Z",
+    "updatedAt": "2025-05-29T21:06:32.348Z",
+    "commentCount": 31,
+    "likeCount": 34,
+    "collectionCount": 48,
+    "shareCount": 36,
+    "tags": [],
+    "topics": [
+      "新青安貸款",
+      "首購族",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立虎尾科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "前陣子買了預售屋 總價1280\n目前準備要對保 \n因為符合新青安資格 打算使用新青安貸1000萬 剩下都自備付掉\n今天建商配合的第一銀行接洽 專員直接表示新青安在大園就只能貸最多房價7.5成 不管我個人條件如何規定就是這樣。\n因為7.5成只有960萬 變成得再自己多掏40萬出來 這樣裝潢資金就少了一大部分…\n另外一銀與建商配合提供的方案為 8成 40年 利率2.59 加壽險 \n請問大家該如何選擇 還是要再去問問其他公股銀行新青安能否貸到1000萬呢？\n\n我是只打算自住 也許未來哪天真的發大財可以搬去更好的地方才會賣吧 至少目前沒錢也完全沒打算",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 32
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 78,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

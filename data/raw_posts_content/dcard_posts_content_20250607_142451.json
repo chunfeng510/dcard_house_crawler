@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258367087",
+  "fetch_time": "2025-06-07T14:24:51.177537",
+  "posts": {
+    "id": 258367087,
+    "title": "#問題 想買小套房住有辦法貸款嗎？",
+    "excerpt": "爸媽在我國小時離婚，互踢皮球誰也不想照顧我，國中畢業後就去工廠打工，高中讀進修部半工半讀，不學好亂花錢沒有好好的存錢，月光族的生活直到了25歲被正式趕出家門，雖然戶口還是掛在那，但到現在28歲了在外面",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-25T15:45:42.829Z",
+    "updatedAt": "2025-04-30T13:30:33.072Z",
+    "commentCount": 7,
+    "likeCount": 4,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "套房",
+      "貸款",
+      "理財"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": true,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "匿名",
+    "department": "ghost_0o0",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "匿名",
+    "personaUid": "ghost_0o0",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "爸媽在我國小時離婚，互踢皮球誰也不想照顧我，國中畢業後就去工廠打工\n高中讀進修部半工半讀，不學好亂花錢沒有好好的存錢，月光族的生活直到了25歲被正式趕出家門，雖然戶口還是掛在那，但到現在28歲了在外面租房子也3年了\n最近突然有個想法，如果我一直租房子到老了會不會沒有房東願意租給老人？就突然覺得不如自己買個小套房度過餘生\n最近看到一間套房220萬，屋主問了代書配合銀行只能貸款五成，但這三年扣除租金等等一些開銷只存了大約25萬元，想當然這麼點本錢也沒資格買，只能繼續過租房生活了嗎？\n我朋友說要我去拜託我爸把40年的舊家拿去抵押貸款給我去買房，我下意識覺得這是違法的吧？我是很希望能有一間不是用租的房子，可以住的放心也不用怕被房東漲租金，雖然知道我爸不可能理我，如果可以真的還想去嘗試看看，但若是違法的行為就算了吧⋯\n還有其他方法嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 7,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

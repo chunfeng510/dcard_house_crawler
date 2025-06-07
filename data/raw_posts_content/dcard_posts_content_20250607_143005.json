@@ -1,0 +1,120 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258213894",
+  "fetch_time": "2025-06-07T14:30:05.338454",
+  "posts": {
+    "id": 258213894,
+    "title": "辦房貸印章選擇",
+    "excerpt": "最近建商通知對保，需要準備印章，對保當天會①送資料和②辦開戶，開戶部分確定會使用圓章（四方聚財），當初簽房屋契約是使用方章（固財），想請問辦貸款要用方章還是圓章好呀？房子是要自住，本人雖人不迷信但這種",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-09T07:40:36.987Z",
+    "updatedAt": "2025-03-10T03:35:02.262Z",
+    "commentCount": 13,
+    "likeCount": 1,
+    "collectionCount": 4,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "印章",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立成功大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近建商通知對保\n需要準備印章\n對保當天會①送資料和②辦開戶\n開戶部分確定會使用圓章（四方聚財）\n當初簽房屋契約是使用方章（固財）\n\n想請問辦貸款要用方章還是圓章好呀？\n房子是要自住\n本人雖人不迷信但這種小地方特別喜歡遵循民俗\n還是用普通的木頭方章就好了呢？\n\nhttps://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/orig.jpeg",
+    "reactions": [
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 13,
+    "mediaMeta": [
+      {
+        "id": "3f6ec5d0-f779-42f5-9f59-b9df699a22a3",
+        "url": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-09T07:40:36.987Z",
+        "updatedAt": "2025-03-09T07:40:36.987Z",
+        "width": 160,
+        "height": 157,
+        "blurhash": "KmO:X|e.x]_MaeWBMbj[kC"
+      },
+      {
+        "id": "3f6ec5d0-f779-42f5-9f59-b9df699a22a3",
+        "url": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-09T07:40:36.987Z",
+        "updatedAt": "2025-03-09T07:40:36.987Z",
+        "width": 1179,
+        "height": 1155,
+        "blurhash": "KmO:X|e.x]_MaeWBMbj[kC"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/929d12f3-6ef8-411c-b9fc-14705726379d/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

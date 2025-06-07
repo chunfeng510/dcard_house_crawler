@@ -1,0 +1,104 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258363118",
+  "fetch_time": "2025-06-07T14:24:56.979901",
+  "posts": {
+    "id": 258363118,
+    "title": "新青安房貸請教",
+    "excerpt": "本身條件：台積電技術員 年資2.5，年薪約75～80，首購 新青安 年齡25 中古屋屋齡19年 台南永康 房屋總價990貸款8成792，這樣貸款通過率高嗎？技術員本身有時候白班薪水只有3萬多是靠其他獎",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-25T08:47:21.470Z",
+    "updatedAt": "2025-05-15T14:05:57.715Z",
+    "commentCount": 25,
+    "likeCount": 74,
+    "collectionCount": 97,
+    "shareCount": 40,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "問問",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立屏東科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "本身條件：台積電技術員 年資2.5\n年薪約75～80，首購 新青安 年齡25 中古屋屋齡19年 台南永康 房屋總價990貸款8成792，這樣貸款通過率高嗎？\n技術員本身有時候白班薪水只有3萬多是靠其他獎金撐起來的，目前提供近半年薪轉只有2個月是3萬多，其他都有達到4萬5以上甚至有幾個月是8萬左右\n當初房仲有先問條件說很好過不過現在有點怕怕的，怕銀行單看月薪覺得收支比很差就不給過了，想問問各位有貸款過的學長姐 謝謝😌\n\n補充：有壓但書貸款成數不到無條件解除契約全額退費，然後我沒有使用寬限期",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 67
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 3
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 2
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 69,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-26T11:57:09.968Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

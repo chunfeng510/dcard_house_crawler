@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258771009",
+  "fetch_time": "2025-06-07T13:45:11.991630",
+  "posts": {
+    "id": 258771009,
+    "title": "#資訊 新竹帝寶放貸成數",
+    "excerpt": "汝題，小弟買了一間華夏的，雖然對保至少是一年後的事，但因為要做財務規劃，想問問板上有沒有大大是第一期建案的，應該有資詢過更多銀行，我只問過兩間民營，一間直接不接本案，嫌偏僻，一間說非都市區，最高貸7成",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-09T13:54:20.877Z",
+    "updatedAt": "2025-05-23T01:12:11.598Z",
+    "commentCount": 6,
+    "likeCount": 6,
+    "collectionCount": 4,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "新竹",
+      "買房",
+      "貸款",
+      "預售屋",
+      "房地產"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立交通大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "汝題\n小弟買了一間華夏的\n雖然對保至少是一年後的事\n但因為要做財務規劃\n想問問板上有沒有大大是第一期建案的\n應該有資詢過更多銀行\n\n我只問過兩間民營\n一間直接不接本案，嫌偏僻\n一間說非都市區，最高貸7成，還補一句去年底就有人訊問過，但似乎都有找到條件更有利的銀行",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 6
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 11,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

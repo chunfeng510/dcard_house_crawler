@@ -1,0 +1,124 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258477773",
+  "fetch_time": "2025-06-07T14:01:25.310426",
+  "posts": {
+    "id": 258477773,
+    "title": "#問題 買房 貸款問題請益",
+    "excerpt": "想要買一個總價大概1000萬元左右的房子，手上現金可以動用大概400萬左右，假設貸款800萬/30年/月繳款大概3萬塊左右，用App大概試算，月繳款部門加上其餘貸款 都還能夠負擔，想了解，以下的條件有",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-07T02:33:54.450Z",
+    "updatedAt": "2025-04-09T16:13:25.939Z",
+    "commentCount": 5,
+    "likeCount": 3,
+    "collectionCount": 4,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "買房",
+      "問題",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "建國科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想要買一個總價大概1000萬元左右的房子\n手上現金可以動用大概400萬左右\n\n假設貸款800萬/30年/月繳款大概3萬塊左右\n用App大概試算\n\n月繳款部門加上其餘貸款 都還能夠負擔\n想了解，以下的條件有辦法貸款辦過嗎？\n也可以請家中長輩當保證人（無工作但有兩棟房&土地）\nhttps://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/orig.jpeg\n\n\n目前具備兩個身分\n1. 上市櫃科技業工程師 年薪80萬左右 （年資8年）\n2. 公司負責人 營造業下游 工程行業（公司於2021年底設立）\n大部分有開發票 每年大概1000萬-1500萬\n今年度目前已確定拿得到的工程合約大概有2000萬\n公司收入扣除成本大概淨利落在400-500萬（每年）\n\n名下共有五台汽車 （價值粗估350萬）\n農地一筆 100坪左右\n各種有價證券 現值大概200萬\n\n目前尚有個人信貸、車貸\n中國信託信貸餘額大概90萬\n星展銀行信貸餘額大概160萬\n\n兩台汽車有動保設定 貸款餘額110萬\n（沒有上聯徵 是和潤那種）\n\n所有貸款&信用卡 都是照時還款 全額繳清\n無任何不良紀錄",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [
+      {
+        "id": "5c16536a-3dcf-4d56-a1e7-e8cafe3039fc",
+        "url": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-04-07T02:33:54.450Z",
+        "updatedAt": "2025-04-07T02:37:02.844Z",
+        "width": 160,
+        "height": 109,
+        "blurhash": "L9S6MdDh~Vt3McMwxtxt~p?HoLM|"
+      },
+      {
+        "id": "5c16536a-3dcf-4d56-a1e7-e8cafe3039fc",
+        "url": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-04-07T02:33:54.450Z",
+        "updatedAt": "2025-04-07T02:37:02.844Z",
+        "width": 1320,
+        "height": 899,
+        "blurhash": "L9S6MdDh~Vt3McMwxtxt~p?HoLM|"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-04-07T02:37:02.851Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/8e802dee-d5e4-4730-97d6-1af940c42535/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

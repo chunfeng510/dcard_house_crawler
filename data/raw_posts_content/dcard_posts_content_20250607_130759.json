@@ -1,0 +1,134 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258989224",
+  "fetch_time": "2025-06-07T13:07:59.656269",
+  "posts": {
+    "id": 258989224,
+    "title": "請益兩房格局",
+    "excerpt": "最近看到一間中古兩房，權狀坪數 29.57坪，主建物 18.33坪，想請教大家這個格局有沒有什麼缺點或需要注意的地方，謝謝大家🙏，這張是整層的配置圖，我看的是B4那間，這張是當初預售的時候建商給的家具",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-04T05:08:16.252Z",
+    "updatedAt": "2025-06-04T05:08:16.252Z",
+    "commentCount": 2,
+    "likeCount": 3,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": false,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近看到一間中古兩房\n權狀坪數 29.57坪\n主建物 18.33坪\n想請教大家這個格局有沒有什麼缺點或需要注意的地方，謝謝大家🙏\n\n這張是整層的配置圖，我看的是B4那間\nhttps://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/orig.jpeg\n\n這張是當初預售的時候建商給的家具配置圖\nhttps://megapx-assets.dcard.tw/images/ebbfe50d-0df2-472d-a808-ab903ce013fa/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 2,
+    "mediaMeta": [
+      {
+        "id": "93086d3b-1b06-4c20-96ee-d46b0f31a7b4",
+        "url": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T05:08:16.252Z",
+        "updatedAt": "2025-06-04T05:08:16.252Z",
+        "width": 160,
+        "height": 108,
+        "blurhash": "LDRfnIxu_3xboyoLRjj[~qWBRPay"
+      },
+      {
+        "id": "93086d3b-1b06-4c20-96ee-d46b0f31a7b4",
+        "url": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T05:08:16.252Z",
+        "updatedAt": "2025-06-04T05:08:16.252Z",
+        "width": 462,
+        "height": 313,
+        "blurhash": "LDRfnIxu_3xboyoLRjj[~qWBRPay"
+      },
+      {
+        "id": "36ac24a2-61e4-41c5-980e-2d73ddc9bf48",
+        "url": "https://megapx-assets.dcard.tw/images/ebbfe50d-0df2-472d-a808-ab903ce013fa/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ebbfe50d-0df2-472d-a808-ab903ce013fa",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/ebbfe50d-0df2-472d-a808-ab903ce013fa/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-04T05:08:16.252Z",
+        "updatedAt": "2025-06-04T05:08:16.252Z",
+        "width": 969,
+        "height": 667,
+        "blurhash": "LPPseQRP%%ado#j]%Lax.TozV?js"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/b9a9cfea-bdf0-4173-a076-ce4eebc5348b/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/ebbfe50d-0df2-472d-a808-ab903ce013fa/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

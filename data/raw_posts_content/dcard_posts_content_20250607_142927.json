@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258244996",
+  "fetch_time": "2025-06-07T14:29:27.020102",
+  "posts": {
+    "id": 258244996,
+    "title": "公教房貸85成條件，這樣可以過嗎",
+    "excerpt": "今天詢問過台銀，說今天總行有正式發函給各分行的樣子，要貸到8成要負債比1.8，貸到8.5成負債比2，貸到寬限期2年以上負債比要2.5以上，提供參考~，另外公式詢問如下，新資要大概=（最低生活費+貸款（",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-12T11:57:46.329Z",
+    "updatedAt": "2025-05-27T16:00:29.233Z",
+    "commentCount": 15,
+    "likeCount": 27,
+    "collectionCount": 72,
+    "shareCount": 54,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "房貸",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "eason",
+    "department": "eason1992",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "eason",
+    "personaUid": "eason1992",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "今天詢問過台銀，說今天總行有正式發函給各分行的樣子，\n要貸到8成要負債比1.8，\n    貸到8.5成負債比2，\n    貸到寬限期2年以上負債比要2.5以上，提供參考~\n另外公式詢問如下\n新資要大概=(最低生活費+貸款(看妳要貸的年限跟有無寬限期))*妳要貸款成數的負債比\n感謝各位的回覆\n-------------------------------------------------------------------------------\n本人是公教人員+老婆醫護人員，去年年收加起來150萬左右，\n貸款標的:20幾年汐止市區華廈或大樓\n房屋價格:1650萬\n貸款上限:1400萬\n目前看起來都說築巢台銀負債比要到1.8，\n好奇請問一下(年收/12)在除房貸要大於1.8，\n那如果貸款35年或者40年跟有無寬限期，是否會影響公式的房貸??\n還是都以35年無寬來算1.8，\n目標85成40年寬3，是否有機會過??感謝各位帥哥美女回覆",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 26
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 69,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-14T12:21:08.284Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

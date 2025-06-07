@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258206482",
+  "fetch_time": "2025-06-07T14:30:30.560147",
+  "posts": {
+    "id": 258206482,
+    "title": "#問題 預售屋房貸問題",
+    "excerpt": "請各位前輩幫忙給建議，在台中東勢買房預售屋，自住（760萬），近期要開始對保了，預計用首購貸款6-7成，目前的條件如下，夫：有一房（有房貸，自住），每月房貸約3萬，去年年薪約150萬，妻：有一房（無房",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-08T10:06:08.134Z",
+    "updatedAt": "2025-03-10T04:54:03.154Z",
+    "commentCount": 2,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "預售屋",
+      "問題"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": true,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "NN",
+    "department": "aass1133",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "NN",
+    "personaUid": "aass1133",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請各位前輩幫忙給建議\n在台中東勢買房預售屋，自住（760萬），近期要開始對保了，預計用首購貸款6-7成\n目前的條件如下\n夫：有一房（有房貸，自住），每月房貸約3萬，去年年薪約150萬\n妻：有一房（無房貸，媽媽買的掛在女方名下），預計4月開始育嬰留停，有存款/股票（粗估450萬）\n\n問題\n1. 有聽說目前就算名下有房（無貸款），銀行也不算你是首購了？這個是真的嗎？\n2. 若女方要用首購申請房貸，夫當保人，房貸過的機率高嗎？還是推薦的銀行嗎？\n\nPS. 除了女方延後育嬰留停外，請幫忙給其他建議，先謝謝各位前輩",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

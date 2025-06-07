@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258623906",
+  "fetch_time": "2025-06-07T13:53:54.343970",
+  "posts": {
+    "id": 258623906,
+    "title": "月收入足夠要怎麼還房貸划算",
+    "excerpt": "我跟老公剛買房，申請了新青安1200萬貸款，（新青安1000萬、一般房貸200萬），我們月薪合計約20萬，算了一下如果每個月還4萬多，還到完利息就幾百萬了，我們應該可以一個月還10萬左右，這樣還有5萬",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-23T02:33:16.546Z",
+    "updatedAt": "2025-05-23T04:32:58.763Z",
+    "commentCount": 39,
+    "likeCount": 118,
+    "collectionCount": 174,
+    "shareCount": 73,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "買房",
+      "新青安貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣師範大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我跟老公剛買房\n申請了新青安1200萬貸款\n（新青安1000萬、一般房貸200萬）\n我們月薪合計約20萬\n算了一下如果每個月還4萬多 \n還到完利息就幾百萬了\n我們應該可以一個月還10萬左右\n這樣還有5萬投資、5萬生活費 也很充裕\n\n想請問 如果是像我們這樣的條件\n會建議每個月還10萬節省利息嗎？\n有什麼我沒想到的缺點嗎？\n\n銀行那邊有說新青安不綁約也可以提早還款\n彈性很大",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 114
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 3
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 86,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-23T05:06:42.098Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

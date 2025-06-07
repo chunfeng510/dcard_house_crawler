@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258183709",
+  "fetch_time": "2025-06-07T14:31:37.829667",
+  "posts": {
+    "title": "#問題 購屋預算",
+    "excerpt": "請問有經驗的前輩，自備款 500萬，年收約 80萬，額外收租年約  13萬  （父親的房子），股票約 500萬 股息約 5%，父母可當保人，信用卡按時繳，第一次信貸按時繳，現在信貸按時繳  （購屋前可",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-06T02:04:37.614Z",
+    "updatedAt": "2025-03-06T09:28:35.700Z",
+    "commentCount": 5,
+    "likeCount": 9,
+    "collectionCount": 15,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "預算",
+      "首購族",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 258183709,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣海洋大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請問有經驗的前輩\n\n自備款 500萬\n\n年收約 80萬\n\n額外收租年約  13萬  (父親的房子)\n\n股票約 500萬 股息約 5%  \n\n父母可當保人\n\n信用卡按時繳\n\n第一次信貸按時繳\n\n現在信貸按時繳  (購屋前可先結清)\n\n名下無房、首購。\n\n這樣大概可以找多少價位的房子？\n\n謝謝",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

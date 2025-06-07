@@ -1,0 +1,112 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258121475",
+  "fetch_time": "2025-06-07T14:34:51.997034",
+  "posts": {
+    "id": 258121475,
+    "title": "打房政策帶來的影響",
+    "excerpt": "現在的打房政策，是不是造成未來很難小房換大房？2年前擔心房價更上漲，想要有個房子，就買了預售小房，室內只有14、15坪那種。以當時的背景沒有限貸令也沒有第二戶只能貸5成。想著先有個小房之後再換，免得被",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-27T12:44:00.778Z",
+    "updatedAt": "2025-03-02T09:08:29.780Z",
+    "commentCount": 24,
+    "likeCount": 23,
+    "collectionCount": 7,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "打房",
+      "政策",
+      "買房",
+      "房價",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "kirin29",
+    "department": "kirin29",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "kirin29",
+    "personaUid": "kirin29",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "現在的打房政策，是不是造成未來很難小房換大房？\n2年前擔心房價更上漲，想要有個房子，就買了預售小房，室內只有14、15坪那種。以當時的背景沒有限貸令也沒有第二戶只能貸5成。想著先有個小房之後再換，免得被通膨吞了。現在有些後悔為什麼不辛苦些直接上三房，未來要換屋又要花更大的力氣。\nhttps://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 20
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 41,
+    "mediaMeta": [
+      {
+        "id": "d1ef426a-2074-46a8-8eee-e90ae32e8cb8",
+        "url": "https://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-02-27T12:44:00.778Z",
+        "updatedAt": "2025-02-27T12:44:00.778Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K]Lg^Yt700WBRjWBIUoft7"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

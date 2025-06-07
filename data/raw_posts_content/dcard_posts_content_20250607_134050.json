@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258966813",
+  "fetch_time": "2025-06-07T13:40:50.046395",
+  "posts": {
+    "title": "#問題 代書叫我不要用新青安是對的嗎？",
+    "excerpt": "目前已簽約新古屋，貸款10月送件撥款時間可能delay，所以買賣雙方協議2026一月底前交屋，並且撥款延遲造成交屋日超過期限不算違約。不過我主張希望能用新青安房貸，簽約房仲配合承辦的代書卻建議我別用，",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-01T14:26:26.695Z",
+    "updatedAt": "2025-06-06T12:30:41.262Z",
+    "commentCount": 37,
+    "likeCount": 42,
+    "collectionCount": 85,
+    "shareCount": 41,
+    "tags": [],
+    "topics": [
+      "代書",
+      "買房",
+      "貸款",
+      "新青安貸款",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 258966813,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立政治大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前已簽約新古屋，貸款10月送件撥款時間可能delay，所以買賣雙方協議2026一月底前交屋，並且撥款延遲造成交屋日超過期限不算違約。不過我主張希望能用新青安房貸，簽約房仲配合承辦的代書卻建議我別用，因為年底交屋只剩半年可以用補貼利率，補貼結束後利率不會比較好，並叫我如果要問可以但注意最後一段利率是否會太高？\n\n個人最近也跑了幾家銀行初步問新青安和一般房貸(沒送件)，應該都能貸到8成40年沒問題，只是新青安最大問題在都要排隊，不保證何時可以撥款，10月送件的話要在1月交屋聽起來有點困難。不過利率倒是聽起來沒有多差啊，半年1.775%，補貼結束後2.275%，並沒有像一般銀行房貸都落在2.6-2.8%左右，以利率來看分明新青安最理想吧？代書是不是唬我？\n\n另外我租屋處剛好一月中結束，要是撥款拖個幾個月甚至半年，不好順利接軌。確實我有考慮是否用一般銀行房貸辦理就好，但一想到利率感覺很虧，是不是應該慢慢等新青安撥款，再短租幾個月會更好呀？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 41
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 77,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

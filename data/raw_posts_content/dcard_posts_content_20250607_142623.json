@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258343777",
+  "fetch_time": "2025-06-07T14:26:23.562079",
+  "posts": {
+    "id": 258343777,
+    "title": "#問題 請問各位都怎麼抓適合買多少的房",
+    "excerpt": "最近在看房，跟另一半都是公務員目前收入大概年收160 隨等級調整，目前是希望買800但是好像也沒啥好房子，或者要另外花錢整理，覺得房貸可能2萬5極限了嗎？好奇各位前輩負擔房價跟收入大概是多少，感謝分享",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-23T08:03:06.001Z",
+    "updatedAt": "2025-04-05T14:04:36.846Z",
+    "commentCount": 41,
+    "likeCount": 37,
+    "collectionCount": 38,
+    "shareCount": 11,
+    "tags": [],
+    "topics": [
+      "請問",
+      "購買",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立聯合大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近在看房\n跟另一半都是公務員目前收入大概年收160 隨等級調整\n目前是希望買800但是好像也沒啥好房子，或者要另外花錢整理\n覺得房貸可能2萬5極限了嗎?\n好奇各位前輩負擔房價跟收入大概是多少\n感謝分享",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 36
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 70,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

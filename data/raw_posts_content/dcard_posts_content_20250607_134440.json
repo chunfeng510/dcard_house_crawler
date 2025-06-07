@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258793316",
+  "fetch_time": "2025-06-07T13:44:40.827437",
+  "posts": {
+    "id": 258793316,
+    "title": "#問題 貸款銀行選擇詢問",
+    "excerpt": "目前有兩家銀行的核貸結果，希望各位大大能提供小魯專業意見：銀行A：一般型房貸核貸8成 1年寬限期 利率2.55% 30年，銀行B：方案一：雙週繳核貸8成 無寬限期 利率2.7% 30年，方案二：抵利型",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-12T10:06:41.428Z",
+    "updatedAt": "2025-05-13T15:09:48.436Z",
+    "commentCount": 5,
+    "likeCount": 2,
+    "collectionCount": 4,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "銀行",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "泡泡龍",
+    "department": "ahwin",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "泡泡龍",
+    "personaUid": "ahwin",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前有兩家銀行的核貸結果，希望各位大大能提供小魯專業意見：\n銀行A: \n一般型房貸核貸8成 1年寬限期 利率2.55% 30年 \n銀行B：\n方案一：雙週繳核貸8成 無寬限期 利率2.7% 30年\n方案二：抵利型房貸核貸8成 無寬限期 利率2.76% 30年",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

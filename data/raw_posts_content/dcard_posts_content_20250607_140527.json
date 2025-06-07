@@ -1,0 +1,102 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258396990",
+  "fetch_time": "2025-06-07T14:05:27.484480",
+  "posts": {
+    "id": 258396990,
+    "title": "新青安近期核貸成數",
+    "excerpt": "近期看到各種額度不足、收支比不足、成數不足等新聞，好奇現在新青安真的比較難貸滿8成了嗎？背景，33歲，目前在某國營事業上班，年收80萬左右，去年四月購入六都預售屋1168萬，八成貸款935萬，預計後半",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-28T16:18:11.674Z",
+    "updatedAt": "2025-05-07T14:37:04.626Z",
+    "commentCount": 34,
+    "likeCount": 71,
+    "collectionCount": 81,
+    "shareCount": 40,
+    "tags": [],
+    "topics": [
+      "理財",
+      "買房",
+      "貸款",
+      "高雄",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄餐旅大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "近期看到各種額度不足、收支比不足、成數不足等新聞\n好奇現在新青安真的比較難貸滿8成了嗎？\n\n背景\n33歲\n目前在某國營事業上班\n年收80萬左右\n\n去年四月購入六都預售屋1168萬\n八成貸款935萬\n預計後半年交屋（10月附近）\n\n另有股票，市值200萬\n且平均每月股利1萬2上下\n還有兩本躉繳壽險將近200萬\n\n在這條件下有辦法貸到8成、40年、利率2.4以內嗎？\n\n目前準備了年度所得清單、薪轉存摺、薪資單、在職證明、股票庫存、買賣合約書等資料\n近期準備開始到處問銀行了\n\n預計詢問台銀（好像最嚴？）、土銀、合庫、台企銀、元大\n\n——————————————————————\n\n建商最近終於公布配合銀行了\n中信、富邦、兆豐\n\n已跟建商約好對保時間\n選擇兆豐\n可以新青安\n但不確定成數能不能給到8成\n有人有兆豐的貸款經驗嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 67
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 102,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-05T05:02:50.997Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

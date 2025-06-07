@@ -1,0 +1,119 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258322417",
+  "fetch_time": "2025-06-07T14:26:48.301956",
+  "posts": {
+    "id": 258322417,
+    "title": "#問題 最近的收支比新聞",
+    "excerpt": "最近台銀收支比規定新聞鬧得沸沸揚揚，好奇大家收支比都抓多少核貸幾成？聽說去年初還沒限貸時收支比130%就可以貸滿了？新聞公式：月收/（房貸+各縣市最低生活費+其他貸款），扣繳憑單/12 = 月收，最低",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-20T16:09:57.014Z",
+    "updatedAt": "2025-04-28T08:15:30.256Z",
+    "commentCount": 7,
+    "likeCount": 6,
+    "collectionCount": 16,
+    "shareCount": 8,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立虎尾科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近台銀收支比規定新聞鬧得沸沸揚揚\n好奇大家收支比都抓多少核貸幾成？\n聽說去年初還沒限貸時收支比130%就可以貸滿了？\n\n新聞公式：月收/(房貸+各縣市最低生活費+其他貸款)\n扣繳憑單/12 = 月收\n最低生活費下圖\nhttps://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 6
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [
+      {
+        "id": "102b7f6c-6bc8-4a49-9a01-aaa0c9a3f56e",
+        "url": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-20T16:09:57.014Z",
+        "updatedAt": "2025-04-28T08:15:30.256Z",
+        "width": 151,
+        "height": 160,
+        "blurhash": "KFRMJ8ksTfMtSioiEdSOxb"
+      },
+      {
+        "id": "102b7f6c-6bc8-4a49-9a01-aaa0c9a3f56e",
+        "url": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-20T16:09:57.014Z",
+        "updatedAt": "2025-04-28T08:15:30.256Z",
+        "width": 750,
+        "height": 797,
+        "blurhash": "KFRMJ8ksTfMtSioiEdSOxb"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/e30529e8-4c87-4337-a9a9-d5a9a5d6bbc8/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

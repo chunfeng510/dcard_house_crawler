@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258645906",
+  "fetch_time": "2025-06-07T13:49:11.386195",
+  "posts": {
+    "id": 258645906,
+    "title": "#問題 建商房屋貸款與個人房屋貸款請教",
+    "excerpt": "最近因為限貸令的原因，原本預計2025年底要交屋的房子現在建商就在找銀行來對保，但是建商目前找到的合作銀行也都無法接受\"新青安\"之類的條件了，並且貸款利率有些略高。請問如果在房屋謄本未下來之前個人要怎",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-25T09:18:53.007Z",
+    "updatedAt": "2025-04-28T11:44:58.908Z",
+    "commentCount": 6,
+    "likeCount": 2,
+    "collectionCount": 8,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "問題"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "GG寶",
+    "department": "chuncom",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "GG寶",
+    "personaUid": "chuncom",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近因為限貸令的原因，原本預計2025年底要交屋的房子現在建商就在找銀行來對保，但是建商目前找到的合作銀行也都無法接受\"新青安\"之類的條件了，並且貸款利率有些略高。\n\n請問如果在房屋謄本未下來之前個人要怎麼自行的與外面銀行討論房貸條件的呢?  目前問了幾家不同的銀行都要求謄本來做鑑價的評估，有些困擾。\n\n還是一定要找認識的朋友透過內部關係才可能先對保卡位的嗎?",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 9,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

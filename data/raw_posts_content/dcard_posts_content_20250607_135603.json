@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258530422",
+  "fetch_time": "2025-06-07T13:56:03.173054",
+  "posts": {
+    "id": 258530422,
+    "title": "#問題 辦房貸多久以前還清信貸，才不會影響到收支比？",
+    "excerpt": "版友們好，想要請益一下：約一年前辦了信貸想買股票，但最近有在看房，可能會辦房貸，算一算信貸會影響我的房貸收支比，可能會影響房貸成數之類的。所以想要請問一下，通常要在辦房貸多久之前把信貸還清，銀行那邊才",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-12T13:57:34.918Z",
+    "updatedAt": "2025-04-12T13:57:34.918Z",
+    "commentCount": 3,
+    "likeCount": 2,
+    "collectionCount": 7,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "信貸",
+      "影響"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立陽明交通大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "版友們好，想要請益一下：\n\n約一年前辦了信貸想買股票，但最近有在看房，可能會辦房貸，算一算信貸會影響我的房貸收支比，可能會影響房貸成數之類的。\n\n所以想要請問一下，通常要在辦房貸多久之前把信貸還清，\n銀行那邊才能知道我已經把信貸還完了，而不會讓信貸影響到房貸收支比呢？\n\n謝謝。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 4,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258275842",
+  "fetch_time": "2025-06-07T14:28:55.372310",
+  "posts": {
+    "id": 258275842,
+    "title": "台銀下週開始房貸減成？",
+    "excerpt": "［請益］ 據說某官股銀行下周開始減成房貸？搬運文章討論….，收支比，200不減成，180～200減0.5成，160～180減1成，140～160減1.5成，140以下減2成，簡單來說就是200以上才能",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-15T17:43:04.015Z",
+    "updatedAt": "2025-05-25T06:59:02.981Z",
+    "commentCount": 42,
+    "likeCount": 56,
+    "collectionCount": 71,
+    "shareCount": 179,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款",
+      "買房",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "元智大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "[請益] 據說某官股銀行下周開始減成房貸?\nhttps://moptt.tw/p/home-sale.M.1742049431.A.A33\n\n搬運文章討論….\n\n收支比\n200不減成\n180～200減0.5成\n160～180減1成\n140～160減1.5成\n140以下減2成\n\n簡單來說就是200以上才能貸滿了\n月收/(房貸+最低生活費+信貸+信用卡分期)>200%\n\n鼓勵年輕人買房\n結果最後貸款時再打趴各位\n如果是無差別限制的話\n個人是覺得是在亂搞啦\n台銀都這樣了 其他銀行也會跟進吧\n準備貸款交屋的人要皮繃緊了\nhttps://sticker-assets.dcard.tw/images/373c13cc-b66c-41e5-b460-a2c8c61c26c5/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 49
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 3
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 2
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 162,
+    "mediaMeta": [
+      {
+        "id": "633c981c-5d6b-4d20-8b8f-913d774d2c71",
+        "url": "https://sticker-assets.dcard.tw/images/373c13cc-b66c-41e5-b460-a2c8c61c26c5/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/373c13cc-b66c-41e5-b460-a2c8c61c26c5",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-03-15T17:43:04.015Z",
+        "updatedAt": "2025-05-25T06:59:02.981Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K?J%Haof0iM}jst5E4j?t6"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-03-15T17:44:56.907Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://moptt.tw/p/home-sale.M.1742049431.A.A33"
+    ],
+    "enableListLinkPreview": true,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

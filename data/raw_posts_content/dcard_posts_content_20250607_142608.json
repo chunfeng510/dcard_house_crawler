@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258352900",
+  "fetch_time": "2025-06-07T14:26:08.482310",
+  "posts": {
+    "id": 258352900,
+    "title": "房貸條件請益",
+    "excerpt": "年收：200～220，職業：科技業，房屋總價約1950，地段：高雄蛋黃區預售屋，首購，名下無房，無負債無貸款，想請問以上條件的話 貸款成數有機會給到85嗎，首購的話目前會推薦使用新青安方案嗎",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-24T08:03:02.803Z",
+    "updatedAt": "2025-03-27T03:58:04.228Z",
+    "commentCount": 16,
+    "likeCount": 28,
+    "collectionCount": 16,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "買房",
+      "貸款",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "年收：200～220\n職業：科技業\n房屋總價約1950\n地段：高雄蛋黃區預售屋\n首購，名下無房，無負債無貸款\n想請問以上條件的話 貸款成數有機會給到85嗎\n首購的話目前會推薦使用新青安方案嗎",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 26
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 37,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

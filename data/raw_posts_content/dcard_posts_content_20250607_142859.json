@@ -1,0 +1,107 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258271650",
+  "fetch_time": "2025-06-07T14:28:59.780940",
+  "posts": {
+    "id": 258271650,
+    "title": "2025近期房貸利率",
+    "excerpt": "請教各位年收千萬的老闆，近半年可能會遇到預售屋交屋，想請教有哪幾家銀行利率會比較優秀的嗎？上市櫃公司員工和公股銀行員工利率哪個比較好？還是建商的團貸會大於其他的？有相關資訊再請各位大大幫忙了🙏🙏",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-15T09:34:07.143Z",
+    "updatedAt": "2025-05-04T00:44:41.419Z",
+    "commentCount": 11,
+    "likeCount": 10,
+    "collectionCount": 13,
+    "shareCount": 7,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款",
+      "預售屋",
+      "桃園"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輪班仔",
+    "department": "relax2266",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "輪班仔",
+    "personaUid": "relax2266",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請教各位年收千萬的老闆\n近半年可能會遇到預售屋交屋，想請教有哪幾家銀行利率會比較優秀的嗎？上市櫃公司員工和公股銀行員工利率哪個比較好？還是建商的團貸會大於其他的？有相關資訊再請各位大大幫忙了🙏🙏\nhttps://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 20,
+    "mediaMeta": [
+      {
+        "id": "3a27cb0d-1fd5-4d1e-a3d1-317c1c9497da",
+        "url": "https://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-03-15T09:34:07.143Z",
+        "updatedAt": "2025-05-04T00:44:41.419Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K}I}@hRj00axofj[IUWBt7"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

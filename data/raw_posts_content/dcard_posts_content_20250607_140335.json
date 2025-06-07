@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258442951",
+  "fetch_time": "2025-06-07T14:03:35.667013",
+  "posts": {
+    "id": 258442951,
+    "title": "年輕人買房",
+    "excerpt": "前兩個月終於在高雄買了一間三房含平面車位，總價900萬 蛋黃區買不起只好買在蛋白區….，用新青安貸款8成 寬限期3年，寬限期內一個月繳14000 寬限期後繳30000，年收入60～100萬 （看業績）",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-03T00:56:06.352Z",
+    "updatedAt": "2025-04-14T13:58:35.595Z",
+    "commentCount": 43,
+    "likeCount": 104,
+    "collectionCount": 60,
+    "shareCount": 30,
+    "tags": [],
+    "topics": [
+      "年輕",
+      "買房",
+      "貸款",
+      "高雄",
+      "房價"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "低收入戶",
+    "department": "kkkkkkkkkkkuuu",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "低收入戶",
+    "personaUid": "kkkkkkkkkkkuuu",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "前兩個月終於在高雄買了一間三房含平面車位\n總價900萬 蛋黃區買不起只好買在蛋白區….\n用新青安貸款8成 寬限期3年\n寬限期內一個月繳14000 寬限期後繳30000\n年收入60～100萬 （看業績）\n看大家都在好奇寬限期到了錢繳不繳的出來\n等著收法拍屋之類的話\n老實講我也很好奇我繳不繳的出來🤣\n想一想還好是在自己家裡的公司上班\n到時候繳不出來再跟老爸說要漲薪水就好\n\n奉勸各位有能力買房子趕快買吧 \n怎麼會覺得幫房東繳貸款會比自己湊出頭期款買房子每個月繳貸款還要好？\n聽到同一建案的兩房出租 一個月租25000\n我還想說有病才跟你租 沒想到2個禮拜就租出去了\n真的是貧窮限制了我的想像  \n一個月25000可以自己去買一個兩房了 \n根本就只差頭期款而已\n只能說現在年輕人沒有靠山 薪水又跟我一樣一般般要買房真的很辛苦",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 93
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 7
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 120,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

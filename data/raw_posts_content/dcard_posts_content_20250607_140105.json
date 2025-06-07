@@ -1,0 +1,107 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258489011",
+  "fetch_time": "2025-06-07T14:01:05.856728",
+  "posts": {
+    "id": 258489011,
+    "title": "想問問中壢學區房適合出手？",
+    "excerpt": "近期男友轉換工作，要到中央大學附近就職，大約會待4年左右，目前看10年多學區房3房平車，總價落在2000W以下，剩餘貸款約50%以下。小弟跟男友都是台中人，桃園行情不是很了解，附近套房租金行情約6k，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-08T06:27:40.602Z",
+    "updatedAt": "2025-04-08T06:41:05.951Z",
+    "commentCount": 4,
+    "likeCount": 3,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "中壢",
+      "桃園",
+      "學區房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "akarui",
+    "department": "q.w.e.r.t.y",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "akarui",
+    "personaUid": "q.w.e.r.t.y",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "近期男友轉換工作，要到中央大學附近就職，大約會待4年左右，目前看10年多學區房3房平車，總價落在2000W以下，剩餘貸款約50%以下。\n\n小弟跟男友都是台中人，桃園行情不是很了解，附近套房租金行情約6k，如果幾年需要待在桃園，現在出手合適嗎？還是建議先租屋再等中古價格更低再出手？近期股市震盪或許會讓中古價格有更高議價空間。\n\n附近大多是透店學生套房出租，我也有些擔心後續少子化，中央大學的招生率若是不高，家庭式住家不太好分租出去或是轉賣。\n\n先感謝各位的留言\nhttps://sticker-assets.dcard.tw/images/30c0fc6b-4746-459d-bc05-6947373bea3a/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 9,
+    "mediaMeta": [
+      {
+        "id": "ba20c4cc-0845-4dac-a5b8-80ebbf4817fa",
+        "url": "https://sticker-assets.dcard.tw/images/30c0fc6b-4746-459d-bc05-6947373bea3a/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/30c0fc6b-4746-459d-bc05-6947373bea3a",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-04-08T06:27:40.602Z",
+        "updatedAt": "2025-04-08T06:41:05.951Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KyIDmFSO0kEQof$$9vjYxY"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-04-08T06:41:05.957Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx.dcard.tw/v1/images/6a8fe352-4026-4dad-a667-622cdee1172e/encode/full",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": true,
+    "officialCreatorBadge": false
+  }
+}

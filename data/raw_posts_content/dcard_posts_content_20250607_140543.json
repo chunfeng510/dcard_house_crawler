@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258394008",
+  "fetch_time": "2025-06-07T14:05:43.127533",
+  "posts": {
+    "id": 258394008,
+    "title": "#問題 問：目前的房貸額度與收支比",
+    "excerpt": "求教如何評估房貸額度？以及最近土銀/合庫的收支比（首購or新青安），買中部2200萬的預售屋，今年Q3完工，除了房貸，其餘家裡會贊助（謝謝靠山🙏，30歲，扣憑100萬初，也有401，但很爛，有青貸20",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-28T11:06:04.295Z",
+    "updatedAt": "2025-03-30T12:13:02.346Z",
+    "commentCount": 9,
+    "likeCount": 9,
+    "collectionCount": 9,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺中科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "求教如何評估房貸額度？\n以及最近土銀/合庫的收支比（首購or新青安）\n\n買中部2200萬的預售屋，今年Q3完工\n除了房貸，其餘家裡會贊助（謝謝靠山🙏\n\n30歲，扣憑100萬初\n也有401，但很爛\n有青貸200萬，0利率（政府補貼利息）\n剩60萬，月繳10k\n儘量還了，故個人存款不到20萬\n會搭配房貸壽險\n\n請問這條件\n房貸可貸多少？\n\n我參考去年網友分享，抓6成收支比，應能貸1100\n但家人估我能貸個700\n現在有那麼嚴苛？！\n\n有跑臨櫃/電話問\n但沒有地籍資料，無法幫評估\n合庫有透露收支比超過6成會有問題\n\n\n先感謝各網友的分享\n非常感謝",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 8
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 20,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

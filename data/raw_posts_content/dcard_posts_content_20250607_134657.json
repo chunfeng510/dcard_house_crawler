@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258707744",
+  "fetch_time": "2025-06-07T13:46:57.752012",
+  "posts": {
+    "id": 258707744,
+    "title": "#問題 請益 夫妻所得清單 貸款",
+    "excerpt": "想請問一下 ， 夫妻買房，房子欲登記在妻名下 由妻貸款，夫目前還不用當擔保人。夫妻共同申報的情況下，銀行對保查詢所得清單時 是會有夫妻雙方的所得清單嗎？還是貸款的妻子個人的所得清單呢？因當初對保時，只",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-02T12:07:46.159Z",
+    "updatedAt": "2025-05-07T04:19:07.603Z",
+    "commentCount": 2,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "請益",
+      "夫妻",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "南臺科技大學",
+    "department": "休閒事業管理系",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL_FULL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請問一下 ， 夫妻買房，房子欲登記在妻名下 由妻貸款，夫目前還不用當擔保人。\n\n夫妻共同申報的情況下，銀行對保查詢所得清單時 是會有夫妻雙方的所得清單嗎？還是貸款的妻子個人的所得清單呢？\n\n因當初對保時，只有簽一份妻子所得清單查閱的同意書，所以想請問如果只簽妻子的話 會查到丈夫的所得嗎？\n\n又因為是夫妻共同申報，是否只有查一方就會有雙方得所得清單？\n\n如果暫時不希望提供丈夫的所得的話，是否要分開申報？\n\n如果還沒申報所得稅之前，銀行查到的會是個人 還是夫妻共同呢？\n\n謝謝解答。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "30eb7f51-0dd0-40ff-80a2-2edceb83defb",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

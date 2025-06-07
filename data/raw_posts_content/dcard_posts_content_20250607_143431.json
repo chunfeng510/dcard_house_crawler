@@ -1,0 +1,112 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258125335",
+  "fetch_time": "2025-06-07T14:34:31.889421",
+  "posts": {
+    "id": 258125335,
+    "title": "#問題 新青安貸款～",
+    "excerpt": "各位大大好～小弟目前在3月份要進行對保的程序，有些疑惑想要大大們幫忙解答！（購買的是預售屋），小弟的條件如下：1.年收入80萬左右（年資4年）持年收持續成長，2.上市上櫃百大公司上班（科技業），3.房",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-28T01:46:52.804Z",
+    "updatedAt": "2025-03-23T14:11:27.283Z",
+    "commentCount": 12,
+    "likeCount": 11,
+    "collectionCount": 16,
+    "shareCount": 9,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "銀行",
+      "預售屋",
+      "購屋",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "耍廢小宅師",
+    "department": "kaiismeme",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "耍廢小宅師",
+    "personaUid": "kaiismeme",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位大大好～\n小弟目前在3月份要進行對保的程序，有些疑惑想要大大們幫忙解答！（購買的是預售屋）\n\n小弟的條件如下：\n1.年收入80萬左右（年資4年）持年收持續成長\n2.上市上櫃百大公司上班（科技業）\n3.房屋要貸款（850萬）兩房\n4.職位（副工程師）\n5.無任何的貸款，也無任何信用卡，名下只有一輛機車\n6.年齡：28\n\n\n想問如果想使用新青安貸款的話，有沒有機會可以貸到40年8成寬5？，目前想選第一做對保。\n\n（問）第x、合x、臺x、土x哪家銀行比較好？\n（問）使用執照從送件到結束大概會要多久時間？\n（問）2025銀行水位還會很滿嗎？\n\n另外想問新青安貸款是寫死一定可以40年8成嗎？\n\n感謝各位大大幫忙～🙏\n\n也希望大大們可以提供核貸新青安經驗\nhttps://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 39,
+    "mediaMeta": [
+      {
+        "id": "2741a034-860b-4ee9-80ca-c535ebb160f5",
+        "url": "https://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-02-28T01:46:52.804Z",
+        "updatedAt": "2025-02-28T01:58:36.647Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K}I}@hRj00axofj[IUWBt7"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-02-28T02:01:48.165Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

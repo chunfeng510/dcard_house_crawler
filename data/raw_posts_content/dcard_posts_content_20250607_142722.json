@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258302991",
+  "fetch_time": "2025-06-07T14:27:22.950460",
+  "posts": {
+    "id": 258302991,
+    "title": "#問題 房貸諮詢本身條件差",
+    "excerpt": "各位想詢問家人想請我買房名字掛我，用我的名義首購+新青安，爸爸66歲當*連帶保證人*，爸爸有保險 流動現金 名下有房無貸款，流動資產可能兩三千萬，但目前不知道還有沒有收入（沒偷聽到，家裡不動產最新實登",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-18T15:50:47.705Z",
+    "updatedAt": "2025-03-19T07:00:16.151Z",
+    "commentCount": 3,
+    "likeCount": 6,
+    "collectionCount": 2,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "諮詢",
+      "條件"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": true,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "小屁股",
+    "department": "saynotodog",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "小屁股",
+    "personaUid": "saynotodog",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位想詢問家人想請我買房名字掛我\n用我的名義首購+新青安\n爸爸66歲當*連帶保證人*\n\n爸爸有保險 流動現金 名下有房無貸款\n流動資產可能兩三千萬\n但目前不知道還有沒有收入（沒偷聽到\n家裡不動產最新實登6500萬無貸款\n\n但小弟不到30歲年薪只有不到60萬\n而且才剛換工作\n這是行得通的嗎\n要貸款的新成屋物件快大約3000萬\n\n目前已經透過代書送審兩間銀行了\n還不知道貸不貸的下來\n\n真的很懷疑 代書也照送？\n還是連帶保證人資產信用好就貸的了！\n謝謝版上..！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 6
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

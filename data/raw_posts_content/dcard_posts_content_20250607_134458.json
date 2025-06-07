@@ -1,0 +1,108 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258780838",
+  "fetch_time": "2025-06-07T13:44:58.562598",
+  "posts": {
+    "id": 258780838,
+    "title": "想了解近期核貸利率",
+    "excerpt": "有聽到網路消息說下個月開始不管任何身分核貸都從七成往下探，房貸水位拉滿，想了解近期卡友核貸利率/銀行與成數🥹今年是不是買房無望了",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-10T18:49:01.682Z",
+    "updatedAt": "2025-05-10T18:49:01.682Z",
+    "commentCount": 6,
+    "likeCount": 3,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "利率",
+      "利息",
+      "投資",
+      "理財",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "低保真生活",
+    "department": "lofimuse",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "低保真生活",
+    "personaUid": "lofimuse",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "有聽到網路消息說下個月開始不管任何身分核貸都從七成往下探，房貸水位拉滿，想了解近期卡友核貸利率/銀行與成數🥹今年是不是買房無望了\nhttps://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [
+      {
+        "id": "51d387d6-35d9-4321-b983-002285900c26",
+        "url": "https://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-05-10T18:49:01.682Z",
+        "updatedAt": "2025-05-10T18:49:01.682Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KrJ@H#o~5Y0LM{V@Ens.-m"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx-assets.dcard.tw/images/6cbbf285-9f60-4f85-b1eb-a0c4a109675a/full.jpeg",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

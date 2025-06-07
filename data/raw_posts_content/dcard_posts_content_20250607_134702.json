@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258705784",
+  "fetch_time": "2025-06-07T13:47:02.306720",
+  "posts": {
+    "id": 258705784,
+    "title": "#請益 房貸要有多少存款?",
+    "excerpt": "如題，小弟我預計今年9月交屋，可能8月辦房貸，從去年開始陸續付了315萬，不過我算一算接下來還要付的工程款，外飾完成11萬，申請使照11萬，照這樣看來辦房貸時我戶頭所剩無幾，大概剩個30萬左右而已，到",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-02T08:05:38.937Z",
+    "updatedAt": "2025-05-12T10:10:49.069Z",
+    "commentCount": 17,
+    "likeCount": 16,
+    "collectionCount": 18,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "請益",
+      "房貸",
+      "存款",
+      "理財",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中原大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題，小弟我預計今年9月交屋\n可能8月辦房貸\n從去年開始陸續付了315萬\n不過我算一算接下來還要付的工程款\n外飾完成11萬\n申請使照11萬\n照這樣看來辦房貸時我戶頭所剩無幾\n大概剩個30萬左右而已\n到時候裝潢預計會辦貸款\n但我想問的是建商配合的是彰化銀行\n(聽說代書很強，但我不知道跟房貸有沒有關係)\n我想說自己找的大概不會比建商好\n\n戶頭只剩30萬會很影響房貸嗎?\n(月薪約10萬，預計貸款900萬)\n有沒有在銀行房貸部門的大哥大姊可以替我解惑\n非常感恩^^",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 15
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 27,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

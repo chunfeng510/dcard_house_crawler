@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258602552",
+  "fetch_time": "2025-06-07T13:54:34.692563",
+  "posts": {
+    "id": 258602552,
+    "title": "#問題 考古好奇 7080年代 買房可以貸款幾成",
+    "excerpt": "現在買房（第一間首購），新成屋 至少貸款八成，中古屋地段好蛋黃區，基本貸七成 也很多可以貸八成，那以前那個年代貸款可以幾成，頭期款要掏多少出來，那時候有穩定工作，銀行貸款容易嗎，我爸單薪普通中產階級打",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-20T14:56:16.551Z",
+    "updatedAt": "2025-04-20T14:56:16.551Z",
+    "commentCount": 5,
+    "likeCount": 3,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "考古",
+      "買房",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣海洋大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "現在買房(第一間首購)\n新成屋 至少貸款八成\n中古屋地段好蛋黃區 \n基本貸七成 也很多可以貸八成\n\n那以前那個年代貸款可以幾成\n頭期款要掏多少出來\n那時候有穩定工作\n銀行貸款容易嗎\n\n我爸單薪普通中產階級打工仔\n省吃儉用捏著\n也是買了3間大三房平車\n時間在民國8x年\n真佩服他\n我只能在這發廢文",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

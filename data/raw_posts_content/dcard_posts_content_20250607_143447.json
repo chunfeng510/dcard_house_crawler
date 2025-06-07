@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258122034",
+  "fetch_time": "2025-06-07T14:34:47.123556",
+  "posts": {
+    "id": 258122034,
+    "title": "#問題 該敗嗎？",
+    "excerpt": "小妹目前每月月薪35000～47000，加上分紅可能每月會有個6～7萬；加年終可以到8、9萬。也有買股票、定期定額ETF、銀行2%活存，但我比較偏好這些錢不要動到。然後每月有車貸$8909，不過到今年",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-27T13:44:46.830Z",
+    "updatedAt": "2025-02-28T17:53:42.138Z",
+    "commentCount": 63,
+    "likeCount": 38,
+    "collectionCount": 20,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "買房",
+      "台南",
+      "新手",
+      "房貸",
+      "首購族"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "Mooonooo",
+    "department": "ddd_0126",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "Mooonooo",
+    "personaUid": "ddd_0126",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小妹目前每月月薪35000～47000，\n加上分紅可能每月會有個6～7萬；加年終可以到8、9萬。\n也有買股票、定期定額ETF、銀行2%活存，但我比較偏好這些錢不要動到。\n然後每月有車貸$8909，不過到今年九月就繳完了。\n每個月花費大概2萬多（含車貸）\n\n最近聽說我家附近的一間老房子要賣，大概是3、40年的房齡。比較大的問題是，因為房子比較低，所以如果颱風這條街道有淹水的話，屋裡也是一定會淹的程度。\n目前聽說屋主考慮的價格是400萬上下，我覺得以現在的房價來說是可遇不可求的（？\n我目前推測重新裝修費（一樓地板墊高、牆壁防水補強等）大概抓個100萬。\n想請問各位前輩覺得怎麼樣～？可以買下去嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 37
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 68,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-27T14:13:05.407Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

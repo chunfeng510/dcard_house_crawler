@@ -1,0 +1,94 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258524624",
+  "fetch_time": "2025-06-07T13:56:41.488377",
+  "posts": {
+    "id": 258524624,
+    "title": "#問題 同建案買貴？",
+    "excerpt": "如題，去年下半年買下人生中第一間房，由於是華夏又遇到限貸令，不太好賣，過了半年看了實價登錄，比我高一層樓、坪數大一點點🤏，居然單價比較我便宜！，請問這個狀況怎麼處理，可以跟建商凹送東西？",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-11T22:30:45.687Z",
+    "updatedAt": "2025-04-14T07:30:38.764Z",
+    "commentCount": 33,
+    "likeCount": 14,
+    "collectionCount": 9,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "買貴",
+      "預售屋",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "明新科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題\n去年下半年買下人生中第一間房\n由於是華夏又遇到限貸令\n不太好賣\n過了半年看了實價登錄\n比我高一層樓、坪數大一點點🤏\n居然單價比較我便宜！\n請問這個狀況怎麼處理\n可以跟建商凹送東西?",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 13
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 68,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258175617",
+  "fetch_time": "2025-06-07T14:31:52.864078",
+  "posts": {
+    "id": 258175617,
+    "title": "#問題 最近剛成交，請問貸款是否建議搭配壽險或是理財產品？",
+    "excerpt": "如題，如果不搭配可能會是3%，搭配後可能降低到2.8%的利率。小女子數學不好，本來規劃的是工作十年內努力點盡快還完，這樣也不用特別搭配方案降低0.2%利率，但最近也吸收到把低利率現金流留在手上的重要性",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-05T06:40:48.963Z",
+    "updatedAt": "2025-03-05T06:42:05.868Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "貸款",
+      "建議",
+      "投資",
+      "理財",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "東吳大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題，如果不搭配可能會是3%，搭配後可能降低到2.8%的利率。\n\n小女子數學不好，本來規劃的是工作十年內努力點盡快還完\n這樣也不用特別搭配方案降低0.2%利率\n\n但最近也吸收到把低利率現金流留在手上的重要性\n假如美金定存、基金年報酬在5-7%，這中間的金流就很補\n反而可以產生出被動收入繳房貸利息\n\n因此想請問板上的大家\n\n1. 房貸10年內還完\n2. 房貸慢慢還，過程中搭配理財工具\n3. 搭配方案降低利率，房貸慢慢還，過程中搭配理財工具\n\n如果以目前美股看空，美債看漲的環境，會建議怎麼做比較好呢？\n是否真的是手上保有現金流，大過於馬上擁有資產？\n\n謝謝！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-03-05T06:42:05.873Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

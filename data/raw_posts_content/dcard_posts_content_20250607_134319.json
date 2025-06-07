@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258860008",
+  "fetch_time": "2025-06-07T13:43:19.476529",
+  "posts": {
+    "id": 258860008,
+    "title": "#問題 房貸尋找",
+    "excerpt": "今年購入預售屋， 預計年底至明年初交屋，建商合作的銀行後期才會提供方案，同時間想尋找不同貸款銀行， 到時可以比較哪個方案最合適.，本身的條件如下，26歲， 首購， 未婚， 學貸餘20萬，年收：100萬",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-20T04:32:13.600Z",
+    "updatedAt": "2025-05-22T06:12:48.925Z",
+    "commentCount": 6,
+    "likeCount": 4,
+    "collectionCount": 5,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "請益",
+      "預售屋",
+      "房貸",
+      "貸款",
+      "理財"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "南臺科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "今年購入預售屋, 預計年底至明年初交屋\n建商合作的銀行後期才會提供方案, \n同時間想尋找不同貸款銀行, 到時可以比較哪個方案最合適.\n\n本身的條件如下\n26歲, 首購, 未婚, 學貸餘20萬\n年收：100萬左右（去年扣繳憑單97萬）今年有小加薪\n房價：1120萬\n頭期款：224萬（2成）\n地點：公寓, 新竹南寮\n職業：一般職員(建築行業)\n母親當保人\n\n期望條件\n成數：8成\n利率：越低越好\n期數：30年/40年\n寬限期：可有可無\n\n有可以協助貸款的嗎？或是推薦的銀行\n\n希望有經驗的各位幫忙解惑, 謝謝🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 22,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

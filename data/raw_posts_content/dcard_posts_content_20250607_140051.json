@@ -1,0 +1,108 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258501348",
+  "fetch_time": "2025-06-07T14:00:51.730774",
+  "posts": {
+    "id": 258501348,
+    "title": "銀行貸款詢問",
+    "excerpt": "上個月初送台企銀新青安，本來預計這個月月底會對保（專員回覆的），今日接到專員回覆收到總行消息，本月起開始房屋貸款限排限撥，建議我自行在送件其他銀行，排撥時間不確定，目前交屋日是六月中旬，想詢問各位大大",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-09T11:16:43.678Z",
+    "updatedAt": "2025-04-24T11:02:29.417Z",
+    "commentCount": 15,
+    "likeCount": 4,
+    "collectionCount": 10,
+    "shareCount": 10,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "銀行",
+      "借貸",
+      "買房",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "yee",
+    "department": "st922412",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "yee",
+    "personaUid": "st922412",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "上個月初送台企銀新青安\n本來預計這個月月底會對保（專員回覆的）\n今日接到專員回覆收到總行消息\n本月起開始房屋貸款限排限撥\n建議我自行在送件其他銀行\n排撥時間不確定\n目前交屋日是六月中旬\n想詢問各位大大可以提供最近有對保成功還有額度的銀行嗎\nhttps://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 47,
+    "mediaMeta": [
+      {
+        "id": "c41abb3c-8792-458a-9ef6-e68bee6ccce4",
+        "url": "https://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-04-09T11:16:43.678Z",
+        "updatedAt": "2025-04-09T11:16:43.678Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KrJ@H#o~5Y0LM{V@Ens.-m"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

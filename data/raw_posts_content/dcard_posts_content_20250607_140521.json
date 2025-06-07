@@ -1,0 +1,136 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258398387",
+  "fetch_time": "2025-06-07T14:05:21.860127",
+  "posts": {
+    "id": 258398387,
+    "title": "公教貸款成數及年數評估",
+    "excerpt": "大家好，本人與老婆都是公務員，買了預售還沒交屋（預計年底），因有聽聞台銀收支比變嚴，想先來評估我們的條件有沒有辦法貸到八成，到時候應該是我貸款，我老婆當保人，1.我年薪大概110，老婆大概80；合計1",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-29T00:09:04.643Z",
+    "updatedAt": "2025-05-22T01:31:38.591Z",
+    "commentCount": 8,
+    "likeCount": 4,
+    "collectionCount": 20,
+    "shareCount": 12,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "吧啦吧啦",
+    "department": "hahabababa",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "吧啦吧啦",
+    "personaUid": "hahabababa",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好\n本人與老婆都是公務員\n買了預售還沒交屋（預計年底）\n因有聽聞台銀收支比變嚴\n想先來評估我們的條件有沒有辦法貸到八成\n\n到時候應該是我貸款，我老婆當保人\n\n1.我年薪大概110，老婆大概80；合計190萬（未加股利那些）\n2.預售買1700，預計貸款8成（貸款1360萬）\n3.想問收支比是用下面這2張圖算嗎？\nhttps://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/64fa7e76-346e-4158-a5b3-63f14b2e6603/orig.jpeg\n\n不知道我這樣算有沒有錯：\n若我貸款，老婆當保人，是不是就是用2人算？\n\n月收=190萬/12=158333\n想請問房貸要怎麼算？我是先用35年算，貸款1360萬，利率2.2；算出來是46460\n最低生活費我們不在六都，那就是用15515*2=31030算嗎？（我扣繳憑單有撫養爸爸，會加進來嗎？）\n沒有信貸跟分期\n這樣總結會變成：\n158333/（46460+31030+0+0）=2.04\n剛好超過200趴一點點\n\n4.另外想請問聽聞有前輩可以貸到40年，台銀公教貸款要如何才能貸到40年呢？\n我40歲，老婆34歲\n若反過來我老婆貸款，我當保人，有機會40年嗎？\n\n感謝各位前輩！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 28,
+    "mediaMeta": [
+      {
+        "id": "add9c81e-ebe0-4376-9484-d43b19c3960c",
+        "url": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-29T00:09:04.643Z",
+        "updatedAt": "2025-03-29T00:15:08.765Z",
+        "width": 160,
+        "height": 53,
+        "blurhash": "Q33uo}-;WBWBM{ayRjM{Rjt7ofWBWBayofj[ayWB4nIUt7j[t7j[t7t7of"
+      },
+      {
+        "id": "add9c81e-ebe0-4376-9484-d43b19c3960c",
+        "url": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-29T00:09:04.643Z",
+        "updatedAt": "2025-03-29T00:15:08.765Z",
+        "width": 1125,
+        "height": 376,
+        "blurhash": "Q33uo}-;WBWBM{ayRjM{Rjt7ofWBWBayofj[ayWB4nIUt7j[t7j[t7t7of"
+      },
+      {
+        "id": "0cb73a42-303a-4778-9ba3-49b5f80731bb",
+        "url": "https://megapx-assets.dcard.tw/images/64fa7e76-346e-4158-a5b3-63f14b2e6603/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/64fa7e76-346e-4158-a5b3-63f14b2e6603",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/64fa7e76-346e-4158-a5b3-63f14b2e6603/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-29T00:09:04.643Z",
+        "updatedAt": "2025-03-29T00:15:08.765Z",
+        "width": 1080,
+        "height": 1265,
+        "blurhash": "TMQ,K_t6%NIQt6jdxloxRlW*t6ah"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-03-29T00:15:08.770Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/43ab1aba-78cc-4a5a-9990-9e55a40b62ed/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/64fa7e76-346e-4158-a5b3-63f14b2e6603/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258864954",
+  "fetch_time": "2025-06-07T13:42:53.353915",
+  "posts": {
+    "id": 258864954,
+    "title": "#版主公告 ●拜託！發文前看一下這篇｜版主刪文是有理由的",
+    "excerpt": "大家好，我是新任購屋版板主Terry，希望這個版，請勿在這個版求廠商、求設計師、求工班、求建商，或指名那一家廠商棒、那個廠商爛等等，因為這裡主要是分享大家購屋的喜悅，跟解決房子相關的問題如施工，貸款，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": true,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-20T14:10:41.413Z",
+    "updatedAt": "2025-05-25T23:39:56.090Z",
+    "commentCount": 1,
+    "likeCount": 12,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "版主公告",
+      "版規"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic",
+      "isModerator": true
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "我是版主泰瑞果",
+    "department": "terrygo",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "我是版主泰瑞果",
+    "personaUid": "terrygo",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，我是新任購屋版板主Terry\n希望這個版\n請勿在這個版求廠商、求設計師、求工班、求建商，或指名那一家廠商棒、那個廠商爛等等，因為這裡主要是分享大家購屋的喜悅，跟解決房子相關的問題如施工，貸款，裝潢等。\n如果真的要提醒卡友不要踩雷，那個廠商很糟糕之類的，拜託拜託不要講出名字，這樣是保護大家，因為會有誹謗的問題。\n如果卡友要在這裡找客戶，找業主，我不反對，因為畢竟人人都要混口飯吃，那請看一下卡友的帳號名稱或之前的po文或留言的內容就大概知道是不是廠商了，自己私下私訊就好。如果沒有開私訊就留言提醒開私訊。\n以上補充，再拜託幫忙配合～\n\n114.5.22再補充\n因新版規剛施行，導致過多卡友疏忽而遭禁言\n所以目前購屋版版規第1條緩衝期一個月（到6.21），第一次違反刪文或刪留言不禁言\n但緩衝期間內犯第二次，就直接禁言了\n避免不肖詐騙集團鑽漏洞在這個月瘋狂商業行為\n一個月後就是6/22日起就回覆違反第一次就禁言14天，以上報告\n最後還是祝大家:\n人人有房買\n各各有房住",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": true,
+    "layout": "classic",
+    "pinnedType": "forumModerator",
+    "pinnedPriority": 1747832702502,
+    "spoilerAlert": false,
+    "categories": [
+      "版主公告"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 1,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-05-25T23:39:56.101Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx-assets.dcard.tw/images/81fed9bf-4d06-40e2-9fef-8796cb7f3e7b/full.jpeg",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

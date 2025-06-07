@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258863539",
+  "fetch_time": "2025-06-07T13:42:57.542006",
+  "posts": {
+    "id": 258863539,
+    "title": "#問題 不是房市冷清，高雄豪宅還賣這麼好喔？",
+    "excerpt": "最近看到這則新聞，覺得很納悶，明明前陣子還因為限貸、打炒房還有川普大大在亂搞關稅的關係，搞得房市一片慘淡，哀鴻遍野，怎麼高雄豪宅還賣得這麼好？這還是只算總價四千萬以上的銷量，這個銷量我自己看都覺得誇張",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-20T11:39:12.394Z",
+    "updatedAt": "2025-05-20T20:49:46.861Z",
+    "commentCount": 20,
+    "likeCount": 15,
+    "collectionCount": 0,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "房市",
+      "高雄",
+      "豪宅",
+      "投資"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立清華大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://estate.ltn.com.tw/article/24039\n最近看到這則新聞，覺得很納悶\n明明前陣子還因為限貸、打炒房還有川普大大在亂搞關稅的關係\n搞得房市一片慘淡，哀鴻遍野，怎麼高雄豪宅還賣得這麼好？\n這還是只算總價四千萬以上的銷量，這個銷量我自己看都覺得誇張\n更別提國城定潮還可以賣到亞灣第一名，是不是有點扯？\n是怎樣？高雄豪宅自帶慘淡抗性是吧？\n還是這是高雄特有的光環啊？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 15
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 27,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://estate.ltn.com.tw/article/24039"
+    ],
+    "enableListLinkPreview": true,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258899081",
+  "fetch_time": "2025-06-07T13:41:39.104415",
+  "posts": {
+    "title": "#資訊 對保簽約完準備撥款前離職",
+    "excerpt": "想問各位大大，小弟本週收到彰銀房貸核准通知，隔天也馬上到彰銀對保簽約完成，但近期剛好也有轉職需求（薪資比現任公司高），預計一個月多月後離職。彰銀有提到因為現在開始排撥，預計排撥時間可能會到7月中旬過後",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-24T13:24:16.939Z",
+    "updatedAt": "2025-05-26T13:07:10.860Z",
+    "commentCount": 10,
+    "likeCount": 4,
+    "collectionCount": 4,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "簽約",
+      "貸款",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 258899081,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "jasonwang98",
+    "department": "jasonwang1992",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "jasonwang98",
+    "personaUid": "jasonwang1992",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想問各位大大，小弟本週收到彰銀房貸核准通知，隔天也馬上到彰銀對保簽約完成，但近期剛好也有轉職需求（薪資比現任公司高），預計一個月多月後離職。\n彰銀有提到因為現在開始排撥，預計排撥時間可能會到7月中旬過後，這樣在貸款撥款下來前，換工作（可能會在6月底離職）會對銀行貸款有影響嗎？會有可能被取消撥款嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

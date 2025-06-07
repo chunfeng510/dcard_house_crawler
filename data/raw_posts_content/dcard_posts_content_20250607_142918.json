@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258255935",
+  "fetch_time": "2025-06-07T14:29:18.165762",
+  "posts": {
+    "id": 258255935,
+    "title": "#問題 房屋稅，地價稅疑問",
+    "excerpt": "去年底跟我哥哥一起買了一間房給爸媽住，產權是各1/2，共同持有、共同貸款，想請問今年的房屋稅及地價稅稅單是會各自收到，自己所持分的稅單嗎？還是合併呢？因為我哥哥常有愛佔人便宜的心態，很怕到時候只有一張",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-13T14:07:33.100Z",
+    "updatedAt": "2025-03-13T14:07:33.100Z",
+    "commentCount": 3,
+    "likeCount": 1,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房屋",
+      "疑問",
+      "房屋稅",
+      "地價稅",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立屏東科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "去年底跟我哥哥一起買了一間房給爸媽住\n產權是各1/2，共同持有、共同貸款\n想請問今年的房屋稅及地價稅稅單是會各自收到\n自己所持分的稅單嗎？還是合併呢？\n因為我哥哥常有愛佔人便宜的心態\n很怕到時候只有一張（感覺他會賴皮）\n每年這樣的話我會氣死T_T",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258879401",
+  "fetch_time": "2025-06-07T13:42:25.896250",
+  "posts": {
+    "id": 258879401,
+    "title": "#建議 新房房貸詢問",
+    "excerpt": "最近買一間大樓（1800w），今天對保，但看起來有點難貸到想要的成數，想詢問大家的意見！，銀行：建商配合的一銀，利率：新青安利率，寬限期：無，還款年限：30年，（如無新青安利率2.7起），對保時，一銀",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-05-22T07:24:49.034Z",
+    "updatedAt": "2025-06-03T10:30:22.320Z",
+    "commentCount": 10,
+    "likeCount": 10,
+    "collectionCount": 12,
+    "shareCount": 7,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款",
+      "買房",
+      "理財",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立東華大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近買一間大樓（1800w），今天對保，但看起來有點難貸到想要的成數，想詢問大家的意見！\n\n銀行：建商配合的一銀\n利率：新青安利率\n寬限期：無\n還款年限：30年\n（如無新青安利率2.7起）\n\n對保時，一銀表示他們不看存款、不動產，只看一年薪資。但這樣算下來要貸到一半都很困難🥹🥹🥹（保證人名下有房子可以擔保，我們存款也夠全額付房價，只是當然能貸款就貸款）\n\n想請問大家是否也有跟一銀貸款的經驗，真的除了薪資其他都不看嗎？以及想請問大家都用多少的薪資貸到多少的貸款？\n謝謝再麻煩了！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 11,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-05-22T07:44:59.754Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258539392",
+  "fetch_time": "2025-06-07T13:55:41.365029",
+  "posts": {
+    "id": 258539392,
+    "title": "#問題 求房貸推薦",
+    "excerpt": "想請問一下目前的情況來說大家有推薦的銀行貸款房貸嗎？目前在外商，年薪約360萬，28歲，首購，名下沒有任何信貸，現在還會有可以貸到 85 成，利率 2.5 以下，40年，寬限期可以在五年左右的房貸嗎？",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-04-13T15:00:09.891Z",
+    "updatedAt": "2025-05-07T15:20:20.022Z",
+    "commentCount": 11,
+    "likeCount": 5,
+    "collectionCount": 8,
+    "shareCount": 2,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "房貸",
+      "推薦"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請問一下目前的情況來說大家有推薦的銀行貸款房貸嗎？\n目前在外商，年薪約360萬，28歲，首購，名下沒有任何信貸\n\n現在還會有可以貸到 85 成，利率 2.5 以下，40年，寬限期可以在五年左右的房貸嗎？ \n先感謝大家的時間！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 36,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-04-13T15:04:30.121Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

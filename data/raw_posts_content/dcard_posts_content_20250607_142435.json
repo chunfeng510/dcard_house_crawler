@@ -1,0 +1,138 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258371865",
+  "fetch_time": "2025-06-07T14:24:35.189130",
+  "posts": {
+    "id": 258371865,
+    "title": "#問題 法拍屋可否適用新青安？",
+    "excerpt": "如題，最近會參與一有點交之法拍物件，如果得標我與家人會在七天內繳完尾款。我事前已詢問臺銀築巢優利貸可以適用，但因這週開始的內控（收支比>200%）讓我不確定可以貸到八成把尾款還給家人。而上網搜尋的八大",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-26T07:11:22.368Z",
+    "updatedAt": "2025-03-26T07:57:49.799Z",
+    "commentCount": 6,
+    "likeCount": 3,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "問題",
+      "法拍屋",
+      "買房",
+      "貸款",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立宜蘭大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題，最近會參與一有點交之法拍物件，如果得標我與家人會在七天內繳完尾款。\n\n我事前已詢問臺銀築巢優利貸可以適用，但因這週開始的內控（收支比>200%）讓我不確定可以貸到八成把尾款還給家人。\n\n而上網搜尋的八大公股行庫的新青安介紹只有看到華南銀行有說明到這個部分（買賣或拍賣都可），所以想詢問板上各個銀行行員是否都一致：法拍屋在繳完尾款取得權利移轉證明書後可否使用新青安貸款呢？\nhttps://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 16,
+    "mediaMeta": [
+      {
+        "id": "c3aa0eca-1bd3-4cd7-9327-af97059934b5",
+        "url": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-26T07:11:22.368Z",
+        "updatedAt": "2025-03-26T07:57:49.799Z",
+        "width": 74,
+        "height": 160,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 216,
+          "width": 1080,
+          "height": 648
+        },
+        "blurhash": "lHR3H0tlxu?vjFRP8wtRW;t8t7V@R5ozM{IAo}jF"
+      },
+      {
+        "id": "c3aa0eca-1bd3-4cd7-9327-af97059934b5",
+        "url": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-03-26T07:11:22.368Z",
+        "updatedAt": "2025-03-26T07:57:49.799Z",
+        "width": 1080,
+        "height": 2340,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 216,
+          "width": 1080,
+          "height": 648
+        },
+        "blurhash": "lHR3H0tlxu?vjFRP8wtRW;t8t7V@R5ozM{IAo}jF"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-03-26T07:57:49.803Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/7540dc5d-b681-4e21-aca1-cd9ed0deed02/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

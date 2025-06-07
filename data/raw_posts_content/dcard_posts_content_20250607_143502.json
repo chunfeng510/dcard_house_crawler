@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258116412",
+  "fetch_time": "2025-06-07T14:35:02.291484",
+  "posts": {
+    "id": 258116412,
+    "title": "#問題 #房貸利率選擇",
+    "excerpt": "名下房子轉增貸，房屋當初買790 無寬限期 貸83成，目前房屋現值鑑價1500，財力證明：扣繳憑單年收85，➡️原來A銀行 利率2.25 貸30年 已經繳了5年，最近手上需要一筆資金，所以需要轉增貸到B",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-27T04:12:42.684Z",
+    "updatedAt": "2025-02-27T05:25:45.394Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "利率",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "元培醫事科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "名下房子轉增貸 \n房屋當初買790 無寬限期 貸83成\n目前房屋現值鑑價1500\n財力證明：扣繳憑單年收85\n\n➡️原來A銀行 利率2.25 貸30年 已經繳了5年\n\n最近手上需要一筆資金 \n所以需要轉增貸到B銀行\n\n➡️B銀行原房貸可到40年 增貸30年 無寬限期\n利率有兩個選擇 \n1.40年 2.65 30年2.75\n2.40年跟30年都是2.7\n\n有試算了一下 第一個方案月付金少幾百塊\n除了月付金減少還有其他利弊嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 7,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-27T05:25:45.400Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258407361",
+  "fetch_time": "2025-06-07T14:05:12.126036",
+  "posts": {
+    "id": 258407361,
+    "title": "#問題 房貸相關問題請教",
+    "excerpt": "各位前輩大家好！，本人是小白，關於房貸有如下問題想請教，再麻煩各位前輩解惑，感謝！，1. 請問在綜所稅各類所得資料清單裡面，公司的收入類別有薪資跟一個是歸在福委會的其他類別，那福委會的金額會認列嗎？另",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-03-30T02:22:53.874Z",
+    "updatedAt": "2025-03-30T02:22:53.874Z",
+    "commentCount": 2,
+    "likeCount": 1,
+    "collectionCount": 6,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "問題",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立成功大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位前輩大家好！\n本人是小白，關於房貸有如下問題想請教，再麻煩各位前輩解惑，感謝！\n\n1. 請問在綜所稅各類所得資料清單裡面，公司的收入類別有薪資跟一個是歸在福委會的其他類別，那福委會的金額會認列嗎？另外扣繳憑單是會只列出薪資類別，還是連福委會的也會加總進去？\n\n2. 報稅時有2位扶養的親屬，這樣在計算基本生活費會變成加上我自己共3位嗎？還是扶養親屬不影響？是要有保人才會增加基本生活費的人數？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}
