@@ -94,6 +94,31 @@ class DatabaseManager:
                     FOREIGN KEY (post_id) REFERENCES posts(id)
                 )
             ''')
+
+            # 創建文章留言表
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS post_comments (
+                    id TEXT PRIMARY KEY,
+                    post_id INTEGER,
+                    floor INTEGER,
+                    content TEXT,
+                    created_at DATETIME,
+                    updated_at DATETIME,
+                    like_count INTEGER DEFAULT 0,
+                    gender TEXT,
+                    school TEXT,
+                    anonymous BOOLEAN DEFAULT FALSE,
+                    with_nickname BOOLEAN DEFAULT FALSE,
+                    hidden_by_author BOOLEAN DEFAULT FALSE,
+                    persona_nickname TEXT,
+                    persona_uid TEXT,
+                    host BOOLEAN DEFAULT FALSE,
+                    report_reason TEXT,
+                    media_meta TEXT,
+                    raw_data TEXT,
+                    FOREIGN KEY (post_id) REFERENCES posts(id)
+                )
+            ''')
             
             self.conn.commit()
             logger.info("數據庫表初始化成功")
@@ -210,6 +235,47 @@ class DatabaseManager:
             return True
         except sqlite3.Error as e:
             logger.error(f"文章 {post_id} 的詳細內容數據插入失敗: {e}")
+            return False
+            
+    def insert_post_comment(self, comment_data):
+        """插入文章留言數據"""
+        try:
+            cursor = self.conn.cursor()
+            
+            cursor.execute('''
+                INSERT OR REPLACE INTO post_comments (
+                    id, post_id, floor, content, created_at, updated_at,
+                    like_count, gender, school, anonymous, with_nickname,
+                    hidden_by_author, persona_nickname, persona_uid,
+                    host, report_reason, media_meta, raw_data
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (
+                comment_data['id'],
+                comment_data['postId'],
+                comment_data['floor'],
+                comment_data['content'],
+                comment_data['createdAt'],
+                comment_data['updatedAt'],
+                comment_data.get('likeCount', 0),
+                comment_data.get('gender', ''),
+                comment_data.get('school', ''),
+                comment_data.get('anonymous', False),
+                comment_data.get('withNickname', False),
+                comment_data.get('hiddenByAuthor', False),
+                comment_data.get('personaNickname'),
+                comment_data.get('personaUid'),
+                comment_data.get('host', False),
+                comment_data.get('reportReason', ''),
+                str(comment_data.get('mediaMeta', [])),
+                str(comment_data)
+            ))
+            
+            self.conn.commit()
+            logger.info(f"留言 {comment_data['id']} 插入成功")
+            return True
+        except sqlite3.Error as e:
+            logger.error(f"留言 {comment_data['id']} 插入失敗: {e}")
+            self.conn.rollback()
             return False
             
     def close(self):
