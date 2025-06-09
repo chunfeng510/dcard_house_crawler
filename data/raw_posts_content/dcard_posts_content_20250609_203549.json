@@ -1,0 +1,126 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257527025",
+  "fetch_time": "2025-06-09T20:35:49.413820",
+  "posts": {
+    "id": 257527025,
+    "title": "#問題 配偶是軍公教可以申請築巢優利貸嗎？",
+    "excerpt": "如下圖，今天看到公股行庫有繼續做公教貸款，正好明年跟我老婆有一間預售屋B要交屋，想問大家，我老婆可以利用我的身分申辦「軍公教的築巢優利貸」嗎？之所以會給我老婆申請，是因為我名下已經有一間房A且有貸款，",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-17T15:30:26.872Z",
+    "updatedAt": "2025-03-03T01:31:29.920Z",
+    "commentCount": 3,
+    "likeCount": 10,
+    "collectionCount": 3,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "軍公教",
+      "閒聊",
+      "貸款",
+      "配偶",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如下圖\n今天看到公股行庫有繼續做公教貸款\n正好明年跟我老婆有一間預售屋B要交屋\n想問大家\n我老婆可以利用我的身分申辦「軍公教的築巢優利貸」嗎？\n\n之所以會給我老婆申請\n是因為我名下已經有一間房A且有貸款\n然而這間是我在進到公營事業前就買好\n當時身份也不能申請軍公教方案\n是選擇使用新青安\n\n請問各方賢達有經驗分享嗎？\n感恩\n\nhttps://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [
+      {
+        "id": "caa2ee2c-8cf0-4b11-b619-55ac218c5f27",
+        "url": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2024-12-17T15:30:26.872Z",
+        "updatedAt": "2025-03-03T01:31:29.920Z",
+        "width": 160,
+        "height": 109,
+        "blurhash": "LDOf+C0oA2kq;HSkOtR$MLWBbbt6"
+      },
+      {
+        "id": "caa2ee2c-8cf0-4b11-b619-55ac218c5f27",
+        "url": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2024-12-17T15:30:26.872Z",
+        "updatedAt": "2025-03-03T01:31:29.920Z",
+        "width": 1170,
+        "height": 794,
+        "blurhash": "LDOf+C0oA2kq;HSkOtR$MLWBbbt6"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2024-12-17T15:31:14.585Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/27d18e2f-90bd-4750-8427-046632435908/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

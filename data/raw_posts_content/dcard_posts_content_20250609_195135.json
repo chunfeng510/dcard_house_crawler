@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258100686",
+  "fetch_time": "2025-06-09T19:51:35.774653",
+  "posts": {
+    "id": 258100686,
+    "title": "#問題 首購房貸請教",
+    "excerpt": "地點：桃園龜山重劃區 預售屋，總價：1340 兩房含車位，年收：75萬（公營事業） 老婆約80萬（業務），年紀：32歲 首購 夫妻名下皆無房，預計下半年對保，想請教大家🙏，1.如果另一半當保人，我們的",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-25T13:47:35.415Z",
+    "updatedAt": "2025-02-25T14:13:54.557Z",
+    "commentCount": 10,
+    "likeCount": 10,
+    "collectionCount": 14,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "首購族",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "元智大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "地點：桃園龜山重劃區 預售屋\n總價：1340 兩房含車位\n年收：75萬(公營事業) 老婆約80萬(業務)\n年紀：32歲 首購 夫妻名下皆無房\n\n預計下半年對保，想請教大家🙏\n\n1.如果另一半當保人\n我們的條件 新青安有機會貸8成40年嗎？\n築巢優利貸似乎沒有新青安來的好？\n\n2.建商收款表是寫貸款75%\n(最後交屋時會繳完25%)\n這樣我還能貸8成嗎？\n想要多貸一些 補貼裝潢支出😮‍💨\n\n先謝謝大家解答了",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-25T14:13:54.562Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

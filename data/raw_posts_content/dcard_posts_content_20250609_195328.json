@@ -1,0 +1,107 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258050818",
+  "fetch_time": "2025-06-09T19:53:28.900379",
+  "posts": {
+    "id": 258050818,
+    "title": "#問題 買過預售屋屋主請進，罵人的先別進～",
+    "excerpt": "我基本上就是一個買屋菜鳥⋯，家人幫我投資了一個預售屋，但後續他們出國太忙了 無法幫忙我貸款部分的知識，很怕沒辦法過貸款@@，他們只有要我不要練換工作⋯⋯，問題如下，1. 目前工作已經兩年，但是遇到一個",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-20T14:53:54.202Z",
+    "updatedAt": "2025-02-26T17:55:14.021Z",
+    "commentCount": 12,
+    "likeCount": 26,
+    "collectionCount": 64,
+    "shareCount": 10,
+    "tags": [],
+    "topics": [
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "image",
+      "annotation": "2/24更新文字\n\n前情提要▶️\n我基本上就是一個買屋菜鳥⋯\n家人幫我投資了一個預售屋，但後續他們出國太忙了 無法幫忙我貸款部分的知識\n而且他們不知道為什麼一派輕鬆，但我自己很緊張\n可能是因為他們年輕的時候都是超級努力的人\n所以他們直接用他們的角度帶入我 覺得「怎麼可能不行」\n-\n本來沒打算買房 我覺得我還沒做好負擔房貸的打算\n但因為家人真的很希望我買，他們願意出錢\n現在卡的點是很怕沒辦法過貸款@@，因為他們要我不要換工作⋯⋯\n\n問題如下\n1. 目前工作已經兩年，但是遇到一個真的很夢幻的工作，大公司那種，但預計入職時間是3月⋯⋯\n目前預期交屋時間可能是8-9月\n如果3月入職，到9月就是剛好六個月\n過貸款是沒問題，但如果交屋時間是8月怎麼辦？這樣我沒辦法過貸款，還是有什麼可以拖的方式嗎\n2. 有更多方法可以增加過貸款的可能性嗎？目前的工作比較多樣性，除了本身正職以外週末也有在擺攤也有100多萬的位子是要繳稅的那種，然後信用卡也有刷也有定時繳清，想問還有更多方式嗎\n\n條件>父母會當保人/必要的話可以用另一間房價更高的房子做抵押\n\n走父母安排的路很累但也不敢說累：( 誰懂\n哥哥也買了一間，但哥哥的工作能力不知道是遺傳到我爸媽還是怎樣，就完全💯沒問題"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "ppppppppp",
+    "department": "igoneatyouup",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "ppppppppp",
+    "personaUid": "igoneatyouup",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://megapx-assets.dcard.tw/images/9bed016d-7690-4a61-a197-139a79cc377c/full.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 26
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "image",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 29,
+    "mediaMeta": [
+      {
+        "id": "330eb76b-d95a-49e0-bcce-2c4a35a43363",
+        "url": "https://megapx-assets.dcard.tw/images/9bed016d-7690-4a61-a197-139a79cc377c/full.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/9bed016d-7690-4a61-a197-139a79cc377c",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/9bed016d-7690-4a61-a197-139a79cc377c/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-20T14:53:54.202Z",
+        "updatedAt": "2025-02-20T14:53:54.202Z",
+        "width": 1179,
+        "height": 583,
+        "blurhash": "NYOgA.s:xwofxukCH[WBOnayofaz0djuxboeofj["
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-02-24T02:44:04.233Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

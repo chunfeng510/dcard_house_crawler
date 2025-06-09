@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257654857",
+  "fetch_time": "2025-06-09T20:32:54.563675",
+  "posts": {
+    "id": 257654857,
+    "title": "#分享 一則以喜，一則以憂",
+    "excerpt": "小弟高中畢業後就去唸頭上這間學校，106年畢業分發到臺中市，當時就想著沒有要回南部老家了，所以107年就在同事的鼓吹之下去借信貸湊簽約金去買了附近的預售屋，而這間預售屋也在110年初交屋了。如今因個人",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-02T07:23:07.700Z",
+    "updatedAt": "2025-01-03T10:54:17.179Z",
+    "commentCount": 4,
+    "likeCount": 8,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "台中",
+      "房地產"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "臺灣警察專科學校",
+    "department": "行政警察科",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL_FULL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小弟高中畢業後就去唸頭上這間學校，106年畢業分發到臺中市，當時就想著沒有要回南部老家了，所以107年就在同事的鼓吹之下去借信貸湊簽約金去買了附近的預售屋，而這間預售屋也在110年初交屋了。\n如今因個人生涯規劃改變，決定要離開臺中市，因此便規劃把這間房子賣掉，現在也順利賣掉了，而且賣的金額比我預期的都還要高，賣價大概是買價的1.8倍吧！這是喜的部分。\n但回頭想想我是因為從事這個職業出社會的早，所以才這麼早就買房子了，看看這幾年各地的房價一案疊一案的一直往上漲，覺得已經不是像我這樣的受薪階級可以負擔得起了！這是憂的部分。\n如果我當初沒買這間房，現在要去新的城市工作買房，以我這微薄的薪水，根本難如登天，真心覺得房地產真的是一種很可怕的東西，也慶幸還好當時我有狠下心買一戶。\n在此祝每個人都能買到喜歡的房！！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 8
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 13,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "30eb7f51-0dd0-40ff-80a2-2edceb83defb",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257751447",
+  "fetch_time": "2025-06-09T20:12:41.748687",
+  "posts": {
+    "id": 257751447,
+    "title": "#建議 #購屋請益",
+    "excerpt": "各位版上前輩、大大們好！，目前已購屋，但還是想詢問版上前輩們建議。小弟購屋小白，還請大家鞭小力一點...，預售屋位址：台中水湳經貿附近，總價：1700萬 預計完工：2026 Q2，預計希望會貸款8成（",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-14T05:51:14.065Z",
+    "updatedAt": "2025-01-15T06:57:07.927Z",
+    "commentCount": 2,
+    "likeCount": 4,
+    "collectionCount": 5,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "請益",
+      "首購族",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立雲林科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": false,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位版上前輩、大大們好!\n\n目前已購屋，但還是想詢問版上前輩們建議。\n小弟購屋小白，還請大家鞭小力一點...\n\n預售屋位址:台中水湳經貿附近 \n總價:1700萬 預計完工:2026 Q2\n預計希望會貸款8成(新青安或首購貸款)\n\n開工+訂簽10%(約170萬)已結清，剩餘10%為工程款(共6期/每2個月一期約28萬)，暫收款約20萬。\n\n自身條件:\n小弟:系統廠RD年收約100萬/女友:室內設計師年收約60萬(純現金流，無特別開銷)\n\n目前總資產共約(已扣除結清款項後)為280萬(含現金/台美股資產)，目前預留現金水位足夠應付前3期工程款，剩餘為股票總資產。\n\n後面3期工程款與暫收款，會在繳至第2期工程款後，賣出股票作為繳交款項(還有現金流收入，滾動調整股票出金大小)，盡量保有中長線倉位。\n\n雖然當時硬捏買房，但還是想請問版上前輩們，此方法是否風險過大，以及分享經驗建議或是小弟有遺漏計算的地方。感謝版上前輩!🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-14T05:58:07.434Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

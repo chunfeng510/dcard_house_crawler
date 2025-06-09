@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257881498",
+  "fetch_time": "2025-06-09T20:03:40.230023",
+  "posts": {
+    "id": 257881498,
+    "title": "#問題 銀行房貸股票財力認列",
+    "excerpt": "和女友最近打算婚前高雄置產，我名下有財產所以會以他的名義借貸。 想請問哪間銀行核貸時，比較願意認列名下股票價值呢？她目前月薪四萬（家裏人自營業固定轉帳作為薪水），名下有約500萬以上等值股票，想買的建",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-01T04:56:25.041Z",
+    "updatedAt": "2025-02-01T14:23:00.454Z",
+    "commentCount": 10,
+    "likeCount": 5,
+    "collectionCount": 12,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "銀行",
+      "房貸",
+      "股票",
+      "買房",
+      "高雄"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立清華大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "和女友最近打算婚前高雄置產，我名下有財產所以會以他的名義借貸。 想請問哪間銀行核貸時，比較願意認列名下股票價值呢？ \n\n她目前月薪四萬（家裏人自營業固定轉帳作為薪水），名下有約500萬以上等值股票，想買的建案是高雄苓雅區44坪新成屋含平車，總價約1650，這樣有機會貸款八成嗎？ \n如果非新青安就可以出租，但是不是條件會比較差呢？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 29,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-01T06:33:42.034Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

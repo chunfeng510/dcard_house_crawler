@@ -1,0 +1,103 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257661387",
+  "fetch_time": "2025-06-09T20:32:42.227468",
+  "posts": {
+    "title": "#問題 （請益）夫妻年薪175萬買房",
+    "excerpt": "各位好，因近期有在看預售屋，想來了解大家購屋時的經濟水平，主要也是怕負擔不起貸款等等問題。先介紹一下基本資料：本人28y，年資約3年，工程師，月薪6w初，今年年薪約110w，因為不在GG，所以推測未來",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-03T02:43:38.688Z",
+    "updatedAt": "2025-05-09T06:31:33.086Z",
+    "commentCount": 60,
+    "likeCount": 114,
+    "collectionCount": 175,
+    "shareCount": 127,
+    "tags": [],
+    "topics": [
+      "請益",
+      "買房",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 257661387,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中央大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位好，因近期有在看預售屋，想來了解大家購屋時的經濟水平，主要也是怕負擔不起貸款等等問題。\n\n先介紹一下基本資料：\n本人28y，年資約3年，工程師，月薪6w初，今年年薪約110w，因為不在GG，所以推測未來五年薪資增長幅度不大，大概就是在120-140w，目前個人資產約100w，若購屋則家裡會再贊助200w左右。\n\n老婆26，年資3年多，行員，月薪約4w，今年年薪約70w，未來幾年薪約75w-85w(包含優存），目前個人資產約70w，購屋家裡也是贊助約200w左右。\n\n夫妻兩人都不用給孝親費，目前每月扣除房租等生活費用後平均可以存5w左右，過年&領一些獎金，一年能在額外存約40w，所以每年預計可以存90w-100w左右。\n\n目前在看的預售屋總價大概落在1700w-1800w之間的小3房，目前用首購利率試算貸款30年，寬限期3年的話，寬限期還款約20000，寬限期後約45000-50000一個月，房子都是看2026年年底至2027年年中交屋的，想請問目前這樣的共同收入若不考慮生孩子，拿來繳房貸的話還算可以嗎，謝謝各位。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 109
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 3
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 129,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-03T11:53:44.006Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

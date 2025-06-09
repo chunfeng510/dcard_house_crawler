@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257831825",
+  "fetch_time": "2025-06-09T20:04:06.438249",
+  "posts": {
+    "id": 257831825,
+    "title": "#問題 各銀行近期內規年齡限制 新青安貸不到",
+    "excerpt": "銀行一直都有內規，實際年齡減掉它們的年齡限制等於你最多可以貸款的年限，之前很多銀行大多都是７５歲的規定，去年年底問的時候也是，但目前有人分享詢問Ｘ地銀行，居然規定新青安是６５歲，新青安最高可以貸４０年",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-24T09:23:29.354Z",
+    "updatedAt": "2025-02-25T14:30:01.726Z",
+    "commentCount": 23,
+    "likeCount": 21,
+    "collectionCount": 30,
+    "shareCount": 24,
+    "tags": [],
+    "topics": [
+      "銀行",
+      "年齡",
+      "貸款",
+      "預售屋",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "臺北城市科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "銀行一直都有內規，實際年齡減掉它們的年齡限制等於你最多可以貸款的年限\n之前很多銀行大多都是７５歲的規定，去年年底問的時候也是\n\n但目前有人分享詢問Ｘ地銀行，居然規定新青安是６５歲\n新青安最高可以貸４０年\n等於你要２５歲＂交屋＂還要符合年收等資格才能４０年\n\n到底誰可以於２５歲或是２５歲以前就花個好幾百萬頭期買預售屋？\n撇除家人幫忙出錢，拿家裡錢的\n\n就算你有錢，估計也會因年收資格不符被拒或被砍\n\n想問一下有人最近要交屋可以分享其他銀行目前給的貸款年齡限制條件嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 21
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 68,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

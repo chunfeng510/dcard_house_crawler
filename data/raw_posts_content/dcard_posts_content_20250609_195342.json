@@ -1,0 +1,111 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258032046",
+  "fetch_time": "2025-06-09T19:53:42.784204",
+  "posts": {
+    "id": 258032046,
+    "title": "#問題 房屋貸款請益",
+    "excerpt": "日安，第一次買房，年紀28Y，名下無負債，無房屋去年與他人購買預售屋（不可換約），房屋類型：預售屋換約戶2025年5，6月交屋，房屋總價：1425，自備款：570，預計貸款額度：855（6成），個人條",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-19T03:46:20.193Z",
+    "updatedAt": "2025-05-12T04:29:49.730Z",
+    "commentCount": 11,
+    "likeCount": 2,
+    "collectionCount": 5,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房屋",
+      "請益",
+      "買房",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": true,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "人間煙火氣",
+    "department": "yang123tw",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "人間煙火氣",
+    "personaUid": "yang123tw",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "日安\n第一次買房，年紀28Y,名下無負債，無房屋去年與他人購買預售屋(不可換約)\n\n房屋類型：預售屋換約戶2025年5，6月交屋\n房屋總價：1425\n自備款：570\n預計貸款額度：855（6成）\n個人條件\n百大上市公司\n入職時間：3年\n薪資轉：70-85\n以上\n今天去申辦貸款土銀給予3.3%起跳嚇退我😂\n1月初詢問富邦給予2.6%且可提前繳清條款\n想問一下大家有沒有推薦的銀行建議我去試試看的？\n祝大家工作愉快\nhttps://sticker-assets.dcard.tw/images/eb4a1b38-6d25-49d1-885a-c6105c5077b5/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [
+      {
+        "id": "ea1298a1-4e2a-4e62-ad0a-06f1dcc0a980",
+        "url": "https://sticker-assets.dcard.tw/images/eb4a1b38-6d25-49d1-885a-c6105c5077b5/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/eb4a1b38-6d25-49d1-885a-c6105c5077b5",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-02-19T03:46:20.193Z",
+        "updatedAt": "2025-05-12T04:29:49.730Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KtKmXhOHA00LRPV?E-xY-T"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257811644",
+  "fetch_time": "2025-06-09T20:04:20.982518",
+  "posts": {
+    "id": 257811644,
+    "title": "#問題 如何提高貸款成數",
+    "excerpt": "目前是自營商 合夥身分，購入2198萬的預售屋 房貸1758萬，每月收入15萬以上不一定 月開銷約5萬，只有固定領現存入自己帳戶，請問自營商且為合夥身分，沒有薪轉是否貸款成數會很低呢？若要自己做薪轉需",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-21T16:09:33.229Z",
+    "updatedAt": "2025-01-25T10:00:01.902Z",
+    "commentCount": 6,
+    "likeCount": 4,
+    "collectionCount": 3,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房貸",
+      "薪轉",
+      "自營商"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "致理科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前是自營商 合夥身分\n購入2198萬的預售屋 房貸1758萬\n每月收入15萬以上不一定 月開銷約5萬\n只有固定領現存入自己帳戶\n\n請問自營商且為合夥身分\n沒有薪轉是否貸款成數會很低呢？\n若要自己做薪轉需備註薪資嗎？或是需要做扣繳憑單呢？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 32,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

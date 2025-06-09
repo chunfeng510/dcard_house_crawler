@@ -1,0 +1,101 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257761751",
+  "fetch_time": "2025-06-09T20:12:17.666450",
+  "posts": {
+    "id": 257761751,
+    "title": "#問題 無薪轉 首購擔心貸款不過？🥲",
+    "excerpt": "最近要對保 建商建議土銀整批 很緊張，工作是收現金的  沒有扣繳單，房價1568萬 已付501 貸款1067萬，約接近七成，預計年底 交屋 身上還有筆現金150萬 薪水每個月30萬左右，每個月可以存入",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-15T11:08:26.705Z",
+    "updatedAt": "2025-01-25T11:08:05.932Z",
+    "commentCount": 2,
+    "likeCount": 7,
+    "collectionCount": 13,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "買房",
+      "預售屋",
+      "購屋",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "逢甲大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近要對保 建商建議土銀整批 很緊張 \n工作是收現金的  沒有扣繳單 \n房價1568萬 已付501 貸款1067萬 \n約接近七成 \n預計年底 交屋 身上還有筆現金150萬 薪水每個月30萬左右 \n每個月可以存入至少25萬，不過每個月花費還蠻兇的至少10萬-15萬（生活費+車貸+學貸+信貸）\n貸款\n車貸 35萬 每個月30000\n信貸 10萬 每個月2300\n學貸 23萬 每個月3000\n去年10月才開始每個月固定時間存入 （在這之前 都是放需要的花費 不是固定時間放錢進去 每次至少5-10萬左右 所以這個帳戶在做帳之前都是存進去 到月底用光 其餘現金因為生意關係都會放保險箱）\n土銀人員建議另外150萬去做半年以上的定存\n然後再另外每個月做帳 \n很怕公股銀行不會過😓\n不知道最近有沒有跟我一樣的例子？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 15,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-15T14:53:56.934Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

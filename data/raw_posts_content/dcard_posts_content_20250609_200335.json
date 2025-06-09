@@ -1,0 +1,149 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257885512",
+  "fetch_time": "2025-06-09T20:03:35.489062",
+  "posts": {
+    "id": 257885512,
+    "title": "#問題#請問這樣有符合首購嗎？",
+    "excerpt": "最近在看房，但家人告知名下有間小小套房（面積未滿40平方公尺），想請問我這樣有符合首購資格嗎？還是只能以第二戶房貸貸款5成？* 有些文章是寫‘共同’持有房屋面積小於40平方公尺 符合首購，對這部分有疑",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-01T15:47:34.569Z",
+    "updatedAt": "2025-02-02T17:20:03.645Z",
+    "commentCount": 1,
+    "likeCount": 0,
+    "collectionCount": 1,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "問題",
+      "請問",
+      "首購族",
+      "買房",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "長庚科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近在看房，但家人告知名下有間小小套房（面積未滿40平方公尺），想請問我這樣有符合首購資格嗎？\n還是只能以第二戶房貸貸款5成？\n\n* 有些文章是寫‘共同’持有房屋面積小於40平方公尺 符合首購，對這部分有疑慮，想詢問專家\nhttps://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/f32ff817-04a9-4e72-8e3b-4885613acaa0/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/9a0c4513-8f64-40ef-82d2-0e2ef5112843/orig.jpeg",
+    "reactions": [],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 1,
+    "mediaMeta": [
+      {
+        "id": "abb134f0-dfa7-4281-8661-f36046500102",
+        "url": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-01T15:47:34.569Z",
+        "updatedAt": "2025-02-01T15:47:34.569Z",
+        "width": 160,
+        "height": 160,
+        "blurhash": "KBOpodcF^+0MkWxa?vMxoc"
+      },
+      {
+        "id": "abb134f0-dfa7-4281-8661-f36046500102",
+        "url": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-01T15:47:34.569Z",
+        "updatedAt": "2025-02-01T15:47:34.569Z",
+        "width": 1536,
+        "height": 1536,
+        "blurhash": "KBOpodcF^+0MkWxa?vMxoc"
+      },
+      {
+        "id": "665c95b0-d5b7-418e-bbb3-025922241f4c",
+        "url": "https://megapx-assets.dcard.tw/images/f32ff817-04a9-4e72-8e3b-4885613acaa0/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/f32ff817-04a9-4e72-8e3b-4885613acaa0",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/f32ff817-04a9-4e72-8e3b-4885613acaa0/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-01T15:47:34.569Z",
+        "updatedAt": "2025-02-01T15:47:34.569Z",
+        "width": 1179,
+        "height": 2448,
+        "blurhash": "lMP@OoNu%g0wn,ofISn$w}9Xf*s;9Yj[o|EJjaog"
+      },
+      {
+        "id": "8fb0bd42-f13a-4979-b15a-e2816754e771",
+        "url": "https://megapx-assets.dcard.tw/images/9a0c4513-8f64-40ef-82d2-0e2ef5112843/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/9a0c4513-8f64-40ef-82d2-0e2ef5112843",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/9a0c4513-8f64-40ef-82d2-0e2ef5112843/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-01T15:47:34.569Z",
+        "updatedAt": "2025-02-01T15:47:34.569Z",
+        "width": 1179,
+        "height": 1382,
+        "blurhash": "TFQA2ARk-;4Tazxu%hWBWB-:WARj"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/6f53a510-7a50-451e-8ea1-a006685a54df/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/f32ff817-04a9-4e72-8e3b-4885613acaa0/orig.jpeg",
+      "https://megapx-assets.dcard.tw/images/9a0c4513-8f64-40ef-82d2-0e2ef5112843/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

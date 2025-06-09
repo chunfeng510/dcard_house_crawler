@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257681947",
+  "fetch_time": "2025-06-09T20:32:03.717330",
+  "posts": {
+    "id": 257681947,
+    "title": "#問題 送審核信貸會影響房貸嗎？",
+    "excerpt": "我大約10-11月的時候有送審3間銀行的信貸，都有到核准的階段，但是最後都沒有貸，最近1月才突然要買房子，看了一間1000萬初頭的中古屋，想請問會不會因為我幾個月前信貸拉了聯徵紀錄而影響我的信用評分，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-05T13:07:37.562Z",
+    "updatedAt": "2025-01-07T12:13:56.729Z",
+    "commentCount": 7,
+    "likeCount": 1,
+    "collectionCount": 6,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "sun",
+    "department": "misssunny",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "sun",
+    "personaUid": "misssunny",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我大約10-11月的時候有送審3間銀行的信貸\n都有到核准的階段，但是最後都沒有貸\n最近1月才突然要買房子，看了一間1000萬初頭的中古屋\n想請問會不會因為我幾個月前信貸拉了聯徵紀錄而影響我的信用評分，以至於我申請房貸會有問題？\n\n目前名下沒有負債、沒有貸款\n信用卡皆正常繳款\n月薪約5-6萬，但是我九月才開始重新工作（之前在讀書\n股票約60萬、有一張儲蓄險保單250萬\n想要用新青安申請房貸870萬\n房仲有說那間房子銀行估價1100萬可貸八成\n\n這樣的條件會不會很差QQ",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-05T13:09:10.380Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

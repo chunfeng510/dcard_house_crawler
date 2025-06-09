@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257966256",
+  "fetch_time": "2025-06-09T19:58:02.819109",
+  "posts": {
+    "id": 257966256,
+    "title": "#建議 房貸",
+    "excerpt": "最近買了一間一千初的房子，使用新青安，銀行給了兩個方案，1. 35年，2.40年，但需要買一個10萬的保險，35年與40年的貸款，每個月還款會差3000，本人比較偏好40年+保險的選項，但家人普遍覺得",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-12T00:23:38.582Z",
+    "updatedAt": "2025-04-02T09:17:51.504Z",
+    "commentCount": 46,
+    "likeCount": 45,
+    "collectionCount": 34,
+    "shareCount": 19,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔仁大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近買了一間一千初的房子\n使用新青安，銀行給了兩個方案，\n1. 35年\n2.40年，但需要買一個10萬的保險\n\n35年與40年的貸款，每個月還款會差3000\n本人比較偏好40年+保險的選項，\n但家人普遍覺得35年貸款趕快還完比較好\n\n請問大家的想法呢⋯⋯🥹",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 44
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 73,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

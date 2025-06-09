@@ -1,0 +1,106 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257582837",
+  "fetch_time": "2025-06-09T20:34:41.729989",
+  "posts": {
+    "id": 257582837,
+    "title": "#問題 房貸成數請益",
+    "excerpt": "買了一件預售屋2026初應該會交屋，但最近去銀行辦事的時候隨口問了房貸，中信跟國泰都說我的資格貸款不了8成，想來請益有沒有人跟我條件差不多的有貸款成功，雖然離交屋還很大的時間但有點害怕貸款不了8成🥲，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-24T10:00:36.175Z",
+    "updatedAt": "2025-04-03T10:55:20.199Z",
+    "commentCount": 19,
+    "likeCount": 22,
+    "collectionCount": 19,
+    "shareCount": 10,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "abby",
+    "department": "abby24860898",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "abby",
+    "personaUid": "abby24860898",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "買了一件預售屋2026初應該會交屋\n但最近去銀行辦事的時候隨口問了房貸\n中信跟國泰都說我的資格貸款不了8成\n想來請益有沒有人跟我條件差不多的有貸款成功\n雖然離交屋還很大的時間但有點害怕貸款不了8成🥲\n\n\n房屋地點高雄市區\n房價：1100\n預計貸款金額：850\n\n\n我的條件\n（聯徵紀錄正常）\n不是公務員也不是百大企業\n年資五年，辦公室行政人員年薪60萬（有薪轉）\n無任何負債\n（目前的活存100多萬會在之後使用執照時繳掉，等於快清空活存存款）\n\n另外有一筆晚上下班後去夜市工作的收入\n（領現金）每個月34000/固定15號存現金進戶頭已超過一年\n\n房貸是絕對可以負擔得起，未婚夫月薪超過十萬會幫忙一起付房貸，只是房子掛我的名下，想請問有沒有人條件跟我差不多也有順利貸款到的\n\nhttps://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 22
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 58,
+    "mediaMeta": [
+      {
+        "id": "86cc0847-febf-4180-8a78-9125c468c057",
+        "url": "https://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2024-12-24T10:00:36.175Z",
+        "updatedAt": "2025-04-03T10:55:20.199Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K}I}@hRj00axofj[IUWBt7"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2024-12-24T12:16:52.560Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx.dcard.tw/v1/images/f91a9fea-8f1f-4b33-9919-49466c4569d4/encode/full",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257777714",
+  "fetch_time": "2025-06-09T20:11:36.070321",
+  "posts": {
+    "id": 257777714,
+    "title": "#問題 賣房 售後回租 何時開始算才合理",
+    "excerpt": "我們在去年12月時，順利找到買方簽完買賣合約後，原先買方是要用房屋貸款，且我們也先談好售後回租一年的月租金額了，但簽約當天買方看代書在合約上寫的最後結案日114.2/28（因為時間臨近過年怕過戶時間會",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-17T11:09:16.736Z",
+    "updatedAt": "2025-01-17T11:09:16.736Z",
+    "commentCount": 4,
+    "likeCount": 2,
+    "collectionCount": 4,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房子",
+      "中古屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "義守大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我們在去年12月時，順利找到買方簽完買賣合約後，原先買方是要用房屋貸款，且我們也先談好售後回租一年的月租金額了，但簽約當天買方看代書在合約上寫的最後結案日114.2/28（因為時間臨近過年怕過戶時間會拖延所以是代書有先壓了日期若買方房貸不足的金額需要這在這之前匯入）\n結果買方直接說要現場先簽一年租賃合約且以代書壓得日期為租房的第一天，還說要直接收押金5000，\n好 我們想想這樣對他也比較有保障，簽完了隔沒一個禮拜買方打給我說，他們現在 想要用全現金不貸款了，問說提早結案的話能否提早開始租賃合約，我回覆說當然可以，若代書那邊流程都可以了，提早結案當然可以提早履行合約（我猜他們覺得回租給我們便宜所以想儘早結束，租給其他人她才不虧）。\n好了 今天代書約禮拜一中午雙方點交ok的話直接簽完文件就結案，結果他們可能看最近有收到文件說房地都過戶了，就說那就以今天114.1/17當租賃第一天，約我們明天簽合約，我先生就怒了但也客氣回覆說 不好意思 要等結案後 房屋交屋點交完\n我們再簽租賃合約 代書說這樣對我們雙方都比較有保障喔 \n跟你們約結案後可以嗎？\n結果他們就怒了說這樣他不要租我們這麼久了他要回租我們半年就好？\n我認真傻眼🙄️也有點被搞混，\n到底售後回租日是以房地產權轉移後開始算還是買賣結案日呢🥹🥹",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 7,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257777480",
+  "fetch_time": "2025-06-09T20:11:40.212459",
+  "posts": {
+    "id": 257777480,
+    "title": "#問題 重購退稅",
+    "excerpt": "想問問版上的各位，男友大約兩年前跟前女友買了房子，房子是共同持有的情況，貸款也是一人一半，後來分手了，我們有計劃賣掉目前這間再買一間比較大坪數的，但是關於重購退稅的問題想請問，舊房子在共同持有的情況下",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-17T10:33:30.634Z",
+    "updatedAt": "2025-05-05T03:05:32.871Z",
+    "commentCount": 3,
+    "likeCount": 1,
+    "collectionCount": 1,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "退稅",
+      "買房",
+      "請益",
+      "房地產",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立嘉義大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想問問版上的各位\n男友大約兩年前跟前女友買了房子\n房子是共同持有的情況，貸款也是一人一半\n後來分手了\n我們有計劃賣掉目前這間再買一間比較大坪數的\n但是關於重購退稅的問題想請問\n舊房子在共同持有的情況下如果他們雙方同意賣掉那男友再跟我買另一間房子這樣可以退稅嗎？\n還是他跟他前女友都要在各買一間才可以退到稅？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257729080",
+  "fetch_time": "2025-06-09T20:29:22.822838",
+  "posts": {
+    "id": 257729080,
+    "title": "#問題 建商整批房貸真的會比較好過嗎？",
+    "excerpt": "預售屋準備要對保了，希望貸款1100萬，建商配合的民營銀行條件 40年/寬3/2.5%起，本身比較想使用新青安，詢問土銀條件青安 1000萬/40年/寬5/1.775%， 100萬/30年/寬3/2.",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-11T07:33:12.577Z",
+    "updatedAt": "2025-05-16T10:31:37.048Z",
+    "commentCount": 27,
+    "likeCount": 21,
+    "collectionCount": 42,
+    "shareCount": 43,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立虎尾科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "預售屋準備要對保了，希望貸款1100萬\n建商配合的民營銀行條件 40年/寬3/2.5%起\n本身比較想使用新青安，詢問土銀條件青安 1000萬/40年/寬5/1.775%， 100萬/30年/寬3/2.6%\n兩間寬後月付金都在38k左右，但新青安前期輕鬆非常多\n由於收支比逼近上限怕貸不過或降成數\n會因爲建商團貸比較好過而建議跟建商的嗎？\n建商團貸跟自己找(公股)有人能分享具體差異嗎🥹\nhttps://sticker-assets.dcard.tw/images/05c2c9f2-5310-43e1-979c-08f57ad0d7dc/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 21
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 51,
+    "mediaMeta": [
+      {
+        "id": "164959d7-3d4c-4282-9815-94ef2d7837b6",
+        "url": "https://sticker-assets.dcard.tw/images/05c2c9f2-5310-43e1-979c-08f57ad0d7dc/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/05c2c9f2-5310-43e1-979c-08f57ad0d7dc",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-01-11T07:34:09.160Z",
+        "updatedAt": "2025-05-05T19:28:57.816Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K#I:ysoK0*IsoKs.9wR+$~"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-01-11T07:34:09.164Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

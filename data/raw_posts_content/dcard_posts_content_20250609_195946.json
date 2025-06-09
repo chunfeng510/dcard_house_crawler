@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257918801",
+  "fetch_time": "2025-06-09T19:59:46.437732",
+  "posts": {
+    "id": 257918801,
+    "title": "#問題 向民間辦理二胎房貸後一直收到廣告信",
+    "excerpt": "想請問各位大大，目前小妹我有一個大煩惱，之前用我名下的房子跟民間二胎房貸，辦下來才知道他們有設定預告登記，開始很多貸款公司開始會投我家裡信箱甚至知道我的本名（因為有辦理預告登記，房屋謄本上會顯示我的本",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-06T04:48:12.038Z",
+    "updatedAt": "2025-02-06T04:48:12.038Z",
+    "commentCount": 2,
+    "likeCount": 1,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "民間",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "卡稱大",
+    "department": "oioilslsls",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "卡稱大",
+    "personaUid": "oioilslsls",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請問各位大大\n目前小妹我有一個大煩惱\n\n\n之前用我名下的房子跟民間二胎房貸\n辦下來才知道他們有設定預告登記\n\n\n開始很多貸款公司開始會投我家裡信箱甚至知道我的本名（因為有辦理預告登記，房屋謄本上會顯示我的本名）\n\n\n二胎房貸這件事因為家人不知道\n最近我都要很小心家人去開信箱\n每天都要提心吊膽嗚嗚嗚嗚嗚\n\n想請問大家有沒有同樣經驗能分享如何避免嗎～～\n或是直接向我家管理室警衛說拒收廣告信？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 9,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

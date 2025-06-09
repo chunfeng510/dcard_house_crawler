@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257591509",
+  "fetch_time": "2025-06-09T20:34:30.157646",
+  "posts": {
+    "id": 257591509,
+    "title": "#問題 預售屋房貸",
+    "excerpt": "想請問各位前輩：近期在桃園平鎮（近龍崗）簽約了一間預售屋，權狀共27.48坪、總價877萬，建案資訊以及簽約時建商告知預估可貸八成701萬元，屆時整批送件合作銀行為華南銀行。個人基本背景如下：1、年齡",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-25T09:08:58.363Z",
+    "updatedAt": "2024-12-31T03:57:53.857Z",
+    "commentCount": 9,
+    "likeCount": 19,
+    "collectionCount": 10,
+    "shareCount": 9,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "房貸",
+      "貸款",
+      "桃園",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立彰化師範大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請問各位前輩：\n\n近期在桃園平鎮（近龍崗）簽約了一間預售屋，權狀共27.48坪、總價877萬，建案資訊以及簽約時建商告知預估可貸八成701萬元，屆時整批送件合作銀行為華南銀行。\n\n個人基本背景如下：\n1、年齡27歲，上櫃半導體業工作、年資約1.6年，預計明年交屋時年資約2.6年。\n2、今年度薪轉收入約61萬元。\n3、名下無房，符合首購及新青安資格。\n4、有一筆三十萬元的學貸未還且未到期，此外無其他負債。\n5、今年度自查信用評分為704分，目前擁有信用卡：國泰10萬、台新15萬、聯邦13萬，皆正常準時繳納，無欠費或循環利息。\n\n預計明年在交屋前會與女友登記結婚（預計共同負擔房貸），若有必要時可請她當保人；想請問這樣的條件下會有機會貸到八成、四十年嗎？\n\n再麻煩有經驗的前輩們多分享看法了，由衷地謝謝各位🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 19
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 26,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2024-12-30T06:55:52.017Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

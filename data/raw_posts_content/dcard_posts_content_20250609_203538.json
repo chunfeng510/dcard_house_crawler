@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257535522",
+  "fetch_time": "2025-06-09T20:35:38.623568",
+  "posts": {
+    "id": 257535522,
+    "title": "#問題 房貸相關疑問",
+    "excerpt": "大家好，本人先前任職於科技業，年薪約180W，名下有兩棟家裡的老透天掛名，無房貸、無實際處置權，因家庭因素辭職休息了半年，預計年後要開始找工作，但最近超級想買房子，頭期老早就存到了，只是前幾年經常出差",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-18T14:35:41.020Z",
+    "updatedAt": "2024-12-18T15:28:23.460Z",
+    "commentCount": 9,
+    "likeCount": 16,
+    "collectionCount": 6,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "相關",
+      "疑問",
+      "投資",
+      "理財"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立清華大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，本人先前任職於科技業，年薪約180W，名下有兩棟家裡的老透天掛名，無房貸、無實際處置權，因家庭因素辭職休息了半年，預計年後要開始找工作，但最近超級想買房子，頭期老早就存到了，只是前幾年經常出差，工作地點變來變去，所以一直想說確定地點再買房子，but最近突然頓悟人生本來就經常變動，我個性也比較隨興，與其再這樣等下去不如現在找個預售屋直接簽了，反正不管我下個工作在不在買房地點，也有可能再換工作啊，大不了之後若無法自住就賣出或工作地點第二間房先捏下去買，再看後續怎麼嘎😂廢話完了我有以下問題XD\n\n1. 選擇找預售屋是因為現在待業中，房貸應該比較難貸對吧？預售屋可延後貸款時程(順便督促自己趕快找工作)，這樣處理有問題嗎？\n\n2. 2-3年內交屋，若之後工作地點不在買房區，我可能會想在工作地點再捏一屋中古屋，這種狀況下，中古屋變成是首購貸款，那等我預售交屋時，第二屋只能貸5成的狀況下，自備款不夠的部分我去貸信貸以免違約，之後再賣掉預售屋還信貸順便賺價差(目前預計買屋的地點應該很難跌)，以上操作會有問題嗎？是否有我沒考慮到的地方？\n\n3. 名下有 無貸款的老透天 在辦房貸時算財力證明嗎？能加分嗎？還是房貸不看這個，除非拿去抵押？\n\n4. 我是不是太急了🫠🫠🫠🫠🫠還是真的要找到工作確定地點再買勒，我實在很怕到明年房子又漲價了，我前幾年就是不斷的在FOMO🥲\n\n以上，感謝大家看完我的廢話連篇😂",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 16
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 20,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2024-12-18T15:18:40.796Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

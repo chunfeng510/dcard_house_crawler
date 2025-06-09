@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257771329",
+  "fetch_time": "2025-06-09T20:11:45.512400",
+  "posts": {
+    "id": 257771329,
+    "title": "#問題 房貸 壽險 方案請教",
+    "excerpt": "想請教各位本身是首購+符合新青安，購買預售屋地點在高雄，還沒對保但銀行口頭告知有機會辦到85成（0.5成大概70萬），但必須搭配房貸壽險才有機會貸到，變成新青安1000萬40年 +190萬 2.5%+",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-16T14:06:48.393Z",
+    "updatedAt": "2025-01-17T11:25:40.745Z",
+    "commentCount": 10,
+    "likeCount": 2,
+    "collectionCount": 2,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "壽險",
+      "方案",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請教各位本身是首購+符合新青安\n購買預售屋地點在高雄，還沒對保但銀行口頭告知有機會辦到85成（0.5成大概70萬），\n但必須搭配房貸壽險才有機會貸到，變成新青安1000萬40年 +190萬 2.5%+房貸壽險\n\n爬文了許久還是沒辦法決定（今年年齡30目前單身無子女，有終身的壽險但額度只有100左右）\n\n能貸到85成是蠻誘人的但就是不知道該不該為了多 貸70萬買壽險還是就單純貸八成\n還是要再送其他間看看呢",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 25,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-17T11:25:40.752Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

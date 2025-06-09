@@ -1,0 +1,145 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258080786",
+  "fetch_time": "2025-06-09T19:52:06.777860",
+  "posts": {
+    "id": 258080786,
+    "title": "#資訊 限貸令衝擊！2025年房貸額度縮水，買房更難？",
+    "excerpt": "限貸令衝擊！2025年房貸額度縮水，買房更難？農曆年後，想買房的民眾最關心的問題是：銀行還有多少房貸額度？2025年八大行庫的新房貸額度僅約6，000億元，比去年的7，500億元少了1，500億元，意",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-23T17:37:14.853Z",
+    "updatedAt": "2025-05-29T17:51:40.778Z",
+    "commentCount": 10,
+    "likeCount": 15,
+    "collectionCount": 23,
+    "shareCount": 24,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "投資",
+      "額度",
+      "台中",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "小麥🌾の台中預售屋",
+    "department": "happy1208",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "小麥🌾の台中預售屋",
+    "personaUid": "happy1208",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "限貸令衝擊！2025年房貸額度縮水，買房更難？\n\n農曆年後，想買房的民眾最關心的問題是：銀行還有多少房貸額度？2025年八大行庫的新房貸額度僅約6,000億元，比去年的7,500億元少了1,500億元，意味著貸款審核更嚴格，尤其是中古屋買家，可能會面臨挑戰\n\n為何房貸額度變少？\n\n主要是央行的總量管制，要求銀行降低房貸業務量。例如，銀行的房貸占比普遍超過35%，遠高於銀行法72條之2的28%警戒線，因此銀行不得不收緊放貸\n\n誰最受影響？\n\n今年銀行優先保留房貸額度給建商的整批性房貸，意味著買預售屋、新成屋的民眾較容易申請到貸款，且利率條件較佳。反之，買中古屋的民眾會更難貸到款，需要多跑幾家銀行，甚至尋求代書協助\n\n如何提高申貸成功率？\n\t1.\t詢問建商合作銀行：若購買預售屋，優先選擇建商配合的銀行\n\t2.\t透過房仲推薦：部分銀行對熟悉的仲介案件較願意放款\n\t3.\t提升與銀行的往來：部分銀行將房貸額度優先提供給有財管往來的客戶，因此與銀行建立財務關係，可能有助於貸款申請\n\n🏡 加入「小麥の房地產交流平台」，隨時掌握台中最新房市動態！\n👉 \nhttps://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/orig.jpeg\nhttps://reurl.cc/6j7e1Z",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 13
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 23,
+    "mediaMeta": [
+      {
+        "id": "5ee9d8de-e2f0-4dd4-9c91-1663fc5b9731",
+        "url": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-23T17:37:14.853Z",
+        "updatedAt": "2025-02-23T17:37:14.853Z",
+        "width": 90,
+        "height": 160,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 256,
+          "width": 1284,
+          "height": 770
+        },
+        "blurhash": "c85}pxWB9Ft7ayof00j[?bIUofRj%MfRIU"
+      },
+      {
+        "id": "5ee9d8de-e2f0-4dd4-9c91-1663fc5b9731",
+        "url": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-23T17:37:14.853Z",
+        "updatedAt": "2025-02-23T17:37:14.853Z",
+        "width": 1284,
+        "height": 2282,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 256,
+          "width": 1284,
+          "height": 770
+        },
+        "blurhash": "c85}pxWB9Ft7ayof00j[?bIUofRj%MfRIU"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/5f4bc7eb-87ff-49a6-bf4f-5f0ec6a58350/orig.jpeg",
+      "https://reurl.cc/6j7e1Z"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

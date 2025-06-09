@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257948204",
+  "fetch_time": "2025-06-09T19:58:54.440783",
+  "posts": {
+    "id": 257948204,
+    "title": "#問題 預售屋房貸與信貸請益",
+    "excerpt": "感謝B4的資訊 已拿到今年的扣繳憑單，已更新個人條件與問題，以下正文，——，各位大大，由於最近預售屋在正申請使用執照中，準備進行房貸，有問題想請益，個人條件如下：現年31歲，單身無配偶，目前月收9.5",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-09T16:29:39.877Z",
+    "updatedAt": "2025-02-11T03:51:42.331Z",
+    "commentCount": 10,
+    "likeCount": 7,
+    "collectionCount": 13,
+    "shareCount": 4,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "房貸",
+      "信貸",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "安德魯",
+    "department": "tcc_jc",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "安德魯",
+    "personaUid": "tcc_jc",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "感謝B4的資訊 已拿到今年的扣繳憑單\n已更新個人條件與問題\n以下正文\n——\n各位大大，由於最近預售屋在正申請使用執照中，準備進行房貸\n有問題想請益\n\n個人條件如下:\n現年31歲，單身無配偶，目前月收9.5萬在上市科技業擔任工程師約3年 (工作總年資6年)。\n2024扣繳憑單 稅前年薪220萬\n\n信用卡繳款正常\n兩年前申辦150萬信貸，利率1.98%，目前剩餘107萬，月還款2萬。\n身上活存現金可以清償信貸(但清償後所剩不多)，名下無任何其他財產\n因為當初的信貸利率不錯，正在猶豫是否需要先清償信貸。\n\n房屋情況如下:\n預售屋地點在竹南，預售屋總價1400萬，希望能貸到8成也就是1120萬。\n這間是首購且建商有配合銀行(但建商合約是寫預計房貸7.5成)。\n若建商配合銀行條件不好，也接受自行尋找其他銀行承辦。\n\n個人有意願配合房屋壽險。\n\n想請問以現在較困難的房貸情況:\n1. 如果沒有清償信貸，以我的條件有機會貸到8成分期40年嗎?\n(若1000走新青安40年, 剩餘120走一般房貸30年也可接受）\n\n想跟各位請教，謝謝。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 7
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 24,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-10T02:38:58.355Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

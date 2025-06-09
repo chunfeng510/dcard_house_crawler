@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257975094",
+  "fetch_time": "2025-06-09T19:55:21.949673",
+  "posts": {
+    "id": 257975094,
+    "title": "預售屋房貸詢問",
+    "excerpt": "第一次買房，上半年會對保！，我是自營商，有營登沒有薪資證明，（有自己轉帳給自己，備註：薪資），不知道這樣算不算，存摺印出來是沒有顯示在上面😭，今年27歲，年收約130-150萬，買1860的房子，希望",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-13T01:27:57.875Z",
+    "updatedAt": "2025-02-15T02:22:03.635Z",
+    "commentCount": 6,
+    "likeCount": 4,
+    "collectionCount": 7,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "  ",
+    "department": "miss_bread",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "  ",
+    "personaUid": "miss_bread",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "第一次買房，上半年會對保！\n我是自營商，有營登沒有薪資證明\n（有自己轉帳給自己，備註：薪資）\n不知道這樣算不算，存摺印出來是沒有顯示在上面😭\n\n今年27歲\n年收約130-150萬\n買1860的房子，希望貸款8成\n會跟建商配合的銀行！\n想問這樣是不是需要保人？\n或是需要買房屋壽險？\n如果需要保人\n爸爸是退伍軍人57歲，領終身俸約4萬\n這樣的保人，銀行會認嗎？\n\n我沒有買股票或是其他資產\n需要多準備什麼資料會比較容易過？\n\n麻煩各位前輩們，幫我解答了🥹🥹\n謝謝大家～",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 14,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

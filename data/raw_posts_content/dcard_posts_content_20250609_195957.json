@@ -1,0 +1,128 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257905456",
+  "fetch_time": "2025-06-09T19:59:57.878336",
+  "posts": {
+    "id": 257905456,
+    "title": "#資訊 分享！最新房貸利率情形！",
+    "excerpt": "依照經驗，預計5月過後情況會更加艱辛，買方能負擔的總價會隨著利率提升而降低，跟去年9-12月時差不多情況！，辛苦各位想買房的朋友們了🥲，有任何買賣房屋問題歡迎詢問🙋，謝謝🙏",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-04T10:38:19.755Z",
+    "updatedAt": "2025-06-03T12:03:38.288Z",
+    "commentCount": 20,
+    "likeCount": 257,
+    "collectionCount": 221,
+    "shareCount": 302,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "買房",
+      "購屋",
+      "最新",
+      "分享"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "image",
+      "annotation": "依照經驗，預計5月過後情況會更加艱辛\n買方能負擔的總價會隨著利率提升而降低\n跟去年9-12月時差不多情況！\n辛苦各位想買房的朋友們了🥲\n\n有任何買賣房屋問題歡迎詢問🙋\n謝謝🙏"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "一拳超人👊",
+    "department": "echang0601",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "一拳超人👊",
+    "personaUid": "echang0601",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://megapx-assets.dcard.tw/images/f578cb51-3763-4378-b7d4-b05e08e70b96/1280.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 252
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 3
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "image",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 69,
+    "mediaMeta": [
+      {
+        "id": "b2bdc3d8-77ef-406f-b2d7-7c3183066089",
+        "url": "https://megapx-assets.dcard.tw/images/f578cb51-3763-4378-b7d4-b05e08e70b96/1280.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/f578cb51-3763-4378-b7d4-b05e08e70b96",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/f578cb51-3763-4378-b7d4-b05e08e70b96/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-04T10:38:19.755Z",
+        "updatedAt": "2025-05-18T11:53:22.439Z",
+        "width": 932,
+        "height": 1756,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 186,
+          "width": 932,
+          "height": 559
+        },
+        "blurhash": "lFO{p:Ro~V_$-Vbv5m%2RPyYx]R%m*%LR*O?oMr?"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx-assets.dcard.tw/images/fafc25b6-c9d0-4037-a574-67cf0b09de48/full.jpeg",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": true,
+    "officialCreatorBadge": false
+  }
+}

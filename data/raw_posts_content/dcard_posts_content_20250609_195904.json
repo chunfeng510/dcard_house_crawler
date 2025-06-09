@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257940636",
+  "fetch_time": "2025-06-09T19:59:04.990661",
+  "posts": {
+    "id": 257940636,
+    "title": "#問題 房貸利率",
+    "excerpt": "最近預售屋使照下來準備要貸款，個人去年所得大約170w，想問三重 或新莊 的金融機構，使用新青安35+5 超過1000w的部分 首購利率有機會低於2.3%嗎",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-08T16:36:32.731Z",
+    "updatedAt": "2025-03-30T16:03:06.470Z",
+    "commentCount": 13,
+    "likeCount": 7,
+    "collectionCount": 14,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "利率",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "meGO",
+    "department": "jaboz",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "meGO",
+    "personaUid": "jaboz",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近預售屋使照下來準備要貸款\n個人去年所得大約170w\n\n想問三重 或新莊 的金融機構\n使用新青安35+5 超過1000w的部分 首購利率有機會低於2.3%嗎",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 7
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 24,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

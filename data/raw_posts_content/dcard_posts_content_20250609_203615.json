@@ -1,0 +1,119 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257524112",
+  "fetch_time": "2025-06-09T20:36:15.627797",
+  "posts": {
+    "id": 257524112,
+    "title": "#問題 竹北高鐵附近3個月內一坪跌30萬的房子到底在哪裡！？",
+    "excerpt": "央行出重手打炒房，祭出限貸令，全台10月份的預售屋交易量，只剩4，600件，創下近20個月新低，有網友發現，在竹北高鐵附近的高檔社區房價下跌，晚3個月購買，總價直接少掉1千萬元。眼看央行在下禮拜四，要",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-17T10:23:20.718Z",
+    "updatedAt": "2024-12-17T10:23:20.718Z",
+    "commentCount": 5,
+    "likeCount": 13,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "問題",
+      "竹北",
+      "高鐵",
+      "投資",
+      "購物"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中國醫藥大學",
+    "replyTitle": null,
+    "personaSubscriptable": false,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "央行出重手打炒房，祭出限貸令，全台10月份的預售屋交易量，只剩4，600件，創下近20個月新低，有網友發現，在竹北高鐵附近的高檔社區房價下跌，晚3個月購買，總價直接少掉1千萬元。眼看央行在下禮拜四，要召開今年最後一次的 「理監事聯席會議」，不少人關心，會不會再有第8波信用管制。房仲直言，房市現在已經進入加護病房，一旦央行再有動作，就是再拔掉呼吸器！\n\nhttps://youtu.be/HzeMkAjuCj0?si=GDKU5mDd95cs8F9-",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 13
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [
+      {
+        "id": "036c6b7c-e2e6-4ca8-8edd-d03dda2d9d08",
+        "url": "https://img.youtube.com/vi/HzeMkAjuCj0/hqdefault.jpg",
+        "normalizedUrl": "https://img.youtube.com/vi/HzeMkAjuCj0/hqdefault.jpg",
+        "thumbnail": "https://img.youtube.com/vi/HzeMkAjuCj0/hqdefault.jpg",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2024-12-17T10:23:20.718Z",
+        "updatedAt": "2024-12-17T10:23:20.718Z"
+      },
+      {
+        "id": "036c6b7c-e2e6-4ca8-8edd-d03dda2d9d08",
+        "url": "https://youtu.be/HzeMkAjuCj0?si=GDKU5mDd95cs8F9-",
+        "normalizedUrl": "https://www.youtube.com/watch?v=HzeMkAjuCj0",
+        "thumbnail": "https://img.youtube.com/vi/HzeMkAjuCj0/hqdefault.jpg",
+        "type": "video/youtube",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2024-12-17T10:23:20.718Z",
+        "updatedAt": "2024-12-17T10:23:20.718Z"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://youtu.be/HzeMkAjuCj0?si=GDKU5mDd95cs8F9-"
+    ],
+    "enableListLinkPreview": true,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257759413",
+  "fetch_time": "2025-06-09T20:12:23.938811",
+  "posts": {
+    "id": 257759413,
+    "title": "#問題 房屋貸款請益",
+    "excerpt": "計畫二胎預計換屋，以下為購屋人條件，妻：公營醫院護理師，名下無房產，年薪約70（每年穩定調薪），有信貸121萬利率2.68%（已繳兩年剩餘約88萬，穩定還款，月還款16xxx），夫：消防，名下一房產（",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-15T05:59:31.198Z",
+    "updatedAt": "2025-01-15T05:59:31.198Z",
+    "commentCount": 5,
+    "likeCount": 3,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "日常花錢",
+    "department": "n_______",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "日常花錢",
+    "personaUid": "n_______",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "計畫二胎預計換屋\n以下為購屋人條件\n妻：公營醫院護理師，名下無房產，年薪約70（每年穩定調薪），有信貸121萬利率2.68%（已繳兩年剩餘約88萬，穩定還款，月還款16xxx)\n夫：消防，名下一房產（掛賣中），近期有增貸350萬，總房貸950萬，年薪約120\n\n標的：桃園20年中古屋（3房2廳2衛）\n成交價：1300（含車位）\n房屋購買人為妻，夫掛保證人\n\n希望貸款成數：8成1040萬\n\n自算過收支比大概6成多一些，請問有機會嗎🥲",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

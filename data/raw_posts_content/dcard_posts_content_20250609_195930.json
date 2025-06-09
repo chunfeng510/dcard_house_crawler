@@ -1,0 +1,126 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257925909",
+  "fetch_time": "2025-06-09T19:59:30.614260",
+  "posts": {
+    "id": 257925909,
+    "title": "#問題 貸款成數請益",
+    "excerpt": "夫妻均是公教人員，我：名下有房無貸，妻：名下有房有貸，若想以我名義購買房屋，貸款條件我的理解是，1.新青安（x），2.首購（0），3.成數最高8成（o），4.寬限期（0），不知有無錯誤，還請版友幫忙，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-07T02:02:24.391Z",
+    "updatedAt": "2025-02-08T11:22:40.733Z",
+    "commentCount": 6,
+    "likeCount": 1,
+    "collectionCount": 3,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "問題",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "低頭做",
+    "department": "kidd523",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "低頭做",
+    "personaUid": "kidd523",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "夫妻均是公教人員\n我：名下有房無貸\n妻：名下有房有貸\n若想以我名義購買房屋，貸款條件我的理解是\n1.新青安（x）\n2.首購（0）\n3.成數最高8成（o）\n4.寬限期（0）\n不知有無錯誤，還請版友幫忙，謝謝！\nhttps://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [
+      {
+        "id": "c062f03a-e474-4989-9cad-64509a3b934b",
+        "url": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-07T02:02:24.391Z",
+        "updatedAt": "2025-02-07T02:02:24.391Z",
+        "width": 160,
+        "height": 120,
+        "blurhash": "L7K1RM.StSng{JpHIUa}4okWt5kD"
+      },
+      {
+        "id": "c062f03a-e474-4989-9cad-64509a3b934b",
+        "url": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-07T02:02:24.391Z",
+        "updatedAt": "2025-02-07T02:02:24.391Z",
+        "width": 1477,
+        "height": 1108,
+        "blurhash": "L7K1RM.StSng{JpHIUa}4okWt5kD"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/4515b53e-8bba-4845-9e5e-45e0c030519b/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

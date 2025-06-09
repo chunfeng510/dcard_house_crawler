@@ -1,0 +1,101 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257804828",
+  "fetch_time": "2025-06-09T20:04:30.097977",
+  "posts": {
+    "id": 257804828,
+    "title": "投資客週轉失靈",
+    "excerpt": "銀行圈則憂心，這恐反映兩大警訊，一、投資客過去仰賴寬限期賣屋套利、或轉貸續命，卻都因房市無人接手又難轉貸，出現資金周轉失靈，而演變成房貸壞帳。二、疫情讓產業商機不均，AI科技爆發，傳產業卻疲弱不振，銀",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-21T00:13:33.747Z",
+    "updatedAt": "2025-01-23T15:31:28.525Z",
+    "commentCount": 9,
+    "likeCount": 7,
+    "collectionCount": 0,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "投資",
+      "買房",
+      "房價",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "星宿老仙",
+    "department": "ls_gazelle_mk",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "星宿老仙",
+    "personaUid": "ls_gazelle_mk",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://udn.com/news/story/7239/8503430?fbclid=IwY2xjawH7xDlleHRuA2FlbQIxMQABHXS9c8au-yW4irWEaq1m_y8ztMk00Gf8v0TikLN_NWTI0QtONGVcPKUSJA_aem_SHF3NdDBIfD6TzUk6lLWIQ\n銀行圈則憂心，這恐反映兩大警訊，一、投資客過去仰賴寬限期賣屋套利、或轉貸續命，卻都因房市無人接手又難轉貸，出現資金周轉失靈，而演變成房貸壞帳。\n\n\n二、疫情讓產業商機不均，AI科技爆發，傳產業卻疲弱不振，銀行圈觀察到有借款戶收入減少或失業，加上央行從2022年首季起升息六次，加重借款人利息負擔，寬限期滿最終無力償還。\n\n\n高力國際業主代表服務部董事黃舒衛說，2025年房市交易量能續低迷，央行又續管制銀行不動產貸放，金管會也加入金檢，包括假換屋的協處、舊屋增貸、周轉金、理財房貸等，都將使投資客無所遁形，2025年銀行壞帳恐續高檔。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 14,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://udn.com/news/story/7239/8503430?fbclid=IwY2xjawH7xDlleHRuA2FlbQIxMQABHXS9c8au-yW4irWEaq1m_y8ztMk00Gf8v0TikLN_NWTI0QtONGVcPKUSJA_aem_SHF3NdDBIfD6TzUk6lLWIQ"
+    ],
+    "enableListLinkPreview": true,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx-assets.dcard.tw/images/067eb300-0233-4be1-93f3-a3c8036f191a/full.jpeg",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257768391",
+  "fetch_time": "2025-06-09T20:11:57.341003",
+  "posts": {
+    "id": 257768391,
+    "title": "#問題 房貸對保前5個月離職自己開店做生意",
+    "excerpt": "想請教大家一些問題～目前買房是488萬，頭期款自備100萬，當時預估能貸8成，因為一些因素改成要自己開店，早餐店那類的，怕財力證明那部分銀行不給過😟，現在用現金流還來得及嗎？還是有其他更好的解決方法呢",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-16T07:48:40.880Z",
+    "updatedAt": "2025-01-17T07:12:14.517Z",
+    "commentCount": 5,
+    "likeCount": 5,
+    "collectionCount": 4,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "QQ軟糖",
+    "department": "qqppuu",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "QQ軟糖",
+    "personaUid": "qqppuu",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想請教大家一些問題～\n目前買房是488萬，頭期款自備100萬\n當時預估能貸8成，因為一些因素改成要自己開店，早餐店那類的，怕財力證明那部分銀行不給過😟，現在用現金流還來得及嗎？還是有其他更好的解決方法呢！\n我爬了好多文章目前只有想到現金流，家人不肯當保人。\n再麻煩大家給我一些建議～\n如果有需要補充的再跟我說，我第一次發文請見了謝謝🙏🏻",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-17T07:12:14.523Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

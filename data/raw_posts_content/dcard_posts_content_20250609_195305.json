@@ -1,0 +1,142 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258057749",
+  "fetch_time": "2025-06-09T19:53:05.400387",
+  "posts": {
+    "id": 258057749,
+    "title": "#問題 預售屋5%尾款請益",
+    "excerpt": "各位大大您們好，本人最近下訂一間預售屋，在審閱合約書階段，對於尾款有些疑慮，上面的金額是自備20%，房貸75%，交屋5%，想請問如果房貸成功貸到80%，那到時再驗屋階段是不是無法保留5%尾款當瑕疵修繕",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-21T08:29:08.805Z",
+    "updatedAt": "2025-05-01T05:11:57.469Z",
+    "commentCount": 11,
+    "likeCount": 19,
+    "collectionCount": 61,
+    "shareCount": 23,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "請益",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "熱帶企鵝",
+    "department": "penguin7788",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "熱帶企鵝",
+    "personaUid": "penguin7788",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位大大您們好\n本人最近下訂一間預售屋\n在審閱合約書階段\n對於尾款有些疑慮\nhttps://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/orig.jpeg\n上面的金額是自備20%\n房貸75%，交屋5%\n想請問如果房貸成功貸到80%\n那到時再驗屋階段是不是無法保留5%尾款當瑕疵修繕籌碼？\n爬了很多文，有很多種說法\n1. 可以請銀行保留，待驗收合格再撥付尾款\n2. 75%貸款給建商，5%個人戶頭，待合格再自行轉給建商\n3. 以上都無法，銀行貸80%，就全部給建商，不管驗收合不合格\n\n請各位大大分享自己的經驗讓我參考參考\nhttps://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 19
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [
+      {
+        "id": "7136105b-63ed-43ed-a6f6-7946b581ab8c",
+        "url": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-21T08:29:08.805Z",
+        "updatedAt": "2025-05-01T05:11:57.469Z",
+        "width": 160,
+        "height": 25,
+        "blurhash": "Q8J*q^4TMxe?-p-p?G-:-oI--;-payt7WBjZRjRjNF-;xuofV[RjRjM|WB"
+      },
+      {
+        "id": "7136105b-63ed-43ed-a6f6-7946b581ab8c",
+        "url": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-21T08:29:08.805Z",
+        "updatedAt": "2025-05-01T05:11:57.469Z",
+        "width": 2500,
+        "height": 392,
+        "blurhash": "Q8J*q^4TMxe?-p-p?G-:-oI--;-payt7WBjZRjRjNF-;xuofV[RjRjM|WB"
+      },
+      {
+        "id": "9abb3cdc-67d8-4ad6-a418-770000b350b1",
+        "url": "https://sticker-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/73c6b900-8ac7-4e66-a69d-597041e6841c",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-02-21T08:29:08.805Z",
+        "updatedAt": "2025-05-01T05:11:57.469Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K}I}@hRj00axofj[IUWBt7"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-02-21T08:29:45.825Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/a379f6f8-092c-4643-9e14-720b8692c127/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

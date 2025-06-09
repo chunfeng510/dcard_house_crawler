@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257570201",
+  "fetch_time": "2025-06-09T20:35:01.631688",
+  "posts": {
+    "id": 257570201,
+    "title": "#問題 首次購屋詢問",
+    "excerpt": "各位先進好。家裡從小到大都是租屋，目前和母親和弟弟同住。我們能拿出大概500萬的頭期款，但月薪只有4萬和3萬5，這部分應該會影響到貸款和還款能力評估。因為工作地點問題想要找新北中和、永和、土城的房子。",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-23T00:43:42.888Z",
+    "updatedAt": "2024-12-23T00:43:42.888Z",
+    "commentCount": 5,
+    "likeCount": 15,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "首購族",
+      "買房",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立東華大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位先進好。家裡從小到大都是租屋，\n目前和母親和弟弟同住。\n我們能拿出大概500萬的頭期款，\n但月薪只有4萬和3萬5，這部分應該會影響到貸款和還款能力評估。\n因為工作地點問題想要找新北中和、永和、土城的房子。\n大略看過591，1400萬內基本上都是30年以上老房，這部分如果只是自住建議買嗎？\n還有會不會因為還款能力過低，貸不到款？\n現在比較擔心這點",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 15
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

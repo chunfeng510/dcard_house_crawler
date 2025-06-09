@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257766132",
+  "fetch_time": "2025-06-09T20:12:06.994796",
+  "posts": {
+    "id": 257766132,
+    "title": "#建議 交屋信貸要還清嗎？",
+    "excerpt": "原本預計明年底交屋，最近建商說今年底要對保，請問大家：40歲男年收120，台中海線三房預售屋7.5成貸款710預計貸30年，信貸剩下4年月付22K，這樣會過嗎？房貸29K+信貸22K=51K，收支比5",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-16T02:06:06.575Z",
+    "updatedAt": "2025-01-16T21:37:42.330Z",
+    "commentCount": 4,
+    "likeCount": 3,
+    "collectionCount": 9,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立勤益科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "原本預計明年底交屋，最近建商說今年底要對保，\n請問大家：40歲男年收120，台中海線三房預售屋7.5成貸款710預計貸30年，信貸剩下4年月付22K，這樣會過嗎？\n房貸29K+信貸22K=51K\n收支比51/100=51%（銀行是這樣算嗎？）\n一定要還清信貸嗎？\n還是可以問看看銀行信貸能不能延長年限降低月付金？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 14,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

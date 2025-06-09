@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258082402",
+  "fetch_time": "2025-06-09T19:52:01.814892",
+  "posts": {
+    "id": 258082402,
+    "title": "#分享 預售屋房屋貸款核貸",
+    "excerpt": "貸款人條件：職業：教師，年薪：填前年69萬、股利5萬，（去年實際年收80萬），貸款：1250萬（總價1570萬），分成新青安1000萬（1.775%）、公教250萬（2.185%），去年由建商統一9月",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-24T02:25:22.209Z",
+    "updatedAt": "2025-05-12T11:02:33.274Z",
+    "commentCount": 20,
+    "likeCount": 39,
+    "collectionCount": 34,
+    "shareCount": 52,
+    "tags": [],
+    "topics": [
+      "分享",
+      "預售屋",
+      "貸款",
+      "買房",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立東華大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "貸款人條件：\n\n職業：教師\n年薪：填前年69萬、股利5萬\n       （去年實際年收80萬）\n貸款：1250萬（總價1570萬）\n分成新青安1000萬（1.775%）、公教250萬（2.185%）\n\n去年由建商統一9月送件，今年1月核貸，核貸銀行為土地銀行，原本心情也很忐忑，擔心各種政策因素，但好險還是通過貸款，分享給大家。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 39
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 87,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

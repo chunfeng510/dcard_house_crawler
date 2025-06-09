@@ -1,0 +1,109 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257692729",
+  "fetch_time": "2025-06-09T20:37:07.227256",
+  "posts": {
+    "id": 257692729,
+    "title": "#問題 買房請益",
+    "excerpt": "想問在台中首購辦貸款什麼情況下比較容易辦得過，小弟本人前一陣子辦完車貸70萬左右、目前繳到剩下約快50萬、做2份工薪水大約65000、一份有薪轉一份現金、那個時候差點沒辦過、是出示了存款證明才辦過的，",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-06T17:39:48.495Z",
+    "updatedAt": "2025-01-06T18:59:17.758Z",
+    "commentCount": 4,
+    "likeCount": 2,
+    "collectionCount": 0,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "買房",
+      "請益",
+      "台中",
+      "貸款",
+      "首購族"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "PanJie",
+    "department": "a736453827",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "PanJie",
+    "personaUid": "a736453827",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想問在台中首購辦貸款什麼情況下比較容易辦得過\n\n小弟本人前一陣子辦完車貸70萬左右、目前繳到剩下約快50萬、做2份工薪水大約65000、一份有薪轉一份現金、那個時候差點沒辦過、是出示了存款證明才辦過的\n\n目前打算從南部搬去中部、考慮租房或是買房、但租房發現價格都很高而且空間也不大、看上數字網一間400萬初頭\n\n想問數字網上的房貸參考、自備款和貸款利息那些是否就照上面所寫的價格一樣？\n\n因為頭期一百拿得出來、怕貸款銀行過不了、本人從南部搬上去中部第一時間還不會馬上有工作、沒辦法有長期的薪轉證明\n\n上網查資料有的銀行會看是買幾年屋決定貸款金額多少、但數字網大部分都是有一定屋齡的中古屋翻修、是不是比較容易影響貸款金額？\n\n首購買房、煩請各位專業人士解答謝謝🙏\nhttps://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 4,
+    "mediaMeta": [
+      {
+        "id": "7fcbfb88-0e24-411a-831d-fb2c31e6d83d",
+        "url": "https://sticker-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/b914ee31-e409-4670-8cf6-52189a7bada7",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [],
+        "createdAt": "2025-01-06T17:39:48.495Z",
+        "updatedAt": "2025-01-06T17:39:48.495Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K]Lg^Yt700WBRjWBIUoft7"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

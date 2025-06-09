@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257612645",
+  "fetch_time": "2025-06-09T20:33:53.396693",
+  "posts": {
+    "id": 257612645,
+    "title": "#建議 買房？租房？",
+    "excerpt": "我跟男友討論未來放向，我是想要買房類型，雖然台灣房價很貴，但覺得努力存到頭期款，剩下的房貸就跟你租房繳給房東每月租金一樣，至少還是自己的房子不用看房東臉色，老了之後也不用擔心沒有地方睡，但我男友覺得台",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-27T16:45:14.830Z",
+    "updatedAt": "2024-12-30T13:58:46.325Z",
+    "commentCount": 28,
+    "likeCount": 17,
+    "collectionCount": 6,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "買房",
+      "租房",
+      "投資",
+      "房價"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我跟男友討論未來放向\n我是想要買房類型\n雖然台灣房價很貴\n但覺得努力存到頭期款\n剩下的房貸就跟你租房繳給房東每月租金一樣\n至少還是自己的房子不用看房東臉色\n老了之後也不用擔心沒有地方睡\n\n但我男友覺得台灣又小又貴買了沒價值\n寧願花一千萬買國外的房子\n老了在移民就好\n他也沒有再投資除了儲蓄險而已\n每個月月薪十萬\n在台灣租小房子很喜歡去蝦皮買東買西來佈置家裡\n但我真的覺得又小又擠\n很常跟他討論把花蝦皮的錢存頭期款\n這部分我們觀念好像合不來？！\n\n有沒有這方面已經有經驗的人？\n到底買房還租房好呢～",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 17
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 47,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

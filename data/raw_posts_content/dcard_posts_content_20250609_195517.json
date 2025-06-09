@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257976782",
+  "fetch_time": "2025-06-09T19:55:17.546948",
+  "posts": {
+    "id": 257976782,
+    "title": "#問題 預售屋房貸問題",
+    "excerpt": "各位前輩好，小弟目前31Y，在公司的年資約8年，最近想說年紀也到了，想買一間房，自己與家人住，不打算交女友跟結婚。剛好聽朋友買中壢過嶺的預售屋，2028年上半年完工。（老家在板橋，但是雙北我買不起），",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-13T05:55:12.509Z",
+    "updatedAt": "2025-02-15T13:14:49.653Z",
+    "commentCount": 10,
+    "likeCount": 8,
+    "collectionCount": 8,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "房貸",
+      "問題",
+      "貸款",
+      "桃園"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "亞東科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位前輩好，小弟目前31Y，在公司的年資約8年，\n最近想說年紀也到了，想買一間房，自己與家人住，不打算交女友跟結婚。\n剛好聽朋友買中壢過嶺的預售屋，2028年上半年完工。\n\n\n(老家在板橋，但是雙北我買不起)\n最近去接待中心，談了一遍。 \n現在屬意的有兩間戶型，想請各位幫忙看看之後如果貸款，\n1. 會不會造成太大的壓力\n2. 我這樣有辦法貸到1000萬嗎？ 還是連858萬都很勉強？\n\n\nA戶(最想要) ： 總價1350，前期工程款(20%)跟交屋款(5%)不算，大約在1012\nB戶 ： 總價1145，前期工程款(20%)跟交屋款(5%)不算，大約在858\n\n\n自身條件：\n職業 ： 碼農\n年收 ： 約150萬 ~ 160萬，3年後預計應該可以到180 ~ 200\n存款 ： 200\n建商表定貸款額度 ： 75%\n負債 ： 無\n資產 ： 無\n外援 ： 無，只能靠自己。\n\n\n麻煩各位前輩們\n謝謝大家～",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 8
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 17,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

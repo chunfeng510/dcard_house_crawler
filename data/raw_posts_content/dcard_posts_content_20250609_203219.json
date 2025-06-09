@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257672688",
+  "fetch_time": "2025-06-09T20:32:19.492236",
+  "posts": {
+    "id": 257672688,
+    "title": "#問題 合資購屋匯款單據問題",
+    "excerpt": "和配偶一起買的預售屋交屋開始繳貸款了（婚後財產），考慮到以後換房的方便性只登記配偶的名字，頭期款比較大額所以都是臨櫃轉帳有收據沒問題，但現在每個月的月還款金額比較小，這幾個月為了兩三萬元要臨櫃抽號碼牌",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-04T10:28:13.202Z",
+    "updatedAt": "2025-01-04T10:28:13.202Z",
+    "commentCount": 2,
+    "likeCount": 2,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "匯款",
+      "問題",
+      "請益",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立清華大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "和配偶一起買的預售屋交屋開始繳貸款了（婚後財產）\n考慮到以後換房的方便性只登記配偶的名字\n頭期款比較大額所以都是臨櫃轉帳有收據沒問題\n但現在每個月的月還款金額比較小\n這幾個月為了兩三萬元要臨櫃抽號碼牌越來越覺得有點麻煩\n\n想請問如果改用網銀轉帳的方式也算是有留存收據嗎？\n會備註是合資購屋的月還款\n想說雖然沒有紙本收據 但銀行方面轉帳紀錄應該不會不見⋯？\n沒有這方面的知識，上來請教房版的各位🙏🏻",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

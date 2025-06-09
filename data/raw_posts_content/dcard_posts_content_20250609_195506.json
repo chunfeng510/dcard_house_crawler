@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257983397",
+  "fetch_time": "2025-06-09T19:55:06.600093",
+  "posts": {
+    "id": 257983397,
+    "title": "#問題 新青安貸款",
+    "excerpt": "個人條件說明：已婚雙方都符合新青安條件，但因為個人的家庭因素，我的父母想要把原本的房子賣掉（1700），然後再買新的（700），因為他們經濟條件貸款無法貸太多，所以想要使用我的新青安去先去貸款買新的，",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-14T01:52:38.722Z",
+    "updatedAt": "2025-02-14T01:52:38.722Z",
+    "commentCount": 6,
+    "likeCount": 4,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "信貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中國文化大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "個人條件說明：\n\n已婚雙方都符合新青安條件\n\n但因為個人的家庭因素\n我的父母想要把原本的房子賣掉(1700)，然後再買新的(700)\n因為他們經濟條件貸款無法貸太多\n所以想要使用我的新青安去先去貸款買新的\n然後預計用三、四個月的時間將舊的房子賣出後\n直接將剩餘的房貸一次付清\n\n問題來了\n\n1.我認為這樣我是成為人頭戶，之後我跟老公就無法使用新青安貸款條件了嗎?\n2.我覺得繳貸款一段時間後一次付清，我不知道這樣對我個人的信用是不是會產生什麼問題?",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 15,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

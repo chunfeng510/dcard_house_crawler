@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258045636",
+  "fetch_time": "2025-06-09T19:53:38.113563",
+  "posts": {
+    "id": 258045636,
+    "title": "房價有修正嗎",
+    "excerpt": "現在買房的人  房價是否有往下修正？央行限貸力度似乎不太夠⋯，感覺一定要有第八波信用管制或是升息才能壓低買氣？---------------------------------，現在賣家價格依然踩得很",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-20T07:09:13.748Z",
+    "updatedAt": "2025-02-24T15:26:48.742Z",
+    "commentCount": 48,
+    "likeCount": 17,
+    "collectionCount": 18,
+    "shareCount": 6,
+    "tags": [],
+    "topics": [
+      "投資",
+      "理財",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "現在買房的人  房價是否有往下修正？\n央行限貸力度似乎不太夠⋯\n感覺一定要有第八波信用管制或是升息才能壓低買氣？\n\n---------------------------------\n現在賣家價格依然踩得很硬   甚至要加價賣\n而且許多買家為了搭上房價上漲順風車，不惜信貸湊頭期款也要買到房子\n央行的管制措施完全沒有用啊   房價還是在繼續飛漲！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 14
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 100,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-21T07:57:46.263Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

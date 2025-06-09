@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257756102",
+  "fetch_time": "2025-06-09T20:12:28.695301",
+  "posts": {
+    "title": "#問題 年收入的判斷？",
+    "excerpt": "因為有買房的需求 所以去找了農會房貸，但因為本身2023年才入職現在的工作 （百大），23年的所得約58萬（沒待滿）但24年的所得約130萬 詢問他們 他們表示會看23年的報稅資料，但他們也表示說要附",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-14T15:52:39.539Z",
+    "updatedAt": "2025-01-15T13:12:48.065Z",
+    "commentCount": 10,
+    "likeCount": 9,
+    "collectionCount": 2,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "問題",
+      "購屋",
+      "房貸",
+      "貸款",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 257756102,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄餐旅大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "因為有買房的需求 所以去找了農會房貸\n但因為本身2023年才入職現在的工作 （百大）\n23年的所得約58萬（沒待滿）但24年的所得約130萬 詢問他們 他們表示會看23年的報稅資料\n但他們也表示說要附上近一年以上常用存摺往來交易明細，這樣是會看哪一個為主呢？\n\n因為收入高低會有不同的利率產生，所以真的覺得好擔心喔🥲🥲 另外他們又提到說如果真的最後真的是23年比較高的利率的話 等到24年報稅後還可以調降回來 有人真的有這樣過嗎？\n\n再麻煩各位幫忙解答了🙏🏼🙏🏼  解救迷惘的我😶‍🌫️",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 12,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-14T15:52:58.402Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

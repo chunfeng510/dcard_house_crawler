@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258052412",
+  "fetch_time": "2025-06-09T19:53:16.509348",
+  "posts": {
+    "id": 258052412,
+    "title": "#問題 購屋貸款能過嗎",
+    "excerpt": "前陣子看到一間新成屋很喜歡，於是跟先生討論後決定購入人生第一間房，貸款人是我本人（因為先生是銀行小白），雖然我沒有任何負債，但我想想我的年薪並沒有很多😭，想問新青安是有機會貸8成40年嗎？本身條件： ",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-20T17:46:04.413Z",
+    "updatedAt": "2025-02-24T22:25:45.063Z",
+    "commentCount": 7,
+    "likeCount": 2,
+    "collectionCount": 2,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "問題",
+      "貸款",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立屏東大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "前陣子看到一間新成屋很喜歡，於是跟先生討論後決定購入人生第一間房\n貸款人是我本人(因為先生是銀行小白)，雖然我沒有任何負債，但我想想我的年薪並沒有很多😭\n想問新青安是有機會貸8成40年嗎？\n\n本身條件: 27歲/年薪約60/已婚/無任何負債/\n信用卡半年內超過期限繳款一次(真的忘了，已經設自動扣繳了😭)\n大約 總成交1000/頭期自備200(前面都是家人幫忙)",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 21,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-20T17:47:44.503Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

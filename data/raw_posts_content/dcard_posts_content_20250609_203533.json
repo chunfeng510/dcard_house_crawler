@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257536646",
+  "fetch_time": "2025-06-09T20:35:33.675163",
+  "posts": {
+    "id": 257536646,
+    "title": "#分享 對於自住房地產的反思",
+    "excerpt": "自住房地產本身是個負債，假設信貸1000萬 不提前還款，總共要還1000萬+330萬利息，自住房地產不考慮漲跌，個人是比較擔心的問題是，地震和工作穩定和健康穩定，1.地震 自住房地產是持有一輩子，你只",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-18T16:46:51.881Z",
+    "updatedAt": "2024-12-18T16:46:51.881Z",
+    "commentCount": 9,
+    "likeCount": 8,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房地產",
+      "反思",
+      "房子"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "史丹是我",
+    "department": "stanisme",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "史丹是我",
+    "personaUid": "stanisme",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "自住房地產本身是個負債\n\n假設信貸1000萬 不提前還款\n總共要還1000萬+330萬利息\n\n自住房地產不考慮漲跌\n\n個人是比較擔心的問題是\n\n地震和工作穩定和健康穩定\n\n1.地震 自住房地產是持有一輩子\n你只要遇到一次大的就可能成為危樓或是倒塌\n\n2.工作問題 景氣衰退大蕭條可能被裁員沒錢繳房貸\n\n3.健康35-65歲的還款年紀 萬一得癌症或是意外不能上班也沒有收入\n\n\n想法不同或許可以看看",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 8
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 11,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

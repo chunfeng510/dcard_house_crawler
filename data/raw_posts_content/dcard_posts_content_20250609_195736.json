@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257969333",
+  "fetch_time": "2025-06-09T19:57:36.320055",
+  "posts": {
+    "id": 257969333,
+    "title": "#問題 首購房貸詢問",
+    "excerpt": "想詢問雙薪家庭年收約150，個人75萬，國營事業員工，購買預售屋1370萬，有辦法貸到40年嗎？因為建商配合的銀行說整棟最高都是只有7.5成。我詢問華南銀行，他說就算你條件充足，也不可能貸超過買賣契約",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-12T08:06:00.180Z",
+    "updatedAt": "2025-02-22T14:44:22.821Z",
+    "commentCount": 7,
+    "likeCount": 3,
+    "collectionCount": 7,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "問題",
+      "首購族"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "銘傳大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想詢問雙薪家庭年收約150，個人75萬，國營事業員工，購買預售屋1370萬，有辦法貸到40年嗎？\n因為建商配合的銀行說整棟最高都是只有7.5成。\n我詢問華南銀行，他說就算你條件充足，也不可能貸超過買賣契約上押的貸款金額",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 13,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-12T08:18:55.039Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

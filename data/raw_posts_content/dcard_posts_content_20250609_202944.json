@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257709703",
+  "fetch_time": "2025-06-09T20:29:44.011065",
+  "posts": {
+    "id": 257709703,
+    "title": "#問題 有機會貸款8.5成40年嗎？",
+    "excerpt": "各位前輩好，小弟目前33Y，在新公司的年資剛滿四年，最近在竹北買了約1200萬，屋齡20年的中古屋，目前年薪約150萬，去年股利約為25萬，這是我的首購，但此時還是在為貸款發愁，主要是目前還有約260",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-08T17:08:43.053Z",
+    "updatedAt": "2025-02-19T16:01:03.864Z",
+    "commentCount": 32,
+    "likeCount": 20,
+    "collectionCount": 20,
+    "shareCount": 15,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "借貸",
+      "信貸",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中正大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位前輩好，小弟目前33Y，在新公司的年資剛滿四年\n\n最近在竹北買了約1200萬，屋齡20年的中古屋\n目前年薪約150萬，去年股利約為25萬\n這是我的首購，但此時還是在為貸款發愁\n\n主要是目前還有約260萬信貸，是不同時期像三家不同銀行貸的\n部分都已繳納一年以上，最新的一筆貸款也已繳納十個月\n但是都為綁約狀態，解約需付違約金\n\n目前身上唯一可兌現的資產是有近580萬的股票\n是大學研究所時期打工定期定額的成果\n目前已賣了部分部位支付頭期款\n\n目前比較傾向貸款8.5成40年，但有詢問過負責房貸業務在銀行工作的朋友\n他表示我負債收支比可能過高，貸款成數可能受到影響\n利率雖有影響但在3%以下我都不是特別在意\n但是我自己比較擔心沒辦法貸到40年8.5成，想請問以這樣的條件，有機會嗎？\n或是該怎麼做在不違約清償信貸的情況下能提高貸款的成數還有年數呢？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 20
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 79,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

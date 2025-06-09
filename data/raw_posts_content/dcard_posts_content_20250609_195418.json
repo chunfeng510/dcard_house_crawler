@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258004338",
+  "fetch_time": "2025-06-09T19:54:18.851619",
+  "posts": {
+    "id": 258004338,
+    "title": "#裝潢 三房新成屋 家電、軟裝 預算有限如何分配及取捨請教",
+    "excerpt": "各位板友們好！，新成屋室內主建物約20初頭坪（不含陽台），在不更動格局的情況下有什麼是入住前建議優先處理好的部分嗎🥹，因貸款卡到成數問題，剩餘的預算不高也暫時沒有多餘的預算請設計師/統包協助，除了必要",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-16T11:34:12.187Z",
+    "updatedAt": "2025-02-18T18:13:43.312Z",
+    "commentCount": 7,
+    "likeCount": 11,
+    "collectionCount": 30,
+    "shareCount": 8,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [
+      "家電",
+      "預算",
+      "居家佈置",
+      "裝潢",
+      "室內設計"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位板友們好！\n\n新成屋室內主建物約20初頭坪（不含陽台），在不更動格局的情況下有什麼是入住前建議優先處理好的部分嗎🥹\n\n因貸款卡到成數問題，剩餘的預算不高也暫時沒有多餘的預算請設計師/統包協助，除了必要的家電外希望能省則省，大部分時間都是1-2個人居住，預計住5-10年左右，目前規劃是一間主臥，一間當成電腦房（客房），一間為更衣間及儲藏室（工作陽台旁的次臥），其餘地方有什麼建議嗎？\n\n天花板打算冷氣走明管（淨樓高約3.2m）請師傅走線稍微美化一下就好 \n燈具部分會自己安裝吸頂燈（可遙控亮度顏色）\n地板用建商附的90x90石英磚不另鋪木地板\n油漆部分目前還沒確定是否要請人幫忙油（怕量太小不願意接）\n\n櫃體的話目前有在考慮是否要直接買現成的或是淘寶海運自己組裝，因為有一間房間專門放雜物且只有一人居住東西應該不會多到太誇張\n\n窗簾目前在研究淘寶購入，或是請專業的處理\n\n冷氣的話因為只能放兩台室外機，所以打算客餐廳一台一對一，剩下三房共用一台一對三，或是兩台一對二，更拮据一點就是先裝三台（儲藏室先不裝但先請師傅預留線槽）\n\n插座部分不確定要在剛入住就先處理好還是到時候看使用情況去增加\n\n其他目前必須購入的大概還有：床/床架、熱水器、收納櫃體、沙發、冰箱、洗衣機、電視\n\n待入住後若有必要再購入：吸塵器、掃地機器人、廚下淨水器\n\n想請教大家如果是想要省預算花在刀口上的話會建議哪些可以自己研究處理，哪些建議直接詢問專業的商家比較不會出錯呢，謝謝！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "裝潢"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-18T18:13:43.317Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

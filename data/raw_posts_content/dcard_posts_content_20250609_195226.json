@@ -1,0 +1,126 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258073788",
+  "fetch_time": "2025-06-09T19:52:26.979947",
+  "posts": {
+    "id": 258073788,
+    "title": "買房貸款的問題，想請教大家一些建議",
+    "excerpt": "我們家有四個人，分別是爸媽、阿嬤（皆已退休）和我。家裡目前沒有房產。我在工作四年期間，存了大約100萬，而家裡也補助了100萬。目前我27歲，去年12月裸辭準備轉換跑道。然而，家裡租了十年的房子，最近",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-23T04:26:27.356Z",
+    "updatedAt": "2025-05-11T18:51:26.345Z",
+    "commentCount": 10,
+    "likeCount": 3,
+    "collectionCount": 2,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "買房",
+      "貸款",
+      "理財",
+      "新青安貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄餐旅大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "我們家有四個人，分別是爸媽、阿嬤（皆已退休）和我。家裡目前沒有房產。\n我在工作四年期間，存了大約100萬，而家裡也補助了100萬。目前我27歲，去年12月裸辭準備轉換跑道。\n然而，家裡租了十年的房子，最近一月中屋主突然通知我們不再續租。 汗顏（…\n因此，我二月開始找了一份超商工作，月薪大約三萬多。\n\n我打算在三月或四月去看高雄郊區的房，預計購買一間約600萬的房子。現在我的總資產大約200萬，但沒有保人。我想詢問大家，這樣的情況貸款有機會過新青安嗎？以及比較好承辦貸款的銀行 ！ 謝謝\n\n補充 物件為40年老透天\n地坪20左右\nhttps://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [
+      {
+        "id": "36147efc-30f0-4643-bf82-f031be6c9dcf",
+        "url": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-23T04:26:27.356Z",
+        "updatedAt": "2025-05-11T18:51:26.345Z",
+        "width": 160,
+        "height": 109,
+        "blurhash": "L64.6,W.0KxbackDa~e,XooJrqR+"
+      },
+      {
+        "id": "36147efc-30f0-4643-bf82-f031be6c9dcf",
+        "url": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-23T04:26:27.356Z",
+        "updatedAt": "2025-05-11T18:51:26.345Z",
+        "width": 320,
+        "height": 217,
+        "blurhash": "L64.6,W.0KxbackDa~e,XooJrqR+"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-02-23T08:08:45.021Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/a845c265-9d54-4e60-afae-9a5edfad3e02/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

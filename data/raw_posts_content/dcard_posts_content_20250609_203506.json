@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257565011",
+  "fetch_time": "2025-06-09T20:35:06.611644",
+  "posts": {
+    "id": 257565011,
+    "title": "#建議 房貸☹️",
+    "excerpt": "男友家有一間在新竹好市多附近（走路10分鐘可以到好市多），最近他家人（阿公）想要賣房，我們兩個都蠻有興趣買下來 ，但是這間滿舊的（但地理位子應該滿值錢），屋況普通，可能需要花一些錢整理 但都是不急的 ",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-22T08:23:24.470Z",
+    "updatedAt": "2024-12-24T15:20:51.279Z",
+    "commentCount": 12,
+    "likeCount": 32,
+    "collectionCount": 9,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "房貸",
+      "貸款",
+      "買房",
+      "請益",
+      "新竹"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立聯合大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "男友家有一間在新竹好市多附近（走路10分鐘可以到好市多）\n最近他家人（阿公）想要賣房，我們兩個都蠻有興趣買下來 ，但是這間滿舊的（但地理位子應該滿值錢），屋況普通，可能需要花一些錢整理 但都是不急的 可以慢慢整理。他阿公想要賣400萬，希望一次給，我剛男友想去貸款新青安，不知道這種較舊的老透天可以貸款到8成嗎？希望有好心人可以幫忙解答🥺🥺謝謝🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 31
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 24,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

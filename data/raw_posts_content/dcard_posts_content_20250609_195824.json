@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257962315",
+  "fetch_time": "2025-06-09T19:58:24.555936",
+  "posts": {
+    "id": 257962315,
+    "title": "#問題 新青安 一般房貸 信貸請益",
+    "excerpt": "各位帥哥美女大家好，小弟我最近要開始詢問銀行貸款，想請問一下我的條件新青安或首購房貸能到8成嗎，自身狀況如下：1. 上市上櫃公司，年資4年，2. 去年年薪150萬，有薪轉，3. 已婚，有一個小孩，雙方",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-11T11:38:44.498Z",
+    "updatedAt": "2025-02-12T02:59:23.447Z",
+    "commentCount": 5,
+    "likeCount": 3,
+    "collectionCount": 3,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "問題",
+      "房貸",
+      "信貸",
+      "買房",
+      "新青安"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "崑山科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位帥哥美女大家好，小弟我最近要開始詢問銀行貸款，想請問一下我的條件新青安或首購房貸能到8成嗎\n自身狀況如下：\n1. 上市上櫃公司，年資4年\n2. 去年年薪150萬，有薪轉\n3. 已婚，有一個小孩，雙方底下都無房\n4. 太太底下有學貸\n5. 房子32年，位於彰化，總價850萬\n6. 無信用瑕疵及貸款，每月都繳清信用卡\n7. 如果貸款不到8成，能再申請信貸嗎",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

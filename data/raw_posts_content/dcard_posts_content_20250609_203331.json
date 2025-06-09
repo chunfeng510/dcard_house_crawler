@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257625956",
+  "fetch_time": "2025-06-09T20:33:31.792405",
+  "posts": {
+    "id": 257625956,
+    "title": "#分享 三貸族分享",
+    "excerpt": "取自購屋版回饋購屋版，更新一下現況，標的：桃園12年電梯大樓，三房車兩廳兩衛，機能：火車捷運一公里，SOGO/高速公路兩公里，樓下超商、萬坪公園和國民運動中心，月薪：90k （前幾個月調薪），學貸：5",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": 254001777,
+    "createdAt": "2024-12-29T13:44:53.742Z",
+    "updatedAt": "2024-12-29T13:44:53.742Z",
+    "commentCount": 1,
+    "likeCount": 16,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "分享",
+      "閒聊",
+      "桃園",
+      "建議",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中山大學",
+    "replyTitle": "#問題 學貸卡房貸",
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "取自購屋版回饋購屋版，更新一下現況\n\n標的：桃園12年電梯大樓，三房車兩廳兩衛\n機能：火車捷運一公里，SOGO/高速公路兩公里，樓下超商、萬坪公園和國民運動中心\n月薪：90k (前幾個月調薪)\n學貸：50萬\n車貸：110萬 (調薪後新增)\n總價：1350萬\n預計貸款：1080萬 (80%)\n實際貸款：945萬 (70%)\n貸款資訊：40年貸款，寬限三年，可申請延兩年\n利率：2.06升息後2.185\n\n補充說明：月薪不含獎金分紅，一年保證14個月，如已近一年花費試算，扣除學貸、車貸、寬限期後房貸與日常開銷，一年存3X萬\n\n結論：貸款前要高估自己的生活費(留錢)不要算太滿",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 16
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 2,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

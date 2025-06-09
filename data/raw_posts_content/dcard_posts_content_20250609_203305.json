@@ -1,0 +1,97 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257636100",
+  "fetch_time": "2025-06-09T20:33:05.576435",
+  "posts": {
+    "id": 257636100,
+    "title": "#分享 只有白癡才會想要去買那明顯已經漲過的房子",
+    "excerpt": "如提，如果覺得我的標題不妥還是啥的 請左轉有誤也可以在下方理性指正，最近聽媽媽分享某個公務員親戚要賣房想賺三百萬貸款也沒還清，跟我年紀差不多27左右，薪水他們夫妻倆年薪加起來剛好等於一個我，我是一直相",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-30T16:24:34.831Z",
+    "updatedAt": "2025-01-04T14:31:38.643Z",
+    "commentCount": 70,
+    "likeCount": 57,
+    "collectionCount": 13,
+    "shareCount": 9,
+    "tags": [],
+    "topics": [
+      "白癡",
+      "房子",
+      "買房",
+      "預售屋",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立中正大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如提，如果覺得我的標題不妥還是啥的 請左轉有誤也可以在下方理性指正\n\n最近聽媽媽分享某個公務員親戚要賣房想賺三百萬貸款也沒還清，跟我年紀差不多27左右\n\n薪水他們夫妻倆年薪加起來剛好等於一個我，我是一直相信房價會有跌的那一天，就算沒有我也不會去加入美其名曰[以房換房]的炒房遊戲，只有白癡才會想要去買那明顯已經漲過的房子當接盤俠，寧願去買預售屋或是全新新屋\n\n這問題也不是因為親戚的故事我才在想 ，很久以前我就覺得買漲價過房子很智障，就跟去接受有小孩的女人一樣當接盤俠，到底是誰會想買這種一副就是漲價過等著你去買當凱子的房?\n\n然後一定有一堆北七會說現在不買以後更貴，但問題是我不加入這北七遊戲你拿我有何皮條?\n\n我的真正意思是，那房子又沒有它真正的價值，還賣高出其價值很多的價格，剛好又有一堆人覺得它有那個價值，到底為什麼要然後買加入這群「我覺得這顆石頭有一千萬價值」的北七遊戲？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 49
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 8
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 146,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-01-02T00:44:04.151Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

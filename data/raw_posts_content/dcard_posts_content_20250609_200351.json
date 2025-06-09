@@ -1,0 +1,142 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257866881",
+  "fetch_time": "2025-06-09T20:03:51.034095",
+  "posts": {
+    "id": 257866881,
+    "title": "#問題 有關114年公教築巢優利貸問題",
+    "excerpt": "想詢問各位版上的大神，最近想買房，有看到公教築巢優利貸蠻吸引人的，但….，不知道「中科院」這個單位可以符合條件嗎？查詢台銀網站上面沒有列出來，所以想來問各位大神看看",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-29T15:36:00.606Z",
+    "updatedAt": "2025-03-04T06:27:25.179Z",
+    "commentCount": 7,
+    "likeCount": 4,
+    "collectionCount": 7,
+    "shareCount": 13,
+    "tags": [],
+    "topics": [
+      "買房",
+      "貸款",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "熱帶企鵝",
+    "department": "penguin7788",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "熱帶企鵝",
+    "personaUid": "penguin7788",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想詢問各位版上的大神\n最近想買房\n有看到公教築巢優利貸蠻吸引人的\n但….\n不知道「中科院」這個單位可以符合條件嗎？\n查詢台銀網站上面沒有列出來\n所以想來問各位大神看看\nhttps://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png\n\nhttps://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 17,
+    "mediaMeta": [
+      {
+        "id": "b6d80e9b-1655-4cb3-9c5a-569e53817685",
+        "url": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-01-29T15:36:00.606Z",
+        "updatedAt": "2025-03-04T06:27:25.179Z",
+        "width": 74,
+        "height": 160,
+        "blurhash": "lcOgB0WVsp?bayoz00RQWo-;ozRj4nt7WBf7RPt7"
+      },
+      {
+        "id": "80d96e8c-5171-40ed-8ce6-233893aa3b91",
+        "url": "https://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-01-29T15:36:00.606Z",
+        "updatedAt": "2025-03-04T06:27:25.179Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KrJ@H#o~5Y0LM{V@Ens.-m"
+      },
+      {
+        "id": "b6d80e9b-1655-4cb3-9c5a-569e53817685",
+        "url": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-01-29T15:36:00.606Z",
+        "updatedAt": "2025-03-04T06:27:25.179Z",
+        "width": 1156,
+        "height": 2500,
+        "blurhash": "lcOgB0WVsp?bayoz00RQWo-;ozRj4nt7WBf7RPt7"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-01-29T15:37:04.566Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/4dbb226b-17d1-4aca-ab1d-8ccb90ca64e1/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

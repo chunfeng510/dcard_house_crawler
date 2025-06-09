@@ -1,0 +1,123 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258067258",
+  "fetch_time": "2025-06-09T19:52:39.652049",
+  "posts": {
+    "id": 258067258,
+    "title": "一張圖看現在賣房要怎麼繳稅",
+    "excerpt": "前幾天宣布的新豪宅條款，跟貸款一點關係都沒有，只有101/7以前取得的房子沒有實價登錄要賣掉才會用不同公式計算。簡單說就是政府要多課稅而已，不用恐慌~~~，豪宅貸款三成一樣是：台北7000萬以上、新北",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-22T09:19:46.683Z",
+    "updatedAt": "2025-04-07T03:36:19.189Z",
+    "commentCount": 3,
+    "likeCount": 17,
+    "collectionCount": 52,
+    "shareCount": 14,
+    "tags": [],
+    "topics": [
+      "繳稅",
+      "賣屋",
+      "稅務"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "丸在房地產",
+    "department": "h49072002",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "丸在房地產",
+    "personaUid": "h49072002",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "前幾天宣布的新豪宅條款，跟貸款一點關係都沒有，只有101/7以前取得的房子沒有實價登錄要賣掉才會用不同公式計算。\n\n簡單說就是政府要多課稅而已，不用恐慌~~~\n\n豪宅貸款三成一樣是：台北7000萬以上、新北6000萬以上、其他地區4000萬以上。\nhttps://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 17
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 7,
+    "mediaMeta": [
+      {
+        "id": "6b23d4c2-e8fd-4ebc-8878-cc1790b1f69f",
+        "url": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-22T09:19:46.683Z",
+        "updatedAt": "2025-04-05T15:43:12.535Z",
+        "width": 160,
+        "height": 113,
+        "blurhash": "L8QT1D15VYMdZM9uwct8x3tKxvD,"
+      },
+      {
+        "id": "6b23d4c2-e8fd-4ebc-8878-cc1790b1f69f",
+        "url": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-02-22T09:19:46.683Z",
+        "updatedAt": "2025-04-05T15:43:12.535Z",
+        "width": 2000,
+        "height": 1414,
+        "blurhash": "L8QT1D15VYMdZM9uwct8x3tKxvD,"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/deaa31a6-f979-4cc6-bfda-c7bb820e048e/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

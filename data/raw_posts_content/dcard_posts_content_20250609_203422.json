@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257593798",
+  "fetch_time": "2025-06-09T20:34:22.985812",
+  "posts": {
+    "id": 257593798,
+    "title": "#問題 請問科目四貸款",
+    "excerpt": "小弟已購預售屋，預計全款買房，但後續還是想把資金做更有效利用，請問有做過科目四的朋友，1.貸款成數與利率？2.是否有受到豪宅貸款限制管制？",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-25T13:40:55.520Z",
+    "updatedAt": "2024-12-25T16:07:07.849Z",
+    "commentCount": 3,
+    "likeCount": 9,
+    "collectionCount": 2,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國防醫學院",
+    "department": "牙醫學系",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL_FULL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小弟已購預售屋\n預計全款買房\n但後續還是想把資金做更有效利用\n\n請問有做過科目四的朋友\n1.貸款成數與利率？\n2.是否有受到豪宅貸款限制管制？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 9,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2024-12-25T16:07:07.892Z",
+    "identityIdV3": "30eb7f51-0dd0-40ff-80a2-2edceb83defb",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

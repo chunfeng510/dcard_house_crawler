@@ -1,0 +1,109 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257750075",
+  "fetch_time": "2025-06-09T20:28:51.774108",
+  "posts": {
+    "id": 257750075,
+    "title": "#問題 一般薪資的房屋貸款",
+    "excerpt": "看板上的大家年薪都好高，動輒破百，眼看近期房市緊張，隨著要交屋貸款的時間逼近，心情也愈發緊張，很怕這樣的條件貸不到款！想說上來詢問前輩，也提供給其他條件相同的新人們參考。本身年薪約莫72萬，太太年薪約",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-14T02:26:11.627Z",
+    "updatedAt": "2025-05-25T12:03:52.972Z",
+    "commentCount": 29,
+    "likeCount": 33,
+    "collectionCount": 51,
+    "shareCount": 27,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "房屋",
+      "薪資",
+      "新手",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "開南大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "看板上的大家年薪都好高，動輒破百，眼看近期房市緊張，隨著要交屋貸款的時間逼近，心情也愈發緊張，很怕這樣的條件貸不到款！想說上來詢問前輩，也提供給其他條件相同的新人們參考。\n\n本身年薪約莫72萬，太太年薪約莫54萬，(都是一般上班族，非百大非公務員非高風險工作)\n兩人存款加再一起目前大約250萬左右，(因為買房頭期款先繳了，存款所剩無幾)\n兩人都無其他不動產或負債或欠款，信用良好\n就是標準一般市井小民的財力QQ\n\n在這波打房前，下訂了一間位於台北淡水區紅樹林的預售屋（權狀30，電梯大樓，純住宅），今年四月會開始對保，原訂貸款八成約莫700萬左右，我知道本身條件沒有優勢，對於銀行像這樣的條件好像都會被... 建商合作的銀行又是公股彰化銀行, 很怕這樣下去會造成違約，導致家沒買成，還賠了一波錢\nhttps://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png\n該做點什麼增加自己的條件嗎？\n或是有前輩可以建議屆時去貸款怎樣比較容易貸款！\n先謝謝各位前輩",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 33
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 79,
+    "mediaMeta": [
+      {
+        "id": "f15b1325-286f-496e-b1e6-a9ac9cd29b19",
+        "url": "https://sticker-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ba5882a1-c55f-4717-8b29-76e40bbc13a9",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-01-14T02:26:11.627Z",
+        "updatedAt": "2025-01-14T03:59:18.709Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KrJ@H#o~5Y0LM{V@Ens.-m"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-01-14T03:59:18.719Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258106585",
+  "fetch_time": "2025-06-09T19:51:13.728896",
+  "posts": {
+    "id": 258106585,
+    "title": "#問題 #貸款 如果這個條件，貸款會過嗎？",
+    "excerpt": "各位購屋前輩們午安🙏🏻，小妹看身邊的朋友準備交屋都很開心，但自己卻好焦慮😭，ㄧ直擔心貸款不會過，想請教大家如果這個條件會過嗎？房子：總價1450萬，準備交屋 交屋款已經準備好了，想貸1100萬，本身條件",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-26T05:53:31.991Z",
+    "updatedAt": "2025-02-26T08:16:50.478Z",
+    "commentCount": 10,
+    "likeCount": 0,
+    "collectionCount": 0,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "條件",
+      "借貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔仁大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位購屋前輩們午安🙏🏻\n小妹看身邊的朋友準備交屋都很開心\n但自己卻好焦慮😭\nㄧ直擔心貸款不會過\n想請教大家如果這個條件會過嗎？\n\n房子：\n總價1450萬\n準備交屋 交屋款已經準備好了\n想貸1100萬\n\n本身條件如下：\n自己住，沒結婚，家裡沒有礦\n年薪大概100萬\n沒有薪轉，有勞保\n\n保留家電裝潢的150萬，扣除交屋款後\n存款尚餘350萬\n（還沒談裝潢，也不一定要裝，只保留家電的話保守抓40萬）\n\n目前車貸還有20萬，剩1年繳完（好養的國民車）\n\n以上\n不知道會不會貸不出來\nhttps://sticker-assets.dcard.tw/images/e13e11a8-5917-4ea8-8005-a288c93fb21b/orig.png\n在此先謝謝各位大大的建議🙏🏻🙏🏻🙏🏻",
+    "reactions": [],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 17,
+    "mediaMeta": [
+      {
+        "id": "fa3204a4-4f99-47c2-975f-516f554bfe1b",
+        "url": "https://sticker-assets.dcard.tw/images/e13e11a8-5917-4ea8-8005-a288c93fb21b/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/e13e11a8-5917-4ea8-8005-a288c93fb21b",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-02-26T05:53:31.991Z",
+        "updatedAt": "2025-02-26T05:53:31.991Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KKCsHbxt0L9bxtoIM_NGt8"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

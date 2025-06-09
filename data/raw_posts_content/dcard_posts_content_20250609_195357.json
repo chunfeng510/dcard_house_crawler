@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258019767",
+  "fetch_time": "2025-06-09T19:53:57.879360",
+  "posts": {
+    "id": 258019767,
+    "title": "#問題 首購貸款資格，求銀行貸款專員或是各房產業者幫我解惑..",
+    "excerpt": "自己名下繼承一棟透天和家人共同持有，產權繼承三分之一，土地所有權狀面積：81.96平方公尺，（除以3）＝27.32平方公尺，建物所有權狀面積：一層20.43平方公尺，二層47.70平方公尺，三層47.",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-18T01:48:36.668Z",
+    "updatedAt": "2025-02-18T01:48:36.668Z",
+    "commentCount": 4,
+    "likeCount": 1,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "銀行",
+      "理財"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔英科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "自己名下繼承一棟透天和家人共同持有\n產權繼承三分之一\n土地所有權狀面積：81.96平方公尺\n（除以3）＝27.32平方公尺\n建物所有權狀面積：\n一層20.43平方公尺\n二層47.70平方公尺\n三層47.70平方公尺\n門廊：2.04平方公尺\n停車空間25.23平方公尺\n屋頂突出物：18.19平方公尺\n附屬建物：陽台12.22平方公尺\n\n請問這樣要怎麼算..加總除以三還是以最大面積除以三..？\n\n首購條件\n1. 若是繼承一戶無貸款的房子，且共有持分面積達40平方公尺以上，比照個人有房無貸款的身分條件，適用首購但無寬限期，最高可貸8成的情況。\n2.自然人因繼承取得之房屋及房貸，不計入房屋數及房貸戶數，亦即自然人只有繼承取得之房屋者，新申辦之購屋貸款（非高價住宅貸款），得排除適用。\n\n我搞得好混亂，所以我這樣可以用首購貸款嗎？還是一般貸款只能5成呢？",
+    "reactions": [
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 11,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258029368",
+  "fetch_time": "2025-06-09T19:53:48.863031",
+  "posts": {
+    "title": "#問題 北市預售屋房貸請益",
+    "excerpt": "房屋資訊，總價 4250萬，權狀坪數： 36 坪 （ 不含車位 ），車位：平面車位 （11坪），附註：預售屋預計今年（2025）年底交屋，可能今年年中開始跑對保流程跟驗屋，貸款人資訊，年紀：30，今年",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-18T16:57:12.398Z",
+    "updatedAt": "2025-02-24T16:49:19.885Z",
+    "commentCount": 11,
+    "likeCount": 7,
+    "collectionCount": 6,
+    "shareCount": 11,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 258029368,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立交通大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "房屋資訊\n總價 4250萬\n權狀坪數： 36 坪 ( 不含車位 )\n車位：平面車位 (11坪)\n附註：\n預售屋預計今年(2025)年底交屋\n可能今年年中開始跑對保流程跟驗屋\n\n貸款人資訊\n年紀：30\n今年扣繳憑單 ： 220 萬\n職業：外商軟體工程師\n存款+股票 ： 600 萬\n家人頭期款預計贊助：1300 萬\n\n想請問\n1. 使用新青安 + 一般首購，貸款 2350 萬，這樣收支比過得了嗎？\n\n2. 以這樣的條件，一般首購利率有機會拿到 2.3 左右嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 7
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 11,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

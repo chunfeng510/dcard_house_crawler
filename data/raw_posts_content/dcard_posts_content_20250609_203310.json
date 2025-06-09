@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257633796",
+  "fetch_time": "2025-06-09T20:33:10.489780",
+  "posts": {
+    "id": 257633796,
+    "title": "#問題 我該踮腳尖買房嗎？",
+    "excerpt": "最近好不容易看中一間喜歡的，但屋主開的價錢，就算打個85折後，我也要豁盡所有存款、股票、定存等等，還要再去跟銀行借一筆80萬的信貸，才能付出頭期款跟服務費、規費等等。我是公務員，沒有任何債務、沒有任何",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-30T12:20:54.850Z",
+    "updatedAt": "2025-04-25T03:56:52.304Z",
+    "commentCount": 134,
+    "likeCount": 96,
+    "collectionCount": 153,
+    "shareCount": 72,
+    "tags": [],
+    "topics": [
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "淡江大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近好不容易看中一間喜歡的，但屋主開的價錢，就算打個85折後，我也要豁盡所有存款、股票、定存等等，還要再去跟銀行借一筆80萬的信貸，才能付出頭期款跟服務費、規費等等。\n\n我是公務員，沒有任何債務、沒有任何貸款，也不曾有過信用瑕疵，配偶名下有房無貸款（所以我無法用新青安或首購）\n\n我先打電話給台新銀行(我的薪轉戶)，\n\n但台新說他們現在不做新購屋的房貸，只做房屋融資、二胎、信貸、車貸，\n\n（我問這是不是跟央行的打房有關，他說一定會有關係，但不是全部的原因）\n\n我問房仲，他說銀行鑑價跟屋主開價幾乎一樣，表示這間房子在銀行眼中很有價值。掛保證依我的條件，一定能貸到8成甚至更多，但是要先簽約成交後，才能送銀行跑貸款審核的部份。但是，「強烈」建議我，不要在合約上加「貸不到8成無條件解約」，說沒有屋主會喜歡這種但書。\n\n我現在上不上、下不下，\n就算能貸到8成，我都要墊腳尖再借80萬信貸才能勉強湊出頭款，\n\n萬一出了差錯，貸不到呢？\n\n或是貸得到，但利率3%、3.5%以上呢？我豈不是要吐血？\n\n而且連台新都完全不做新購屋的貸款了(不是緊縮，是根本連渣子都沒了)，那其他銀行我想也好不到哪去。\n\n請問：\n\n1.我該墊腳尖衝一波嗎？\n\n2.我有辦法在簽約前就先確定我到底能貸多少嗎？\n\n謝謝各位前輩。",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 92
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 233,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2024-12-30T12:24:33.514Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

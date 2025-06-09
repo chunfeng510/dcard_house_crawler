@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257741021",
+  "fetch_time": "2025-06-09T20:29:06.602414",
+  "posts": {
+    "id": 257741021,
+    "title": "#建議 想請教可以負擔的房價金額",
+    "excerpt": "大家好，最近在看房，但是在評估金額的時候一直做不了決定，想問看看有沒有類似的情況，沒有後援，目前 現金1350萬 （多數在股市）、信貸800萬，年收的話，非常穩定的底薪大概160萬，獎金去年是280萬",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-12T19:48:04.451Z",
+    "updatedAt": "2025-01-14T12:29:30.737Z",
+    "commentCount": 11,
+    "likeCount": 5,
+    "collectionCount": 4,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "負擔",
+      "房價",
+      "投資",
+      "理財",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，最近在看房，但是在評估金額的時候一直做不了決定\n\n想問看看有沒有類似的情況\n\n沒有後援 \n\n目前 現金1350萬 (多數在股市)、信貸800萬 \n\n年收的話，非常穩定的底薪大概160萬，獎金去年是280萬，全年440萬。\n\n但是獎金部分較不一定，這也是我難抓的原因。\n\n\n第一個方案是抓\n\n每年還款 96萬 (底薪6成)，月還款8萬，30年房貸、利率2.25%。使用550萬的淨值當頭期款。\n\n用玉山計算機算出來可負擔房價為2642.8萬。\n\n這樣手邊留下800萬的現金備用，以後獎金有就拿來修繕。\n\n不知道這樣估算會不會太保守\n\n\n第二個方案則是 \n\n\n每年還款 96萬 (底薪6成)，月還款8萬，40年房貸、利率2.25%。使用550萬的淨值當頭期款 (不足的用800萬的備用現金補)。\n\n用算出來可負擔房價為3163.3萬。\n\n這會不會太緊繃一點\n\n第一次買房  想知道大家底薪獎金結構的都怎麼抓預算",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

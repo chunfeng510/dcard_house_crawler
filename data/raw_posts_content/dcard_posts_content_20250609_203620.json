@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257507681",
+  "fetch_time": "2025-06-09T20:36:20.440295",
+  "posts": {
+    "id": 257507681,
+    "title": "#問題 購套房請益",
+    "excerpt": "直接買套房好 還是租套房好，我工作單位龍井麗水那邊無宿舍，起薪3萬2 貸款90萬 4% 月還1.6萬，淨存款約30萬  其餘90萬在美債ETF，現在看一間套房離公司最近，155萬 4坪35萬元/坪 2",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-15T13:30:51.264Z",
+    "updatedAt": "2024-12-16T12:32:26.608Z",
+    "commentCount": 2,
+    "likeCount": 15,
+    "collectionCount": 0,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "套房",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺中科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "直接買套房好 還是租套房好\n我工作單位龍井麗水那邊無宿舍\n起薪3萬2 貸款90萬 4% 月還1.6萬\n淨存款約30萬  其餘90萬在美債ETF\n\n現在看一間套房離公司最近 \n155萬 4坪35萬元/坪 2.1% 自備款30萬 8成貸月還4600元 +600管理費 收入剩下1萬還可以生活。\n\n租房大概5000 包含管理費\n\n\n這樣的狀況建議買下去嗎？ 如果銀行不貸有沒有毀約的可能",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 15
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "downgradeLevel": 2,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258067879",
+  "fetch_time": "2025-06-09T19:52:31.759410",
+  "posts": {
+    "id": 258067879,
+    "title": "#問題 房貸（更）",
+    "excerpt": "更，撇除房貸用我名字的話題，有些人很在意33萬的低薪，看來我需要跟我老公要求共同育兒，不能共同育兒的時間需要換算成保姆費用除以二支付給我，不然我33萬的薪水實在太低了，或者我可以去找加班薪水高一點的工",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-22T10:30:27.881Z",
+    "updatedAt": "2025-02-27T11:34:24.722Z",
+    "commentCount": 29,
+    "likeCount": 17,
+    "collectionCount": 14,
+    "shareCount": 9,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "hohomomo",
+    "department": "hoh01122",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "hohomomo",
+    "personaUid": "hoh01122",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "更\n撇除房貸用我名字的話題\n有些人很在意33萬的低薪\n看來我需要跟我老公要求共同育兒\n不能共同育兒的時間需要換算成保姆費用除以二支付給我\n不然我33萬的薪水實在太低了\n或者我可以去找加班薪水高一點的工作\n再一起支付保姆費\n小孩生病請假的狀況需要輪流不能都是我\n\n不能把我為家庭付出的部分當作理所應當\n那都是看不到的成本\n\n理性探討這個問題沒有生氣更不需要吵架\n\n------------------------------\n房子在桃園 總價1285\n我33y 年薪33萬\n我老公45y 年薪180萬（自營商）\n去年買房子\n預計今年底或明年初會交屋\n交屋前會把信貸繳清只剩貨車貸款\n沒有遲繳紀錄\n因為年紀關係想用我名字貸款 \n但我薪水比較低 目前我老公的薪轉是轉到我戶頭的\n我想貸8成 40年 不用寬限期\n不知道這樣的條件會不會不好貸",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 16
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 96,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-02-23T04:32:51.915Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

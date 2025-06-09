@@ -1,0 +1,91 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257998322",
+  "fetch_time": "2025-06-09T19:54:32.437039",
+  "posts": {
+    "id": 257998322,
+    "title": "#問題 新北大樓vs.桃園透天",
+    "excerpt": "自身條件：1.爸媽贊助頭期款，然後我姐和我負擔房貸，一家四口自住，2.爸媽半退休（依照案子在北北基桃工作），我姐/我在新北/台北工作，3.目前家裡兩台車（爸媽*1、姐*1），如果購買在桃園需要再購入一",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-02-15T16:10:36.594Z",
+    "updatedAt": "2025-02-18T11:07:48.826Z",
+    "commentCount": 14,
+    "likeCount": 11,
+    "collectionCount": 5,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "新北",
+      "桃園",
+      "買房",
+      "購屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "自身條件：\n1.爸媽贊助頭期款，然後我姐和我負擔房貸，一家四口自住\n2.爸媽半退休(依照案子在北北基桃工作)，我姐/我在新北/台北工作\n3.目前家裡兩台車(爸媽*1、姐*1)，如果購買在桃園需要再購入一台車(我)\n4.新北大樓、桃園透天總價1600~2000\n\n新北大樓優缺\n1.交通方便(機車/大眾運輸)與通勤時間短\n2.生活機能方便，走路就購物、覓食、看病…\n3.屋齡大，>10年\n4.坪數小，我姐和我共用房間或者一人一小間\n5.部分沒有車位或者車位*1，需要額外買/租車位\n6.需要重新檢修與裝潢及購買家具\n7.上下左右鄰居未知數，互相影響較大\n8.管理費有\n\n桃園透天優缺\n1.交通不方便(汽車)與通勤時間長，雖然在交流道附近\n2.生活機能不方便，騎車10分鐘才購物、覓食、看病…\n3.屋齡小，<5年\n4.坪數大，我姐和我可以一人一層\n5.車位*2、門口隨便停放\n6.不需要重新檢修與裝潢，僅購買家具\n7.左右鄰居未知數，互相影響較小\n8.管理費無\n\n請問應該如何選擇？求建議\n網路已有搜尋，但是資料偏舊，所以再問問廣大網友",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 25,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

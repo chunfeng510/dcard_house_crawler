@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257550879",
+  "fetch_time": "2025-06-09T20:35:16.541719",
+  "posts": {
+    "id": 257550879,
+    "title": "#問題 頭期可以分期嗎？",
+    "excerpt": "請問如果向親友購屋，親友預售價格為1800w，想使用新青安貸款，因此貸款金額壓在1000w，剩下的800w頭款可以分期嗎？例如購屋當下先給200，之後陸續償還（親友接受的情況下），這樣是可以的嗎？在買",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2024-12-20T10:55:50.923Z",
+    "updatedAt": "2024-12-20T10:55:50.923Z",
+    "commentCount": 5,
+    "likeCount": 11,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "嚕嚕比",
+    "department": "sillyeffibaby",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "嚕嚕比",
+    "personaUid": "sillyeffibaby",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "請問如果向親友購屋\n親友預售價格為1800w\n想使用新青安貸款\n因此貸款金額壓在1000w\n剩下的800w頭款可以分期嗎？例如購屋當下先給200，之後陸續償還（親友接受的情況下）\n這樣是可以的嗎？在買賣價格登錄那邊還是登錄1800嗎？需要準備什麼證明文件呢",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

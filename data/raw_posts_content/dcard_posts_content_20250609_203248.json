@@ -1,0 +1,137 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257659325",
+  "fetch_time": "2025-06-09T20:32:48.883530",
+  "posts": {
+    "id": 257659325,
+    "title": "#問題 首購定義",
+    "excerpt": "本人軍公教和女友打算合購一間房子，沒意外應該會用築巢貸款，如果房子用共同登記，這樣之後想考慮第二間不管寫在誰的名下就不算首購了嗎？圖片內容不確定正不正確",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-01-02T16:01:42.033Z",
+    "updatedAt": "2025-05-18T17:15:59.327Z",
+    "commentCount": 8,
+    "likeCount": 5,
+    "collectionCount": 9,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "首購族",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": true,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "維尼",
+    "department": "kfit97623",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "維尼",
+    "personaUid": "kfit97623",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "本人軍公教和女友打算合購一間房子\n沒意外應該會用築巢貸款\n如果房子用共同登記，這樣之後想考慮第二間不管寫在誰的名下就不算首購了嗎？\n圖片內容不確定正不正確\nhttps://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/orig.jpeg",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 15,
+    "mediaMeta": [
+      {
+        "id": "89740d7b-cb2b-47a9-8d27-15b6c20b3769",
+        "url": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-01-02T16:01:42.033Z",
+        "updatedAt": "2025-05-18T17:15:59.327Z",
+        "width": 74,
+        "height": 160,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 225,
+          "width": 1125,
+          "height": 675
+        },
+        "blurhash": "lHO|eEIUSh4Ts;WV^$xuxt%LkCRjtUV]M{.8Rjof"
+      },
+      {
+        "id": "89740d7b-cb2b-47a9-8d27-15b6c20b3769",
+        "url": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-01-02T16:01:42.033Z",
+        "updatedAt": "2025-05-18T17:15:59.327Z",
+        "width": 1125,
+        "height": 2436,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 225,
+          "width": 1125,
+          "height": 675
+        },
+        "blurhash": "lHO|eEIUSh4Ts;WV^$xuxt%LkCRjtUV]M{.8Rjof"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [
+      "https://megapx-assets.dcard.tw/images/ebf234c2-279c-41bd-b629-c4fa06ea39fc/orig.jpeg"
+    ],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}
