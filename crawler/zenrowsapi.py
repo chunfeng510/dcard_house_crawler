@@ -25,7 +25,7 @@ logger = logging.getLogger(__name__)
 class ZenRowsApiCrawler:
     """使用 ZenRows API 的 Dcard 爬蟲類"""
     
-    def __init__(self, api_key="e99d58201d831ef32c19c22efed7e9ab8b35db84", forum_name=None, continue_last=True):
+    def __init__(self, api_key="bdc809ccb3ef89f494f9c4f06827e85df87a9d12", forum_name=None, continue_last=True):
         """初始化爬蟲"""
         self.client = ZenRowsClient(api_key)
         self.base_url = BASE_URL # 設定API基本URL
@@ -255,7 +255,9 @@ class ZenRowsApiCrawler:
             cursor.execute('''
                 SELECT p.id FROM posts p
                 LEFT JOIN post_content pc ON p.id = pc.post_id
-                WHERE pc.post_id IS NULL and (title like '%貸%' or excerpt like '%貸%')
+                WHERE pc.post_id IS NULL
+                    and (title like '%貸%' or excerpt like '%貸%')
+                    and p.is_deleted = 0
                 ORDER BY p.id DESC
             ''')
             
