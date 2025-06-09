@@ -12,6 +12,7 @@ API 路徑說明:
 - 文章內引用連結: GET /posts/{文章ID}/links
 - 文章內留言: GET /posts/{文章ID}/comments
 """
+# api = bdc809ccb3ef89f494f9c4f06827e85df87a9d12
 BASE_URL = "https://www.dcard.tw/service/api/v2"
 FORUM_NAME = "house_purchase"  # 可以更改為其他想爬取的版面
 HEADERS = {
