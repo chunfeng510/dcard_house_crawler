@@ -1241,3 +1241,71 @@
 2025-06-09 20:37:12,847 - crawler.zenrowsapi - INFO - 已關閉數據庫連接
 2025-06-09 20:37:12,847 - __main__ - INFO - 爬蟲任務完成
 2025-06-09 20:37:12,847 - __main__ - INFO - ==== Dcard房屋版爬蟲程式結束 ====
+2025-06-09 23:08:14,414 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-09 23:08:14,417 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-09 23:08:14,417 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-09 23:08:14,417 - database.db_manager - INFO - 數據庫連接成功
+2025-06-09 23:08:14,417 - __main__ - INFO - 資料庫連接測試成功
+2025-06-09 23:08:14,417 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-09 23:08:14,417 - __main__ - INFO - 環境驗證通過
+2025-06-09 23:08:14,417 - __main__ - INFO - 開始爬蟲任務
+2025-06-09 23:08:14,417 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-09 23:08:14,418 - database.db_manager - INFO - 數據庫連接成功
+2025-06-09 23:08:14,419 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-09 23:09:07,060 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-09 23:09:07,062 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-09 23:09:07,062 - __main__ - INFO - OpenAI版本: 1.82.0
+2025-06-09 23:09:07,062 - database.db_manager - INFO - 數據庫連接成功
+2025-06-09 23:09:07,062 - __main__ - INFO - 資料庫連接測試成功
+2025-06-09 23:09:07,062 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-09 23:09:07,062 - __main__ - INFO - 環境驗證通過
+2025-06-09 23:09:07,063 - __main__ - INFO - 開始爬蟲任務
+2025-06-09 23:09:07,063 - __main__ - INFO - 使用 ZenRowsAPI 爬蟲模式
+2025-06-09 23:09:07,063 - database.db_manager - INFO - 數據庫連接成功
+2025-06-09 23:09:07,063 - database.db_manager - INFO - 數據庫表初始化成功
+2025-06-09 23:09:08,326 - crawler.zenrowsapi - INFO - 將爬取 444 篇文章的評論
+2025-06-09 23:09:08,327 - crawler.zenrowsapi - INFO - 開始獲取文章 258994745 的評論: https://www.dcard.tw/service/api/v2/posts/258994745/comments
+2025-06-09 23:09:20,046 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250609_230920.json
+2025-06-09 23:09:20,047 - crawler.zenrowsapi - INFO - 成功獲取文章 258994745 的評論，共 1 條
+2025-06-09 23:09:20,049 - database.db_manager - INFO - 留言 c7cb862f-b1d6-4835-97df-4cb773e9deef 插入成功
+2025-06-09 23:09:20,049 - crawler.zenrowsapi - INFO - 文章 258994745 的評論數據處理完成
+2025-06-09 23:09:23,055 - crawler.zenrowsapi - INFO - 進度: 1/444
+2025-06-09 23:09:23,056 - crawler.zenrowsapi - INFO - 開始獲取文章 258994065 的評論: https://www.dcard.tw/service/api/v2/posts/258994065/comments
+2025-06-09 23:09:24,743 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250609_230924.json
+2025-06-09 23:09:24,744 - crawler.zenrowsapi - INFO - 成功獲取文章 258994065 的評論，共 4 條
+2025-06-09 23:09:24,744 - crawler.zenrowsapi - ERROR - 處理文章評論失敗: 'content'
+2025-06-09 23:09:24,745 - crawler.zenrowsapi - INFO - 開始獲取文章 258991881 的評論: https://www.dcard.tw/service/api/v2/posts/258991881/comments
+2025-06-09 23:09:26,516 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250609_230926.json
+2025-06-09 23:09:26,517 - crawler.zenrowsapi - INFO - 成功獲取文章 258991881 的評論，共 10 條
+2025-06-09 23:09:26,518 - database.db_manager - INFO - 留言 49d3df29-282f-4faf-a3bc-47cd52f24e5e 插入成功
+2025-06-09 23:09:26,519 - database.db_manager - INFO - 留言 08e1dbe6-19f4-4820-852e-0ca137cb517e 插入成功
+2025-06-09 23:09:26,519 - database.db_manager - INFO - 留言 2c46bf3e-e650-4fb9-84cf-2d422093654c 插入成功
+2025-06-09 23:09:26,520 - database.db_manager - INFO - 留言 ec5cdf22-d1aa-4427-b406-8fb6eedd7084 插入成功
+2025-06-09 23:09:26,520 - crawler.zenrowsapi - ERROR - 處理文章評論失敗: 'content'
+2025-06-09 23:09:26,521 - crawler.zenrowsapi - INFO - 開始獲取文章 258987521 的評論: https://www.dcard.tw/service/api/v2/posts/258987521/comments
+2025-06-09 23:09:28,281 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250609_230928.json
+2025-06-09 23:09:28,281 - crawler.zenrowsapi - INFO - 成功獲取文章 258987521 的評論，共 3 條
+2025-06-09 23:09:28,283 - database.db_manager - INFO - 留言 23c23683-5ba0-4b23-b130-0242dbb28ff1 插入成功
+2025-06-09 23:09:28,283 - crawler.zenrowsapi - ERROR - 處理文章評論失敗: 'content'
+2025-06-09 23:09:28,283 - crawler.zenrowsapi - INFO - 開始獲取文章 258985418 的評論: https://www.dcard.tw/service/api/v2/posts/258985418/comments
+2025-06-09 23:09:32,025 - crawler.zenrowsapi - INFO - 原始數據已保存到: dcard_posts_limitunknown_20250609_230931.json
+2025-06-09 23:09:32,025 - crawler.zenrowsapi - INFO - 成功獲取文章 258985418 的評論，共 29 條
+2025-06-09 23:09:32,026 - database.db_manager - INFO - 留言 7f32e9a0-c8e4-4b54-a91a-99337ea13fff 插入成功
+2025-06-09 23:09:32,027 - database.db_manager - INFO - 留言 8491dd37-b6f7-4111-a5d2-e6fbc44984e8 插入成功
+2025-06-09 23:09:32,027 - database.db_manager - INFO - 留言 b3bb31ca-cd78-4109-9029-aba991569abb 插入成功
+2025-06-09 23:09:32,028 - database.db_manager - INFO - 留言 771bc520-c923-42d5-b36a-4f1fbb3fa3ce 插入成功
+2025-06-09 23:09:32,028 - database.db_manager - INFO - 留言 6df35406-7644-4c62-b682-a3f9fb5a6c4d 插入成功
+2025-06-09 23:09:32,029 - database.db_manager - INFO - 留言 ad440ab1-4ca6-4618-9293-e097c3e3a952 插入成功
+2025-06-09 23:09:32,029 - database.db_manager - INFO - 留言 08aadf99-6918-4f31-970a-3fd68c2a6c6e 插入成功
+2025-06-09 23:09:32,030 - database.db_manager - INFO - 留言 656c0739-b887-4dd2-b42e-6d4152a921cd 插入成功
+2025-06-09 23:09:32,030 - database.db_manager - INFO - 留言 e0dc4c68-1b24-44a0-a45e-69a90818f029 插入成功
+2025-06-09 23:09:32,031 - database.db_manager - INFO - 留言 5990c344-f440-4001-a234-bc06a962c78a 插入成功
+2025-06-09 23:09:32,032 - database.db_manager - INFO - 留言 56cabb1d-b392-4e37-aafb-a6817b075535 插入成功
+2025-06-09 23:09:32,032 - database.db_manager - INFO - 留言 1f0bfb2d-95b1-4c25-a69f-e45bd0520981 插入成功
+2025-06-09 23:09:32,033 - database.db_manager - INFO - 留言 88c93036-b436-4eee-bb8c-c0319d83f9a8 插入成功
+2025-06-09 23:09:32,034 - database.db_manager - INFO - 留言 fdfaa604-5b95-4ae7-bd4c-9bf29cad8f08 插入成功
+2025-06-09 23:09:32,034 - database.db_manager - INFO - 留言 1a04d138-0e78-4244-899a-4955acc65d5a 插入成功
+2025-06-09 23:09:32,035 - database.db_manager - INFO - 留言 eedb421c-2e48-4aa6-9820-d7e2dd388bc7 插入成功
+2025-06-09 23:09:32,035 - database.db_manager - INFO - 留言 e7019e1d-da46-47e5-ac9b-5609b60f5ea9 插入成功
+2025-06-09 23:09:32,035 - crawler.zenrowsapi - ERROR - 處理文章評論失敗: 'content'
+2025-06-09 23:09:32,035 - crawler.zenrowsapi - INFO - 開始獲取文章 258985260 的評論: https://www.dcard.tw/service/api/v2/posts/258985260/comments
