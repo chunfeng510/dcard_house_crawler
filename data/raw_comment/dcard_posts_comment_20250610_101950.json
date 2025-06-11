@@ -1,0 +1,43 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258994745/comments",
+  "fetch_time": "2025-06-10T10:19:50.349523",
+  "posts": [
+    {
+      "id": "c7cb862f-b1d6-4835-97df-4cb773e9deef",
+      "anonymous": true,
+      "postId": 258994745,
+      "createdAt": "2025-06-05T00:14:19.186Z",
+      "updatedAt": "2025-06-05T00:14:19.186Z",
+      "floor": 1,
+      "content": "會被房貸壓垮代表你買超出自己能力的房，本來就該想好萬一失業了，存款能撐多久，另一半能不能幫忙，爸媽能不能資助之類的後路，做任何事都有風險啊，就算不買房 去租房好了，你失業也有可能變成繳不起房租啊XD 重點不是買不買房，而是你有沒有做好風險管理，把買房換成任何支出都是一樣的概念。",
+      "likeCount": 2,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "元智大學",
+      "personaNickname": null,
+      "personaUid": null,
+      "reportReason": "",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "edited": false,
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    }
+  ]
+}

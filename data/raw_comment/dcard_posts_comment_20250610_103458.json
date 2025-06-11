@@ -1,0 +1,131 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258812098/comments",
+  "fetch_time": "2025-06-10T10:34:58.482355",
+  "posts": [
+    {
+      "id": "d691e0c3-eae6-43fd-a078-9d5989fcf534",
+      "anonymous": false,
+      "postId": 258812098,
+      "createdAt": "2025-05-14T11:26:41.802Z",
+      "updatedAt": "2025-05-14T11:26:41.802Z",
+      "floor": 1,
+      "content": "1.是的\n2.是的，要跟銀行申請車位移轉同意書，看銀行是直接開給你，還是需要清償部分銀行才同意開。",
+      "likeCount": 1,
+      "withNickname": true,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "郭彥廷代書地政士事務所",
+      "department": "andy0928521813",
+      "personaNickname": "郭彥廷代書地政士事務所",
+      "personaUid": "andy0928521813",
+      "reportReason": "",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 2,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    },
+    {
+      "id": "637d679e-06c8-4474-a1b5-3cae8073fa6d",
+      "anonymous": false,
+      "postId": 258812098,
+      "createdAt": "2025-05-14T11:49:54.795Z",
+      "updatedAt": "2025-05-14T11:49:54.795Z",
+      "floor": 2,
+      "content": "有疑慮的是網路有看到這個文章，不知道資訊是否正確\nhttps://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/orig.jpeg",
+      "likeCount": 0,
+      "withNickname": true,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": true,
+      "gender": "M",
+      "school": "111222",
+      "department": "st1420",
+      "personaNickname": "111222",
+      "personaUid": "st1420",
+      "reportReason": "",
+      "mediaMeta": [
+        {
+          "id": "0e4585b7-5972-476a-be5e-59536e235522",
+          "url": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-14T11:49:54.795Z",
+          "updatedAt": "2025-05-14T11:49:54.795Z",
+          "width": 79,
+          "height": 160,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 144,
+            "width": 720,
+            "height": 432
+          },
+          "blurhash": "l9QmCrIU?boeWBt7_3ozWBt6t7WB~qj[M{xtfQWB"
+        },
+        {
+          "id": "0e4585b7-5972-476a-be5e-59536e235522",
+          "url": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-05-14T11:49:54.795Z",
+          "updatedAt": "2025-05-14T11:49:54.795Z",
+          "width": 720,
+          "height": 1466,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 144,
+            "width": 720,
+            "height": 432
+          },
+          "blurhash": "l9QmCrIU?boeWBt7_3ozWBt6t7WB~qj[M{xtfQWB"
+        }
+      ],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [
+        "https://megapx-assets.dcard.tw/images/c4c946cf-ff79-44d9-9f7f-07e3f32a9210/orig.jpeg"
+      ],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "2",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    }
+  ]
+}
