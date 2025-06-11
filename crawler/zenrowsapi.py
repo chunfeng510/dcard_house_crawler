@@ -106,6 +106,86 @@ class ZenRowsApiCrawler:
             self._save_error_response(url, response.text)
             return []
 
+    def fetch_post_comment(self, post_id):
+        """獲取文章評論，支持分頁"""
+        try:
+            # 首先獲取文章的總評論數
+            cursor = self.db.conn.cursor()
+            cursor.execute('''
+                SELECT total_comment_count
+                FROM post_content
+                WHERE post_id = ?
+            ''', (post_id,))
+            row = cursor.fetchone()
+            if not row:
+                logger.error(f"找不到文章 {post_id} 的評論總數信息")
+                return None
+                
+            total_comment_count = row[0]
+            if total_comment_count == 0:
+                logger.info(f"文章 {post_id} 沒有評論")
+                return []
+                
+            all_comments = []
+            after = None
+            page = 1
+            
+            while True:
+                # 構建URL和參數
+                url = f"{self.base_url}/posts/{post_id}/comments?limit=100"
+                params = {
+                    "js_render": "true",
+                    "json_response": "true"
+                }
+                
+                # 如果有 after 參數，添加到 URL 中
+                if after is not None:
+                    url += f"&after={after}"
+
+                logger.info(f"開始獲取文章 {post_id} 的第 {page} 頁評論: {url}")
+                response = self.client.get(url, params=params)
+                
+                if response.status_code == 200:
+                    json_content = json.loads(response.text)
+                    if isinstance(json_content, dict) and 'html' in json_content:
+                        comments_data = json.loads(json_content['html'])
+                    else:
+                        comments_data = json_content
+                    
+                    if not comments_data:  # 如果返回空列表，說明已經沒有更多評論
+                        break
+                        
+                    # 保存原始數據
+                    self._save_raw_data(url, comments_data)
+                    
+                    all_comments.extend(comments_data)
+                    
+                    logger.info(f"成功獲取第 {page} 頁評論，目前共 {len(all_comments)}/{total_comment_count} 條")
+                    
+                    # 如果已經獲取到足夠的評論，或者沒有更多評論，就退出
+                    if len(all_comments) >= total_comment_count or len(comments_data) < 100:
+                        break
+                        
+                    # 獲取最後一條評論的樓層號作為下一頁的after參數
+                    last_comment = comments_data[-1]
+                    after = last_comment.get('floor')
+                    
+                    page += 1
+                    # 在請求之間添加延遲
+                    time.sleep(DELAY_BETWEEN_REQUESTS)
+                else:
+                    logger.error(f"獲取評論失敗，狀態碼: {response.status_code}")
+                    if all_comments:  # 如果已經獲取了一些評論，就返回已獲取的部分
+                        return all_comments
+                    return None
+                    
+            logger.info(f"完成獲取文章 {post_id} 的所有評論，共 {len(all_comments)} 條")
+            return all_comments
+            
+        except Exception as e:
+            logger.error(f"獲取文章評論失敗: {e}")
+            return None
+
     def _save_raw_data(self, url, posts_data):
         """保存原始數據到文件"""
         try:
@@ -189,6 +269,43 @@ class ZenRowsApiCrawler:
             return False
         except Exception as e:
             logger.error(f"處理文章詳細內容失敗: {e}")
+            return False
+
+    def process_post_comment(self, post_id, comments_data):
+        """處理單篇文章的評論數據"""
+        try:
+            if not comments_data:
+                logger.warning(f"文章 {post_id} 沒有評論數據")
+                return False
+                
+            success_count = 0
+            for comment in comments_data:
+                try:
+                    # 確保評論數據包含必要的文章ID
+                    comment['postId'] = post_id
+                    
+                    # 為可能為空的欄位設置預設值
+                    if 'content' not in comment:
+                        comment['content'] = None
+                        
+                    # 保存評論到數據庫
+                    self.db.insert_post_comment(comment)
+                    success_count += 1
+                except Exception as e:
+                    logger.warning(f"處理評論時發生錯誤: {e}, 評論ID: {comment.get('id', 'unknown')}")
+                    continue
+                    
+            if success_count > 0:
+                logger.info(f"文章 {post_id} 的評論數據處理完成，成功處理 {success_count} 條評論")
+                # 延遲避免請求過快
+                time.sleep(DELAY_BETWEEN_REQUESTS)
+                return True
+            else:
+                logger.warning(f"文章 {post_id} 的所有評論處理都失敗了")
+                return False
+            
+        except Exception as e:
+            logger.error(f"處理文章評論失敗: {e}")
             return False
 
     def crawl_post(self, total_posts=TOTAL_POSTS):
@@ -289,9 +406,55 @@ class ZenRowsApiCrawler:
         finally:
             self.close()
     
+    def crawl_post_comment(self, limit=None):
+        """爬取文章評論主函數"""
+        try:
+            # 獲取資料庫中需要抓取評論的文章ID
+            cursor = self.db.conn.cursor()
+            
+            # 查詢有內容的文章但還沒有評論的文章
+            cursor.execute('''
+                SELECT DISTINCT pc.post_id 
+                FROM post_content pc
+                LEFT JOIN post_comments cm ON pc.post_id = cm.post_id
+                WHERE cm.post_id IS NULL
+                ORDER BY pc.total_comment_count DESC
+            ''')
+            
+            rows = cursor.fetchall()
+            total_posts = len(rows)
+            
+            if limit and limit < total_posts:
+                rows = rows[:limit]
+                logger.info(f"根據限制條件，將爬取 {limit}/{total_posts} 篇文章的評論")
+            else:
+                logger.info(f"將爬取 {total_posts} 篇文章的評論")
+            
+            processed_count = 0
+            
+            # 處理每篇文章的評論
+            for row in rows:
+                post_id = row[0]
+                
+                # 獲取評論數據
+                comments_data = self.fetch_post_comment(post_id)
+                
+                if comments_data and self.process_post_comment(post_id, comments_data):
+                    processed_count += 1
+                    logger.info(f"進度: {processed_count}/{len(rows)}")
+                
+            logger.info(f"文章評論爬取完成，共處理 {processed_count} 篇文章的評論")
+            return True
+            
+        except Exception as e:
+            logger.error(f"爬取文章評論過程中發生錯誤: {e}")
+            return False
+        finally:
+            self.close()
+
     def crawl(self, total_posts=TOTAL_POSTS):
         """保留原方法名稱以保持向後兼容"""
-        return self.crawl_post_content(100)
+        return self.crawl_post_comment(total_posts)
         
     def close(self):
         """關閉數據庫連接"""
