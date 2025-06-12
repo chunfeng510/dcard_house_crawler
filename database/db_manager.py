@@ -120,6 +120,30 @@ class DatabaseManager:
                 )
             ''')
             
+            # 創建結構化資料分析表
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS content_analysis (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    data_type TEXT NOT NULL CHECK(data_type IN ('content', 'comment')),
+                    post_id INTEGER NOT NULL,
+                    comment_id TEXT,
+                    house_price TEXT,
+                    loan_amount TEXT,
+                    interest_rate TEXT,
+                    loan_term TEXT,
+                    loan_to_value_ratio TEXT,
+                    monthly_payment TEXT,
+                    grace_period TEXT,
+                    bank TEXT,
+                    loan_type TEXT,
+                    real_estate_area TEXT,
+                    analysis_time DATETIME NOT NULL,
+                    confidence_score REAL DEFAULT 0,
+                    FOREIGN KEY (post_id) REFERENCES posts(id),
+                    FOREIGN KEY (comment_id) REFERENCES post_comments(id)
+                )
+            ''')
+            
             self.conn.commit()
             logger.info("數據庫表初始化成功")
             return True
@@ -277,7 +301,45 @@ class DatabaseManager:
             logger.error(f"留言 {comment_data['id']} 插入失敗: {e}")
             self.conn.rollback()
             return False
+        
+    def insert_content_analysis(self, analysis_data):
+        """插入內容分析數據"""
+        try:
+            cursor = self.conn.cursor()
             
+            cursor.execute('''
+                INSERT INTO content_analysis (
+                    data_type, post_id, comment_id, house_price,
+                    loan_amount, interest_rate, loan_term, loan_to_value_ratio,
+                    monthly_payment, grace_period, bank, loan_type,
+                    real_estate_area, analysis_time, confidence_score
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (
+                analysis_data['data_type'],
+                analysis_data['post_id'],
+                analysis_data.get('comment_id'),
+                analysis_data.get('house_price'),
+                analysis_data.get('loan_amount'),
+                analysis_data.get('interest_rate'),
+                analysis_data.get('loan_term'),
+                analysis_data.get('loan_to_value_ratio'),
+                analysis_data.get('monthly_payment'),
+                analysis_data.get('grace_period'),
+                analysis_data.get('bank'),
+                analysis_data.get('loan_type'),
+                analysis_data.get('real_estate_area'),
+                datetime.now().isoformat(),
+                analysis_data.get('confidence_score', 0)
+            ))
+            
+            self.conn.commit()
+            logger.info(f"分析資料插入成功: {analysis_data['post_id']} - {analysis_data.get('comment_id', 'content')}")
+            return True
+        except sqlite3.Error as e:
+            logger.error(f"分析資料插入失敗: {e}")
+            self.conn.rollback()
+            return False        
+    
     def close(self):
         """關閉數據庫連接"""
         if self.conn:

@@ -10,12 +10,14 @@ import logging
 from datetime import datetime
 import re
 import time
+import sqlite3
 from openai import OpenAI, AzureOpenAI
 
 # 將專案根目錄加入系統路徑
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from database.db_manager import DatabaseManager
+from config import settings
 
 # 設定日誌
 logger = logging.getLogger(__name__)
@@ -23,27 +25,38 @@ logger = logging.getLogger(__name__)
 class GPTAnalyzer:
     """使用 GPT 分析 Dcard 房屋文章的類別"""
     
-    def __init__(self, api_key=None, model="gpt-3.5-turbo", endpoint_url=None, api_version="2024-12-01-preview", deployment=None):
+    def __init__(self, api_key=None, model=None, endpoint_url=None, api_version=None, deployment=None):
         """初始化 GPT 分析器"""
         self.db = DatabaseManager()
         self.db.connect()
         
-        # 設定 OpenAI API key
-        self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
-        if not self.api_key:
-            logger.warning("未設定 OpenAI API key，請設定環境變數 OPENAI_API_KEY 或在初始化時提供")
+        # 從 settings.py 或參數讀取設定
+        self.api_key = api_key or settings.OPENAI_API_KEY or os.environ.get("OPENAI_API_KEY")
+        self.model = model or settings.GPT_MODEL
+        self.max_tokens = settings.GPT_MAX_TOKENS
+        self.temperature = settings.GPT_TEMPERATURE
+        self.use_azure = settings.USE_AZURE_OPENAI
+        self.api_delay = settings.GPT_API_DELAY
+        self.min_confidence_score = settings.MIN_CONFIDENCE_SCORE
         
-        # 設定 API 端點 URL (主要用於 Azure OpenAI 服務)
-        self.endpoint_url = endpoint_url or os.environ.get("ENDPOINT_URL")
-        self.model = model
-        self.deployment = deployment or os.environ.get("AZURE_DEPLOYMENT_NAME", model)
-        self.api_version = api_version
+        # Azure OpenAI 相關設定
+        if self.use_azure:
+            self.endpoint_url = endpoint_url or settings.AZURE_ENDPOINT_URL
+            self.api_version = api_version or settings.AZURE_API_VERSION
+            self.deployment = deployment or settings.AZURE_DEPLOYMENT_NAME or self.model
+        else:
+            self.endpoint_url = endpoint_url
+            self.api_version = api_version or "2024-12-01-preview"
+            self.deployment = deployment
+        
+        if not self.api_key:
+            logger.warning("未設定 OpenAI API key，請在 settings.py 中設定 OPENAI_API_KEY 或透過環境變數提供")
         
         # 初始化 API 客戶端
-        if self.endpoint_url and "azure" in self.endpoint_url:
+        if self.use_azure and self.endpoint_url:
             logger.info(f"使用 Azure OpenAI API，端點: {self.endpoint_url}")
             self.client = AzureOpenAI(
-                api_version=api_version,
+                api_version=self.api_version,
                 azure_endpoint=self.endpoint_url,
                 api_key=self.api_key
             )
@@ -53,18 +66,75 @@ class GPTAnalyzer:
             self.client = OpenAI(api_key=self.api_key)
             self.is_azure = False
     
-    def analyze_posts(self):
-        """分析所有尚未分析過的文章"""
-        logger.info("開始使用 GPT 分析文章...")
+    def get_unanalyzed_content(self, limit=None):
+        """取得未分析的文章內容"""
+        try:
+            if limit is None:
+                limit = settings.ANALYSIS_BATCH_SIZE
+                
+            cursor = self.db.conn.cursor()
+            
+            query = """
+            SELECT p.id, p.title, pc.content
+            FROM posts p
+            JOIN post_content pc ON p.id = pc.post_id
+            WHERE NOT EXISTS (
+                SELECT 1 FROM content_analysis ca 
+                WHERE ca.post_id = p.id AND ca.data_type = 'content'
+            )
+            LIMIT ?
+            """
+            
+            cursor.execute(query, (limit,))
+            posts = cursor.fetchall()
+            return posts
+            
+        except sqlite3.Error as e:
+            logger.error(f"取得未分析文章內容失敗: {e}")
+            return []
+    
+    def get_unanalyzed_comments(self, limit=None):
+        """取得未分析的留言內容"""
+        try:
+            if limit is None:
+                limit = settings.COMMENT_ANALYSIS_BATCH_SIZE
+                
+            cursor = self.db.conn.cursor()
+            
+            query = """
+            SELECT pc.id, pc.post_id, pc.content
+            FROM post_comments pc
+            WHERE NOT EXISTS (
+                SELECT 1 FROM content_analysis ca 
+                WHERE ca.comment_id = pc.id
+            )
+            AND length(pc.content) > ?
+            LIMIT ?
+            """
+            
+            cursor.execute(query, (settings.MIN_COMMENT_LENGTH, limit))
+            comments = cursor.fetchall()
+            return comments
+            
+        except sqlite3.Error as e:
+            logger.error(f"取得未分析留言內容失敗: {e}")
+            return []
+    
+    def analyze_post_contents(self, batch_size=None):
+        """分析所有尚未分析過的文章內容"""
+        logger.info("開始使用 GPT 分析文章內容...")
         
-        # 取得所有未分析的文章
-        posts = self.db.get_posts_for_analysis()
+        # 取得未分析的文章內容
+        if batch_size is None:
+            batch_size = settings.ANALYSIS_BATCH_SIZE
+            
+        posts = self.get_unanalyzed_content(batch_size)
         
         if not posts:
-            logger.info("沒有需要分析的文章")
+            logger.info("沒有需要分析的文章內容")
             return True
         
-        logger.info(f"共有 {len(posts)} 篇文章需要分析")
+        logger.info(f"共有 {len(posts)} 篇文章內容需要分析")
         
         success_count = 0
         for post in posts:
@@ -75,23 +145,111 @@ class GPTAnalyzer:
                 continue
             
             try:
-                # 分析文章與房貸主題的相關程度
-                relevance_score, structured_data = self.analyze_with_gpt(title, content)
+                # 分析文章內容
+                confidence_score, structured_data = self.analyze_with_gpt(title, content)
                 
-                # 儲存分析結果
-                structured_data_json = json.dumps(structured_data, ensure_ascii=False)
-                if self.db.update_post_analysis(post_id, relevance_score, structured_data_json):
-                    success_count += 1
-                    logger.info(f"成功分析文章: {title}")
+                # 處理每個結構化數據項目
+                if isinstance(structured_data, list):
+                    # 如果是多筆資料，處理每筆
+                    for data_item in structured_data:
+                        self.save_content_analysis(post_id, None, 'content', confidence_score, data_item)
+                else:
+                    # 單筆資料
+                    self.save_content_analysis(post_id, None, 'content', confidence_score, structured_data)
+                
+                success_count += 1
+                logger.info(f"成功分析文章內容: {title}")
                 
                 # 防止 API 請求過於頻繁
-                time.sleep(1)
+                time.sleep(self.api_delay)
                 
             except Exception as e:
-                logger.error(f"分析文章 '{title}' 時發生錯誤: {e}")
+                logger.error(f"分析文章內容 '{title}' (ID: {post_id}) 時發生錯誤: {e}")
                 
-        logger.info(f"成功分析 {success_count}/{len(posts)} 篇文章")
+        logger.info(f"成功分析 {success_count}/{len(posts)} 篇文章內容")
         return success_count > 0
+    
+    def analyze_post_comments(self, batch_size=None):
+        """分析所有尚未分析過的文章留言"""
+        logger.info("開始使用 GPT 分析文章留言...")
+        
+        # 取得未分析的留言
+        if batch_size is None:
+            batch_size = settings.COMMENT_ANALYSIS_BATCH_SIZE
+            
+        comments = self.get_unanalyzed_comments(batch_size)
+        
+        if not comments:
+            logger.info("沒有需要分析的留言")
+            return True
+        
+        logger.info(f"共有 {len(comments)} 則留言需要分析")
+        
+        success_count = 0
+        for comment in comments:
+            comment_id, post_id, content = comment[0], comment[1], comment[2]
+            
+            if not content or len(content.strip()) < settings.MIN_COMMENT_LENGTH:
+                logger.debug(f"留言內容過短或為空: {comment_id}")
+                continue
+            
+            try:
+                # 分析留言內容
+                confidence_score, structured_data = self.analyze_with_gpt("", content)
+                
+                # 如果相關性太低，直接跳過存儲
+                if confidence_score < self.min_confidence_score:
+                    logger.debug(f"留言 {comment_id} 與房貸主題相關性太低 ({confidence_score})")
+                    continue
+                
+                # 處理每個結構化數據項目
+                if isinstance(structured_data, list):
+                    # 如果是多筆資料，處理每筆
+                    for data_item in structured_data:
+                        self.save_content_analysis(post_id, comment_id, 'comment', confidence_score, data_item)
+                else:
+                    # 單筆資料
+                    self.save_content_analysis(post_id, comment_id, 'comment', confidence_score, structured_data)
+                
+                success_count += 1
+                logger.info(f"成功分析留言: {comment_id}")
+                
+                # 防止 API 請求過於頻繁
+                time.sleep(self.api_delay)
+                
+            except Exception as e:
+                logger.error(f"分析留言 '{comment_id}' 時發生錯誤: {e}")
+                
+        logger.info(f"成功分析 {success_count}/{len(comments)} 則留言")
+        return success_count > 0
+    
+    def save_content_analysis(self, post_id, comment_id, data_type, confidence_score, structured_data):
+        """將分析結果存入數據庫"""
+        try:
+            # 準備分析數據
+            analysis_data = {
+                'data_type': data_type,
+                'post_id': post_id,
+                'comment_id': comment_id,
+                'house_price': structured_data.get('house_price'),
+                'loan_amount': structured_data.get('loan_amount'),
+                'interest_rate': structured_data.get('interest_rate'),
+                'loan_term': structured_data.get('loan_term'),
+                'loan_to_value_ratio': structured_data.get('loan_to_value_ratio'),
+                'monthly_payment': structured_data.get('monthly_payment'),
+                'grace_period': structured_data.get('grace_period'),
+                'bank': structured_data.get('bank'),
+                'loan_type': structured_data.get('loan_type'),
+                'real_estate_area': structured_data.get('real_estate_area'),
+                'confidence_score': confidence_score
+            }
+            
+            # 存入數據庫
+            return self.db.insert_content_analysis(analysis_data)
+            
+        except Exception as e:
+            logger.error(f"儲存分析結果時發生錯誤: {e}")
+            return False
     
     def analyze_with_gpt(self, title, content):
         """使用 GPT 分析文章標題和內容"""
@@ -101,32 +259,56 @@ class GPTAnalyzer:
             
             # 定義系統提示詞
             system_prompt = """
-            你是一位專業的房地產與房貸分析專家。請分析提供的Dcard房屋版文章，執行兩項任務:
+            你是一位專業的房地產與房貸分析專家。請分析我提供的Dcard房屋版文章內容或是留言，執行兩項任務:
             
-            1. 評估文章與「房貸」主題的相關程度，給出0-100的分數。
-               - 0分表示完全無關
-               - 100分表示非常相關，主要討論房貸
+            1. 評估內容與「房貸」主題的相關程度，給出0-100的分數。
+               - 0分表示與房貸完全無關
+               - 100分表示非常相關，主要都在討論房貸
             
-            2. 從文章中提取結構化資訊(如有提及)，包括:
-               - 房貸金額
-               - 房貸利率
-               - 貸款年限
-               - 貸款成數
-               - 月付金額
-               - 提到的銀行名稱列表
+            2. 從內容中提取結構化資訊(如有提及)，包括:
+               - house_price: 房屋總價
+               - loan_amount: 房貸金額
+               - interest_rate: 房貸利率
+               - loan_term: 貸款年限
+               - loan_to_value_ratio: 貸款成數
+               - monthly_payment: 月付金額
+               - grace_period: 寬限期資訊
+               - bank: 提到的銀行名稱
+               - loan_type: 貸款類型(如新青安、一般房貸等)
+               - real_estate_area: 相關房市區域
             
-            請以JSON格式回覆，不要包含解釋，範例:
+            請以JSON格式回覆，不要包含解釋，若銀行,貸款成數,利率...等資料有多筆，可以拆成多筆，注意配對順序，範例:
             {
-                "relevance_score": 85,
-                "structured_data": {
-                    "房貸金額": "500萬",
-                    "房貸利率": "1.31%",
-                    "貸款年限": "30年",
-                    "貸款成數": "80成",
-                    "月付金額": "21000",
-                    "提到的銀行": ["台銀", "土銀"]
-                }
+                "confidence_score": 85,
+                "structured_data": [{
+                    "house_price": "1000萬",
+                    "loan_amount": "500萬",
+                    "interest_rate": "1.31%,2.4%",
+                    "loan_term": "30年,40年",
+                    "loan_to_value_ratio": "8成,85成",
+                    "monthly_payment": "21000",
+                    "grace_period": "6個月",
+                    "bank": "台銀,土銀",
+                    "loan_type": "一般房貸",
+                    "real_estate_area": "台北市松山區"
+                }, {
+                    "house_price": "1500萬",
+                    "loan_amount": "300萬",
+                    "interest_rate": "1.25%",
+                    "loan_term": "20年",
+                    "loan_to_value_ratio": "70成",
+                    "monthly_payment": "15000",
+                    "grace_period": "3年",
+                    "bank": "合作金庫",
+                    "loan_type": "新青安方案",
+                    "real_estate_area": "新北市新店區"
+                }]
             }
+            
+            請注意：
+            - 若找不到某項資料則該欄位留空
+            - 若有多家銀行，僅使用一個欄位用逗號分隔，例如：「台銀,土銀,合庫」
+            - 給予合理且符合實際內容的相關程度分數
             """
             
             # 發送 API 請求
@@ -136,8 +318,8 @@ class GPTAnalyzer:
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": text_to_analyze}
                     ],
-                    temperature=0.3,
-                    max_tokens=1000,
+                    temperature=self.temperature,
+                    max_tokens=self.max_tokens,
                     model=self.deployment
                 )
             else:
@@ -146,8 +328,8 @@ class GPTAnalyzer:
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": text_to_analyze}
                     ],
-                    temperature=0.3,
-                    max_tokens=1000,
+                    temperature=self.temperature,
+                    max_tokens=self.max_tokens,
                     model=self.model
                 )
             
@@ -161,11 +343,11 @@ class GPTAnalyzer:
                 result = json.loads(json_text)
                 
                 # 提取相關度分數和結構化數據
-                relevance_score = result.get("relevance_score", 0)
+                confidence_score = result.get("confidence_score", 0)
                 structured_data = result.get("structured_data", {})
                 
-                logger.info(f"GPT 分析完成: 相關度分數 = {relevance_score}")
-                return relevance_score, structured_data
+                logger.info(f"GPT 分析完成: 相關度分數 = {confidence_score}")
+                return confidence_score, structured_data
             else:
                 logger.error("無法從 GPT 回應中解析 JSON 結果")
                 return 0, {}
@@ -175,9 +357,13 @@ class GPTAnalyzer:
             return 0, {}
 
 if __name__ == "__main__":
-    # 可以在這裡設置 API 金鑰或使用環境變數
-    endpoint_url = os.getenv("ENDPOINT_URL")
-    api_key = os.getenv("OPENAI_API_KEY")
-    deployment = os.getenv("AZURE_DEPLOYMENT_NAME")
-    analyzer = GPTAnalyzer(api_key=api_key, endpoint_url=endpoint_url, deployment=deployment)
-    analyzer.analyze_posts()
+    # 從 settings.py 讀取設定
+    analyzer = GPTAnalyzer()
+    
+    # 分析文章內容
+    print("開始分析文章內容...")
+    analyzer.analyze_post_contents()
+    
+    # 分析留言內容
+    print("開始分析文章留言...")
+    analyzer.analyze_post_comments()

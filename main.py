@@ -84,8 +84,14 @@ def run_analysis(api_key=None, model='gpt-3.5-turbo'):
     logger.info("開始執行 GPT 分析")
     try:
         analyzer = GPTAnalyzer(api_key=api_key, model=model)
-        result = analyzer.analyze_posts()
-        if result:
+        
+        # 分析文章內容
+        content_result = analyzer.analyze_post_contents()
+        
+        # 分析留言
+        comment_result = analyzer.analyze_post_comments()
+        
+        if content_result or comment_result:
             logger.info("GPT 分析任務完成")
             return True
         else:
