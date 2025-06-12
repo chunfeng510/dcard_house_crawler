@@ -1,0 +1,24 @@
+2025-06-11 16:08:03,767 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-10-21
+2025-06-11 16:08:03,816 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-11 16:08:05,501 - __main__ - INFO - API 連接測試成功!
+2025-06-11 16:08:05,502 - __main__ - INFO - GPT 回應: I don't have the ability to hear, but I'm here to assist you with any questions or tasks you have. How can I help you today?
+2025-06-11 16:11:06,963 - __main__ - INFO - 使用標準 OpenAI API
+2025-06-11 16:11:06,993 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-11 16:11:17,072 - openai._base_client - INFO - Retrying request to /chat/completions in 0.947435 seconds
+2025-06-11 16:16:34,246 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-11 16:16:34,284 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-11 16:16:35,914 - __main__ - INFO - API 連接測試成功!
+2025-06-11 16:16:35,915 - __main__ - INFO - GPT 回應: Hello! I can't hear you since I'm only able to read and respond to your messages. How can I help you today?
+2025-06-11 16:17:06,980 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-11 16:17:07,012 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-11 16:17:08,650 - __main__ - INFO - API 連接測試成功!
+2025-06-11 16:17:08,651 - __main__ - INFO - GPT 回應: Hello! I can't actually hear you, but I can read and respond to your text messages. How can I help you today?
+2025-06-11 16:18:29,620 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-11 16:18:29,659 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-11 16:18:31,342 - __main__ - INFO - API 連接測試成功!
+2025-06-11 16:18:31,342 - __main__ - INFO - GPT 回應: Hello! I can't literally hear you, but I can see and respond to your messages. How can I help you today?
+2025-06-11 16:19:12,780 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-11 16:20:23,621 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-11 16:20:34,326 - __main__ - INFO - 初始化 GPT 測試器，使用模型: None
+2025-06-11 16:20:40,140 - __main__ - INFO - API 連接測試成功!
+2025-06-11 16:20:40,140 - __main__ - INFO - GPT 回應: Hello! I can see and respond to your messages. How can I assist you today?

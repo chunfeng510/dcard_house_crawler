@@ -1,0 +1,4 @@
+2025-06-12 00:25:27,558 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-12 00:25:32,616 - __main__ - INFO - 初始化 GPT 測試器，使用模型: None
+2025-06-12 00:25:36,462 - __main__ - INFO - API 連接測試成功!
+2025-06-12 00:25:36,462 - __main__ - INFO - GPT 回應: Hello! I can read and respond to your messages. How can I help you today?
