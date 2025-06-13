@@ -30,14 +30,17 @@ logger = logging.getLogger(__name__)
 class GPTTester:
     """用於測試 GPT API 連接的類別"""
     
-    def __init__(self, api_key=None, model="gpt-3.5-turbo", endpoint_url=None, api_version="2024-12-01-preview", deployment=None):
+    def __init__(self, api_key=None, model=None, endpoint_url=None, api_version="2024-12-01-preview", deployment=None):
         """初始化 GPT 測試器"""
         self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
         if not self.api_key:
             raise ValueError("未提供 OpenAI API 金鑰。請通過參數提供或設定環境變數 OPENAI_API_KEY")
         
-        self.model = model
+        # 設定使用的 GPT 模型，如果未提供則從環境變數獲取，默認為 "gpt-3.5-turbo"
+        self.model = model or os.environ.get("GPT_MODEL", "gpt-3.5-turbo")
+        # 設定 API 端點 URL，用於 Azure OpenAI 服務，如果未提供則從環境變數獲取
         self.endpoint_url = endpoint_url or os.environ.get("ENDPOINT_URL")
+        # 設定 Azure OpenAI 的部署名稱，如果未提供則從環境變數獲取，預設使用模型名稱作為部署名稱
         self.deployment = deployment or os.environ.get("AZURE_DEPLOYMENT_NAME", model)
         self.api_version = api_version
         
@@ -57,7 +60,7 @@ class GPTTester:
             self.client = OpenAI(api_key=self.api_key)
             self.is_azure = False
         
-        logger.info(f"初始化 GPT 測試器，使用模型: {model}")
+        logger.info(f"初始化 GPT 測試器，使用模型: {self.model}")
     
     def test_connection(self):
         """測試 API 連接是否正常"""
@@ -157,9 +160,12 @@ def main():
         if not deployment:
             deployment = input("請輸入 Azure OpenAI 部署名稱 (默認使用模型名稱作為部署名稱): ")
     
+    #　詢問模型名稱
+    model = input("請輸入使用的 GPT 模型 (默認為 gpt-3.5-turbo): ") or "gpt-3.5-turbo"
+        
     # 測試連接
     try:
-        tester = GPTTester(api_key=api_key, endpoint_url=endpoint_url, deployment=deployment)
+        tester = GPTTester(api_key=api_key, endpoint_url=endpoint_url, deployment=deployment, model=model)
         
         print("\n正在測試 API 連接...\n")
         success, message = tester.test_connection()
