@@ -55,6 +55,9 @@ class GPTAnalyzer:
         # 初始化 API 客戶端
         if self.use_azure and self.endpoint_url:
             logger.info(f"使用 Azure OpenAI API，端點: {self.endpoint_url}")
+            logger.info(f"使用模型: {self.model}")
+            logger.info(f"部署名稱: {self.deployment}")
+            
             self.client = AzureOpenAI(
                 api_version=self.api_version,
                 azure_endpoint=self.endpoint_url,
@@ -63,9 +66,12 @@ class GPTAnalyzer:
             self.is_azure = True
         else:
             logger.info("使用標準 OpenAI API")
+            logger.info(f"使用模型: {self.model}")
+            logger.info(f"模型設定: 最大 Token: {self.max_tokens}, 溫度: {self.temperature}")
+            
             self.client = OpenAI(api_key=self.api_key)
             self.is_azure = False
-    
+            
     def get_unanalyzed_content(self, limit=None):
         """取得未分析的文章內容"""
         try:
