@@ -88,6 +88,11 @@ class GPTAnalyzer:
                 SELECT 1 FROM content_analysis ca 
                 WHERE ca.post_id = p.id AND ca.data_type = 'content'
             )
+            AND NOT EXISTS (
+                -- 排除已知相關度為0的文章
+                SELECT 1 FROM content_analysis ca 
+                WHERE ca.post_id = p.id AND ca.data_type = 'content' AND ca.confidence_score = 0
+            )
             LIMIT ?
             """
             
@@ -113,6 +118,11 @@ class GPTAnalyzer:
             WHERE NOT EXISTS (
                 SELECT 1 FROM content_analysis ca 
                 WHERE ca.comment_id = pc.id
+            )
+            AND NOT EXISTS (
+                -- 排除已知相關度為0的留言
+                SELECT 1 FROM content_analysis ca 
+                WHERE ca.comment_id = pc.id AND ca.confidence_score = 0
             )
             AND length(pc.content) > ?
             LIMIT ?
@@ -143,6 +153,7 @@ class GPTAnalyzer:
         logger.info(f"共有 {len(posts)} 篇文章內容需要分析")
         
         success_count = 0
+        skipped_count = 0
         for post in posts:
             post_id, title, content = post[0], post[1], post[2]
             
@@ -153,6 +164,16 @@ class GPTAnalyzer:
             try:
                 # 分析文章內容
                 confidence_score, structured_data = self.analyze_with_gpt(title, content)
+                
+                # 無論相關度分數如何，都保存結果到資料庫
+                # 這樣下次就能跳過相關度為0的項目
+                if confidence_score == 0:
+                    # 相關度為0，保存一個空的結構化數據以標記已處理
+                    empty_data = {}
+                    self.save_content_analysis(post_id, None, 'content', 0, empty_data)
+                    skipped_count += 1
+                    logger.info(f"文章 '{title}' (ID: {post_id}) 與房貸主題不相關 (相關度為0)，已標記為不需再分析")
+                    continue
                 
                 # 處理每個結構化數據項目
                 if isinstance(structured_data, list):
@@ -172,7 +193,7 @@ class GPTAnalyzer:
             except Exception as e:
                 logger.error(f"分析文章內容 '{title}' (ID: {post_id}) 時發生錯誤: {e}")
                 
-        logger.info(f"成功分析 {success_count}/{len(posts)} 篇文章內容")
+        logger.info(f"成功分析 {success_count}/{len(posts)} 篇文章內容，跳過 {skipped_count} 篇不相關文章")
         return success_count > 0
     
     def analyze_post_comments(self, batch_size=None):
@@ -192,6 +213,7 @@ class GPTAnalyzer:
         logger.info(f"共有 {len(comments)} 則留言需要分析")
         
         success_count = 0
+        skipped_count = 0
         for comment in comments:
             comment_id, post_id, content = comment[0], comment[1], comment[2]
             
@@ -203,9 +225,21 @@ class GPTAnalyzer:
                 # 分析留言內容
                 confidence_score, structured_data = self.analyze_with_gpt("", content)
                 
-                # 如果相關性太低，直接跳過存儲
+                # 無論相關度分數如何，都保存結果到資料庫
+                # 這樣下次就能跳過相關度為0的項目
+                if confidence_score == 0:
+                    # 相關度為0，保存一個空的結構化數據以標記已處理
+                    empty_data = {}
+                    self.save_content_analysis(post_id, comment_id, 'comment', 0, empty_data)
+                    skipped_count += 1
+                    logger.info(f"留言 {comment_id} 與房貸主題不相關 (相關度為0)，已標記為不需再分析")
+                    continue
+                
+                # 如果相關性太低，仍然保存但不做後續處理
                 if confidence_score < self.min_confidence_score:
                     logger.debug(f"留言 {comment_id} 與房貸主題相關性太低 ({confidence_score})")
+                    empty_data = {}
+                    self.save_content_analysis(post_id, comment_id, 'comment', confidence_score, empty_data)
                     continue
                 
                 # 處理每個結構化數據項目
@@ -226,7 +260,7 @@ class GPTAnalyzer:
             except Exception as e:
                 logger.error(f"分析留言 '{comment_id}' 時發生錯誤: {e}")
                 
-        logger.info(f"成功分析 {success_count}/{len(comments)} 則留言")
+        logger.info(f"成功分析 {success_count}/{len(comments)} 則留言，跳過 {skipped_count} 則不相關留言")
         return success_count > 0
     
     def save_content_analysis(self, post_id, comment_id, data_type, confidence_score, structured_data):
