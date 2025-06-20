@@ -2,3 +2,34 @@
 2025-06-12 00:25:32,616 - __main__ - INFO - 初始化 GPT 測試器，使用模型: None
 2025-06-12 00:25:36,462 - __main__ - INFO - API 連接測試成功!
 2025-06-12 00:25:36,462 - __main__ - INFO - GPT 回應: Hello! I can read and respond to your messages. How can I help you today?
+2025-06-12 15:01:29,030 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:02:49,594 - __main__ - INFO - 初始化 GPT 測試器，使用模型: None
+2025-06-12 15:03:00,596 - __main__ - ERROR - API 連接測試失敗: Error code: 404 - {'error': {'code': 'DeploymentNotFound', 'message': 'The API deployment for this resource does not exist. If you created the deployment within the last 5 minutes, please wait a moment and try again.'}}
+2025-06-12 15:03:58,517 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:04:01,024 - __main__ - INFO - 初始化 GPT 測試器，使用模型: None
+2025-06-12 15:04:04,202 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:04:04,202 - __main__ - INFO - GPT 回應: Yes, I can hear you! How can I assist you today?
+2025-06-12 15:07:11,577 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:07:18,425 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3.5-turbo
+2025-06-12 15:07:22,421 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:07:22,422 - __main__ - INFO - GPT 回應: Yes, I can "hear" you in the sense that I can read and respond to your text messages. How can I assist you today?
+2025-06-12 15:08:11,273 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:08:14,215 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-4
+2025-06-12 15:08:18,711 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:08:18,711 - __main__ - INFO - GPT 回應: Yes, I can hear you! How can I assist you today?
+2025-06-12 15:08:22,224 - __main__ - INFO - 開始與 GPT 聊天 (輸入 'exit' 或 'quit' 結束對話)
+2025-06-12 15:09:21,744 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:09:21,785 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-4
+2025-06-12 15:09:25,619 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:09:25,620 - __main__ - INFO - GPT 回應: Hello! I can "hear" you in the sense that I can read your messages and respond. How can I help you today?
+2025-06-12 15:09:28,793 - __main__ - INFO - 開始與 GPT 聊天 (輸入 'exit' 或 'quit' 結束對話)
+2025-06-12 15:10:19,696 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:10:19,727 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-3
+2025-06-12 15:10:21,169 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:10:21,170 - __main__ - INFO - GPT 回應: Hello! Yes, I can hear you. How can I assist you today?
+2025-06-12 15:10:22,991 - __main__ - INFO - 開始與 GPT 聊天 (輸入 'exit' 或 'quit' 結束對話)
+2025-06-12 15:11:36,247 - __main__ - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-12 15:11:36,294 - __main__ - INFO - 初始化 GPT 測試器，使用模型: gpt-4
+2025-06-12 15:11:37,859 - __main__ - INFO - API 連接測試成功!
+2025-06-12 15:11:37,859 - __main__ - INFO - GPT 回應: Hello! Yes, I can hear you. How can I assist you today?
+2025-06-12 15:11:39,926 - __main__ - INFO - 開始與 GPT 聊天 (輸入 'exit' 或 'quit' 結束對話)

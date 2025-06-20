@@ -1,0 +1,103 @@
+2025-06-16 09:23:32,714 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-16 09:23:32,734 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-16 09:23:32,734 - __main__ - INFO - OpenAI版本: 1.35.3
+2025-06-16 09:23:32,737 - database.db_manager - INFO - 數據庫連接成功
+2025-06-16 09:23:32,737 - __main__ - INFO - 資料庫連接測試成功
+2025-06-16 09:23:32,745 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-16 09:23:32,745 - __main__ - INFO - 環境驗證通過
+2025-06-16 09:23:32,746 - __main__ - INFO - 開始執行 GPT 分析
+2025-06-16 09:23:32,747 - database.db_manager - INFO - 數據庫連接成功
+2025-06-16 09:23:32,747 - analysis.gpt_analyzer - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/
+2025-06-16 09:23:32,748 - analysis.gpt_analyzer - INFO - 使用模型: gpt-4o
+2025-06-16 09:23:32,748 - analysis.gpt_analyzer - INFO - 部署名稱: gpt-4o
+2025-06-16 09:23:32,775 - analysis.gpt_analyzer - INFO - 開始使用 GPT 分析文章內容...
+2025-06-16 09:23:33,315 - analysis.gpt_analyzer - INFO - 沒有需要分析的文章內容
+2025-06-16 09:23:33,316 - analysis.gpt_analyzer - INFO - 開始使用 GPT 分析文章留言...
+2025-06-16 09:23:33,925 - analysis.gpt_analyzer - INFO - 共有 1000 則留言需要分析
+2025-06-16 09:23:35,594 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 40
+2025-06-16 09:23:35,608 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 6a10bfec-422f-494b-af4f-17c256139557
+2025-06-16 09:23:35,609 - analysis.gpt_analyzer - INFO - 成功分析留言: 6a10bfec-422f-494b-af4f-17c256139557
+2025-06-16 09:23:37,639 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 50
+2025-06-16 09:23:37,653 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 4aab1f2f-7666-433a-9255-3f801b0d069c
+2025-06-16 09:23:37,653 - analysis.gpt_analyzer - INFO - 成功分析留言: 4aab1f2f-7666-433a-9255-3f801b0d069c
+2025-06-16 09:23:39,661 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:39,677 - database.db_manager - INFO - 分析資料插入成功: 258668802 - d9e514f9-6af4-4f5d-9cf4-51e2d858a0de
+2025-06-16 09:23:39,678 - analysis.gpt_analyzer - INFO - 留言 d9e514f9-6af4-4f5d-9cf4-51e2d858a0de 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:40,699 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:40,716 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 71721758-f28b-4fb4-9acf-b543c25e6381
+2025-06-16 09:23:40,716 - analysis.gpt_analyzer - INFO - 留言 71721758-f28b-4fb4-9acf-b543c25e6381 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:41,797 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:23:41,810 - database.db_manager - INFO - 分析資料插入成功: 258668802 - cd3db443-f86c-4d96-8243-658db528fec6
+2025-06-16 09:23:41,811 - analysis.gpt_analyzer - INFO - 成功分析留言: cd3db443-f86c-4d96-8243-658db528fec6
+2025-06-16 09:23:43,874 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:43,890 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 6f615f8e-e98b-4ccc-a174-3bc8332d2f0a
+2025-06-16 09:23:43,890 - analysis.gpt_analyzer - INFO - 留言 6f615f8e-e98b-4ccc-a174-3bc8332d2f0a 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:44,434 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:44,445 - database.db_manager - INFO - 分析資料插入成功: 258668802 - d1d59908-07ef-4520-ba63-5386964719e6
+2025-06-16 09:23:44,446 - analysis.gpt_analyzer - INFO - 留言 d1d59908-07ef-4520-ba63-5386964719e6 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:45,462 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:45,477 - database.db_manager - INFO - 分析資料插入成功: 258668802 - ca9f9463-b87d-46a8-9b91-28031b6968e4
+2025-06-16 09:23:45,477 - analysis.gpt_analyzer - INFO - 留言 ca9f9463-b87d-46a8-9b91-28031b6968e4 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:46,492 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:46,507 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 61a25d24-d9a7-4463-8fc1-109d10214627
+2025-06-16 09:23:46,508 - analysis.gpt_analyzer - INFO - 留言 61a25d24-d9a7-4463-8fc1-109d10214627 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:47,547 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:23:47,562 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 80837b9e-7e01-47ad-99cf-20dcd62ab193
+2025-06-16 09:23:47,562 - analysis.gpt_analyzer - INFO - 成功分析留言: 80837b9e-7e01-47ad-99cf-20dcd62ab193
+2025-06-16 09:23:49,116 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:49,130 - database.db_manager - INFO - 分析資料插入成功: 258668802 - c2256cd2-c879-4842-8e48-0bd91d9ffb4c
+2025-06-16 09:23:49,131 - analysis.gpt_analyzer - INFO - 留言 c2256cd2-c879-4842-8e48-0bd91d9ffb4c 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:50,223 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 80
+2025-06-16 09:23:50,239 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 6cf03e0f-626c-4b2e-814a-7807ee737793
+2025-06-16 09:23:50,240 - analysis.gpt_analyzer - INFO - 成功分析留言: 6cf03e0f-626c-4b2e-814a-7807ee737793
+2025-06-16 09:23:52,204 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:52,216 - database.db_manager - INFO - 分析資料插入成功: 258668802 - c17eade7-0d4f-4014-967c-d5e8056c46b9
+2025-06-16 09:23:52,216 - analysis.gpt_analyzer - INFO - 留言 c17eade7-0d4f-4014-967c-d5e8056c46b9 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:53,346 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 90
+2025-06-16 09:23:53,362 - database.db_manager - INFO - 分析資料插入成功: 258668802 - d7500915-948a-41ca-bf9b-259b9e4ea615
+2025-06-16 09:23:53,362 - analysis.gpt_analyzer - INFO - 成功分析留言: d7500915-948a-41ca-bf9b-259b9e4ea615
+2025-06-16 09:23:55,456 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 70
+2025-06-16 09:23:55,470 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 0eff2b6c-973c-4a25-b0a8-80eb0a8440cb
+2025-06-16 09:23:55,471 - analysis.gpt_analyzer - INFO - 成功分析留言: 0eff2b6c-973c-4a25-b0a8-80eb0a8440cb
+2025-06-16 09:23:56,996 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:57,013 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 32547545-b634-4066-bf90-526524e1ce53
+2025-06-16 09:23:57,013 - analysis.gpt_analyzer - INFO - 留言 32547545-b634-4066-bf90-526524e1ce53 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:57,552 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:57,571 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 58d203e0-d762-4e1d-9b2d-a7230795d6e2
+2025-06-16 09:23:57,572 - analysis.gpt_analyzer - INFO - 留言 58d203e0-d762-4e1d-9b2d-a7230795d6e2 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:58,155 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:23:58,175 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 0bc5fe89-c3c0-4cff-9d78-30f330ef6e00
+2025-06-16 09:23:58,176 - analysis.gpt_analyzer - INFO - 留言 0bc5fe89-c3c0-4cff-9d78-30f330ef6e00 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:23:59,359 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:23:59,411 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 6d9ee13c-adc7-40ec-a08d-86c6317f1ca6
+2025-06-16 09:23:59,412 - analysis.gpt_analyzer - INFO - 成功分析留言: 6d9ee13c-adc7-40ec-a08d-86c6317f1ca6
+2025-06-16 09:24:01,580 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 60
+2025-06-16 09:24:01,605 - database.db_manager - INFO - 分析資料插入成功: 258668802 - b3aa48c0-5996-4c18-b1ef-0e1c1b98892c
+2025-06-16 09:24:01,606 - analysis.gpt_analyzer - INFO - 成功分析留言: b3aa48c0-5996-4c18-b1ef-0e1c1b98892c
+2025-06-16 09:24:03,721 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:24:03,740 - database.db_manager - INFO - 分析資料插入成功: 258668802 - f0fa0e97-a76d-4a61-8a35-e1b63d5bb7f2
+2025-06-16 09:24:03,741 - analysis.gpt_analyzer - INFO - 成功分析留言: f0fa0e97-a76d-4a61-8a35-e1b63d5bb7f2
+2025-06-16 09:24:05,874 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 90
+2025-06-16 09:24:05,888 - database.db_manager - INFO - 分析資料插入成功: 258668802 - 71ff31c0-beb1-4daa-8af9-3bbc7fa47ed3
+2025-06-16 09:24:05,888 - analysis.gpt_analyzer - INFO - 成功分析留言: 71ff31c0-beb1-4daa-8af9-3bbc7fa47ed3
+2025-06-16 09:24:07,944 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:24:07,961 - database.db_manager - INFO - 分析資料插入成功: 258275842 - c2d1c6bd-d617-4a14-9d0a-cf2c243a65c2
+2025-06-16 09:24:07,961 - analysis.gpt_analyzer - INFO - 成功分析留言: c2d1c6bd-d617-4a14-9d0a-cf2c243a65c2
+2025-06-16 09:24:10,093 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 90
+2025-06-16 09:24:10,111 - database.db_manager - INFO - 分析資料插入成功: 258275842 - 0851fe33-ebbf-4fdb-9edb-e489db54ee38
+2025-06-16 09:24:10,112 - analysis.gpt_analyzer - INFO - 成功分析留言: 0851fe33-ebbf-4fdb-9edb-e489db54ee38
+2025-06-16 09:24:12,082 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:24:12,094 - database.db_manager - INFO - 分析資料插入成功: 258275842 - a665a52a-b614-4de5-842b-a977dbee638d
+2025-06-16 09:24:12,094 - analysis.gpt_analyzer - INFO - 留言 a665a52a-b614-4de5-842b-a977dbee638d 與房貸主題不相關 (相關度為0)，已標記為不需再分析
+2025-06-16 09:24:13,193 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 60
+2025-06-16 09:24:13,207 - database.db_manager - INFO - 分析資料插入成功: 258275842 - c046987e-0b38-4e7f-92dd-912298c40cbc
+2025-06-16 09:24:13,208 - analysis.gpt_analyzer - INFO - 成功分析留言: c046987e-0b38-4e7f-92dd-912298c40cbc
+2025-06-16 09:24:15,470 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 70
+2025-06-16 09:24:15,486 - database.db_manager - INFO - 分析資料插入成功: 258275842 - 2a4c7753-94b3-44a6-b05c-34984e2189e9
+2025-06-16 09:24:15,486 - analysis.gpt_analyzer - INFO - 成功分析留言: 2a4c7753-94b3-44a6-b05c-34984e2189e9
+2025-06-16 09:24:17,471 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 20
+2025-06-16 09:24:17,483 - database.db_manager - INFO - 分析資料插入成功: 258275842 - cd89f0fb-d0d8-47c1-947c-72ea19fb6b3c
+2025-06-16 09:24:17,484 - analysis.gpt_analyzer - INFO - 成功分析留言: cd89f0fb-d0d8-47c1-947c-72ea19fb6b3c
+2025-06-16 09:24:19,518 - analysis.gpt_analyzer - INFO - GPT 分析完成: 相關度分數 = 0
+2025-06-16 09:24:19,535 - database.db_manager - INFO - 分析資料插入成功: 258275842 - f1b3779a-326c-48ce-83f5-33aac589e237
+2025-06-16 09:24:19,536 - analysis.gpt_analyzer - INFO - 留言 f1b3779a-326c-48ce-83f5-33aac589e237 與房貸主題不相關 (相關度為0)，已標記為不需再分析

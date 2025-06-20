@@ -1,0 +1,31 @@
+2025-06-13 22:06:22,237 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-13 22:06:22,253 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-13 22:06:22,253 - __main__ - INFO - OpenAI版本: 1.35.3
+2025-06-13 22:06:22,255 - database.db_manager - INFO - 數據庫連接成功
+2025-06-13 22:06:22,256 - __main__ - INFO - 資料庫連接測試成功
+2025-06-13 22:06:22,256 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-13 22:06:22,256 - __main__ - INFO - 環境驗證通過
+2025-06-13 22:06:22,256 - __main__ - INFO - 開始執行 GPT 分析
+2025-06-13 22:06:22,258 - database.db_manager - INFO - 數據庫連接成功
+2025-06-13 22:06:38,195 - analysis.gpt_analyzer - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-13 22:06:38,196 - analysis.gpt_analyzer - INFO - 使用模型: gpt-3.5-turbo
+2025-06-13 22:06:38,197 - analysis.gpt_analyzer - INFO - 部署名稱: gpt-3.5-turbo
+2025-06-13 22:09:25,816 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-13 22:09:25,837 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-13 22:09:25,838 - __main__ - INFO - OpenAI版本: 1.35.3
+2025-06-13 22:09:25,843 - database.db_manager - INFO - 數據庫連接成功
+2025-06-13 22:09:25,844 - __main__ - INFO - 資料庫連接測試成功
+2025-06-13 22:09:25,844 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-13 22:09:25,845 - __main__ - INFO - 環境驗證通過
+2025-06-13 22:09:25,845 - __main__ - INFO - 開始執行 GPT 分析
+2025-06-13 22:09:25,846 - database.db_manager - INFO - 數據庫連接成功
+2025-06-13 22:09:29,296 - analysis.gpt_analyzer - INFO - 使用 Azure OpenAI API，端點: https://amcchatgpt.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview
+2025-06-13 22:09:29,297 - analysis.gpt_analyzer - INFO - 使用模型: gpt-3.5-turbo
+2025-06-13 22:09:29,297 - analysis.gpt_analyzer - INFO - 部署名稱: gpt-3.5-turbo
+2025-06-13 22:11:32,179 - __main__ - INFO - ==== Dcard房屋版爬蟲程式啟動 ====
+2025-06-13 22:11:32,194 - __main__ - INFO - Requests版本: 2.32.3
+2025-06-13 22:11:32,194 - __main__ - INFO - OpenAI版本: 1.35.3
+2025-06-13 22:11:32,197 - database.db_manager - INFO - 數據庫連接成功
+2025-06-13 22:11:32,197 - __main__ - INFO - 資料庫連接測試成功
+2025-06-13 22:11:32,197 - database.db_manager - INFO - 數據庫連接已關閉
+2025-06-13 22:11:32,198 - __main__ - INFO - 環境驗證通過
