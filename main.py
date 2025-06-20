@@ -79,7 +79,7 @@ def verify_environment():
         logger.error(f"環境驗證失敗: {e}")
         return False
 
-def run_analysis(api_key=None, model='gpt-3.5-turbo'):
+def run_analysis(api_key=None, model=None):
     """執行 GPT 分析"""
     logger.info("開始執行 GPT 分析")
     try:
