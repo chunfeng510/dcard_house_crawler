@@ -26,7 +26,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(os.path.join(log_dir, f'main_{datetime.now().strftime("%Y%m%d")}.log')),
+        logging.FileHandler(os.path.join(log_dir, f'main_{datetime.now().strftime("%Y%m%d")}.log'), encoding='utf-8'),
         logging.StreamHandler(sys.stdout)
     ]
 )
