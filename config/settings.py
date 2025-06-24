@@ -49,8 +49,8 @@ AZURE_API_VERSION = "2024-12-01-preview"  # Azure API 版本
 AZURE_DEPLOYMENT_NAME = ""  # Azure OpenAI 部署名稱
 
 # GPT 分析設定
-ANALYSIS_BATCH_SIZE = 1000  # 每次分析的文章數量
-COMMENT_ANALYSIS_BATCH_SIZE = 1000  # 每次分析的留言數量
-MIN_COMMENT_LENGTH = 5  # 最小分析留言長度
+ANALYSIS_BATCH_SIZE = 2000  # 每次分析的文章數量
+COMMENT_ANALYSIS_BATCH_SIZE = 10000  # 每次分析的留言數量
+MIN_COMMENT_LENGTH = 5  # 最小分析留言字數長度
 MIN_CONFIDENCE_SCORE = 10  # 最小可信度分數，低於此分數的分析結果會被忽略
 GPT_API_DELAY = 1  # 每次 API 請求的延遲時間（秒），避免觸發 API 速率限制
