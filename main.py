@@ -67,6 +67,7 @@ def verify_environment():
         db = DatabaseManager()
         if db.connect():
             logger.info("資料庫連接測試成功")
+            db.initialize_db()
             db.close()
             return True
         else:
