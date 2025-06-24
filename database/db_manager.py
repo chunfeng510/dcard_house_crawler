@@ -137,6 +137,10 @@ class DatabaseManager:
                     bank TEXT,
                     loan_type TEXT,
                     real_estate_area TEXT,
+                    loaner_income_monthly TEXT,
+                    loaner_income_yearly TEXT,
+                    loaner_occupation TEXT,
+                    background_time TEXT,
                     analysis_time DATETIME NOT NULL,
                     confidence_score REAL DEFAULT 0,
                     FOREIGN KEY (post_id) REFERENCES posts(id),
@@ -312,8 +316,9 @@ class DatabaseManager:
                     data_type, post_id, comment_id, house_price,
                     loan_amount, interest_rate, loan_term, loan_to_value_ratio,
                     monthly_payment, grace_period, bank, loan_type,
-                    real_estate_area, analysis_time, confidence_score
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    real_estate_area, loaner_income_monthly, loaner_income_yearly,
+                    loaner_occupation, background_time, analysis_time, confidence_score
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', (
                 analysis_data['data_type'],
                 analysis_data['post_id'],
@@ -328,6 +333,10 @@ class DatabaseManager:
                 analysis_data.get('bank'),
                 analysis_data.get('loan_type'),
                 analysis_data.get('real_estate_area'),
+                analysis_data.get('loaner_income_monthly'),
+                analysis_data.get('loaner_income_yearly'),
+                analysis_data.get('loaner_occupation'),
+                analysis_data.get('background_time'),
                 datetime.now().isoformat(),
                 analysis_data.get('confidence_score', 0)
             ))

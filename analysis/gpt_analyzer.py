@@ -281,6 +281,10 @@ class GPTAnalyzer:
                 'bank': structured_data.get('bank'),
                 'loan_type': structured_data.get('loan_type'),
                 'real_estate_area': structured_data.get('real_estate_area'),
+                'loaner_income_monthly': structured_data.get('loaner_income_monthly'),
+                'loaner_income_yearly': structured_data.get('loaner_income_yearly'),
+                'loaner_occupation': structured_data.get('loaner_occupation'),
+                'background_time': structured_data.get('background_time'),
                 'confidence_score': confidence_score
             }
             
@@ -314,8 +318,12 @@ class GPTAnalyzer:
                - monthly_payment: 月付金額
                - grace_period: 寬限期資訊
                - bank: 提到的銀行名稱
-               - loan_type: 貸款類型(如新青安、一般房貸等)
+               - loan_type: 貸款類型(如:新青安、一般房貸等)
                - real_estate_area: 相關房市區域
+               - loaner_income_monthly: 貸款人收入(月薪)
+               - loaner_income_yearly: 貸款人收入(年薪)
+               - loaner_occupation: 貸款人職業(如: 老師、工程師、科技業)
+               - background_time: 記錄這個資訊的時空(如:2025年4月詢問銀行的)
             
             請以JSON格式回覆，不要包含解釋，若銀行,貸款成數,利率...等資料有多筆，可以拆成多筆，注意配對順序，範例:
             {
@@ -330,7 +338,11 @@ class GPTAnalyzer:
                     "grace_period": "6個月",
                     "bank": "台銀,土銀",
                     "loan_type": "一般房貸",
-                    "real_estate_area": "台北市松山區"
+                    "real_estate_area": "台北市松山區",
+                    "loaner_income_monthly": "5萬",
+                    "loaner_income_yearly": "60萬",
+                    "loaner_occupation": "工程師",
+                    "background_time": "2025年4月"
                 }, {
                     "house_price": "1500萬",
                     "loan_amount": "300萬",
@@ -341,7 +353,11 @@ class GPTAnalyzer:
                     "grace_period": "3年",
                     "bank": "合作金庫",
                     "loan_type": "新青安方案",
-                    "real_estate_area": "新北市新店區"
+                    "real_estate_area": "新北市新店區",
+                    "loaner_income_monthly": "8萬",
+                    "loaner_income_yearly": "96萬",
+                    "loaner_occupation": "科技業",
+                    "background_time": "2024年12月"
                 }]
             }
             
