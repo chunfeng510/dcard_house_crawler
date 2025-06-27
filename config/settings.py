@@ -54,3 +54,6 @@ COMMENT_ANALYSIS_BATCH_SIZE = 10000  # 每次分析的留言數量
 MIN_COMMENT_LENGTH = 5  # 最小分析留言字數長度
 MIN_CONFIDENCE_SCORE = 10  # 最小可信度分數，低於此分數的分析結果會被忽略
 GPT_API_DELAY = 1  # 每次 API 請求的延遲時間（秒），避免觸發 API 速率限制
+
+# ZenRows API 設定
+ZENROWS_API_KEY = "9b411c703ef09ab33d2f681468933624de56a4e4"  # 填入您的 ZenRows API 金鑰

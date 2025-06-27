@@ -16,6 +16,7 @@ from crawler.zenrowsapi import ZenRowsApiCrawler
 from database.db_manager import DatabaseManager
 from analysis.gpt_analyzer import GPTAnalyzer
 from utils.helpers import ensure_directory, create_backup
+from config.settings import ZENROWS_API_KEY
 
 # 設定日誌目錄
 log_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'logs')
@@ -48,6 +49,7 @@ def parse_arguments():
     parser.add_argument('--scraper-api-key', type=str, help='ScraperAPI 的 API 金鑰')
     parser.add_argument('--no-render', action='store_true', 
                       help='使用 ScraperAPI 時不渲染 JavaScript (更快但可能不完整)')
+    parser.add_argument('--zenrows-api-key', type=str, help='ZenRows API 金鑰 (可覆蓋 settings.py)')
     return parser.parse_args()
 
 def verify_environment():
@@ -110,7 +112,7 @@ def get_crawler(args):
         logger.info(f"使用 ScraperAPI 爬蟲模式 (render={render})")
         return ScraperApiCrawler(api_key=api_key, render=render)
     elif args.crawler == 'zenrows':
-        api_key = args.scraper_api_key or 'bdc809ccb3ef89f494f9c4f06827e85df87a9d12'  # 預設或自定義的 API 金鑰
+        api_key = args.zenrows_api_key or ZENROWS_API_KEY  # 支援 --zenrows-api-key 覆蓋
         logger.info("使用 ZenRowsAPI 爬蟲模式")
         return ZenRowsApiCrawler(api_key=api_key)
     else:

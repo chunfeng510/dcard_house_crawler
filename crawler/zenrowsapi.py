@@ -14,7 +14,7 @@ import time
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config.settings import (
     BASE_URL, FORUM_NAME, HEADERS, POSTS_LIMIT, TOTAL_POSTS,
-    DELAY_BETWEEN_REQUESTS
+    DELAY_BETWEEN_REQUESTS, ZENROWS_API_KEY
 )
 from database.db_manager import DatabaseManager
 from utils.helpers import save_last_id, load_last_id
@@ -25,8 +25,10 @@ logger = logging.getLogger(__name__)
 class ZenRowsApiCrawler:
     """使用 ZenRows API 的 Dcard 爬蟲類"""
     
-    def __init__(self, api_key="bdc809ccb3ef89f494f9c4f06827e85df87a9d12", forum_name=None, continue_last=True):
+    def __init__(self, api_key=None, forum_name=None, continue_last=True):
         """初始化爬蟲"""
+        if api_key is None:
+            api_key = ZENROWS_API_KEY
         self.client = ZenRowsClient(api_key)
         self.base_url = BASE_URL # 設定API基本URL
         self.forum_name = forum_name or FORUM_NAME
