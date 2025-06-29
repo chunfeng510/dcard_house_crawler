@@ -55,4 +55,4 @@ MIN_CONFIDENCE_SCORE = 10  # 最小可信度分數，低於此分數的分析結
 GPT_API_DELAY = 1  # 每次 API 請求的延遲時間（秒），避免觸發 API 速率限制
 
 # ZenRows API 設定
-ZENROWS_API_KEY = "c7d8d3c6c5ff3e4ae6a69d7dcf612ac6abbdd405"  # 填入您的 ZenRows API 金鑰
+ZENROWS_API_KEY = "3746942824de9aa649ca586c8ef1eaba2cfb9366"  # 填入您的 ZenRows API 金鑰
