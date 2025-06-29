@@ -8,6 +8,7 @@ from urllib.parse import urlparse, parse_qs
 import time
 import sys
 
+# Zenrows functioning url: https://www.dcard.tw/service/api/v2/forums/house_purchase/posts/
 # 導入系統設置
 import sys
 import time
@@ -419,7 +420,11 @@ class ZenRowsApiCrawler:
                 SELECT DISTINCT pc.post_id 
                 FROM post_content pc
                 LEFT JOIN post_comments cm ON pc.post_id = cm.post_id
-                WHERE cm.post_id IS NULL
+                WHERE cm.post_id IS NULL and pc.total_comment_count > 0
+                and not exists (
+                    SELECT 1 
+                    FROM posts where is_deleted = 1
+                )
                 ORDER BY pc.total_comment_count DESC
             ''')
             
@@ -457,6 +462,8 @@ class ZenRowsApiCrawler:
     def crawl(self, total_posts=TOTAL_POSTS):
         """保留原方法名稱以保持向後兼容"""
         return self.crawl_post_comment(total_posts)
+        # return self.crawl_post(total_posts)
+        # return self.crawl_post_content(total_posts)
         
     def close(self):
         """關閉數據庫連接"""
