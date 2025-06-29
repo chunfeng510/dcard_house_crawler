@@ -1,0 +1,43 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258864954/comments?limit=100",
+  "fetch_time": "2025-06-29T10:26:37.572559",
+  "posts": [
+    {
+      "id": "d1855388-2cc9-48c1-aa10-39449c667f44",
+      "anonymous": true,
+      "postId": 258864954,
+      "createdAt": "2025-05-23T18:47:00.842Z",
+      "updatedAt": "2025-05-23T18:47:00.842Z",
+      "floor": 1,
+      "content": "當版主有沒有錢",
+      "likeCount": 0,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "國立交通大學",
+      "personaNickname": null,
+      "personaUid": null,
+      "reportReason": "",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 1,
+      "withBadge": false,
+      "isThrottled": false,
+      "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "edited": false,
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    }
+  ]
+}

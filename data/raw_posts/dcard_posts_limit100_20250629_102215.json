@@ -1,0 +1,41 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257643576/comments?limit=100",
+  "fetch_time": "2025-06-29T10:22:15.343156",
+  "posts": [
+    {
+      "id": "16759205-887d-400a-bd02-5de6d50e8b0e",
+      "anonymous": false,
+      "postId": 257643576,
+      "createdAt": "2025-05-17T12:36:24.427Z",
+      "updatedAt": "2025-05-17T15:12:39.351Z",
+      "floor": 1,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {
+        "reportReasonText": "洗板或重複張貼"
+      },
+      "host": false,
+      "reportReason": "wash",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": true,
+      "inReview": false,
+      "links": [
+        "https://br4.in/168G"
+      ],
+      "reportReasonText": "洗板或重複張貼",
+      "ruleId": "3d9edf7c-4ede-4fb2-a08d-59cdaa7ee5a4",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    }
+  ]
+}

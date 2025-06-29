@@ -1,0 +1,77 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/257547049/comments?limit=100",
+  "fetch_time": "2025-06-28T00:04:50.354569",
+  "posts": [
+    {
+      "id": "fc662d61-7e59-47b4-9355-b9ff3cf4bef8",
+      "anonymous": false,
+      "postId": 257547049,
+      "createdAt": "2024-12-20T03:39:56.729Z",
+      "updatedAt": "2024-12-20T03:39:56.729Z",
+      "floor": 1,
+      "content": "可以啊 問題額度也是砍半啊\nhttps://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/orig.jpeg",
+      "likeCount": 3,
+      "withNickname": true,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "多多爆炸",
+      "department": "ryanryan23tw",
+      "personaNickname": "多多爆炸",
+      "personaUid": "ryanryan23tw",
+      "reportReason": "",
+      "mediaMeta": [
+        {
+          "id": "4850cb4b-ce11-46ec-a83c-009eb85c0cf6",
+          "url": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2024-12-20T03:39:56.729Z",
+          "updatedAt": "2024-12-20T03:39:56.729Z",
+          "width": 160,
+          "height": 110,
+          "blurhash": "LCR3QNIU%Mt7%Mt7t7Rj~qRjRjt7"
+        },
+        {
+          "id": "4850cb4b-ce11-46ec-a83c-009eb85c0cf6",
+          "url": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/496eff2b-2253-428d-9d28-651817e32015/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2024-12-20T03:39:56.729Z",
+          "updatedAt": "2024-12-20T03:39:56.729Z",
+          "width": 1179,
+          "height": 811,
+          "blurhash": "LCR3QNIU%Mt7%Mt7t7Rj~qRjRjt7"
+        }
+      ],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 1,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    }
+  ]
+}

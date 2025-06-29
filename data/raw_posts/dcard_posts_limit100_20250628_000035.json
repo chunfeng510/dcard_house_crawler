@@ -1,0 +1,43 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258655232/comments?limit=100",
+  "fetch_time": "2025-06-28T00:00:35.886524",
+  "posts": [
+    {
+      "id": "ebeb3958-1cde-4101-9457-31d87c0f077c",
+      "anonymous": true,
+      "postId": 258655232,
+      "createdAt": "2025-04-27T21:01:06.513Z",
+      "updatedAt": "2025-04-27T21:01:06.513Z",
+      "floor": 1,
+      "content": "那個46~65人口數最多的那一層\n還沒買房的會慢慢變成房東眼中的老害 是未來剛需的主要客群",
+      "likeCount": 1,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "國立成功大學",
+      "personaNickname": null,
+      "personaUid": null,
+      "reportReason": "",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 3,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    }
+  ]
+}

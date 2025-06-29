@@ -1,0 +1,141 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258203844/comments?limit=100",
+  "fetch_time": "2025-06-29T10:21:19.243189",
+  "posts": [
+    {
+      "id": "652e7287-d5e9-4136-ba3c-ed00df32dd86",
+      "anonymous": true,
+      "postId": 258203844,
+      "createdAt": "2025-03-08T08:24:58.472Z",
+      "updatedAt": "2025-03-08T08:24:58.472Z",
+      "floor": 1,
+      "content": "看一下備註 好嗎？\nhttps://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/orig.jpeg\nhttps://megapx-assets.dcard.tw/images/234201da-b0d3-4f25-918b-c92b85ade976/orig.jpeg",
+      "likeCount": 0,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "國立臺北教育大學",
+      "personaNickname": null,
+      "personaUid": null,
+      "reportReason": "",
+      "mediaMeta": [
+        {
+          "id": "c106de18-f65e-442f-a7df-c89bd395aa8b",
+          "url": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/160",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/160",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/160",
+          "type": "image/thumbnail",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-03-08T08:24:58.472Z",
+          "updatedAt": "2025-03-08T08:24:58.472Z",
+          "width": 109,
+          "height": 160,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 216,
+            "width": 1080,
+            "height": 648
+          },
+          "blurhash": "TAR3NG00%gMyD%IAH@RjE0IoM{Mx"
+        },
+        {
+          "id": "c106de18-f65e-442f-a7df-c89bd395aa8b",
+          "url": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/4ebd48b4-e3c9-4012-b5cd-e7daed22ce2d/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-03-08T08:24:58.472Z",
+          "updatedAt": "2025-03-08T08:24:58.472Z",
+          "width": 1080,
+          "height": 1580,
+          "croppingWindow": {
+            "anchorX": 0,
+            "anchorY": 216,
+            "width": 1080,
+            "height": 648
+          },
+          "blurhash": "TAR3NG00%gMyD%IAH@RjE0IoM{Mx"
+        },
+        {
+          "id": "0619e594-a8c7-4562-b693-a8ce018ffe37",
+          "url": "https://megapx-assets.dcard.tw/images/234201da-b0d3-4f25-918b-c92b85ade976/orig.jpeg",
+          "normalizedUrl": "https://megapx-assets.dcard.tw/images/234201da-b0d3-4f25-918b-c92b85ade976",
+          "thumbnail": "https://megapx-assets.dcard.tw/images/234201da-b0d3-4f25-918b-c92b85ade976/160",
+          "type": "image/megapx",
+          "tags": [
+            "ANNOTATED"
+          ],
+          "createdAt": "2025-03-08T08:24:58.472Z",
+          "updatedAt": "2025-03-08T08:24:58.472Z",
+          "width": 1024,
+          "height": 1146,
+          "blurhash": "K*Mk%i53xbR%ogayR%ogay"
+        }
+      ],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    },
+    {
+      "id": "cd61d660-bbbc-4902-ab8f-9c88ea286fff",
+      "anonymous": false,
+      "postId": 258203844,
+      "createdAt": "2025-03-08T09:45:56.256Z",
+      "updatedAt": "2025-03-08T09:45:56.256Z",
+      "floor": 2,
+      "content": "好高利率，去別家銀行吧",
+      "likeCount": 0,
+      "withNickname": true,
+      "hiddenByAuthor": false,
+      "meta": {},
+      "host": false,
+      "gender": "M",
+      "school": "走錯方向想回去",
+      "department": "e79204996",
+      "personaNickname": "走錯方向想回去",
+      "personaUid": "e79204996",
+      "reportReason": "",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": false,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "2",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": "",
+      "creatorBadge": false,
+      "officialCreatorBadge": false
+    }
+  ]
+}

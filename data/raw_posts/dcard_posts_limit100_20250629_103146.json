@@ -1,0 +1,39 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258026908/comments?limit=100",
+  "fetch_time": "2025-06-29T10:31:46.156050",
+  "posts": [
+    {
+      "id": "dd605dd3-e5f2-4e8d-886c-e6e4ad6c717a",
+      "anonymous": false,
+      "postId": 258026908,
+      "createdAt": "2025-02-19T07:16:47.754Z",
+      "updatedAt": "2025-02-22T13:26:33.279Z",
+      "floor": 1,
+      "withNickname": false,
+      "hiddenByAuthor": false,
+      "meta": {
+        "reportReasonText": "違反廣告、商業內容定義"
+      },
+      "host": false,
+      "reportReason": "advertise",
+      "mediaMeta": [],
+      "currentMember": false,
+      "hidden": true,
+      "inReview": false,
+      "links": [],
+      "reportReasonText": "違反廣告、商業內容定義",
+      "ruleId": "cea3365d-f5aa-4d35-8234-fa3783ed40b9",
+      "isSuspiciousAccount": false,
+      "isModerator": false,
+      "doorplate": "1",
+      "subCommentCount": 0,
+      "withBadge": false,
+      "isThrottled": false,
+      "edited": false,
+      "postAvatar": "",
+      "activityAvatar": "",
+      "verifiedBadge": false,
+      "memberType": ""
+    }
+  ]
+}
