@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258997183",
+  "fetch_time": "2025-06-25T11:11:59.473043",
+  "posts": {
+    "id": 258997183,
+    "title": "#問題 第一屋無貸款 第二屋貸款8成可以嗎",
+    "excerpt": "目前名下第一屋無貸款 貸款已繳完，依照現在銀行狀況，第二屋貸款成數可以穩貸八成無寬限期嗎，第二屋是非七都蛋黃區預售新房",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-05T01:55:22.511Z",
+    "updatedAt": "2025-06-05T01:55:22.511Z",
+    "commentCount": 5,
+    "likeCount": 3,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣海洋大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前名下第一屋無貸款 貸款已繳完\n依照現在銀行狀況\n第二屋貸款成數可以穩貸八成無寬限期嗎\n第二屋是非七都蛋黃區預售新房",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 5,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

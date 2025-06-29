@@ -1,0 +1,106 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259144544",
+  "fetch_time": "2025-06-25T11:04:02.496448",
+  "posts": {
+    "id": 259144544,
+    "title": "#問題 公教貸款條件健檢",
+    "excerpt": "小妹第一次購屋 想請假各位前輩經驗🙏，背景，年齡：29 未婚，房產：繼承持分1/3、親戚膝下無子所以贈與約1/3，職業：公務員/年薪約80，1.因為前幾年取得遺產 老家在南部 想要讓家人過好品質的生活",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-22T08:08:55.249Z",
+    "updatedAt": "2025-06-23T23:30:03.831Z",
+    "commentCount": 4,
+    "likeCount": 2,
+    "collectionCount": 4,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "Nana🌼",
+    "department": "qqaqqa12345",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "Nana🌼",
+    "personaUid": "qqaqqa12345",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "小妹第一次購屋 想請假各位前輩經驗🙏\n \n背景\n年齡：29 未婚\n房產：繼承持分1/3、親戚膝下無子所以贈與約1/3\n職業：公務員/年薪約80\n\n1.因為前幾年取得遺產 老家在南部 想要讓家人過好品質的生活 所以購買大樓1戶，預計年底交屋 總價約1400 \n2.工作在北部，已購入新北捷運站附近重劃區預售屋，預計明年中交屋 總價約2100\n\n總共大概需要貸800萬左右，其他家裡幫忙\n感謝家人🥺每月還款部分可能就要靠自己 \n\n我知道名下有房產無法使用寬限期了 今年開始也只有台銀有承包公教貸款\n想請問\n1.房貸成數這樣貸得過嗎？\n2.如果使用公教貸款有其他房產年限都只能30年嗎\n3.我應該要第一間貸款，第二間全款繳 還是第一間先全款 第二間貸款 有什麼差別呢\n\n再麻煩各位前輩指教\nhttps://sticker-assets.dcard.tw/images/1fce248b-db7e-4d96-aa93-7370f2eb9c1e/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 20,
+    "mediaMeta": [
+      {
+        "id": "d8424f11-fb5c-4321-9954-5bf5336afcb9",
+        "url": "https://sticker-assets.dcard.tw/images/1fce248b-db7e-4d96-aa93-7370f2eb9c1e/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/1fce248b-db7e-4d96-aa93-7370f2eb9c1e",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-06-22T08:08:55.249Z",
+        "updatedAt": "2025-06-22T13:03:33.792Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "K*HdJyj[0kIrWWxWE5j@xY"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-06-22T13:03:33.798Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

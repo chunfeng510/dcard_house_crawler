@@ -1,0 +1,109 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259109643",
+  "fetch_time": "2025-06-25T11:05:03.132920",
+  "posts": {
+    "id": 259109643,
+    "title": "#資訊 想詢問下網友們知道這位置嗎",
+    "excerpt": "本人工作都在桃園區域，最近跟女友有討論房子的需求，現在因為央行管制的關係，總價的部分討論過當然希望不要超出預算畢竟現在貸款到八成也不是這麼容易，想詢問下有人可以給首購小弟一些建議嗎或是有其他桃園區域的",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-18T02:54:00.320Z",
+    "updatedAt": "2025-06-18T02:54:00.320Z",
+    "commentCount": 2,
+    "likeCount": 0,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "買房",
+      "房地產",
+      "房屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "image",
+      "annotation": "本人工作都在桃園區域，最近跟女友有討論房子的需求\n現在因為央行管制的關係，總價的部分討論過當然希望不要超出預算畢竟現在貸款到八成也不是這麼容易，想詢問下有人可以給首購小弟一些建議嗎或是有其他桃園區域的建案，小弟在此先謝謝大家🙏"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "霆",
+    "department": "jun0330",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "霆",
+    "personaUid": "jun0330",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "https://megapx-assets.dcard.tw/images/1d55cf50-1ea5-4735-9235-5f9cac5e906e/1280.jpeg",
+    "reactions": [],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "image",
+    "spoilerAlert": false,
+    "categories": [
+      "資訊"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "mediaMeta": [
+      {
+        "id": "e161e7a8-772f-445d-8d69-5f12104f9c57",
+        "url": "https://megapx-assets.dcard.tw/images/1d55cf50-1ea5-4735-9235-5f9cac5e906e/1280.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/1d55cf50-1ea5-4735-9235-5f9cac5e906e",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/1d55cf50-1ea5-4735-9235-5f9cac5e906e/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-18T02:54:00.320Z",
+        "updatedAt": "2025-06-18T02:54:00.320Z",
+        "width": 869,
+        "height": 1884,
+        "croppingWindow": {
+          "anchorX": 0,
+          "anchorY": 173,
+          "width": 869,
+          "height": 521
+        },
+        "blurhash": "lB4{GHt8W9IjWAohomaeawnJofoge]WBWAW7j[of"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

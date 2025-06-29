@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259081883",
+  "fetch_time": "2025-06-25T11:09:09.048379",
+  "posts": {
+    "id": 259081883,
+    "title": "#問題 40歲後單身買房建議",
+    "excerpt": "替家人上來詢問，北部單身女子，超過40歲住家裡，財務狀況單純、無貸款、無車無房，年薪約90萬，目前現金+股票投資接近400萬。最近想購入預售屋，正在考慮小坪數的兩房，總價約一千五百萬，預計明年底完工。",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-14T18:20:18.648Z",
+    "updatedAt": "2025-06-17T07:16:23.050Z",
+    "commentCount": 18,
+    "likeCount": 15,
+    "collectionCount": 11,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "單身",
+      "買房",
+      "建議"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔仁大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "替家人上來詢問，北部單身女子，超過40歲住家裡，財務狀況單純、無貸款、無車無房，年薪約90萬，目前現金+股票投資接近400萬。最近想購入預售屋，正在考慮小坪數的兩房，總價約一千五百萬，預計明年底完工。\n家人目前很樂觀，認為可以貸到8成30年，想請問各位覺得這樣核貸的機會高嗎？另外未來每個月要繳四萬多的房貸，我們都覺得這樣她一個人會很辛苦，也不能生病或有突發狀況。想請教版上有沒有差不多條件的人可以分享類似經驗或給建議？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 14
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 48,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-16T12:59:47.497Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

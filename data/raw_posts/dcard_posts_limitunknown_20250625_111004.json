@@ -1,0 +1,99 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259048170",
+  "fetch_time": "2025-06-25T11:10:04.839139",
+  "posts": {
+    "id": 259048170,
+    "title": "台銀以外的房貸選擇？",
+    "excerpt": "最近房子忙對保，有公務員身分當然優先選台銀，沒想到要我提供頭期財產來源證明，跟我說什麼現在查很嚴，而我也有一筆3.4年前工程款（20W）是從當初信貸帳戶直接匯去建商帳戶，台銀說如果審核不過就是直接比照",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-10T22:31:12.410Z",
+    "updatedAt": "2025-06-22T03:45:16.322Z",
+    "commentCount": 10,
+    "likeCount": 11,
+    "collectionCount": 14,
+    "shareCount": 23,
+    "tags": [],
+    "topics": [
+      "台銀",
+      "房貸",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "八德傳教士",
+    "department": "pikazuka",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "八德傳教士",
+    "personaUid": "pikazuka",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近房子忙對保，有公務員身分當然優先選台銀，沒想到要我提供頭期財產來源證明，跟我說什麼現在查很嚴，而我也有一筆3.4年前工程款(20W)是從當初信貸帳戶直接匯去建商帳戶\n\n台銀說如果審核不過就是直接比照第二屋的成數給\n\n我心裡一堆問號，想說看預售屋群組內其他民營銀行屋主，都沒有管到這麼多阿，他們貸首購或是新青安，也沒有要他們提供三四年前的頭期，工程款的匯款證明那些阿....\n\n但還是得做好風險管理\n\n如果真的台銀不給八成，還能考慮哪間？\n聽說富邦人壽跟中信好像蠻阿莎力的？\n\n扣繳憑單年收11X，無負債，房子六都，\n房總價9XX",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 26,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-10T22:33:18.383Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

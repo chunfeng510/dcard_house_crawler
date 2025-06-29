@@ -1,0 +1,132 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259108096",
+  "fetch_time": "2025-06-25T11:15:12.197502",
+  "posts": {
+    "id": 259108096,
+    "title": "請問租房是開50倍槓桿，買房是開5倍槓桿嗎？",
+    "excerpt": "眾所皆知，房租一年成本約莫是房價2%上下，你只需要付一年2%租金就可以享用到50倍價值的房子與昂貴的裝潢，你所住的房子是房東貸款的那家銀行的，每年政府還補助租金給你，甚至可以折抵所得稅。不用負責維護與",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-17T17:43:58.142Z",
+    "updatedAt": "2025-06-18T05:47:07.911Z",
+    "commentCount": 18,
+    "likeCount": 7,
+    "collectionCount": 7,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "租房",
+      "投資",
+      "理財",
+      "貸款",
+      "銀行"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "poll"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立成功大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "眾所皆知\n房租一年成本約莫是房價2%上下，你只需要付一年2%租金就可以享用到50倍價值的房子與昂貴的裝潢，你所住的房子是房東貸款的那家銀行的，每年政府還補助租金給你，甚至可以折抵所得稅。不用負責維護與承擔房屋老化風險。可以不斷以極小成本住遍各種房子，了解最新住宅風格與資訊。即使找搬家公司搬家也沒有幾千塊，一兩天就結束了。透過便宜租金存下來的錢，到處投資\\試錯，找尋機會成本。ㄧ來一往，複利已經賺進好幾棟房。隨時想買房就全額買，想買幾棟就買幾棟。反正離開世上後也帶不走，但已經住過數十棟豪宅。\n買房的話，你是自以為開了5倍槓桿，獲得一張權狀寫你名字的廢紙，實際上不管你是租人還是自住，在房貸繳清前，房子都是銀行的，你還需要替你的房客與銀行提供昂貴裝潢提升市場競爭力，每年還要繳一堆土地稅房屋稅所得稅給政府。需要維護與承擔房屋老化風險。只能被綁死在一棟銀行的房子下面，每天看著一塵不變逐漸老去到老宅。短期內不需要搬家，但家裡堆滿無用雜物，逐漸患上囤物症。每個月繳了房貸，還要再繳30年，壓力大到不敢去投資跟試錯。ㄧ來一往，原本貸款1000萬，最後繳超過1500萬。獲得一棟準備拆除的50年老房。卻發現努力打拼一輩子，就投入在一棟破舊爛房上，離開世上後一樣帶不走，一生就只住過這棟破宅。\n\nOption #1: 租房是開50倍槓桿\nOption #2: 租房不止開50倍槓桿，加上複利是500倍\nOption #3: 買房是開5倍槓桿\nOption #4: 買房沒有開槓桿，因為房子是銀行的",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "poll",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 30,
+    "poll": {
+      "id": "34380c74-6eb4-4c06-8130-76f6acdb9dc8",
+      "optionCount": 4,
+      "options": [
+        {
+          "id": "ef4bb2d0-3625-4533-b6ea-4c9b1b358edb",
+          "title": "租房是開50倍槓桿",
+          "voteCount": 54,
+          "offsetCount": 0
+        },
+        {
+          "id": "c6cf9f47-f703-4b6a-b6b5-f23590671983",
+          "title": "租房不止開50倍槓桿，加上複利是500倍",
+          "voteCount": 88,
+          "offsetCount": 0
+        },
+        {
+          "id": "3c0db022-d309-4676-b417-52d801718ccc",
+          "title": "買房是開5倍槓桿",
+          "voteCount": 142,
+          "offsetCount": 0
+        },
+        {
+          "id": "fd7ef2a8-4803-4d95-a7e9-138cf56f0e7f",
+          "title": "買房沒有開槓桿，因為房子是銀行的",
+          "voteCount": 128,
+          "offsetCount": 0
+        }
+      ],
+      "content": "眾所皆知\n房租一年成本約莫是房價2%上下，你只需要付一年2%租金就可以享用到50倍價值的房子與昂貴的裝潢，你所住的房子是房東貸款的那家銀行的，每年政府還補助租金給你，甚至可以折抵所得稅。不用負責維護與承擔房屋老化風險。可以不斷以極小成本住遍各種房子，了解最新住宅風格與資訊。即使找搬家公司搬家也沒有幾千塊，一兩天就結束了。透過便宜租金存下來的錢，到處投資\\試錯，找尋機會成本。ㄧ來一往，複利已經賺進好幾棟房。隨時想買房就全額買，想買幾棟就買幾棟。反正離開世上後也帶不走，但已經住過數十棟豪宅，多出來的錢已經把世界可以玩的都享受過好幾遍。\n買房的話，你是自以為開了5倍槓桿，獲得一張權狀寫你名字的廢紙，實際上不管你是租人還是自住，在房貸繳清前，房子都是銀行的，你還需要替你的房客與銀行提供昂貴裝潢提升市場競爭力，每年還要繳一堆土地稅房屋稅所得稅給政府。需要維護與承擔房屋老化風險。只能被綁死在一棟銀行的房子下面，每天看著一塵不變逐漸老去到老宅。短期內不需要搬家，但家裡堆滿無用雜物，逐漸患上囤物症。每個月繳了房貸，還要再繳30年，壓力大到不敢去投資跟試錯。ㄧ來一往，原本貸款1000萬，最後繳超過1500萬。獲得一棟準備拆除的50年老房。卻發現努力打拼一輩子，就投入在一棟破舊爛房上，離開世上後一樣帶不走，一生就只住過這棟破宅，卻發現每個月為了繳房貸，都沒有多的錢，不知道這世界上有什麼可以玩可以享受的。",
+      "totalCount": 412,
+      "expiredAt": "2025-06-24T17:43:58.000Z",
+      "createdAt": "2025-06-17T17:43:58.000Z",
+      "voteOptionId": "",
+      "expiry": 7
+    },
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-17T17:49:51.144Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

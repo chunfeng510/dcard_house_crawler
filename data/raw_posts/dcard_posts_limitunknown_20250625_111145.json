@@ -1,0 +1,89 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259001800",
+  "fetch_time": "2025-06-25T11:11:45.911625",
+  "posts": {
+    "id": 259001800,
+    "title": "#問題 請問這樣的條件無保人房貸會過嗎？",
+    "excerpt": "1800萬的房子，預計屆時貸款700萬，但我去年年收入是68萬，月收入大概42000，銷售說建案貸款是和台灣銀行合作，補充說明：預售屋，1-2年後交屋，本身條件無信貸，無其他負債，但也無其他資產，軍公",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-05T11:40:43.816Z",
+    "updatedAt": "2025-06-05T21:47:41.712Z",
+    "commentCount": 13,
+    "likeCount": 5,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺灣大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "1800萬的房子，預計屆時貸款700萬，但我去年年收入是68萬，月收入大概42000，銷售說建案貸款是和台灣銀行合作\n補充說明：預售屋，1-2年後交屋\n\n本身條件無信貸，無其他負債，但也無其他資產，軍公教身份\n請問這樣的條件，到時候房屋貸款700萬會有困難嗎？因為家人都退休了無工作，無法當保人\n第七波打房政策後，一直有看到各家銀行接近滿水位，卡房貸申請的新聞，已經有新青安申請不一定會過，改成申請公教房屋貸款的心理準備了\n\n想請問大家這樣的條件，房貸700萬無保人，30-40年的還款期，有寬限期3-5年的機會高嗎？\n\n謝謝",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 24,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-05T21:47:41.719Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

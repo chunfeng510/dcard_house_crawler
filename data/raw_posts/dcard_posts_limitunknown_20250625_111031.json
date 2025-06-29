@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259024909",
+  "fetch_time": "2025-06-25T11:10:31.676804",
+  "posts": {
+    "id": 259024909,
+    "title": "#問題 關於買房簽約後發現隔壁是神壇...",
+    "excerpt": "各位大哥大姐好，前情提要 小弟今年26🥲 目前工作穩定 出社會與家人商討後貸款購買了人生首間起家厝 沒想到千算萬算還是沒有料到這個...，正文開始，小弟出社會後開始在職場認真努力 為了未來考量 做了很",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-08T07:31:49.591Z",
+    "updatedAt": "2025-06-11T09:06:32.436Z",
+    "commentCount": 18,
+    "likeCount": 20,
+    "collectionCount": 11,
+    "shareCount": 16,
+    "tags": [],
+    "topics": [
+      "買房",
+      "簽約",
+      "問題",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "景文科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位大哥大姐好 \n\n前情提要 小弟今年26🥲 目前工作穩定 出社會與家人商討後貸款購買了人生首間起家厝 沒想到千算萬算還是沒有料到這個...\n\n\n正文開始\n小弟出社會後開始在職場認真努力 為了未來考量 做了很多功課和試算+家裡人看了好幾間房子外+不懈努力後找到了一間覺得價位和環境都還不錯的社區型透天 目前是待貸款繳款通知下來跟建商把本票銷毀狀態 待一切都辦妥後 心想等待房子驗屋完可以入住後就要當個野原廣志了！🤩 \n\n但是最近工作煩悶 想說去看一下自己未來的工作動力源泉還有臨場突襲監看看修繕進度\n沒想到發現隔壁...就是隔壁...知道社區型透天的應該都了解 隔壁突然掛上了神壇公廟的布條...詢問一下工人大哥後確定是要變成神壇了...我直接心如死灰 \n\n本人沒有任何民宿信仰 但是就希望平日努力上班假日可以稍微睡晚一點或是生活不受影響尋得片刻寧靜🥲 \n請問各位大哥大姐我可以怎麼做 是解約嗎還是退掉 或是尋求社區管理會可以連署讓他們可以和平搬出去（？\n 需要各位的建議",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 18
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 62,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-10T11:47:17.548Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

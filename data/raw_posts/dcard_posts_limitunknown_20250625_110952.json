@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259052914",
+  "fetch_time": "2025-06-25T11:09:52.119819",
+  "posts": {
+    "id": 259052914,
+    "title": "#問題 轉增貸選擇",
+    "excerpt": "最近申請了兩家銀行轉增貸，條件如下：第一家：總額度779萬，原房貸剩餘553萬/30年/2.5%，原房貸壽險剩餘29萬/20年/2.5%，增貸部分197萬/20年/2.5%，寬限2年，開辦費12000",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-11T11:01:32.023Z",
+    "updatedAt": "2025-06-11T11:01:32.023Z",
+    "commentCount": 1,
+    "likeCount": 3,
+    "collectionCount": 1,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "問題",
+      "貸款",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中華民國空軍軍官學校",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近申請了兩家銀行轉增貸，條件如下：\n\n第一家：\n總額度779萬\n原房貸剩餘553萬/30年/2.5%\n原房貸壽險剩餘29萬/20年/2.5%\n增貸部分197萬/20年/2.5%\n寬限2年\n開辦費12000\n\n第二家：\n總額度734萬\n原房貸剩餘553萬/30年/2.65%\n原房貸壽險剩餘29萬/30年/2.6%\n增貸部分152萬/30年/2.6%\n寬限3年\n開辦費2000\n\n\n比較了一下優點\n第一家：利率低、額度高\n第二家：寬限期多一年、還款年限多十年\n一直沒辦法決定，來請教一下大家會怎麼選擇",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 1,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259013907",
+  "fetch_time": "2025-06-25T11:11:00.596844",
+  "posts": {
+    "id": 259013907,
+    "title": "30歲想買房子",
+    "excerpt": "年薪100-110不等，自備款有500-600（不含裝潢傢俱），如果想買房可以買總價多少的房子 ？考慮到現在房貸成數都很低，雖然是首購但也是怕怕的⋯，（結婚不生的前提下）",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-06T17:53:00.510Z",
+    "updatedAt": "2025-06-15T14:09:19.909Z",
+    "commentCount": 20,
+    "likeCount": 32,
+    "collectionCount": 50,
+    "shareCount": 6,
+    "tags": [],
+    "topics": [
+      "房子",
+      "購買",
+      "想要",
+      "閒聊",
+      "買房"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "R楓",
+    "department": "maplepeace",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "R楓",
+    "personaUid": "maplepeace",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "年薪100-110不等\n自備款有500-600（不含裝潢傢俱）\n如果想買房可以買總價多少的房子 ？\n考慮到現在房貸成數都很低，雖然是首購但也是怕怕的⋯\n（結婚不生的前提下）",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 29
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 29,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

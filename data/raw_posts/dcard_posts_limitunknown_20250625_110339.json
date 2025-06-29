@@ -1,0 +1,98 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259157491",
+  "fetch_time": "2025-06-25T11:03:39.260248",
+  "posts": {
+    "title": "#問題 貸款成數不足，家人可以土地貸款幫忙嗎？",
+    "excerpt": "如題，小妹買了一間預售屋，已經繳完8期工程款，正準備要對保，本來建商是說可以貸款7-8成，結果突然叫我們自己去找銀行…，問到了一間好像還可以排新青安的公股銀行，行員口頭說 大約可以貸我們是成交價的6.",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-23T18:21:38.305Z",
+    "updatedAt": "2025-06-25T01:11:53.939Z",
+    "commentCount": 42,
+    "likeCount": 28,
+    "collectionCount": 25,
+    "shareCount": 44,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "家人"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 259157491,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "中國醫藥大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "如題，小妹買了一間預售屋，已經繳完8期工程款\n正準備要對保，本來建商是說可以貸款7-8成，\n結果突然叫我們自己去找銀行…\n問到了一間好像還可以排新青安的公股銀行\n行員口頭說 大約可以貸我們是成交價的6.5成\n（不是信用跟年薪問題，純粹是他們說查完實價登錄，覺得房屋總價沒到那麼高，所以用較低的總價*7成這樣）\n\n然後現在還差個200萬\n我和先生的股票賣一賣可以湊出120萬\n但還是需要跟家人借\n家人也沒辦法拿出那麼多錢\n很多都是儲蓄險或醫療險，當然不能讓爸爸媽媽解掉😢\n\n討論完是家裡有兩三塊農地有耕作中，爸爸也是農會會員，想拿其中一塊去農會抵押先貸款100萬出來\n然後把錢借我，讓我可以交屋時可以付錢給建商\n\n請問這樣會跟新青安的貸款有影響嗎？\n房屋貸款人：我先生，保人：我\n農地貸款人：爸爸\n\n因為我有查到什麼自備款金流來源不能是貸款之類的\n可是…家人先借出100萬買房…這樣不行嗎？\n我會等到銀行最後核算出來，才請爸爸去農會辦\n不會撞在一起！\n\n請教各位大神了🥺",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 26
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 100,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-23T18:22:06.367Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259061913",
+  "fetch_time": "2025-06-25T11:09:41.254020",
+  "posts": {
+    "id": 259061913,
+    "title": "買房好難",
+    "excerpt": "目前看了一間800初的房子，因為還蠻喜歡的有打算下手，可是一直砍不下來，因為附近的行情也都差不多那樣。試算貸款預計貸8成，月薪4萬多（被動收入1w2），合計約五萬多，另有獎金約12w，房貸如果月付3萬",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-12T11:01:43.742Z",
+    "updatedAt": "2025-06-23T22:54:29.041Z",
+    "commentCount": 115,
+    "likeCount": 186,
+    "collectionCount": 196,
+    "shareCount": 79,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "購屋",
+      "房價"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "Errormolly",
+    "department": "error_molly",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "Errormolly",
+    "personaUid": "error_molly",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前看了一間800初的房子，因為還蠻喜歡的有打算下手，可是一直砍不下來，因為附近的行情也都差不多那樣。\n試算貸款預計貸8成，月薪4萬多（被動收入1w2)，合計約五萬多，另有獎金約12w，房貸如果月付3萬，尚有管理費、水電費、網路費等支出，各位會下手嗎？\n\n再補充一個問題\n因本身是公教人員，想用台銀的公教利率貸款，貸8成的機會高嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 174
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 7
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 2
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 2
+      },
+      {
+        "id": "514c2569-fd53-4d9d-a415-bf0f88e7329f",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 230,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-12T12:24:33.081Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

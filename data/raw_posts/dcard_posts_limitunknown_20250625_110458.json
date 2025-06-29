@@ -1,0 +1,140 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259111030",
+  "fetch_time": "2025-06-25T11:04:58.760825",
+  "posts": {
+    "id": 259111030,
+    "title": "#分享 北投工業宅房貸利率現況（6/24更新）",
+    "excerpt": "6/9剛簽約台北市北投區的工業宅 是首購，預計9月中前交屋，正在詢問房貸利率及可貸成數，以下是自簽約後迄今（6/24），問了32家銀行及人壽所整理出來的資訊，自身條件：28歲 年薪100w，房子條件：",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-18T06:01:23.098Z",
+    "updatedAt": "2025-06-24T09:28:12.147Z",
+    "commentCount": 3,
+    "likeCount": 3,
+    "collectionCount": 4,
+    "shareCount": 3,
+    "tags": [],
+    "topics": [
+      "北投",
+      "房貸",
+      "房貸利率"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "瑪啾🌹",
+    "department": "marjor.chu",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "瑪啾🌹",
+    "personaUid": "marjor.chu",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "6/9剛簽約台北市北投區的工業宅 是首購\n預計9月中前交屋\n正在詢問房貸利率及可貸成數\n以下是自簽約後迄今（6/24）\n問了32家銀行及人壽所整理出來的資訊\nhttps://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/orig.jpeg\n自身條件：\n28歲 年薪100w \n房子條件：\n中古電梯大樓 屋齡11年\n欲貸款條件：\n約購屋金額6成6 貸30年 寬限3年\n\n通常都會聽到說工業宅很難貸款以及成數不到\n也在這次詢問的經驗中的確是有銀行不承作、成數不到理想的情形😭\n不過除了辦理進度欄中註明找不到人、未詢問及不承作之外，其他都是詢問到的工業宅條件\n單純提供目前房貸資訊分享～\n當然一定會和一般住宅有所差異再自行評估看看！\n之後排撥及核貸狀況也會再分享\n就這樣啦\nhttps://sticker-assets.dcard.tw/images/9320c6a4-fc60-4ff5-9eb0-d9a2e8d97669/full.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "分享"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 8,
+    "mediaMeta": [
+      {
+        "id": "44a8a64a-f5c2-420b-9126-e8668277bf92",
+        "url": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/160",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/160",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/160",
+        "type": "image/thumbnail",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-24T08:44:04.988Z",
+        "updatedAt": "2025-06-24T09:28:12.147Z",
+        "width": 160,
+        "height": 136,
+        "blurhash": "LBQ9[%?b-;4nDgaKoekDMuRkR+xu"
+      },
+      {
+        "id": "44a8a64a-f5c2-420b-9126-e8668277bf92",
+        "url": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/orig.jpeg",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2",
+        "thumbnail": "https://megapx-assets.dcard.tw/images/7ea5659d-678d-4742-96c8-f67004f1f2a2/160",
+        "type": "image/megapx",
+        "tags": [
+          "ANNOTATED"
+        ],
+        "createdAt": "2025-06-24T08:44:04.988Z",
+        "updatedAt": "2025-06-24T09:28:12.147Z",
+        "width": 1105,
+        "height": 937,
+        "blurhash": "LBQ9[%?b-;4nDgaKoekDMuRkR+xu"
+      },
+      {
+        "id": "7b56f440-48dc-4305-a0a8-be0ed27f7429",
+        "url": "https://sticker-assets.dcard.tw/images/9320c6a4-fc60-4ff5-9eb0-d9a2e8d97669/full.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/9320c6a4-fc60-4ff5-9eb0-d9a2e8d97669",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-06-24T08:44:04.988Z",
+        "updatedAt": "2025-06-24T09:28:12.147Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KiFgLPf90|Nbs:so5Rf$-B"
+      }
+    ],
+    "edited": true,
+    "editedAt": "2025-06-24T09:28:12.152Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

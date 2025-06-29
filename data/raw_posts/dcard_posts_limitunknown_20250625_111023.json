@@ -1,0 +1,109 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259034622",
+  "fetch_time": "2025-06-25T11:10:23.292639",
+  "posts": {
+    "title": "#問題 緊張對保 ╯_╰",
+    "excerpt": "1393萬的房子，到時候準備貸款1114萬，但我去年年收入88萬，月收入平均75000～80000浮動，因為今年薪水又比去年所得申報又有成長，建案預售屋，建商合作銀行台企銀，房子地點位於高雄鼓山，本身",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-09T10:04:50.944Z",
+    "updatedAt": "2025-06-19T16:28:30.693Z",
+    "commentCount": 42,
+    "likeCount": 97,
+    "collectionCount": 104,
+    "shareCount": 52,
+    "tags": [],
+    "topics": [
+      "理財",
+      "買房",
+      "貸款",
+      "銀行",
+      "問題"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 259034622,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "大仁科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "1393萬的房子，到時候準備貸款1114萬，但我去年年收入88萬，月收入平均75000～80000浮動，因為今年薪水又比去年所得申報又有成長，建案預售屋，建商合作銀行台企銀，房子地點位於高雄鼓山\n\n本身20幾歲，條件沒有其他負債，信用卡都正常繳款，也無其他資產，純首購，到時候怕自己貸可能會有點吃力，爸爸（軍公教：年薪100，無負債，有房有地）會當我保人，如果可以會以新青安為主，想問問看大家這樣條件房貸貸的過嗎？\n🥹🥹🥹",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 86
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 4
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 3
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 3
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 119,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-10T02:10:35.996Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

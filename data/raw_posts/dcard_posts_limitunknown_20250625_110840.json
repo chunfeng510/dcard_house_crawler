@@ -1,0 +1,88 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259093861",
+  "fetch_time": "2025-06-25T11:08:40.012741",
+  "posts": {
+    "id": 259093861,
+    "title": "#問題 房貸對保前換工作請益",
+    "excerpt": "目前預售屋已經使照通過，一個多月前辦了建商配合的團貸，應該是在審核過程中，建商預計最慢8月中交屋，房子是我的名字，有找先生當保證人，兩人的負債比跟收入都沒問題，名下都沒有房子，這次辦的是新青安+部分一",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-16T07:45:29.361Z",
+    "updatedAt": "2025-06-19T12:01:41.122Z",
+    "commentCount": 4,
+    "likeCount": 4,
+    "collectionCount": 4,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立臺北商業大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前預售屋已經使照通過，一個多月前辦了建商配合的團貸\n應該是在審核過程中，建商預計最慢8月中交屋\n\n房子是我的名字，有找先生當保證人，兩人的負債比跟收入都沒問題\n名下都沒有房子，這次辦的是新青安+部分一般房貸（超過新青安額度了）\n\n我目前在金融業內勤，有打算在7月中-7月底轉職（會直接無縫接下一份工作）產業不是金融業\n主要是高壓已經讓我身體有狀況了，又剛好這陣子有不降薪但又比較輕鬆的工作機會\n但沒辦法等我到對保完\n\n想問問看這樣的情況會影響到房貸嗎？或是我有需要先跟房貸專員主動先去提這個變動嗎？\n利率如果有稍微調升可以接受，主要是不要影響到成數跟寬限期就好…\n謝謝！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 4
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 16,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

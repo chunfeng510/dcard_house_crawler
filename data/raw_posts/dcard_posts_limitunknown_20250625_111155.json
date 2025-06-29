@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/258997682",
+  "fetch_time": "2025-06-25T11:11:55.176199",
+  "posts": {
+    "id": 258997682,
+    "title": "#問題 這樣的條件買預售屋會適合嗎？",
+    "excerpt": "目前看到一間預售屋，預計2030的Q1完工，總價約2140萬，付款條件如下：訂簽10%，開工款2%（預計明年Q1），期款13%，房貸70%，交屋5% （貸款抓8成應該付不到），暫收款抓25萬，小弟28",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-05T03:10:45.910Z",
+    "updatedAt": "2025-06-05T10:11:54.656Z",
+    "commentCount": 9,
+    "likeCount": 3,
+    "collectionCount": 4,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "問題",
+      "購買"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "AriaSora",
+    "department": "ariasora",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "AriaSora",
+    "personaUid": "ariasora",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前看到一間預售屋，預計2030的Q1完工\n總價約2140萬，付款條件如下：\n\n訂簽10%\n開工款2%(預計明年Q1)\n期款13% \n房貸70%\n交屋5% （貸款抓8成應該付不到）\n暫收款抓25萬\n\n小弟28y 金融業(銀行)\n目前年收入約120～150萬（看年終多寡）\n存款約300萬\n基金約130萬(保底盡量不動)\n\n買房算我的目標規劃，目前糾結4年工程期間的支出，平時生活開銷算低\n家人可以支持約200萬，但我希望盡量不要動到他們的錢，知道很硬，不知道想法會不會太天真\n想請網友們分享經驗和想法 謝謝🙏🏻",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 18,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-05T03:22:13.700Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

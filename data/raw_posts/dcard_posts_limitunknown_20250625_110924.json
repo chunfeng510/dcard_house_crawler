@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259071169",
+  "fetch_time": "2025-06-25T11:09:24.357023",
+  "posts": {
+    "id": 259071169,
+    "title": "#問題 家族企業無勞保申請房貸",
+    "excerpt": "各位好，明年預售屋要準備申請貸款，目前小弟我在自家工作，工作內容類似傳產沒有申請勞保，但有固定轉帳4萬（從公司帳戶匯款/有備注薪水，但沒有特別申請薪資轉帳），另外還有一個專門存每月營收跟貨款轉帳的帳戶",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-13T12:12:08.602Z",
+    "updatedAt": "2025-06-15T10:41:05.506Z",
+    "commentCount": 2,
+    "likeCount": 1,
+    "collectionCount": 0,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "工作",
+      "投資",
+      "理財",
+      "請益",
+      "閒聊"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "台北海洋科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位好\n明年預售屋要準備申請貸款\n目前小弟我在自家工作\n工作內容類似傳產沒有申請勞保\n但有固定轉帳4萬（從公司帳戶匯款/有備注薪水，但沒有特別申請薪資轉帳）\n另外還有一個專門存每月營收跟貨款轉帳的帳戶\n上面兩個帳戶都是我的名字\n但公司負責人不是我\n\n想請問這樣申請貸款的時候\n會很困難嗎？找職業工會投保會不會更好通過呢？有沒有什麼建議呢？很怕貸不過…謝謝各位\n\n房子地段：東部市區中心\n房子類型：社區大樓\n貸款金額：750萬",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 3,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-13T12:52:33.519Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

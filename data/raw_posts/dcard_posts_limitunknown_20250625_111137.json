@@ -1,0 +1,100 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259006555",
+  "fetch_time": "2025-06-25T11:11:37.165297",
+  "posts": {
+    "id": 259006555,
+    "title": "#建議 預售屋貸款",
+    "excerpt": "我年薪大概80萬左右 做物流的，但都領現金 有請老闆娘開在職證明薪資7.5萬那邊，房子總價1160萬預計貸款930萬那邊 這樣有機會貸到8成嗎，還沒下訂 怕貸不過",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-06T02:43:17.088Z",
+    "updatedAt": "2025-06-07T07:23:47.001Z",
+    "commentCount": 15,
+    "likeCount": 22,
+    "collectionCount": 22,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "預售屋",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "雲林黑人",
+    "department": "asd12345033",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "雲林黑人",
+    "personaUid": "asd12345033",
+    "personaDeletedAt": null,
+    "quoteCount": 1,
+    "content": "我年薪大概80萬左右 做物流的\n但都領現金 有請老闆娘開在職證明薪資7.5萬那邊\n房子總價1160萬預計貸款930萬那邊 這樣有機會貸到8成嗎\n還沒下訂 怕貸不過",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 20
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "建議"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 27,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

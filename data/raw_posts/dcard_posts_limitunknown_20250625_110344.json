@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259154746",
+  "fetch_time": "2025-06-25T11:03:44.500327",
+  "posts": {
+    "id": 259154746,
+    "title": "即將辦貸款，備好不足八成的風險對策",
+    "excerpt": "大家好，我們在屏東鄉下買了一間預售屋，目前正在辦使用執照，預計今年八月交屋並辦理貸款，想請教一些貸款與備案的問題，也分享我們的準備狀況。基本資訊如下：•\t地點：屏東鄉下，•\t總價：六百多萬，•\t屋況：",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-23T12:25:43.957Z",
+    "updatedAt": "2025-06-24T10:36:41.056Z",
+    "commentCount": 16,
+    "likeCount": 11,
+    "collectionCount": 3,
+    "shareCount": 10,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "風險",
+      "借貸",
+      "買房",
+      "預售屋"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立高雄科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，我們在屏東鄉下買了一間預售屋，目前正在辦使用執照，預計今年八月交屋並辦理貸款，想請教一些貸款與備案的問題，也分享我們的準備狀況。\n\n基本資訊如下：\n\t•\t地點：屏東鄉下\n\t•\t總價：六百多萬\n\t•\t屋況：申請使用執照中的預售屋\n\t•\t配合銀行：土銀（合作建商指定）\n\t•\t貸款時間：預計八月\n\t•\t收入：老婆年薪約60萬、我年薪約110萬\n\t•\t房貸資格：我名下已有房，無法申請新青安，老婆為首購，因此主要用老婆名義申請，必要時我會當擔保人。\n\n理想貸款條件：\n\t•\t寬限期 3 年\n\t•\t貸款年限 30 年（也想找找看有無 40 年方案）\n\t•\t預計貸款成數：8 成\n\n風險因應：\n前陣子看到有網友分享，交屋時原本配合的土銀突然不核貸，建商只好另找信用合作社幫忙。為了預防萬一，我們目前也在找備案。\n\n目前初步詢問了永豐與台北富邦人壽，但他們直接回覆「鄉下地區不貸」。若真的最後貸不到 8 成，最壞的打算是拿我名下的高雄房子做抵押貸款，補足不足的成數。\n\n想請教的兩個問題：\n\t1.\t如果我以「擔保人」身份協助老婆貸款，還能同時用我名下的高雄房子去辦抵押貸款嗎？\n\t2.\t抵押貸款的話，有推薦哪幾間銀行比較願意貸，或有實際經驗可以分享的嗎？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 26,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

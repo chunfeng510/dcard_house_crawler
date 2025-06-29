@@ -1,0 +1,98 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259090737",
+  "fetch_time": "2025-06-25T11:08:51.004523",
+  "posts": {
+    "id": 259090737,
+    "title": "#問題 首購貸款問題請益，想請教近期貸款狀況",
+    "excerpt": "條件如下，小弟本身是公務員，月薪6萬至7萬 年薪90萬上下，因買車有信貸80萬（土銀公教貼心相貸），目前尚餘40萬未結清，月繳1.5萬，無卡債。總資產（股票及現金）約240萬上下，本身最常使用國泰世華",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-15T23:07:44.466Z",
+    "updatedAt": "2025-06-16T21:15:39.153Z",
+    "commentCount": 9,
+    "likeCount": 5,
+    "collectionCount": 4,
+    "shareCount": 2,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "請益",
+      "問題"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "Hsin",
+    "department": "hsin1018",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "Hsin",
+    "personaUid": "hsin1018",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "條件如下\n小弟本身是公務員，月薪6萬至7萬 年薪90萬上下，因買車有信貸80萬(土銀公教貼心相貸)，目前尚餘40萬未結清，月繳1.5萬，無卡債。總資產(股票及現金)約240萬上下，本身最常使用國泰世華(買賣股票)、信用卡刷聯邦或星展(均無欠繳)\n女友是護理師，月薪約4萬，年薪50萬上下，存款約70萬上下，無信貸卡債等。\n目前均28歲，還未登記結婚\n\n房屋狀況如下\n物件在台中市大里區塗城里預售屋(2房1衛24.18坪)，預計今年年底前交屋(使照已核發)，價格談完總價約落在1000萬，目前頭期款2成已準備好(繳完手邊存款剩餘不到30萬)，預計貸款8成800萬(期望貸款年限30年以上越久越好，寬限期越多越好)。\n\n\n有爬文過雖然想使用台灣銀行的公務員築巢方案，但是有信貸的前提下好像沒辦法貸款到8成...\n想請教有經驗的卡友，以上條件有信貸的情況下會不會有貸款貸不到8成的問題？\n除了清償貸款有無其他方案可行？\n建商本身合作銀行為元大，是否能在簽約前先送銀行評估貸款條件(因為沒辦法貸到8成不買)？\n無合作的銀行未簽約是否能送件評估？\n\n麻煩熱心的卡友回覆了！！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 3
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 2
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 19,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-16T00:42:42.246Z",
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

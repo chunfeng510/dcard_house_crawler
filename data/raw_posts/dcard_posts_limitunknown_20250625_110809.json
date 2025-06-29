@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259102953",
+  "fetch_time": "2025-06-25T11:08:09.079533",
+  "posts": {
+    "id": 259102953,
+    "title": "#問題 房貸成數，是否該先結清老婆名下房貸",
+    "excerpt": "想問夫妻雙方30歲，年薪共約150萬，買一預售1200萬，目前老婆名下有一間房貸剩50萬，月繳約3500，本人名下無房，預計掛我名下，老婆當保人，再猶豫要不要先結清老婆名下的房貸，還是預留著以備成數不",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-17T07:58:40.720Z",
+    "updatedAt": "2025-06-17T07:58:40.720Z",
+    "commentCount": 3,
+    "likeCount": 3,
+    "collectionCount": 0,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立政治大學",
+    "replyTitle": null,
+    "personaSubscriptable": null,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想問夫妻雙方30歲，年薪共約150萬，買一預售1200萬，目前老婆名下有一間房貸剩50萬，月繳約3500，本人名下無房，預計掛我名下，老婆當保人\n\n再猶豫要不要先結清老婆名下的房貸，還是預留著以備成數不高當頭期用，以月繳款數來看結清不結清，其實差異不大，怕的是結了貸不到要的成數，頭期變不夠，不結不知道銀行會不會當理由來刁。\n\n\n想問 \n1.不結清的話，貸6.5成有機會嗎？（月繳以2.5% 30年,2間共約35,000)\n2.結清的話，貸7成有機會嗎？\n（月繳以2.5% 30年,約34,000)？\n\n謝謝",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 2
+      },
+      {
+        "id": "011ead16-9b83-4729-9fde-c588920c6c2d",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

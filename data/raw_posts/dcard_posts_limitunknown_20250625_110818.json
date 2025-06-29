@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259098149",
+  "fetch_time": "2025-06-25T11:08:18.691013",
+  "posts": {
+    "id": 259098149,
+    "title": "#問題 新青安貸款請教",
+    "excerpt": "大家好，我跟我太太今年都剛滿30，年薪加起來約200萬上下，每月薪資收入約14~15萬（入帳資訊），而名下沒有房地產/持分等等，目前也都沒有車貸/信貸，前幾年買了一間新竹縣預售轉售的房子，現在已經在跑",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-16T15:41:31.321Z",
+    "updatedAt": "2025-06-17T06:14:57.633Z",
+    "commentCount": 11,
+    "likeCount": 10,
+    "collectionCount": 5,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "買房",
+      "銀行",
+      "預售屋",
+      "新竹"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立雲林科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好\n\n我跟我太太今年都剛滿30，年薪加起來約200萬上下，每月薪資收入約14~15萬(入帳資訊)\n\n而名下沒有房地產/持分等等，目前也都沒有車貸/信貸\n\n前幾年買了一間新竹縣預售轉售的房子，現在已經在跑使照了\n\n當初售價約1600多萬，扣除頭期/工程款後，實際房屋貸款約僅剩950萬\n\n我名下還有一個美元保單帳面金額約75萬台幣\n\n想請問這樣的資格是否能順利申請新青安呢?\n或者說能否順利貸款滿1000萬呢?\n\n因為多出來的那50萬我會想先拿去做裝潢/家具的現金\n\n謝謝",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 10
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 25,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

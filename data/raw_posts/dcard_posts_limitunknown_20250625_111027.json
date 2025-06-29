@@ -1,0 +1,88 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259027293",
+  "fetch_time": "2025-06-25T11:10:27.496383",
+  "posts": {
+    "id": 259027293,
+    "title": "#問題 房貸負擔能力請益",
+    "excerpt": "各位前輩好，目前在考慮買房，跟女友薪水都約130，加起來260左右，由於前陣子投資失利（謝謝川普），因此目前自備款僅約250，平均月收入 21.67（260/12），每人每月生活成本粗抓約3萬，可支配",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-08T12:59:27.208Z",
+    "updatedAt": "2025-06-12T03:58:45.693Z",
+    "commentCount": 8,
+    "likeCount": 9,
+    "collectionCount": 4,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立交通大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "各位前輩好\n目前在考慮買房\n跟女友薪水都約130，加起來260左右\n由於前陣子投資失利（謝謝川普）\n因此目前自備款僅約250\n\n平均月收入 21.67（260/12）\n每人每月生活成本粗抓約3萬\n可支配月收入約21.67-6=15.67\n目前沒有其他貸款\n\n請問這樣會建議每月負擔的房貸可以到多少呢？（建議可以購買最高總額到多少的物件？）\n另外，如果女方去貸款，有機會貸到1500以上嗎？（婚前購買，登記在女方，會共同負擔每月房貸）\n\n謝謝各位前輩🙏🏻",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 9
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

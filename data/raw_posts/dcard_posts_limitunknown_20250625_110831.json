@@ -1,0 +1,93 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259094552",
+  "fetch_time": "2025-06-25T11:08:31.541649",
+  "posts": {
+    "id": 259094552,
+    "title": "[請益] 頭期不足是否可用父母農地貸款贈與補足？",
+    "excerpt": "大家好，先簡單說一下基本資訊，煩請各位大大幫忙解惑，謝謝🙏，🔹 基本狀況：年齡：夫妻皆 37 歲，家庭年收：約 160 萬（工程師＋餐廳主管），子女：1 名（就讀幼稚園），房產：雙方名下皆無房（首購）",
+    "anonymousSchool": false,
+    "anonymousDepartment": false,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-16T09:02:39.882Z",
+    "updatedAt": "2025-06-17T11:57:57.422Z",
+    "commentCount": 6,
+    "likeCount": 2,
+    "collectionCount": 0,
+    "shareCount": 4,
+    "tags": [],
+    "topics": [
+      "頭期",
+      "請益"
+    ],
+    "supportedReactions": null,
+    "withNickname": true,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "娘子快跟牛魔王出來看上帝",
+    "department": "bruce1202",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_NICKNAME",
+    "personaNickname": "娘子快跟牛魔王出來看上帝",
+    "personaUid": "bruce1202",
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "大家好，先簡單說一下基本資訊，煩請各位大大幫忙解惑，謝謝🙏\n\n🔹 基本狀況：\n年齡：夫妻皆 37 歲\n家庭年收：約 160 萬（工程師＋餐廳主管）\n子女：1 名（就讀幼稚園）\n房產：雙方名下皆無房（首購）\n目前居住：年底租約到期，需儘速尋屋\n目標房產：總價約 1,500 萬、烏日外圍、中古屋 8 年內\n自備資金：約 200 萬\n\n🔹 因頭期明顯不足，目前想到的方案是：\n➡️ 由父母出面以農地貸款，然後以「贈與」方式轉給我們當作頭期款補足\n\n想請問各位先進以下幾個問題：\n❓問題1：這樣操作是否合法？\n贈與的錢來源是父母貸款，銀行在房貸審核會不會把它視為「也是借貸」而卡關？\n是否會像拿信貸湊頭期一樣被認定風險高？\n❓問題2：農地貸款是否找農會比較有利率優勢？\n公告地價便宜的農地，貸款額度是不是農會比銀行願意出得多？\n利率與申貸難易度是否也相對親民？\n\n希望有經驗的板友或代書前輩可以幫忙提供實務意見\n感謝大家！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": true,
+    "enableNestedComment": true,
+    "totalCommentCount": 10,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "5a70e003-aadd-4534-acf8-30afc79ee5aa",
+    "links": [],
+    "enableListLinkPreview": false,
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "postAvatar": "https://megapx-assets.dcard.tw/images/585bde42-477c-4601-8d4f-41f0eb1bb68e/full.jpeg",
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": "",
+    "creatorBadge": false,
+    "officialCreatorBadge": false
+  }
+}

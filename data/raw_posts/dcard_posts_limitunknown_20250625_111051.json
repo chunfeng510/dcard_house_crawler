@@ -1,0 +1,108 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259014887",
+  "fetch_time": "2025-06-25T11:10:51.734973",
+  "posts": {
+    "id": 259014887,
+    "title": "#問題 同時貸款兩戶",
+    "excerpt": "想在 Dcard 問問大家經驗或給點意見 🙏，# 我打算買台南同一個建案的兩間預售屋（各 850 萬），2027 年交屋，想：• 一間貸 7 成、另一間貸 5 成，• 都貸 30 年期，• 兩間都與配",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-07T01:18:31.886Z",
+    "updatedAt": "2025-06-07T01:18:31.886Z",
+    "commentCount": 3,
+    "likeCount": 1,
+    "collectionCount": 3,
+    "shareCount": 0,
+    "tags": [],
+    "topics": [
+      "貸款",
+      "買房",
+      "預售屋",
+      "借貸",
+      "房貸"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立成功大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "想在 Dcard 問問大家經驗或給點意見 🙏\n\n# 我打算買台南同一個建案的兩間預售屋（各 850 萬），2027 年交屋，想：\n\t• 一間貸 7 成、另一間貸 5 成\n\t• 都貸 30 年期\n\t• 兩間都與配偶共同持有，但不希望配偶當保人，因第三間房屋需由配偶貸款\n\n# 我現況：\n\t• 月收入不固定，主要為工程款收入，每個月合計大概有 20～50 萬進帳（不同公司匯入，存摺都有紀錄，已持續數年）\n\t• 帳戶裡有近兩千萬現金\n\t• 名下有一間屋齡 5 年的大樓，市值約 800 萬，無貸款\n\n# 想問：\n\t1. 這種條件，交屋時能在不需要保人的狀況下，同時貸到這兩間嗎？\n\t2. 如果可以，利率大概能談到什麼區間？\n\n大家有類似經驗或知道哪家銀行比較願意認列非薪轉收入、利率比較優的，也麻煩幫忙分享一下！非常感謝！\nhttps://sticker-assets.dcard.tw/images/da827e18-8e79-4802-bcfb-bb1102fb780a/orig.png",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 4,
+    "mediaMeta": [
+      {
+        "id": "fca71879-f3a5-4efa-8e2c-f27fcff31b72",
+        "url": "https://sticker-assets.dcard.tw/images/da827e18-8e79-4802-bcfb-bb1102fb780a/orig.png",
+        "normalizedUrl": "https://megapx-assets.dcard.tw/images/da827e18-8e79-4802-bcfb-bb1102fb780a",
+        "thumbnail": "",
+        "type": "image/sticker",
+        "tags": [
+          "IMAGE_NOT_AVAILABLE"
+        ],
+        "createdAt": "2025-06-07T01:18:31.886Z",
+        "updatedAt": "2025-06-07T01:18:31.886Z",
+        "width": 512,
+        "height": 512,
+        "blurhash": "KkFEA-xb0{InR*t79@WB-B"
+      }
+    ],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

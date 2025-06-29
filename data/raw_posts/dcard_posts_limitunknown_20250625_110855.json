@@ -1,0 +1,95 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259090676",
+  "fetch_time": "2025-06-25T11:08:55.229668",
+  "posts": {
+    "id": 259090676,
+    "title": "房仲配合的代書跟銀行勾結賺利息",
+    "excerpt": "最近新聞報年薪150萬不能申請新青安，我也有很氣的例子，代書幫忙送件表示要用公教貸，第一時間我就反應要用新青安，就算只剩一年補貼就沒了，但算一算還是省2萬多元，可是代書就阻擋說會排隊很久不幫我們送新青",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-15T22:30:48.653Z",
+    "updatedAt": "2025-06-23T12:05:38.226Z",
+    "commentCount": 29,
+    "likeCount": 52,
+    "collectionCount": 57,
+    "shareCount": 54,
+    "tags": [],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立政治大學",
+    "replyTitle": null,
+    "personaSubscriptable": false,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "最近新聞報年薪150萬不能申請新青安\n我也有很氣的例子\n代書幫忙送件表示要用公教貸\n第一時間我就反應要用新青安\n就算只剩一年補貼就沒了\n但算一算還是省2萬多元\n可是代書就阻擋說會排隊很久不幫我們送新青安\n但我就不信怎麼可能不能用新青安貸\n打電話給不是跟代書配合的銀行一問\n新青安根本不會拖那麼久\n甚至另一間銀行還很匪夷所思覺得代書配合的銀行怎麼可以講這種話？\n後來銀行互相對完\n原本與代書配合的銀行改口說根本沒有不讓我們貸新青安的問題是我們沒有要申請\n要嘛就是代書在說謊要嘛就是代書與銀行聯合說謊\n等到另一家分行去講才改口\n他們完全都不承認自己的疏忽\n最後還一直說大家都用公教貸\n很少人想用新青安\n重點是我去問第二間分行他們也說到時候新青安到期可以轉公教貸而且不用手續費\n結果配合的分行卻要求要寫不會轉貸的切結書\n這根本違法吧\n強迫他人失去權益\n如果我沒有再去確認\n就損失權益多付了很多利息給銀行了\n這叫詐騙吧！！！\n真的很氣給代書費還不幫我們省利息\n為什麼我要給代書費？\n公教已經沒退休金了\n連房貸也沒優勢\n真是可悲\n不過那些酸民沒得嘴了",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 48
+      },
+      {
+        "id": "4b018f48-e184-445f-adf1-fc8e04ba09b9",
+        "count": 2
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 1
+      },
+      {
+        "id": "e8e6bc5d-41b0-4129-b134-97507523d7ff",
+        "count": 1
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 67,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259091852",
+  "fetch_time": "2025-06-25T11:08:46.657404",
+  "posts": {
+    "title": "買房區域建議",
+    "excerpt": "目前在林口工作 工作五年到現在存了一些錢 頭期大概能拿300萬出來 會想買房是因為其實目前租在A7每年房租幾乎都在漲 算一算可能五年內的房租會快跟買房繳貸款差不多 所以考慮買房 加上房價越來越貴 感覺",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-16T03:30:01.369Z",
+    "updatedAt": "2025-06-17T17:18:05.594Z",
+    "commentCount": 33,
+    "likeCount": 15,
+    "collectionCount": 17,
+    "shareCount": 5,
+    "tags": [],
+    "topics": [
+      "買房",
+      "建議",
+      "貸款"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "id": 259091852,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "德明財經科技大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "M",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前在林口工作 工作五年到現在存了一些錢 頭期大概能拿300萬出來 會想買房是因為其實目前租在A7每年房租幾乎都在漲 算一算可能五年內的房租會快跟買房繳貸款差不多 所以考慮買房 加上房價越來越貴 感覺現在不趕快買以後只會更買不起或是只能買更偏遠。預算大概1300以內 自住用途。\n\n目前有兩個選項\n\n1. 大園客運園區 新房房價大概三房在1000-1300左右 會選擇這裡是因為看好像能吃到航空城+青埔的機能性 附近大概10分鐘能到A15機捷跟全聯+大園市區 主要還是房價還在能承受範圍。\n\n2. 淡海新市鎮 大概10年左右中古屋 也是在1000-1300左右，但是在海邊+淡水的交通真的很塞…但是周邊機能性跟交通感覺還是比目前的客運園區好一些？\n\n猶豫的點是其實大園那裡機能性不是很方便 但是看航空城發展未來可能機能性會好點 未來工作如果在台北的話 通勤時間都會非常的長 去台北會超過50公里，目前公司在林口 通勤30公里還在可接受範圍，機捷也能到。\n\n然後淡水感覺網路評論大家不是很推 附近也很多詐騙集團跟豬仔89….. 交通塞車也是一個問題 但是比起大園 算是比較中間的選擇？去台北市或去林口工作的距離差不多 不確定未來工作會在哪裡。\n\n不考慮老房的原因是畢竟是要自住的 大概率會一直住到晚年 所以太老的房子感覺會有疑慮…但是預算真的不多 很怕現在不捏一下以後就只能買更遠了 工作會更不方便 想問各位有什麼的建議呢？！",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 12
+      },
+      {
+        "id": "aa0d425f-d530-4478-9a77-fe3aedc79eea",
+        "count": 3
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 82,
+    "mediaMeta": [],
+    "edited": true,
+    "editedAt": "2025-06-17T17:18:05.602Z",
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/e96e7ad6-d453-468a-b04a-e42d1427bd00/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

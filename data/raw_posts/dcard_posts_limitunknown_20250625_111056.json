@@ -1,0 +1,88 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259014858",
+  "fetch_time": "2025-06-25T11:10:56.143492",
+  "posts": {
+    "id": 259014858,
+    "title": "#問題 24歲未來想買房",
+    "excerpt": "目前住在鄉下家裡，正職一個月4萬，另外有在種季節性蔬果，上一期賺75萬（第一次種），但這種做農收入不穩定，存款目前現金100 股票etf30，身上有車貸還有30多期每個月扣1萬，（家人買我的名字 給我",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-07T01:08:40.643Z",
+    "updatedAt": "2025-06-08T15:31:09.730Z",
+    "commentCount": 4,
+    "likeCount": 11,
+    "collectionCount": 9,
+    "shareCount": 3,
+    "tags": [
+      "HIDE_THUMBNAIL"
+    ],
+    "topics": [],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "國立宜蘭大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "目前住在鄉下家裡\n正職一個月4萬\n另外有在種季節性蔬果 \n上一期賺75萬（第一次種）\n但這種做農收入不穩定 \n存款目前現金100 股票etf30\n身上有車貸還有30多期每個月扣1萬\n（家人買我的名字 給我錢去扣）\n大概可以買到貸到多少的房子呢\n正職有保勞保 農沒有但收入有大盤商轉帳紀錄\n平常每個月2.5丟etf 需要調整嗎\n謝謝大家 我不太了解這塊🙏",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 11
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 6,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}

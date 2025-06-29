@@ -1,0 +1,90 @@
+{
+  "url": "https://www.dcard.tw/service/api/v2/posts/259011101",
+  "fetch_time": "2025-06-25T11:11:08.986538",
+  "posts": {
+    "id": 259011101,
+    "title": "#問題 這樣的條件貸款會不會有問題？",
+    "excerpt": "年齡未滿30，收入每月固定44000+獎金浮動（8000-20000），沒有任何貸款，去年八月才入職，所以去年薪資所得單數字很難看，到時會附上固定薪轉證明，房屋在新北市，預估1570萬，尾數家裡會幫忙",
+    "anonymousSchool": false,
+    "anonymousDepartment": true,
+    "pinned": false,
+    "forumId": "861af50f-49b8-4c58-857b-092643416983",
+    "replyId": null,
+    "createdAt": "2025-06-06T12:11:09.215Z",
+    "updatedAt": "2025-06-07T00:52:55.553Z",
+    "commentCount": 10,
+    "likeCount": 5,
+    "collectionCount": 3,
+    "shareCount": 1,
+    "tags": [],
+    "topics": [
+      "條件",
+      "貸款",
+      "有問題"
+    ],
+    "supportedReactions": null,
+    "withNickname": false,
+    "reportReason": "",
+    "hiddenByAuthor": false,
+    "meta": {
+      "layout": "classic"
+    },
+    "pinnedInProfileWall": false,
+    "hiddenInProfileWall": false,
+    "nsfw": false,
+    "forumName": "購屋",
+    "forumAlias": "house_purchase",
+    "forumLogo": {
+      "url": "https://megapx-assets.dcard.tw/images/2b05f056-7995-410c-962d-ef4a13bae474/full.jpeg",
+      "type": "image/jpeg",
+      "width": 200,
+      "height": 200
+    },
+    "school": "輔仁大學",
+    "replyTitle": null,
+    "personaSubscriptable": true,
+    "gender": "F",
+    "identityType": "IDENTITY_SCHOOL",
+    "personaNickname": null,
+    "personaUid": null,
+    "personaDeletedAt": null,
+    "quoteCount": 0,
+    "content": "年齡未滿30\n收入每月固定44000+獎金浮動（8000-20000）\n沒有任何貸款\n去年八月才入職，所以去年薪資所得單數字很難看\n到時會附上固定薪轉證明\n房屋在新北市，預估1570萬\n尾數家裡會幫忙\n想貸合庫新青安，1000萬，40年，無寬限期\n使照最慢10月會下來，快的話7-9月\n想要了解一下這樣的貸款條件是好的嗎？\n過審的機率高不高？",
+    "reactions": [
+      {
+        "id": "286f599c-f86a-4932-82f0-f5a06f1eca03",
+        "count": 5
+      }
+    ],
+    "hidden": false,
+    "customStyle": null,
+    "isSuspiciousAccount": false,
+    "isModerator": false,
+    "layout": "classic",
+    "spoilerAlert": false,
+    "categories": [
+      "問題"
+    ],
+    "withImages": false,
+    "withVideos": false,
+    "media": [],
+    "reportReasonText": "",
+    "isSelectedPost": false,
+    "unsafe": false,
+    "enablePrivateMessage": false,
+    "enableNestedComment": true,
+    "totalCommentCount": 14,
+    "mediaMeta": [],
+    "edited": false,
+    "identityIdV3": "b9d855af-5e74-4f43-beee-66efda1b062c",
+    "links": [],
+    "enableListLinkPreview": false,
+    "postAvatar": "https://megapx-assets.dcard.tw/images/1ad97c91-5ec3-4f91-adc6-296a479e2bc3/orig.png",
+    "isBlocker": false,
+    "isBlocked": false,
+    "excerptComments": [],
+    "activityAvatar": "",
+    "verifiedBadge": false,
+    "memberType": ""
+  }
+}
