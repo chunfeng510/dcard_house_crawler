@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dcard 買房板 數據視覺化</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", sans-serif; background: #f0f2f5; color: #333; }
+  header { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 24px 32px; }
+  header h1 { font-size: 1.8rem; font-weight: 700; letter-spacing: 1px; }
+  header p { opacity: 0.85; margin-top: 6px; font-size: 0.95rem; }
+  .stats { display: flex; gap: 16px; padding: 24px 32px 8px; flex-wrap: wrap; }
+  .stat-card {
+    background: white; border-radius: 12px; padding: 20px 28px; flex: 1; min-width: 180px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.07); border-left: 4px solid #667eea;
+    transition: transform 0.2s;
+  }
+  .stat-card:hover { transform: translateY(-2px); }
+  .stat-card .num { font-size: 2rem; font-weight: 700; color: #667eea; }
+  .stat-card .label { color: #888; margin-top: 4px; font-size: 0.9rem; }
+  .section-title { font-size: 1.1rem; font-weight: 700; color: #555; padding: 20px 32px 0; letter-spacing: 0.5px; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 12px 32px 8px; }
+  .grid:last-of-type { padding-bottom: 32px; }
+  .card {
+    background: white; border-radius: 12px; padding: 16px 20px 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.07);
+  }
+  .card.full { grid-column: 1 / -1; }
+  .chart { width: 100%; height: 320px; }
+  .chart-tall { width: 100%; height: 400px; }
+  .chart-wide { width: 100%; height: 360px; }
+  @media (max-width: 1024px) {
+    .grid { grid-template-columns: 1fr; padding: 12px 20px 8px; }
+    .section-title { padding: 16px 20px 0; }
+    .stats { padding: 16px 20px 8px; }
+    .stat-card { min-width: 140px; padding: 16px 20px; }
+    .stat-card .num { font-size: 1.6rem; }
+  }
+  @media (max-width: 768px) {
+    header { padding: 16px 20px; }
+    header h1 { font-size: 1.4rem; }
+    .chart { height: 260px; }
+    .chart-tall { height: 320px; }
+    .chart-wide { height: 280px; }
+  }
+  @media (max-width: 480px) {
+    .grid { gap: 12px; padding: 10px 12px 8px; }
+    .section-title { padding: 14px 12px 0; font-size: 1rem; }
+    .stats { gap: 10px; padding: 12px; }
+    .stat-card { min-width: 100%; }
+    .chart { height: 220px; }
+    .chart-tall { height: 270px; }
+    .chart-wide { height: 240px; }
+    header h1 { font-size: 1.2rem; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 Dcard 買房板 數據視覺化</h1>
+  <p id="subtitle"></p>
+</header>
+
+<div class="stats" id="stats"></div>
+
+<div class="section-title">📌 貸款概況</div>
+<div class="grid">
+  <div class="card">
+    <div id="chart-bank" class="chart-tall"></div>
+  </div>
+  <div class="card">
+    <div id="chart-loan" class="chart-tall"></div>
+  </div>
+  <div class="card">
+    <div id="chart-rate" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-ltv" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-term" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-grace" class="chart"></div>
+  </div>
+  <div class="card full">
+    <div id="chart-cross" class="chart"></div>
+  </div>
+</div>
+
+<div class="section-title">🏠 房價與財務</div>
+<div class="grid">
+  <div class="card">
+    <div id="chart-price" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-loanamt" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-income" class="chart"></div>
+  </div>
+  <div class="card">
+    <div id="chart-occupation" class="chart-tall"></div>
+  </div>
+</div>
+
+<div class="section-title">👥 貼文分析</div>
+<div class="grid">
+  <div class="card">
+    <div id="chart-area" class="chart-tall"></div>
+  </div>
+  <div class="card">
+    <div id="chart-gender" class="chart"></div>
+  </div>
+  <div class="card full">
+    <div id="chart-topposts" class="chart-wide"></div>
+  </div>
+</div>
+
+<script>
+const D = {"loan_type": {"labels": ["新青安", "首購", "公教貸款", "一般房貸", "築巢優利貸", "信貸", "團貸", "公教貸", "公教築巢優利貸", "一般首購"], "values": [579, 75, 54, 41, 20, 17, 6, 6, 6, 6]}, "bank": {"labels": ["台灣銀行", "土地銀行", "合作金庫", "農會", "中國信託", "公股銀行", "富邦人壽", "彰化銀行", "第一銀行", "台企銀", "兆豐", "富邦"], "values": [346, 142, 83, 70, 48, 36, 34, 32, 29, 25, 22, 18]}, "area": {"labels": ["台南,高雄", "桃園", "台中", "高雄", "台南", "新竹", "新北市", "南部", "台北市", "新北", "竹北", "大園", "重劃區", "桃園中壢", "彰化"], "values": [31, 21, 18, 15, 14, 13, 13, 13, 10, 9, 6, 6, 5, 5, 5]}, "occupation": {"labels": ["公務員", "公教", "自營商", "公務人員", "公教人員", "軍公教", "科技業", "公職", "金融業", "自由業"], "values": [72, 46, 19, 17, 16, 12, 10, 7, 6, 6]}, "interest_rate": {"x": ["1.1%", "1.2%", "1.3%", "1.4%", "1.7%", "1.8%", "1.9%", "2.0%", "2.1%", "2.2%", "2.3%", "2.4%", "2.5%", "2.6%", "2.7%", "2.8%", "2.9%", "3.0%", "3.2%", "3.3%", "3.4%", "3.5%", "3.7%", "3.9%", "4.0%", "4.2%", "5.0%"], "y": [1, 1, 8, 2, 4, 54, 5, 6, 21, 173, 86, 55, 134, 50, 26, 26, 8, 24, 3, 1, 2, 5, 2, 2, 6, 1, 2]}, "gender": {"labels": ["其他", "女性", "男性"], "values": [1, 1252, 1467]}, "top_posts": {"titles": ["#裝潢 開箱高雄新房子！年輕設計師果然厲害！", "#裝潢 我把阿公的台南老透天翻新了！", "#問題 台灣可以蓋這種日本公寓", "#裝潢 終於有自己的家🙆裝潢心得～謝謝窩要成的小靖", "#分享 我在520匯了100萬給我老公", "#問題 台北人怎都不把自己公寓拉皮一下？", "#問題 交屋前發現有工人住進去", "#抱怨 兩三年前買預售屋的人是不是很慘", "#分享 新竹怎不學香港，蓋超多摩天大樓", "#分享 大多香港人都住這樣"], "likes": [1460, 1236, 1226, 993, 899, 896, 887, 650, 577, 561], "comments": [94, 110, 242, 54, 68, 324, 176, 248, 137, 83], "full_titles": ["#裝潢 開箱高雄新房子！年輕設計師果然厲害！", "#裝潢 我把阿公的台南老透天翻新了！", "#問題 台灣可以蓋這種日本公寓", "#裝潢 終於有自己的家🙆裝潢心得～謝謝窩要成的小靖", "#分享 我在520匯了100萬給我老公", "#問題 台北人怎都不把自己公寓拉皮一下？", "#問題 交屋前發現有工人住進去", "#抱怨 兩三年前買預售屋的人是不是很慘", "#分享 新竹怎不學香港，蓋超多摩天大樓", "#分享 大多香港人都住這樣"]}, "house_price": {"x": ["200萬", "300萬", "400萬", "500萬", "600萬", "700萬", "800萬", "900萬", "1000萬", "1100萬", "1200萬", "1300萬", "1400萬", "1500萬", "1600萬", "1700萬", "1800萬", "1900萬", "2000萬", "2100萬", "2200萬", "2300萬", "2400萬", "2500萬", "2600萬", "2700萬", "2800萬", "2900萬", "3000萬", "3100萬", "3200萬", "3300萬", "3500萬", "3600萬", "3800萬", "4000萬", "4200萬", "4600萬", "5000萬", "6000萬"], "y": [1, 1, 5, 9, 21, 27, 40, 32, 80, 21, 59, 30, 33, 43, 26, 17, 29, 8, 26, 5, 14, 5, 2, 6, 4, 6, 2, 4, 5, 1, 4, 2, 2, 2, 2, 5, 1, 1, 1, 1]}, "loan_amount": {"x": ["100萬", "200萬", "300萬", "400萬", "500萬", "600萬", "700萬", "800萬", "900萬", "1000萬", "1100萬", "1200萬", "1300萬", "1400萬", "1500萬", "1600萬", "1700萬", "1800萬", "1900萬", "2000萬", "2200萬", "2400萬", "2500萬", "2600萬", "2700萬", "2800萬", "3000萬", "3200萬", "3500萬", "5000萬"], "y": [6, 12, 10, 19, 21, 44, 47, 72, 48, 105, 20, 41, 17, 10, 18, 12, 8, 8, 1, 9, 2, 1, 3, 3, 2, 1, 3, 1, 1, 1]}, "loan_term": {"x": ["10年", "15年", "20年", "25年", "30年", "35年", "40年"], "y": [3, 2, 35, 1, 334, 18, 544]}, "ltv": {"x": ["50%", "60%", "65%", "70%", "75%", "80%", "85%", "90%"], "y": [51, 47, 23, 149, 106, 759, 180, 4]}, "grace": {"x": ["無寬限期", "1年", "2年", "3年", "5年"], "y": [100, 16, 26, 124, 78]}, "income_yearly": {"x": ["50萬", "100萬", "150萬", "200萬", "250萬", "300萬", "350萬", "400萬", "450萬", "500萬", "550萬", "600萬", "900萬", "950萬", "1000萬"], "y": [56, 223, 103, 61, 21, 20, 8, 6, 6, 3, 4, 3, 3, 1, 1]}, "cross_loan_ltv": {"x": ["50%", "60%", "65%", "70%", "75%", "80%", "85%"], "series": [{"name": "一般房貸", "data": [1, 1, 0, 1, 0, 18, 0]}, {"name": "公教貸款", "data": [0, 0, 2, 3, 0, 16, 14]}, {"name": "新青安", "data": [9, 3, 5, 20, 24, 165, 20]}, {"name": "首購", "data": [3, 0, 0, 3, 1, 25, 6]}]}, "stats": {"total_posts": 2720, "total_comments": 7522, "analyzed": 662, "avg_price": 1414, "date_from": "2024-12-15", "date_to": "2025-06-24"}};
+
+const COLORS = ['#667eea','#764ba2','#f093fb','#4facfe','#43e97b','#fa709a','#fee140','#a18cd1','#fd746c','#c3cfe2','#96fbc4','#f5576c'];
+const tooltip_style = { backgroundColor: 'rgba(50,50,50,0.85)', borderColor: 'transparent', textStyle: { color: '#fff', fontSize: 13 } };
+
+document.getElementById('subtitle').textContent = `資料期間：${D.stats.date_from} ～ ${D.stats.date_to}`;
+document.getElementById('stats').innerHTML = `
+  <div class="stat-card"><div class="num">${D.stats.total_posts.toLocaleString()}</div><div class="label">📝 總貼文數</div></div>
+  <div class="stat-card"><div class="num">${D.stats.total_comments.toLocaleString()}</div><div class="label">💬 總留言數</div></div>
+  <div class="stat-card"><div class="num">${D.stats.analyzed.toLocaleString()}</div><div class="label">🏠 含房價分析筆數</div></div>
+  <div class="stat-card"><div class="num">${D.stats.avg_price.toLocaleString()} 萬</div><div class="label">📊 平均房價</div></div>
+`;
+
+// ── 銀行 Bar ──
+echarts.init(document.getElementById('chart-bank')).setOption({
+  title: { text: '🏦 貸款銀行 Top 12', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].name}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 20, left: 20, right: 30, containLabel: true },
+  xAxis: { type: 'value' },
+  yAxis: { type: 'category', data: D.bank.labels, axisLabel: { fontSize: 12 } },
+  series: [{
+    type: 'bar', data: D.bank.values, barMaxWidth: 28,
+    itemStyle: { color: p => COLORS[p.dataIndex % COLORS.length], borderRadius: [0, 4, 4, 0] },
+    label: { show: true, position: 'right', fontSize: 11 }
+  }]
+});
+
+// ── 貸款類型 Pie ──
+echarts.init(document.getElementById('chart-loan')).setOption({
+  title: { text: '📋 貸款類型分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'item', formatter: '{b}<br/>{c} 筆（{d}%）' },
+  legend: { bottom: 0, type: 'scroll', textStyle: { fontSize: 11 } },
+  color: COLORS,
+  series: [{
+    type: 'pie', radius: ['35%', '65%'], center: ['50%', '48%'],
+    data: D.loan_type.labels.map((l, i) => ({ name: l, value: D.loan_type.values[i] })),
+    label: { formatter: '{b}\n{d}%', fontSize: 11 },
+    emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.2)' } }
+  }]
+});
+
+// ── 利率分布 ──
+echarts.init(document.getElementById('chart-rate')).setOption({
+  title: { text: '📈 利率分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `利率 ${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 60, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.interest_rate.x, axisLabel: { rotate: 45, fontSize: 11 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.interest_rate.y, barMaxWidth: 36,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#fa709a' }, { offset: 1, color: '#fee140' }] }, borderRadius: [4, 4, 0, 0] }
+  }]
+});
+
+// ── 貸款成數 ──
+echarts.init(document.getElementById('chart-ltv')).setOption({
+  title: { text: '📐 貸款成數分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `成數 ${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 50, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.ltv.x, axisLabel: { fontSize: 12 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.ltv.y, barMaxWidth: 50,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#4facfe' }, { offset: 1, color: '#a18cd1' }] }, borderRadius: [4, 4, 0, 0] },
+    label: { show: true, position: 'top', fontSize: 11 }
+  }]
+});
+
+// ── 貸款年限 ──
+echarts.init(document.getElementById('chart-term')).setOption({
+  title: { text: '🗓️ 貸款年限分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 50, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.loan_term.x, axisLabel: { fontSize: 13 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.loan_term.y, barMaxWidth: 60,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#43e97b' }, { offset: 1, color: '#38f9d7' }] }, borderRadius: [4, 4, 0, 0] },
+    label: { show: true, position: 'top', fontSize: 12 }
+  }]
+});
+
+// ── 寬限期 ──
+echarts.init(document.getElementById('chart-grace')).setOption({
+  title: { text: '⏳ 寬限期分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 50, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.grace.x, axisLabel: { fontSize: 12 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.grace.y, barMaxWidth: 60,
+    itemStyle: { color: p => p.dataIndex === 0 ? '#fd746c' : '#667eea', borderRadius: [4, 4, 0, 0] },
+    label: { show: true, position: 'top', fontSize: 12 }
+  }]
+});
+
+// ── 貸款類型 × 貸款成數 交叉分析 ──
+echarts.init(document.getElementById('chart-cross')).setOption({
+  title: { text: '🔀 貸款類型 × 貸款成數 交叉分析', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', axisPointer: { type: 'shadow' } },
+  legend: { top: 36, textStyle: { fontSize: 12 } },
+  grid: { top: 80, bottom: 40, left: 20, right: 20, containLabel: true },
+  xAxis: { type: 'category', data: D.cross_loan_ltv.x },
+  yAxis: { type: 'value', name: '筆數' },
+  color: COLORS,
+  series: D.cross_loan_ltv.series.map(s => ({
+    name: s.name, type: 'bar', data: s.data, barMaxWidth: 40,
+    itemStyle: { borderRadius: [4, 4, 0, 0] }
+  }))
+});
+
+// ── 房價分布 ──
+echarts.init(document.getElementById('chart-price')).setOption({
+  title: { text: '🏠 房價分布（萬元）', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 60, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.house_price.x, axisLabel: { rotate: 45, fontSize: 10 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.house_price.y, barMaxWidth: 30,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#f093fb' }, { offset: 1, color: '#f5576c' }] }, borderRadius: [3, 3, 0, 0] }
+  }]
+});
+
+// ── 貸款金額分布 ──
+echarts.init(document.getElementById('chart-loanamt')).setOption({
+  title: { text: '💰 貸款金額分布（萬元）', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 60, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.loan_amount.x, axisLabel: { rotate: 45, fontSize: 10 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.loan_amount.y, barMaxWidth: 30,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#667eea' }, { offset: 1, color: '#764ba2' }] }, borderRadius: [3, 3, 0, 0] }
+  }]
+});
+
+// ── 年收入分布 ──
+echarts.init(document.getElementById('chart-income')).setOption({
+  title: { text: '💼 貸款人年收入分布（萬元）', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].axisValue}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 60, left: 50, right: 20 },
+  xAxis: { type: 'category', data: D.income_yearly.x, axisLabel: { rotate: 45, fontSize: 11 } },
+  yAxis: { type: 'value', name: '筆數' },
+  series: [{
+    type: 'bar', data: D.income_yearly.y, barMaxWidth: 36,
+    itemStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: '#43e97b' }, { offset: 1, color: '#fee140' }] }, borderRadius: [4, 4, 0, 0] }
+  }]
+});
+
+// ── 職業 Bar ──
+echarts.init(document.getElementById('chart-occupation')).setOption({
+  title: { text: '🧑‍💼 職業分布', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].name}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 20, left: 20, right: 30, containLabel: true },
+  xAxis: { type: 'value' },
+  yAxis: { type: 'category', data: D.occupation.labels, axisLabel: { fontSize: 12 } },
+  series: [{
+    type: 'bar', data: D.occupation.values, barMaxWidth: 28,
+    itemStyle: { color: '#43e97b', borderRadius: [0, 4, 4, 0] },
+    label: { show: true, position: 'right', fontSize: 11 }
+  }]
+});
+
+// ── 地區 Bar ──
+echarts.init(document.getElementById('chart-area')).setOption({
+  title: { text: '📍 地區分布 Top 15', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'axis', formatter: p => `${p[0].name}<br/>筆數：<b>${p[0].value}</b>` },
+  grid: { top: 50, bottom: 20, left: 20, right: 30, containLabel: true },
+  xAxis: { type: 'value' },
+  yAxis: { type: 'category', data: D.area.labels, axisLabel: { fontSize: 11 } },
+  series: [{
+    type: 'bar', data: D.area.values, barMaxWidth: 28,
+    itemStyle: { color: '#4facfe', borderRadius: [0, 4, 4, 0] },
+    label: { show: true, position: 'right', fontSize: 11 }
+  }]
+});
+
+// ── 性別 Pie ──
+echarts.init(document.getElementById('chart-gender')).setOption({
+  title: { text: '👤 發文性別比例', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: { ...tooltip_style, trigger: 'item', formatter: '{b}<br/>{c} 筆（{d}%）' },
+  legend: { bottom: 0, textStyle: { fontSize: 12 } },
+  color: ['#4facfe', '#fa709a', '#fee140'],
+  series: [{
+    type: 'pie', radius: ['40%', '68%'], center: ['50%', '48%'],
+    data: D.gender.labels.map((l, i) => ({ name: l, value: D.gender.values[i] })),
+    label: { formatter: '{b}\n{d}%', fontSize: 13, fontWeight: 'bold' },
+    emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.2)' } }
+  }]
+});
+
+// ── Top 10 貼文 ──
+echarts.init(document.getElementById('chart-topposts')).setOption({
+  title: { text: '🔥 最高按讚 Top 10 貼文', left: 8, top: 4, textStyle: { fontSize: 14, fontWeight: 600, color: '#444' } },
+  tooltip: {
+    ...tooltip_style, trigger: 'axis', axisPointer: { type: 'shadow' },
+    formatter: params => {
+      const idx = D.top_posts.titles.indexOf(params[0].axisValue);
+      const title = D.top_posts.full_titles[idx] || params[0].axisValue;
+      return `${title}<br/>${params.map(p => `${p.marker} ${p.seriesName}：<b>${p.value}</b>`).join('<br/>')}`;
+    }
+  },
+  legend: { top: 40, textStyle: { fontSize: 12 } },
+  grid: { top: 80, bottom: 20, left: 20, right: 20, containLabel: true },
+  xAxis: { type: 'category', data: D.top_posts.titles, axisLabel: { rotate: 20, fontSize: 10, interval: 0 } },
+  yAxis: { type: 'value', name: '數量' },
+  color: ['#667eea', '#f093fb'],
+  series: [
+    { name: '按讚數', type: 'bar', data: D.top_posts.likes, barMaxWidth: 36, itemStyle: { borderRadius: [4, 4, 0, 0] } },
+    { name: '留言數', type: 'bar', data: D.top_posts.comments, barMaxWidth: 36, itemStyle: { borderRadius: [4, 4, 0, 0] } }
+  ]
+});
+
+// RWD resize（debounce 防抖）
+let _resizeTimer;
+window.addEventListener('resize', () => {
+  clearTimeout(_resizeTimer);
+  _resizeTimer = setTimeout(() => {
+    document.querySelectorAll('[id^="chart-"]').forEach(el => {
+      const instance = echarts.getInstanceByDom(el);
+      if (instance) instance.resize();
+    });
+  }, 150);
+});
+</script>
+</body>
+</html>
