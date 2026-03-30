@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+
+  <!-- 屋頂（大三角，高對比白色） -->
+  <polygon points="32,9 6,35 58,35" fill="white"/>
+
+  <!-- 房牆（粗壯，清晰） -->
+  <rect x="12" y="34" width="40" height="22" rx="3" fill="white"/>
+
+  <!-- 門（深色，縮小也清楚） -->
+  <path d="M25,56 L25,45 Q25,41 32,41 Q39,41 39,45 L39,56 Z" fill="#c084fc"/>
+
+  <!-- 煙囪（粗，明顯） -->
+  <rect x="38" y="16" width="7" height="13" rx="2" fill="white"/>
+</svg>
