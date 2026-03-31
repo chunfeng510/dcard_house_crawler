@@ -31,7 +31,7 @@ DELAY_BETWEEN_REQUESTS = 3  # 每次請求之間的延遲（秒）
 # 代理伺服器設定
 USE_PROXY = True  # 是否使用代理
 PROXY_LIST = [
-    "http://auohqwsg.corpnet.auo.com:8080"
+    
 ]
 ROTATE_PROXY = True  # 是否輪換使用不同代理
 
